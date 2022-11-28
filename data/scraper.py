@@ -3,7 +3,7 @@ import pandas as pd
 import re
 import nltk
 
-reddit = praw.Reddit(client_id='BVBZKW8DD2xFNcJm3FfLRQ', client_secret='g34l7Pfyd29jeHnHPZFSZdqrJaQmJQ', user_agent='web-scraper')
+reddit = praw.Reddit(client_id='##', client_secret='##', user_agent='web-scraper')
 ml_subreddit = reddit.subreddit('MachineLearning')
 
 df = []
