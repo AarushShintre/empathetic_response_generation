@@ -1,6 +1,5 @@
 import praw
 import pandas as pd
-import time
 import re
 import nltk
 
@@ -25,8 +24,9 @@ for post in ml_subreddit.hot(limit=100):
         for comment in submission.comments.list():
             if len(conversation)<=10:
                 conversation.append([clean_text(comment.body)])
-        df.append([conversation, post.title, post.id, post.subreddit, post.url, post.num_comments, post.selftext, post.created])
+        df.append([conversation, post.title, post.id, post.subreddit, post.url, post.created])
 
-conversations = pd.DataFrame(df,columns=['conversation', 'title', 'id', 'subreddit', 'url', 'num_comments', 'conversation_head', 'created'])
-conversations.to_csv("reddit_conversation_data.csv", index=True)
+print("done")
+conversations = pd.DataFrame(df,columns=['conversation', 'title', 'id', 'subreddit', 'url', 'created'])
+conversations.to_csv("./data/reddit_conversation_data.csv", index=False)
 
