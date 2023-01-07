@@ -2,8 +2,22 @@
 
 The scraper.py file uses PRAW to get data from a specific subreddit locally. The classifier uses the data brought in by scraper.py, and sorts out conversations that meet the criteria, and also labels the overall conversation's and the last utterance's emotion. It is seen that approximately 50% of the raw data actually does meet the criteria. 
 
-I have used the pretrained bert model and tokenizer(Here: https://www.kaggle.com/datasets/aimenbaig/savedbertmodelandtokenizer). 
+Getting Started
+To get started with the code, clone the repository and install the required dependencies.
 
+  git clone https://github.com/AarushShintre/empathetic_response_generation.git
+  cd empathetic_response_generation
+  
+  pip install -r requirements.txt
+  
+Usage
+
+  To use the scraper, run python scraper.py to retrieve and process the conversation data.
+
+  To use the classifier, run python classifier.py to classify and label the conversation data.
+  I have used the pretrained bert model and tokenizer(Here: https://www.kaggle.com/datasets/aimenbaig/savedbertmodelandtokenizer). 
+
+File organisation tree:
 Empathetic_response_generation
   |
   |=======> data
@@ -28,4 +42,5 @@ Empathetic_response_generation
   |                         |_____val.txt
   |                         |_____test.txt
   |
-  |___________________________________________________________
+  
+  
