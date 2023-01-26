@@ -1,0 +1,3242 @@
+{
+  "0": [
+    {
+      "author": "Luminaria19",
+      "body": "Did some digging.\n\n[This would be much more powerful](https://www.skroutz.gr/s/38738243/Vengeance-GhostXL-MSI-Edition-Gaming-Desktop-PC-Ryzen-7-5700X-16GB-DDR4-480GB-SSD-GeForce-RTX-3060-No-OS.html).  The only area in which it's lacking is storage space and it doesn't come with an OS pre-installed.  [This would be a similar, but cheaper option.](https://www.skroutz.gr/s/38844829/Vengeance-Observatory-X-Gaming-Desktop-PC-i5-12400F-16GB-DDR4-480GB-SSD-GeForce-RTX-3060-No-OS.html)\n\nWhat you would do for the OS is use another PC (maybe your friend's?) and an 8GB or larger flash drive to create install media using the tool [here](https://www.microsoft.com/en-us/software-download/windows10) (there's also one for Windows 11 if you prefer that).  You plug that into your new PC when you get it, set the thumb drive as your boot drive, and follow all the instruction steps (just skip any steps where it asks for an activation key - you can either run it completely unactivated or buy an activation key later).\n\nIf you find yourself needing more storage, you can add additional storage to the PC via an M.2 drive (if whatever PC you get has a free port) or SATA drive (a 1TB SSD should be 75-80\u20ac or lower based on my googing for your area).\n\nApologies if any of this is off the mark.  Tried to cater to your area as much as I could based on some googling, but there could be other stores or options I missed as I'm not familiar with shopping in Greece. \ud83d\ude05"
+    },
+    {
+      "author": "raffy369",
+      "body": "what ia thinking of is to change th ram, on the build i listed, to 2x8 ram and a asus dual readeon rx6600, but i have a question, does asus radeon have good dlss or is geforce rtx better?\n\nAlso, i am suprised ypu were even able to find those 2 cosnidering those are greek websites, anyway in my opinion, you have better chnace to win a lottery than get somethig with actually pretty good value for things that havw high pricws on skroutz, what i am using is a store's pc builder, cosmodata build 2 order, juat for the extra info"
+    },
+    {
+      "author": "raffy369",
+      "body": "Did some research and founs put that in a lot of games the radeon rx6600 is better with higher resulotions whilst the 3050 is worse"
+    },
+    {
+      "author": "Luminaria19",
+      "body": "Two sticks of RAM enables them to run in dual channel mode.  This improves performance during a number of tasks, gaming especially.\n\nThe RX6600 would be a definite improvement from the 3050.\n\nHowever, DLSS is Nvidia-exclusive tech.  AMD has been working on their own similar tech, but it isn't super competitive yet.\n\nGoogle is magic if you feed it the right search terms."
+    }
+  ],
+  "1": [
+    {
+      "author": "TheFacebookLizard",
+      "body": "Yeah the azahi project \n\nIf I'm not wrong creating a Linux distro for an Intel based apple device is easy because the Intel graphics drivers are widely used AND Open source compared to the m chips that can only found exclusively in m series Mac/MacBooks/iPads and the only way to get the graphics to work is by reverse engineering a proprietary driver\n\nSounds like a LOT of work lol"
+    },
+    {
+      "author": "Thx_And_Bye",
+      "body": "People have figured out so much obscure stuff. Like writing a kernel for the clusterfuck of the PS4, so I think it'll be ready eventually."
+    },
+    {
+      "author": "TheFacebookLizard",
+      "body": "The GPU drivers are already working (maybe partially don't remember) not as good as the original driver but still a massive improvement\n\nOh and It's the first time I have heard that people have loaded the Linux kernel on a PS4 lol"
+    },
+    {
+      "author": "Thx_And_Bye",
+      "body": "fail0verflow had a presentation on 33c3 (2016). Platinum Portal with full 3d acceleration. \nThe PS4 officially isn't a PC as it doesn't comply to IBM architecture.  \n\nhttps://youtu.be/QMiubC6LdTA  \nIt's an interesting watch even if it just glances over reverse engineering and driver development."
+    },
+    {
+      "author": "TheFacebookLizard",
+      "body": "Looks really interesting \n\nI'll go get some snacks and watch it"
+    }
+  ],
+  "2": [
+    {
+      "author": "AngryConcussion",
+      "body": "Obviously I need to say it more than once since ppl still don\u2019t understand, and I have addressed the crazy recommended system specs, about 3 times, you\u2019re just a troll."
+    },
+    {
+      "author": "SickRindexxUser",
+      "body": "\"Obviously I need to say it more than once since ppl still don\u2019t understand\" Yeah because repeating things over and over again while getting downvoted makes you look \\*So\\* smart and correct. You don't come across as someone making a point, you come across as a weird nut preaching on a corner imaging comments they made when that they never did. Look at how much its getting downvoted, nobody cares dude nobody cares and yet you keep replying to comments to people who don't care."
+    },
+    {
+      "author": "AngryConcussion",
+      "body": "You really care about downvotes? Dude this is Reddit ppl get downvoted for anything, you definitely gotta be a troll if \u201cyou\u2019re getting downvoted\u201d is your argument\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f and if nobody cares why do they keep replying, yourself included \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f"
+    },
+    {
+      "author": "SickRindexxUser",
+      "body": "Because we like to poke the village idiot that keeps saying \"but muh gamplay\" even though nobody is on that topic."
+    }
+  ],
+  "3": [
+    {
+      "author": "ZeCactus",
+      "body": "Yeah no shit price is a facotr when buying things, but everyone above was arguing that it wouldn't be a good solution to the depicted problem, not that it would be too expensive."
+    },
+    {
+      "author": "AuraMaster7",
+      "body": "And you brought up that OP's car battery doesn't fix all problems either, which I pointed out is a stupid argument because the car battery is orders of magnitude less expensive than a high end UPS and does essentially the same job for OP, so why in the world would they spend that much more money for no improvement?\n\nYou can either use your brain or stop replying to me."
+    },
+    {
+      "author": "ZeCactus",
+      "body": "Which was the argument that should have been made in the first place. The other one was completely and utterly unrelated to the discussion.\n\nAaaand they blocked me."
+    },
+    {
+      "author": "AuraMaster7",
+      "body": "They are the same argument. Maybe look up the definition of a \"tangent\" one day.\n\nUntil then, get blocked, ass."
+    }
+  ],
+  "4": [
+    {
+      "author": "ubiquitous_apathy",
+      "body": "> yes about 550 for the whole build i gave a range for 520-580 depending on how much you get the parts for with sales and whatnot. So what are you talking about? Why are you being an asshole about this the entire build clearly has a GPU with it, the 2070 super.\n\nSo then we agree now, right?  A console can be cheaper than a pc.  It all depends on what you want out of your machine. It is subjective on which would be better purchase."
+    },
+    {
+      "author": "deathtitan1234",
+      "body": "Post a link. all sold out on both the Canadian and USA amazon site. and the only one on the USA site was for sale at 500$ but even that one is unavailable.\n\nSource please to your magical 400$ PS5 that anyone can buy right now."
+    },
+    {
+      "author": "deathtitan1234",
+      "body": "But there arnt any consoles for less than 550 dollars??? Link me a PS5 thats less than 550$ that is IN STOCK.\n\nJust post a link and ill agree with you. There arnt any, and there havent been since day 1 launch. They are all being sold at about 600$.\n\nAnd dont forget to factor in the 300$ of PS+ for a like to like comparison because that is a huge factor. If you get all the online on a PC you have to give the console all the online as-well.\n\nand if you want used market. There are tones of used built PCs on the market with 2070supers in them for about 400 dollars.\n\nJust post a link for any of these like to like comparisons, ill agree with you. Just source it dude, do exactly what i did, post a source. Im really not here to argue, im here to discuss the objective facts, so if you have no source and no objective facts to talk about then idk what you are arguing about.."
+    },
+    {
+      "author": "ubiquitous_apathy",
+      "body": "> But there arnt any consoles for less than 550 dollars??? Link me a PS5 thats less than 550$ that is IN STOCK.\n\nSo this is just about stock?  You would be encouraging people to buy a ps5 over a pc provided there was available stock?\n\nWhy would somebody who only want to play fortnite and warzone have to factor in 300 for something that they don't want to buy?"
+    },
+    {
+      "author": "deathtitan1234",
+      "body": "Not really, its about what you could buy right now, and what you have been able to buy for the past year or so. And its what you can buy in the future. PS5s for 400$ do not exist.\n\nPOST A LINK.\n\n\" Why would somebody who only want to play fortnite and warzone have to factor in 300 for something that they don't want to buy? \"\n\nAgain going into personal preference, this is not what this is about its about what you get for the dollar spent and keeping it as like for like as possible."
+    }
+  ],
+  "5": [
+    {
+      "author": "bangbangracer",
+      "body": "I miss 2012 so much."
+    },
+    {
+      "author": "rfakhreza",
+      "body": "Thank you!"
+    },
+    {
+      "author": "rfakhreza",
+      "body": "Thank you!"
+    },
+    {
+      "author": "rfakhreza",
+      "body": "Thanks! It's crazy how far we've been. Not the mention the undocumented upgrades along the way. Looking the photos feels nostalgic"
+    },
+    {
+      "author": "rfakhreza",
+      "body": "Thanks a lot!"
+    }
+  ],
+  "6": [
+    {
+      "author": "Trivo3",
+      "body": "Hol' up, if they are a distributor to you from Dell, then the invoice should contain THEIR price of the parts with no relation whatsoever of Dell's pricing. Dell's price should be ***unknown*** to you, the end customer, because the distributor gets corresponding discounts for being such. \n\nSo I think it's much more likely that you aren't lied to as much as taken advantage of. But the deal might be legitimate if you (your company) have agreed to the offer they sent. Are you absolutely sure they are ***contracted*** by your company to procure Dell (or other parts) and obliged display the original manufacturer pricing? And not just asked for an offer -> accepted -> invoice?"
+    },
+    {
+      "author": "Ravaha",
+      "body": "Yeah, I checked the Threadripper PCIE lanes it has 88 PCIE gen 4 lanes and the M.2s are only Gen 3, so they would only use half as many Gen 4 lane bandwidth. It would be 52 Gen 3 lanes or 26 Gen 4 lanes. They would mostly be on x16 PCIE Gen 4 M.2 Raid cards. The motherboard supports 4 x16 PCIE Gen 4 slots and I didnt include any graphics card or anything. Although I left open the possibility of throwing in 3070's into them. So I would still have plenty of PCIE lanes left over for multiple graphics cards, a 10 gig network card, or anything really."
+    },
+    {
+      "author": "Ravaha",
+      "body": "They showed on the Invoice how much they paid Dell for it, then separately gave a markup for their profit, then had separate charges for putting their anti-virus stuff on it and putting it on our domain and setting up the basics."
+    },
+    {
+      "author": "Trivo3",
+      "body": "Oh... ouch."
+    }
+  ],
+  "7": [
+    {
+      "author": "vermillionmask",
+      "body": "People need to calm down and assess their reactions towards...wait for it...a video game.\n\nIt's a video game guys.\n\nYour energy is better off spent somewhere else."
+    },
+    {
+      "author": "mtldude02",
+      "body": "I mean, compared to all the posts who just hate the game for no reason, I liked this post. It shows the reality without any bias.\n\nI really wanted the game to be as awesome as they advertised and I personally really like the banter in the game. But the controls, the graphics and all the bugs just made me ask for a refund. And I have a 4090 so... yeah."
+    },
+    {
+      "author": "vermillionmask",
+      "body": "Yea I must admit, the trial and jailbreak chapter really showed the game's lack of visual quality and direction.\n\nI'm at 111 minutes and will probably ask for a refund.\n\nToo many upcoming good games that I'd rather waste my money on."
+    },
+    {
+      "author": "mtldude02",
+      "body": "To be honest, from the beginning, the fact that they sold the story as her being discriminated against and bullied when, when in fact she's kind of a (small) criminal, it was weird. And the cops' faces in the courtroom? Like... 94CAD + taxes, 2023, AAA, with no facial expressions and no optimization? I can't.\n\nI'm so mad though, cuz at the core, I think the game is an interesting idea and I've been excited to play it for more than a year...\n\nAnd yeah, February and March are gonna be crazy and filled with so many new games."
+    }
+  ],
+  "8": [
+    {
+      "author": "LycanKnightD6",
+      "body": "Which CPU? Does RAM speed helps?"
+    },
+    {
+      "author": "Dolkoff",
+      "body": "5800X, and it seems more stable with 3200 mem vs the 3600 I had in. But it\u2019s also a new mobo, I\u2019m really use to the Asus mobo oc settings, have a learning curve added in with the new Aorus elite\u2026so much fun\u2026I might find some videos soon to limit how much I muck with shit but I know how to hard reset lol."
+    },
+    {
+      "author": "LycanKnightD6",
+      "body": "Sounds like fun, I recently tried OC the RAM to squeeze as much performance as possible with my iGPU, but my RAM is rated to 2666Mhz, I can't get passed 3666Mhz without crashing, also 3666 is unstable, so 3600 is fine for me, but the mobo won't allow me to tweak the timings (Asus mobo) but I got  15 to 20 fps increase on MGS V, went from 45fps to steady 60, now that I bought a dedicated GPU I'm overclocking that instead xD"
+    },
+    {
+      "author": "Dolkoff",
+      "body": "I\u2019m kicking at 3275 right now, 1.365v and it\u2019s solid. I am stress testing positive at 4.9GHZ and it\u2019s a bit hit or miss with anything over 4.949\u2026I need some water blocks, I have a big ass water chiller for a very large aquarium hahaha then it\u2019s go time lol."
+    },
+    {
+      "author": "LycanKnightD6",
+      "body": "Jeez you are a pro, I'm lucky my stuff is low wattage, so I can cool everything with air alone xD my whole system won't go over 70\u00b0C under stress"
+    }
+  ],
+  "9": [
+    {
+      "author": "Low-Preparation8998",
+      "body": "Gonna check this out.  My 4090 is too big for my current case.  Cant even have the glass on the side panel.  Currently trying to figure out what cases actually fit a 4090.  Nice PC."
+    },
+    {
+      "author": "Responsible-Winner29",
+      "body": "Yeah rgb is off for me too now \ud83d\ude04"
+    },
+    {
+      "author": "Responsible-Winner29",
+      "body": "Yeah so I have a 360mm aio at the top of the case connected to the cpu acting as exhaust, hence cutting out slots on top of the case to funnel the air out, I have 3 140mm fans in the front of the case for intake, I have 1 140mm fan at the bottom of the case for in take and then one final fan at the rear for exhaust as well. \nSo 4 intake 4 exhaust effectively"
+    },
+    {
+      "author": "Responsible-Winner29",
+      "body": "Oh no none taken :) didn\u2019t understand your comment.\nI actually use a controller for most games to be fair, I feel like mnk just reminds me of work too much \ud83d\ude05"
+    },
+    {
+      "author": "Responsible-Winner29",
+      "body": "Yeah it\u2019s a nice case although airflow is limited at the top, but if you\u2019re prepared to do a little diy on it then it\u2019s amazing. No bend on the cable coming out of the gpu against the glass which is a relief"
+    }
+  ],
+  "10": [
+    {
+      "author": "Taysooo",
+      "body": "Specs: \nCPU - i9 9900KF\nGPU - 2080ti\nMotherboard: MPG Z390 gaming plus\nRAM - 32gb DDR4\nPSU - 850W 80+ Gold\n\nContext: I\u2019ve never had any issue with my PC, built it around 3 years ago. About a week ago, I plugged in my Oculus Quest 2 with the official oculus link cable to play and everything crashed how you see in the video. At first I thought it was just the vr set or maybe the games so I didn\u2019t think much of it until every game crashes like that and even my video editing software crashes (that is my livelihood!). I used to play VR games with a 3rd party USB 3.0 cable, but I got the official cable to see the difference. It was a type c to type c so I plugged it into my motherboard. I have done SO MUCH troubleshooting, if anyone can point me in the right direction you can literally have my first born child at this point."
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Are you using the oculus software service thing to connect the headset?\n\nLike the software for oculus on pc."
+    },
+    {
+      "author": "Taysooo",
+      "body": "Yes I was. I\u2019ve since uninstalled any oculus software since I thought that could\u2019ve been the issue. I haven\u2019t even attempted to use VR since I\u2019ve been having this issue."
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Does the issue persist when *only* using the headset? If so, try a different usbc-usbc cable than the oculus one.\n\nAfter that, try using airlink on the headset to connect wirelessly, and if that doesn\u2019t work, try VirtualDesktop. If that doesn\u2019t work, try using a USBA-USBC cable to connect instead. \n\nIf none of that works, try resetting a few times and repeat the above. If none of that works, update drivers and trouble shoot your GPU and monitor connectors. \n\nI *think* I\u2019ve encountered this issue and the remedy was a mad mix of the above plus lots of Google.\n\n[found this oculus forum post](https://communityforums.atmeta.com/t5/Get-Help/when-i-plug-in-oculus-my-monitors-switch-off/td-p/94714) talking about an issue with the monitors switching off due to unsynced refresh rates messing with monitors."
+    },
+    {
+      "author": "Taysooo",
+      "body": "No the issue is constant without the headset. I haven\u2019t even plugged it in since the initial incident. I\u2019ve done lots of trouble shooting on my gpu, did DDU, reset it, I might just replace it to see if that\u2019s the issue at this point"
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Yeah, your GPU is probably dying. Try to do a few more troubleshooting methods to check if it\u2019s anything else affecting the GPU other than what you did already. Otherwise, start preparing for the funeral"
+    },
+    {
+      "author": "Taysooo",
+      "body": "Lmaoo not the funeral \ud83d\ude2d when I did hardware stress tests on my gpu there were no crashes and it performed well so I\u2019m a bit confused. I\u2019ll see if I can borrow a friends gpu and see what\u2019s going on"
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Yeah, there\u2019s a lot of weird issues happening.\n\nUnderpowered GPU maybe?"
+    }
+  ],
+  "11": [
+    {
+      "author": "TempUser2023",
+      "body": "eeeehhhhhh? Now why would they go and do a thing like that?"
+    },
+    {
+      "author": "disasadi",
+      "body": "Almost all the partners do so. Asus, Sapphire, XFX, Gigabyte..."
+    },
+    {
+      "author": "TempUser2023",
+      "body": "If i were buying AIB I'd want an improved design not the original AMD. AMD sell direct right? Do basic third party cards offer any benefit over AMD own cards?"
+    },
+    {
+      "author": "disasadi",
+      "body": "no they do not offer any benefit."
+    }
+  ],
+  "12": [
+    {
+      "author": "disasadi",
+      "body": "but we know the build is not good for the money, simple as that."
+    },
+    {
+      "author": "EXEM0N",
+      "body": "Not really relevant unless he specifies asking if the price is good and where he lives. \n\nI don't see how this argument will solve itself, let's agree to disagree."
+    },
+    {
+      "author": "disasadi",
+      "body": "I really think it is relevant when a person who knows nothing about PCs LISTS THE PRICE and asks if the PC is good or not.\n\nObviously you take the price into consideration too, because OP doesn't know if the value is there or not. That's at least part of the question if not the whole question.\n\nThat PC would be great if it was half the price, it would be good at \u20ac1000, it would be decent at \u20ac1200 or so and it's terrible value, i.e., a bad computer at \u20ac1700.\n\nOnly thing I agree on is that you're in denial."
+    },
+    {
+      "author": "EXEM0N",
+      "body": "Well, i guess you cant accept people having different opinions so sure.\n\nHave a nice day :)"
+    },
+    {
+      "author": "disasadi",
+      "body": "You're allowed to have opinions but this one objectively and subjectivly sucks.\n\nYou're just wrong, try to deal with it."
+    }
+  ],
+  "13": [
+    {
+      "author": "Taysooo",
+      "body": "Specs: \nCPU - i9 9900KF\nGPU - 2080ti\nMotherboard: MPG Z390 gaming plus\nRAM - 32gb DDR4\nPSU - 850W 80+ Gold\n\nContext: I\u2019ve never had any issue with my PC, built it around 3 years ago. About a week ago, I plugged in my Oculus Quest 2 with the official oculus link cable to play and everything crashed how you see in the video. At first I thought it was just the vr set or maybe the games so I didn\u2019t think much of it until every game crashes like that and even my video editing software crashes (that is my livelihood!). I used to play VR games with a 3rd party USB 3.0 cable, but I got the official cable to see the difference. It was a type c to type c so I plugged it into my motherboard. I have done SO MUCH troubleshooting, if anyone can point me in the right direction you can literally have my first born child at this point."
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Are you using the oculus software service thing to connect the headset?\n\nLike the software for oculus on pc."
+    },
+    {
+      "author": "Taysooo",
+      "body": "Yes I was. I\u2019ve since uninstalled any oculus software since I thought that could\u2019ve been the issue. I haven\u2019t even attempted to use VR since I\u2019ve been having this issue."
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Does the issue persist when *only* using the headset? If so, try a different usbc-usbc cable than the oculus one.\n\nAfter that, try using airlink on the headset to connect wirelessly, and if that doesn\u2019t work, try VirtualDesktop. If that doesn\u2019t work, try using a USBA-USBC cable to connect instead. \n\nIf none of that works, try resetting a few times and repeat the above. If none of that works, update drivers and trouble shoot your GPU and monitor connectors. \n\nI *think* I\u2019ve encountered this issue and the remedy was a mad mix of the above plus lots of Google.\n\n[found this oculus forum post](https://communityforums.atmeta.com/t5/Get-Help/when-i-plug-in-oculus-my-monitors-switch-off/td-p/94714) talking about an issue with the monitors switching off due to unsynced refresh rates messing with monitors."
+    },
+    {
+      "author": "Taysooo",
+      "body": "No the issue is constant without the headset. I haven\u2019t even plugged it in since the initial incident. I\u2019ve done lots of trouble shooting on my gpu, did DDU, reset it, I might just replace it to see if that\u2019s the issue at this point"
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Yeah, your GPU is probably dying. Try to do a few more troubleshooting methods to check if it\u2019s anything else affecting the GPU other than what you did already. Otherwise, start preparing for the funeral"
+    },
+    {
+      "author": "Taysooo",
+      "body": "Lmaoo not the funeral \ud83d\ude2d when I did hardware stress tests on my gpu there were no crashes and it performed well so I\u2019m a bit confused. I\u2019ll see if I can borrow a friends gpu and see what\u2019s going on"
+    },
+    {
+      "author": "dood8face91195",
+      "body": "Yeah, there\u2019s a lot of weird issues happening.\n\nUnderpowered GPU maybe?"
+    }
+  ],
+  "14": [
+    {
+      "author": "CamTheMan1132",
+      "body": "It still won\u2019t show up for me to initialize it."
+    },
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "Something would show up saying uninitialized or free space and you'd have to click on the bar to build a partition on the drive, but if your drive doesn't show up there at all, even uninitialized, that's a problem."
+    },
+    {
+      "author": "CamTheMan1132",
+      "body": "My drive shows up, but it just says \u201cdisk 1, basic, 931.5 GB, Online, 931.5 GB Unallocated\u201d"
+    },
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "Then that's good, just click on the unallocated space and create a partition."
+    }
+  ],
+  "15": [
+    {
+      "author": "TempUser2023",
+      "body": "eeeehhhhhh? Now why would they go and do a thing like that?"
+    },
+    {
+      "author": "disasadi",
+      "body": "Almost all the partners do so. Asus, Sapphire, XFX, Gigabyte..."
+    },
+    {
+      "author": "TempUser2023",
+      "body": "If i were buying AIB I'd want an improved design not the original AMD. AMD sell direct right? Do basic third party cards offer any benefit over AMD own cards?"
+    },
+    {
+      "author": "disasadi",
+      "body": "no they do not offer any benefit."
+    }
+  ],
+  "16": [
+    {
+      "author": "ballslicker1337",
+      "body": "in my experience: fans will start doing that after some time. had to replace 2 fans that would one day randomly start making loud noises. but before u replace the fan, check if the blades are not hitting anything"
+    },
+    {
+      "author": "Clekaa",
+      "body": "I\u2019ll try to move it again and I\u2019ll see, thanks!"
+    },
+    {
+      "author": "Clekaa",
+      "body": "Gonna try this, ty!"
+    },
+    {
+      "author": "Clekaa",
+      "body": "I bought it last year :/ But it might be that. It rarely did this sound but now it does it much more regularly"
+    },
+    {
+      "author": "ballslicker1337",
+      "body": "welp my first fan died around 2 years after building my pc so yea. it be what it be"
+    }
+  ],
+  "17": [
+    {
+      "author": "keyganl",
+      "body": "I have seen people modify a small lcd display in the top or bottom of the computer case but I want to have a full display, I don\u2019t want to see the inside of the case I want it to just be the display you see. I\u2019m not concerned over the airflow I just want to see if it\u2019s possible. I have not seen anyone else take on a mod like this for this case. I\u2019m willing to spend a bit to get it done if it\u2019s possible so maybe if need to get a custom LCD made? Just don\u2019t know where. TIA for any help"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "I reckon the LCD display for the Hyte 60 might be broadly an appropriate size. Maybe give that a look and get the tape measure out."
+    },
+    {
+      "author": "keyganl",
+      "body": "Oh wow, I didn\u2019t know that was a thing! Looks a bit narrow but I will definitely research, thanks!"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Yeah I'm second look it was a touch small. I'm just not sure what else out there you could use really."
+    },
+    {
+      "author": "keyganl",
+      "body": "I\u2019d get a custom sized lcd made I\u2019m just having trouble finding a company that will make them"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "I don't think that's a thing, honestly. And if it is, it's gonna be crazy crazy expensive. \n\nBetter off setting a case that's better suited. \n\nMaybe go for a Snowblind now you can buy those standalone. It's a shit case but those are spectacular."
+    }
+  ],
+  "18": [
+    {
+      "author": "disasadi",
+      "body": "but we know the build is not good for the money, simple as that."
+    },
+    {
+      "author": "EXEM0N",
+      "body": "Not really relevant unless he specifies asking if the price is good and where he lives. \n\nI don't see how this argument will solve itself, let's agree to disagree."
+    },
+    {
+      "author": "disasadi",
+      "body": "I really think it is relevant when a person who knows nothing about PCs LISTS THE PRICE and asks if the PC is good or not.\n\nObviously you take the price into consideration too, because OP doesn't know if the value is there or not. That's at least part of the question if not the whole question.\n\nThat PC would be great if it was half the price, it would be good at \u20ac1000, it would be decent at \u20ac1200 or so and it's terrible value, i.e., a bad computer at \u20ac1700.\n\nOnly thing I agree on is that you're in denial."
+    },
+    {
+      "author": "EXEM0N",
+      "body": "Well, i guess you cant accept people having different opinions so sure.\n\nHave a nice day :)"
+    },
+    {
+      "author": "disasadi",
+      "body": "You're allowed to have opinions but this one objectively and subjectivly sucks.\n\nYou're just wrong, try to deal with it."
+    }
+  ],
+  "19": [
+    {
+      "author": "dweller_12",
+      "body": "Nah, get an NVMe as they cost roughly the same per GB and are 3x+ the speed."
+    },
+    {
+      "author": "Zestylul",
+      "body": "what do i do if i cant find a gen 3 x2 nvme cause im finding alot of gen 3x4 nvmes"
+    },
+    {
+      "author": "dweller_12",
+      "body": "All NVMe drives are Gen 3 or newer since that's when it was introduced.\n\nAs we've discussed, it doesn't matter what speed the drive is since you'll be limited to effectively PCIe 2.0 speed. Just get the cheapest NVMe drive you can find."
+    },
+    {
+      "author": "Zestylul",
+      "body": "so pcie 2.0 speed is faster than 560mbs?"
+    }
+  ],
+  "20": [
+    {
+      "author": "Wololooo1996",
+      "body": "Maby your cooler is faulty?\n\nMine artic liquid freezer ii 420 is insanely good, Can make overclocked (240watt) 16core render benchmark with it bearly ramping up."
+    },
+    {
+      "author": "Rogallo",
+      "body": "Ok thank you"
+    },
+    {
+      "author": "Wololooo1996",
+      "body": "Artic reccomend CPU FAN, you can adjust the fans and the pump individually in BIOS afterwards."
+    },
+    {
+      "author": "Rogallo",
+      "body": "If my pump says 0 in bios is that alright or wrong?"
+    },
+    {
+      "author": "Wololooo1996",
+      "body": "Not sure what kind of BIOS you have, but it sounds wrong.  \n\n\nTry to go into the place where you can make your own fan curves, then all the fan and pump RPMs should be there."
+    },
+    {
+      "author": "Wololooo1996",
+      "body": "Try to look at your CPU temps if they keep increasing rapidly up way to high, then your pump is doing nothing, if it looks anything normal, then the pump is prolly totally fine and doign its job."
+    },
+    {
+      "author": "Rogallo",
+      "body": "In msi click bios 5 IT says fan speed 0 RPM"
+    },
+    {
+      "author": "Rogallo",
+      "body": "My temps are around 40-50 with spikes to 90+ when opening something like a program or chrome. When starting for example rdr2 my temps go to 95-100 with fans at full speed. I also have 2x140 and 4x120mm fans"
+    },
+    {
+      "author": "Wololooo1996",
+      "body": "Sounds really bad, somethign is definently wrong but i cant tell what. :C"
+    },
+    {
+      "author": "Rogallo",
+      "body": "Unfortunately me Brother. Its my first PC with the parts I got and not a prebuild...."
+    }
+  ],
+  "21": [
+    {
+      "author": "bernardof270",
+      "body": "2 sticks of 16"
+    },
+    {
+      "author": "EmptyBrook",
+      "body": "If you sort by memory usage, what does it show using the most memory?"
+    },
+    {
+      "author": "bernardof270",
+      "body": "anti malware service executable, same that  is on the image"
+    },
+    {
+      "author": "EmptyBrook",
+      "body": "Interesting . Seems like you may just have a lot of services running. Did you try rebooting and checking?"
+    },
+    {
+      "author": "bernardof270",
+      "body": "I will try that later but thanks for the help"
+    }
+  ],
+  "22": [
+    {
+      "author": "CanisMajoris85",
+      "body": "private"
+    },
+    {
+      "author": "Mintyboi-Official",
+      "body": "Wdym"
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "you have to select the option to make it visible to others"
+    },
+    {
+      "author": "Mintyboi-Official",
+      "body": "Ok done"
+    }
+  ],
+  "23": [
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Have you been into BIOS to see if your drive is being detected"
+    },
+    {
+      "author": "CrippleLiberal",
+      "body": "Yeah I check the drive is not being detected and when I went to enable raid on the two ssds it still would not show"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Have you checked to see if they are properly connected to your pc?"
+    },
+    {
+      "author": "CrippleLiberal",
+      "body": "Yep the sata is still plugged in"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Did you plug in the cable from the PSU to power it too!"
+    },
+    {
+      "author": "CrippleLiberal",
+      "body": "I think at this point I might as well just format all of the drives and do a clean install of windows and try and find a way to get the data back"
+    }
+  ],
+  "24": [
+    {
+      "author": "sadanorakman",
+      "body": "I'm surprised they will honour a warranty replacement for a drive damaged through mishandling.  Let's hope they don't inspect it too closely if it's still bent!\n\nThe PCBs on these M.2 drives are so very thin and fragile, I treat them with massive caution.\n\nI use aftermarket aluminium heatsinks that come with a thermal adhesive pad.  I've had to remove a couple in the past, and they are stuck like shit to a blanket.  \n\nI apply a twisting force to the heatsink to sheer the adhesive, and just hold it there with a constant twisting pressure and wait for the glue to slowly ease a bit.  Once it moves, I reverse the twist and again wait.  It takes several minutes of patient effort most times to slowly break the bond, but the heatsink comes off, even leaving the heat-spreading manufacturers label intact. (The label that voids warranty if removed!).  \n\nUnder no circumstances do I ever try to pry the heatsink off, or apply any bending force to the thin PCB.\n\nPatience and mechanical empathy wins out. Judging how much force you can apply without overdoing it."
+    },
+    {
+      "author": "Mockbubbles2628",
+      "body": "Well, its amazon and I didn't tell them I broke it..\n\nAs for removal of the heatsink, yes I should have twisted, but It has this little bracket that glues to the bottom of the drive and screws into the main part of the heat sink, the bracket stops you from twisting it and I didn't know how to get the bracket off \n\nI've learnt my lesson..."
+    },
+    {
+      "author": "sadanorakman",
+      "body": "Cool. You can get away with all sorts with Amazon!"
+    },
+    {
+      "author": "Mockbubbles2628",
+      "body": "yea maybe I'll just ship the heatsink back then do a return scam with a new SN750, lol. \n\nim joking"
+    },
+    {
+      "author": "sadanorakman",
+      "body": "I never heard or read a thing \ud83d\ude09"
+    }
+  ],
+  "25": [
+    {
+      "author": "disasadi",
+      "body": "Go check MSI's website, they have a list of supported processors and which bios version supports which CPU."
+    },
+    {
+      "author": "Ambitious_Reply7993",
+      "body": "its from a friend , its a good price for me , like 110\u20ac with more 2 years warranty .. my gpu its a RTX 3070."
+    },
+    {
+      "author": "Ambitious_Reply7993",
+      "body": "i did .. but cause i dont know to much of the updates of bios thats why im asking if its gonna work or not ..   \nthis is a screenshot of CPU-Z and the site that i supose its the same .. [**https://gyazo.com/4e3a85bbf9d514c53ac64fd7db17c8e7**](https://gyazo.com/4e3a85bbf9d514c53ac64fd7db17c8e7)"
+    },
+    {
+      "author": "disasadi",
+      "body": "Well, little google search says that the 1.2.0.7 you have installed is quite new and supports the 5000 series too.\n\n[https://www.techpowerup.com/295821/amd-releases-agesa-v2-1-2-0-7-microcode-to-motherboard-vendors-and-oems](https://www.techpowerup.com/295821/amd-releases-agesa-v2-1-2-0-7-microcode-to-motherboard-vendors-and-oems)\n\nI suppose you do **not** need to update the bios again."
+    },
+    {
+      "author": "Ambitious_Reply7993",
+      "body": "nice then , and thank you. :)"
+    }
+  ],
+  "26": [
+    {
+      "author": "TendiesFourLyfe",
+      "body": "I had my main drive in slow slot getting 3500, found out, moved to fast slot and got 7000, basically negligible difference"
+    },
+    {
+      "author": "Working_Control6985",
+      "body": "Understood, thanks man"
+    },
+    {
+      "author": "Working_Control6985",
+      "body": "Got it, thanks \ud83d\udc4d"
+    },
+    {
+      "author": "Working_Control6985",
+      "body": "Yes I'll be shifting from hdd to ssd. Any recommendations where I should really spend any extra money?"
+    }
+  ],
+  "27": [
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "4000d are very popular, should be fine.\n\nI have the 4000x which is the same just with a glass front panel and included rgb case fans."
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Cool thanks I\u2019ll look into that one some more"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Sweet thanks"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Cool I would replace all the stock fans in either case, but I\u2019ll look into the 4000d some more that\u2019s the one I thought the most about getting"
+    }
+  ],
+  "28": [
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Yeah lols solid, but you didn\u2019t give us prices"
+    },
+    {
+      "author": "quest2fan999",
+      "body": "Lmao I just realised the price is \u00a31101"
+    },
+    {
+      "author": "quest2fan999",
+      "body": "Lmao I just realised I didn't write it lol, the price is \u00a31101"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Could you give out individual prices? Sounds reasonable but would be helpful"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "No like how much is the CPU, how much is the mobo, etc."
+    },
+    {
+      "author": "quest2fan999",
+      "body": "Should I create a new thread and tag u so its all in the post?"
+    },
+    {
+      "author": "quest2fan999",
+      "body": "Yeah I've updated the post now"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Just maybe a PCPartPicker list? It will show if all your parts are compatible and show the best prices for your region."
+    },
+    {
+      "author": "quest2fan999",
+      "body": "I've done this list by pc part picker I just want to see other peoples opinion on the price"
+    }
+  ],
+  "29": [
+    {
+      "author": "PhenoStyle",
+      "body": "correct pasted? removed sticker? also, which games? cinebench?"
+    },
+    {
+      "author": "My_Man_Tyrone",
+      "body": "No sticker. Repasted 2 times. Once spreading the paste over the CPU with a spreader. Second time just drawing an X on the CPU and no difference. \n\nGames: Valorant, Minecraft, Cyberpunk, High on Life\n\nYea I also ran Cinebench and still my CPU would start hitting 70-75 after about 1.5 mins"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "whats your pc config? rad as intake in the front or exhaust on top? if on top, whats your gpu temp?"
+    },
+    {
+      "author": "My_Man_Tyrone",
+      "body": "Rad on top as exhaust with bottom as intake. My GPU temp is around 60-65c I think? I haven't been paying attention too much"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "same temps when you open the sidepanel?"
+    },
+    {
+      "author": "My_Man_Tyrone",
+      "body": "Yep. I also know it\u2019s not an airflow issue because I have more intake that output"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "still warranty on it?"
+    },
+    {
+      "author": "My_Man_Tyrone",
+      "body": "No \ud83d\ude2d"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "long over? try contacting them..."
+    }
+  ],
+  "30": [
+    {
+      "author": "Spaljeni",
+      "body": "Both kits are DDRR4, 32200MHZ from what I can see.  \nIt  should work."
+    },
+    {
+      "author": "TempUser2023",
+      "body": "check the three things highlighted in the corsair info as linked in my comment above. Corsair are pains at changing the innards between versions/batches. It's why you have to check the lot number too. Other companies would change the product code, but not corsair. Where's the fun in that right? I mean shops might actually list the product code but good luck finding out a lot number prior to order from a large volume seller. It's the one time that 2nd hand listings actually work in your favour.\n\n&#x200B;\n\nhttps://preview.redd.it/zfa29zij4aea1.jpeg?width=1949&format=pjpg&auto=webp&v=enabled&s=35c30208a4ddbf4fab11d6950d41a1d286b16539"
+    },
+    {
+      "author": "TempUser2023",
+      "body": "and the latency and timings are?\n\nYou have both sets in hand right? So put them in and see what happens. Or if you want to be more cautious install each set individually, run [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) and [ramMon](https://www.passmark.com/products/rammon/) etc and get the full memory timing specs. I'd be amazed if they match each other.\n\nYou can try setting everything to run at the lower spec but I've seen that not work so ymmv.\n\nIt shouldn't do any major damage though so why not have a go and see what happens. Do let us know how you get on"
+    },
+    {
+      "author": "TempUser2023",
+      "body": "But the timings could be completely different, particularly sub-timings. Also it is a big assumption they will be compatible with each other. Probably not if the modules are different underneath, use of SR v DR , and varying number of chips and the associated addressing being different between the two.\n\nI doubt it will work successfully and would not waste my money in this way."
+    }
+  ],
+  "31": [
+    {
+      "author": "noxsanguinis",
+      "body": "Depends on the model you get."
+    },
+    {
+      "author": "Oshokom",
+      "body": "Which models do you recommend?  I haven\u2019t enjoyed the FE cards at all."
+    },
+    {
+      "author": "noxsanguinis",
+      "body": "The Asus tuf gaming and the Gigabyte Aorus Master  are the ones with the best cooling in my opinion.\n\nThere's also one from MSI that's water cooled and of course the Rog Strix, but those are even more expensive than the others already are."
+    },
+    {
+      "author": "Oshokom",
+      "body": "Appreciate your input!  I agree, the rog strix cards always have great cooling.  Had a 1080ti and it was amazing."
+    }
+  ],
+  "32": [
+    {
+      "author": "Moznomick",
+      "body": "That's another good point because digital sales has increased rapidly and with every digital sale they make, that's one less expense on shipping and materials needed to make the physical copy. I'm all for charging what you think your product is worth, but the industry has lost quality that it once had. When even big titles release in a broken state, something has got to change."
+    },
+    {
+      "author": "LOPI-14",
+      "body": "Yea. Publishers got from getting from every purchase like 30$ (assuming 60$ was the regular price), to pretty much getting all of that money, by cutting off middlemen (stores that sold games) and production of physical copies. Steam being an exception. Sure, there are still physical copies for consoles, but most people buy digital nowadays. Then there are the DLCs, season passes, etc. that you mentioned.\n\nIt's really fucking funny, when they started crying about not getting enough money and then increasing the base prices of AAA games, while as you also said, the quality of the products they make getting worse and worse as time goes on. \n\nPrices increases, while quality decreases and the overall cost to distribute games became almost inconsequential. If this keeps up, another crash is coming."
+    },
+    {
+      "author": "Moznomick",
+      "body": "With how bad it's gotten, another crash might be what we need to set it straight."
+    },
+    {
+      "author": "LOPI-14",
+      "body": "Very true."
+    }
+  ],
+  "33": [
+    {
+      "author": "Bagafeet",
+      "body": "Should be fine he has the PSU choked off with a PCIE expansion card \ud83d\ude0e"
+    },
+    {
+      "author": "tssmastering",
+      "body": "The sacrificial PCIe card! But in all honesty, I am such a noob I completely forgot about the PSU air flow. I am going to rectify that later. Thanks for pointing that out. I am still learning!"
+    },
+    {
+      "author": "Bagafeet",
+      "body": "Test it out. If thermals are ok you might not need to change anything."
+    },
+    {
+      "author": "tssmastering",
+      "body": "So far I have not had any issues with temps rising and or fans going full blast. I was playing Left4Dead at 2k resolution for a couple hours and the PC was as quiet as a mouse."
+    }
+  ],
+  "34": [
+    {
+      "author": "disasadi",
+      "body": "Doesn't look too bad to me. My current boot drive has 148 hours of use and 1165/1866 GB read / write."
+    },
+    {
+      "author": "A-Delonix-Regia",
+      "body": "Can using so many browser tabs or hibernating frequently cause my swap file to be used continuously and cause lots of data writing?"
+    },
+    {
+      "author": "A-Delonix-Regia",
+      "body": "Thanks. By the way, do you have any idea as to why my PC writes a lot even when I am not writing any files?\n\nEDIT: BTW how does your drive have a smaller read count compared to the write count?"
+    },
+    {
+      "author": "disasadi",
+      "body": "Why not? I cloned my previous boot drive on it and started with a hefty amount of writes before reading much at all.\n\nI guess boot drive just writes stuff in the logs and all the page files and temporary files."
+    },
+    {
+      "author": "A-Delonix-Regia",
+      "body": "So the PC doesn't read the data it writes? I thought the PC would read the entire data it makes while writing as well."
+    },
+    {
+      "author": "disasadi",
+      "body": "I don't understand why it would, no.  My previous boot drive has 26TB reads and 54TB writes.\n\nI suppose the memory controller assumes the data is correct when written and doesn't read it for error checking purposes."
+    },
+    {
+      "author": "A-Delonix-Regia",
+      "body": ">I suppose the memory controller assumes the data is correct when written and doesn't read it for error checking purposes\n\nYeah, I thought it would read to verify the data. But apparently it doesn't (on the bright side I haven't encountered any files corrupted beyond repair so far in the past few years)."
+    }
+  ],
+  "35": [
+    {
+      "author": "LJBrooker",
+      "body": "Download and install the Microsoft C++ redistributables.\n\nhttp://www.microsoft.com/en-in/download/details.aspx?id=40784"
+    },
+    {
+      "author": "Active-Fan3566",
+      "body": "First time building a pc and idk what that means"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Click the link. Download the thing."
+    },
+    {
+      "author": "Active-Fan3566",
+      "body": "Still doesn\u2019t work, I downloaded everything and still get the same message"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "I presume you ran and installed it?\n\nhttps://answers.microsoft.com/en-us/windows/forum/all/side-by-side-configuration-is-incorrect/5c6a015e-4162-491d-b7d9-f3b13612e304\n\nReinstall chrome, and redownload MSI? Seems a weird one but worked for this fella?"
+    }
+  ],
+  "36": [
+    {
+      "author": "LOPI-14",
+      "body": "Nah. GPU is supposed to use all of its \"power\" to run games.\n\nImagine buying a GPU for 1k and only 40% of it being used.\n\nOn the other hand, CPU usage isn't that high in games, especially on higher resolutions."
+    },
+    {
+      "author": "Arismando27",
+      "body": "I will definitely check this today after work. Been dealing with it for a few weeks now. Basically stopped playing games"
+    },
+    {
+      "author": "Arismando27",
+      "body": "So how can I get it up?"
+    },
+    {
+      "author": "LOPI-14",
+      "body": "As I said, it's unusual. That stuff usually happens, when the CPU or RAM isn't up to the task, but they should be.\n\nSo, unless that thing is faulty, it could be very high temperatures making your GPU to slow down, so it doesn't fry itself or maybe driver issues."
+    },
+    {
+      "author": "Arismando27",
+      "body": "I did a clean install of the driver's to try to fix it. Nothing.  32 gigs of ram. Never had issues before. Built the pc back in July.  Upgraded it about 2 months ago and the problem started 2 weeks after"
+    },
+    {
+      "author": "LOPI-14",
+      "body": "What part did you upgrade?"
+    }
+  ],
+  "37": [
+    {
+      "author": "mr-circuits",
+      "body": "400rpm doesn't seem very fast at all."
+    },
+    {
+      "author": "UncomfortableTaco",
+      "body": "Hmm is it too low then? Thought it might be too fast since it showed as red in bios, but it might be something else then"
+    },
+    {
+      "author": "mr-circuits",
+      "body": "What model fan?"
+    },
+    {
+      "author": "UncomfortableTaco",
+      "body": "Noctua nh-u12s"
+    },
+    {
+      "author": "mr-circuits",
+      "body": "It's 300-1500rpm, so not at all too fast"
+    }
+  ],
+  "38": [
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "Assuming you're replacing the 4000d's non RGB fans it comes with by default."
+    },
+    {
+      "author": "Crunchythecat112",
+      "body": "What cpu should I use then?"
+    },
+    {
+      "author": "Crunchythecat112",
+      "body": "Im replacing them with 2 LL140s and 1 LL120"
+    },
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "4000d should support 3 front fans."
+    },
+    {
+      "author": "Crunchythecat112",
+      "body": "Yeah it supports either 3 120s or 2 140s"
+    }
+  ],
+  "39": [
+    {
+      "author": "epsileth",
+      "body": "Windows drive?\n\nhttps://windowsreport.com/restore-recovery-boot-partition-windows-10/"
+    },
+    {
+      "author": "DerBrocker18",
+      "body": "The ssd that has my windows installation on it. I can't do anything with it because no pc initials the ssd and it doesn't show up"
+    },
+    {
+      "author": "epsileth",
+      "body": "Link I just shared shows a few options. Can always turn off pc, make sure cables for data and power are connected properly on both ends.\n\nWorst comes to worst, get a new drive and install fresh, use the old drive and a USB cable to transfer over data."
+    },
+    {
+      "author": "DerBrocker18",
+      "body": "I can't even get my data from my old drive. As I said, no pc I plugged it into could do anything with it. Just like it's non existent"
+    },
+    {
+      "author": "epsileth",
+      "body": "No external usb adapter sees it as a drive? Have you tried live booting a Linux iso from a flash drive, and seeing if it at least reads as a data drive?"
+    },
+    {
+      "author": "DerBrocker18",
+      "body": "Nope no USB adapter sees it. But I could try the Linux iso top. Do you have a link for that because I'm completely new to Linux and haven't touched it"
+    },
+    {
+      "author": "epsileth",
+      "body": "If you have another working pc, and a spare flash drive, download ventoy, at ventoy.net and run it. This installs a hidden Linux partition on the drive you select, and you can just drop installer isos in the readable space. Iso for windows, any Linux live boot to try, different tools.\n\nDistrowatch.com for a collected database of isos, right hand side as a list of popular choices. Has description, links to official page and download links. Use torrent if possible, for faster downloads."
+    },
+    {
+      "author": "DerBrocker18",
+      "body": "Installed mint on a USB stick and booted into it. But even the mint disk manager didn't recognize the ssd"
+    }
+  ],
+  "40": [
+    {
+      "author": "Chakramer",
+      "body": "Perfectly ok, but more dust tends to collect lower to the floor so you just have to remember to clean it more often.\n\nAlso make sure it's clear of any area something may spill"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Nope I\u2019m building it in a couple weeks just wondering if it would be safe or not"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Thanks for the sarcasm"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "Ok sounds good man, how would I clean my case/fans?"
+    },
+    {
+      "author": "Chakramer",
+      "body": "Usually it just needs compressed air, maybe rubbing alcohol and towels for some areas. Plenty of guides online for it, just be careful and go slow. You only need to clean once you see buildup"
+    },
+    {
+      "author": "LuxuryRed",
+      "body": "But wouldn\u2019t the compressed air effect my parts since it comes out fast and plus the alcohol might not try and my fans will turn on then blow it making my system short out"
+    },
+    {
+      "author": "Chakramer",
+      "body": "Well high grade rubbing alcohol is not conductive, it's often used in cleaning water damaged parts because it won't short anything\n\nCompressed air shouldn't damage parts, again you should look at guides on this because these are very standard industry practices. At the IT place I worked it we would literally order compressed air by the pallet"
+    }
+  ],
+  "41": [
+    {
+      "author": "dweller_12",
+      "body": "Yes, you should update the BIOS. BIOS updates are like driver updates for your CPU and motherboard."
+    },
+    {
+      "author": "BootyChomper420",
+      "body": "Ok so I won\u2019t loose support for my Ryzen 5 2600? Thank you for your help."
+    },
+    {
+      "author": "dweller_12",
+      "body": "You get about 3 years worth of additional AGESA updates that you were missing."
+    },
+    {
+      "author": "BootyChomper420",
+      "body": "Ok about to upgrade my bios now. Should I remove all my storage except the usb drive on the computer before I upgrade the bios."
+    },
+    {
+      "author": "dweller_12",
+      "body": "No, just reboot the system into BIOS and use QFlash to update the BIOS."
+    },
+    {
+      "author": "BootyChomper420",
+      "body": "Ok going to do it now"
+    }
+  ],
+  "42": [
+    {
+      "author": "LJBrooker",
+      "body": "Can't enable because the option isn't there or? Is there something like Over 4g Encode? Because that's the same thing."
+    },
+    {
+      "author": "S1nnerReborn",
+      "body": "That's what I have learned from researching answers about being able to. I was hoping someone would have an answer or have encountered the same problem and found they could or couldn't do anything about it."
+    },
+    {
+      "author": "S1nnerReborn",
+      "body": "I don't know, this is something new I'm learning. I cannot use nvflash on it to flash the BIOS and I cannot get ReBar to enable on it. GPU-Z shows everything is good except it's not being enabled in the motherboard BIOS, which it is because I have enabled both 4G and ReBar. The Asus flash utility also says the GPU doesn't need flashing but it does. I have yet to learn how a work around this."
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Have you disabled CSM in bios? Pretty sure that needs to be off too. Keep in mind this will completely fuck you if your boot drive isn't GPT, and you won't be able to boot."
+    },
+    {
+      "author": "S1nnerReborn",
+      "body": "Yes CSM is disabled and my boot drive is GPT"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Well how odd.\n\nSeems like all the boxes are ticked here. \n\nDoes the Asus flash utility tell you what vbios revision the GPU is actually running? Do you know it's not updated, or just assuming it's not?"
+    },
+    {
+      "author": "S1nnerReborn",
+      "body": "It doesn't give me any info on the GPU. GPU-Z is how I know the BIOS needs updating."
+    },
+    {
+      "author": "LJBrooker",
+      "body": "What's gpu-z telling you, the vbios revision? But the Asus flasher doesn't agree? Is the Asus flasher just a a batch file? There's possibly an argument you can add to force the update?"
+    },
+    {
+      "author": "S1nnerReborn",
+      "body": "I tried using nvflash to flash but nvflash doesn't even work with it. I get errors using nvflash. I can't use any commands."
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Hmm, you've reached the limits of my experience on this when then champ. If it's any slight consolation, you aren't losing much not having it on."
+    }
+  ],
+  "43": [
+    {
+      "author": "xauberstar",
+      "body": "https://preview.redd.it/da5g4yvzt9ea1.jpeg?width=2268&format=pjpg&auto=webp&v=enabled&s=7a7ada16c3485fb55fd75fcf659e8a2bafa3f905\n\nThis is all i have. I had a i7 7700k before and it used that backplate i have rn"
+    },
+    {
+      "author": "zeug666",
+      "body": "https://www.corsair.com/us/en/Categories/Products/Liquid-Cooling/iCUE-RGB-ELITE-Liquid-CPU-Cooler/p/CW-9060058-WW\n\nParts D and E, with E already installed. D sort of looks like the correct backplate. Are you using standoff C?"
+    },
+    {
+      "author": "xauberstar",
+      "body": "Where can i see the parts you mention?"
+    },
+    {
+      "author": "zeug666",
+      "body": "...the manual?"
+    },
+    {
+      "author": "xauberstar",
+      "body": "Ah yes i see now. So i have Part D on the pump, E aswell and i ordered the retrofit kit aswell. The backplate just has a different screw order"
+    },
+    {
+      "author": "xauberstar",
+      "body": "No nevermind i need part D."
+    },
+    {
+      "author": "zeug666",
+      "body": "What you have in the picture sort of looks like 'D'.\n\nI don't know if your cooler was one that came out before LGA1700 released, which could mean it doesn't have the correct bracket. \n\nCorsair sells a mounting kit, though if you bought the cooler recently and it somehow didn't come with the correct mounting, I would hope Corsair would take care of it."
+    },
+    {
+      "author": "xauberstar",
+      "body": "Yea it is a cooler bought before 1700 was a thing. I read about it and all i could find was that i need the retrofit screws, which i bought"
+    },
+    {
+      "author": "zeug666",
+      "body": "Under 'accessories'\n\nhttps://www.corsair.com/us/en/Categories/Products/Accessories-%7C-Parts/PC-Components/Cooling/ELITE-Series-Intel-Retention-Kit/p/CW-8960097\n\nI haven't worked with enough LGA1700's to know the differences; i think there's like a 3mm difference in spacing of the mounting hole, so some motherboards have '8' shaped mounting holes instead of just a '0'. I also know there's a height difference, hence the specific standoffs that need to be used.\n\nAll that to say, I'm not sure if you also need the bracket(s) from that kit."
+    },
+    {
+      "author": "xauberstar",
+      "body": "Yea i saw that kit and its what i need just out of stock, looking for it somewhere else rn"
+    }
+  ],
+  "44": [
+    {
+      "author": "Myzhi1",
+      "body": "What\u2019s your cpu?  Maybe the cpu can\u2018t run at 3600, try lower speeds, like 3200, 3000 and etc."
+    },
+    {
+      "author": "122lucas03",
+      "body": "I\u2019m currently running a Ryzen 5 2600x on a x470 board. You might be right though so I\u2019ll make sure I check that out asap"
+    },
+    {
+      "author": "Myzhi1",
+      "body": "Yeah, that cpu only officially supports upto 2933Mhz.  Anything above that is cpu silicon lottery."
+    },
+    {
+      "author": "122lucas03",
+      "body": "Thank you, it\u2019s been so long since I\u2019ve built this system or any system for that matter that I totally forgot to even think about that. Thank you for your help. Now if I wanted to run this slower I would do the DOCP 3603 preset but then I would set the other drop down box to my desired speed?"
+    },
+    {
+      "author": "Myzhi1",
+      "body": "If it has lower speeds with DOCP, that would be the easiest.  If not, you have to manually select or enter your ram timing settings you want."
+    }
+  ],
+  "45": [
+    {
+      "author": "Apprehensive_Ad_5042",
+      "body": "I was wondering (if I would choose 1440p over 2160p) about these two monitors:  \n1.) Dell S2721DGFA nanoIPS HDR  \n2.) Gigabyte M27Q Rev 2.0  \n\n\nWhat do you think?"
+    },
+    {
+      "author": "LuftwaffeWhale",
+      "body": "It really comes down to what you are trying to spend and can drive. you can get 4k high refresh rate monitors with oled panels and hdr that will look amazing doing anything but cost a fortune and a really powerful gpu to run in games. Going to need a 4080 at minimum to take advantage of the high refresh part of it though depending on the games you play. \n\nGoing the 1440p route could save you money because you wont need as powerful of a gpu and generally 1440p monitors are cheaper to buy. If you're coming from 1080p 1440p will be a nice bump in resolution.\n\nand as far as the movie streaming service movie quality thing you usually have to pay extra to have access to high resolution streaming like 4k. If you are paying base fees you are probably just getting normal 1080p HD streams. I know Netflix you need their premium sub plan to get access to ultra HD content."
+    },
+    {
+      "author": "Apprehensive_Ad_5042",
+      "body": ">oing the 1440p route could save yo\n\nno, i mean only netflix has it, but lets say i have every plan in 4k, if i have a 1440p monitor is the movie being streamed in 4k downgraded to 1440p or 1080p or 1080p upgraded to 1440p? i dont know how that works, sorry. and it was what I meant"
+    },
+    {
+      "author": "LuftwaffeWhale",
+      "body": "It would be downscaled while the reverse would be upscaled/sampled. This LTT video explains it all [https://www.youtube.com/watch?v=3NFmpJNvd4k](https://www.youtube.com/watch?v=3NFmpJNvd4k) and I would watch it because I think it explains some of the questions you may have especially regarding online streaming services and their streaming quality. It goes over the down scaling and up scaling thing. \n\nThis is also something I found from a different forum, \" however, video streaming services heavily compress the videos they send,  and on something like youtube, the higher the resolution, the better,  simply because there is more bitrate\""
+    }
+  ],
+  "46": [
+    {
+      "author": "KnowTheName321",
+      "body": "you have a gtx 1650 super entry level graphics card."
+    },
+    {
+      "author": "Lazy_Might_732",
+      "body": "Not an opinion, it's legit stuttering/not smooth"
+    },
+    {
+      "author": "Lazy_Might_732",
+      "body": "It's still the same,,,  (\u2565\\_\u2565)"
+    },
+    {
+      "author": "Lazy_Might_732",
+      "body": "I tried capping my fps below 144 in Valorant and it was butter smooth, I also have freesync enabled in my monitor's OSD. I also attempted the same thing with Apex, but it worsened the stuttering."
+    },
+    {
+      "author": "Lazy_Might_732",
+      "body": "Made the game even more choppier when I lowered the fps limit."
+    },
+    {
+      "author": "Lazy_Might_732",
+      "body": "I'm poor."
+    }
+  ],
+  "47": [
+    {
+      "author": "LordFauntloroy",
+      "body": "No, a top end air cooler will do fine like a Noctua NH-D15"
+    },
+    {
+      "author": "CodedCoder",
+      "body": "Thank you very much."
+    },
+    {
+      "author": "CodedCoder",
+      "body": "Yeah I have the motherboard all picked out and etc, I just never used a cooler other than the fan that comes in the box for all the cpu's I bought."
+    },
+    {
+      "author": "CodedCoder",
+      "body": "Development, working building web apps and etc, and gaming.  I just bought a 4070ti . Thank you for answering, by the way, I have built my own pc's up until now I just never built one like this, and didn't/don't want to do it wrong."
+    }
+  ],
+  "48": [
+    {
+      "author": "Iplay_R6",
+      "body": "It was working when I had that motherboard in it, but what would be the best way to download windows, is there a disk I can buy or do I need to download it to a USB"
+    },
+    {
+      "author": "G_man252",
+      "body": "Windows ties your license key To the motherboard. OP is not getting a clean boot with the new parts, so the next step is to reinstall Windows via USB."
+    },
+    {
+      "author": "G_man252",
+      "body": "Here's a [link](https://www.microsoft.com/en-us/software-download/windows10) to the Windows Media Creation Tool. Select Download under Create Windows 10 installation media and it'll map your USB."
+    },
+    {
+      "author": "Iplay_R6",
+      "body": "Alright thanks"
+    },
+    {
+      "author": "G_man252",
+      "body": "YW"
+    }
+  ],
+  "49": [
+    {
+      "author": "mrpasciak",
+      "body": "These have to be inserted at an angle and then laid flat. Is this how you did it?"
+    },
+    {
+      "author": "-astralnaut-",
+      "body": "Thank you man I didn\u2019t insert it enough in the up position but it slid into place. Appreciate the response"
+    },
+    {
+      "author": "-astralnaut-",
+      "body": "Yeah I tried it again after reading the comments and it worked! \n\nI pushed it in a bit when it was in the up position and then it slid more into place"
+    },
+    {
+      "author": "mrpasciak",
+      "body": "You're a pro now."
+    },
+    {
+      "author": "-astralnaut-",
+      "body": "Hah I\u2019m figuring this out. One thing at a time I guess"
+    }
+  ],
+  "50": [
+    {
+      "author": "35point1",
+      "body": "Power punch Ben, it\u2019s 2023 my guy, Google is your friend :)"
+    },
+    {
+      "author": "Powrpunchben",
+      "body": "aight, thanks bro ill try that :))"
+    },
+    {
+      "author": "Powrpunchben",
+      "body": "i see, thanks so much bro :))"
+    },
+    {
+      "author": "Powrpunchben",
+      "body": "oh tysm :))"
+    },
+    {
+      "author": "Powrpunchben",
+      "body": "sry mb"
+    }
+  ],
+  "51": [
+    {
+      "author": "sucks2bu2",
+      "body": "I just ordered the case too, I am going with a 360 AIO from deepcool for my CPU cooling."
+    },
+    {
+      "author": "Jed0730",
+      "body": "Is well know to be leak free/quite?"
+    },
+    {
+      "author": "sucks2bu2",
+      "body": "I've seen them recommended many times here, that's why I selected it."
+    },
+    {
+      "author": "Jed0730",
+      "body": "I'll take a look at it. Thanks."
+    }
+  ],
+  "52": [
+    {
+      "author": "sirtet_moob",
+      "body": "Why was there a frog in your pc?"
+    },
+    {
+      "author": "floswamp",
+      "body": "Tried to shock it back to life but no go. Even went as high as 5V shocks. I am going to have to overnight a new one from the next garden over. May get an upgraded one. RIP"
+    },
+    {
+      "author": "floswamp",
+      "body": "I was surprised when I opened the panel for cleaning and out he came! Florida problems."
+    },
+    {
+      "author": "floswamp",
+      "body": "Lizard and because Florida."
+    }
+  ],
+  "53": [
+    {
+      "author": "protazoeanpotato",
+      "body": "Did it get hit near any of the case buttons? If so, you may have a stuck/broken reset or power switch, which is causing the constant rebooting."
+    },
+    {
+      "author": "Popcornman1212",
+      "body": "That's nice, I'll wait for more responses until I make a decision."
+    },
+    {
+      "author": "Popcornman1212",
+      "body": "No lights at all and the speaker on the motherboard broke a long while ago.\n\nEdit: the reset button used to flash randomly, ig its some sort of activity LED, but now, nothing."
+    },
+    {
+      "author": "Popcornman1212",
+      "body": "No, and it only reboots once and then gets stuck trying to boot with no signal going to the monitor."
+    }
+  ],
+  "54": [
+    {
+      "author": "RehabShark",
+      "body": "Thank you,\n\nI'm really only looking to upgrade one part right now as I don't want to put a huge amount of money into my pc currently.\n\nI'm guessing I'd be better off upgrading the CPU then? Would just getting the Ryzen 5600 be a good shout or overkill for my gpu?"
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "ryzen 5600 is perhaps best based on country, in the US it's the only one I'd consider at $140 unless you could get a 3600 for like $50 used. I assume your motherboard BIOS can be updated for a Ryzen 5600."
+    },
+    {
+      "author": "RehabShark",
+      "body": "Yes just had a look and my board can run the 5600, I think I will go for it once I've found a solid price on a second hand one.\n\nI'm happy to spend a little more than the 3600 costs so the 5600 should be good, thank you for your help."
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "5600 will last you to the next console generation in like 5-6 years just fine. 3600 won't."
+    }
+  ],
+  "55": [
+    {
+      "author": "CleanGameCrash",
+      "body": "Probably going to have to remount the AIO pump head and mounting hardware as well as checking to make sure that the pump is plugged in."
+    },
+    {
+      "author": "Rogallo",
+      "body": "I might do that"
+    },
+    {
+      "author": "Rogallo",
+      "body": "I did take it off and on and plug it again and still nothing"
+    },
+    {
+      "author": "CleanGameCrash",
+      "body": "did you put new thermal past on?"
+    }
+  ],
+  "56": [
+    {
+      "author": "xaga94",
+      "body": "I see. Well thank you for the ease of mind! What PSU are you using if I may ask?"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "I actually have two in my build. An RM850 that deals with the 4090, and an RM650 that does everything else. \n\nWhen I upgraded to a 3090 I had stability issues with that and a OCd 10900k with just the 850w, and by a happy coincidence my case (O11 Dynamic) supports dual PSUs. It was during COVID and the mining boom, and high output PSUs were CRAZY money so this seemed the cheapest solution. Few years on and haven't looked back."
+    },
+    {
+      "author": "xaga94",
+      "body": "Oh wow. Had no idea that was a thing! Thank you"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Nor did I, but they say necessity is the mother of invention and all that."
+    }
+  ],
+  "57": [
+    {
+      "author": "Integratedgrapes",
+      "body": "Well, OP, the bad news is it's going to have to be an everything-but-the-case upgrade, but the good news is that you're officially in the \"anything is an upgrade\" category, and with 1000 CAD at your disposal, you're looking at some serious room to play around.\n\nYou say you're somewhat inexperienced to this, so I'll break down my recommendations and some general industry trends here for you, as I think that might help you.\n\n1) unless your power supply is ancient or really low wattage, it's probably best to hold on to your power supply and case. Both of these should be perfectly compatible with a new system, provided they were off-the-shelf components originally. You can save yourself some money this way, and you can put that towards some Steam games, or a good mouse/keyboard or a microphone.\n\n2) We're currently in a transitional period between DDR4 RAM and DDR5 RAM. DDR5 is more expensive, obviously, but has started to settle down into more reasonable pricing. Because you're doing a whole system upgrade from a setup that old, and with a good, thick budget, I would recommend getting DDR5 RAM in your system, because this would give you greater longevity. If the price of a full kit is too much, just buy one stick and run with that for a month or so, then get another. You'll take a performance hit, but even a hobbled modern system will run rings around your current CPU, so don't sweat it.\n\n3) With RAM sorted out, that narrows our options down to AMD 7000 series processors, and Intel 12th and 13th gen processors. Performance in the low, mid and high performance tiers between AMD and Intel is very competitive, however, Intel is retiring their LGA1700 platform this year, whilst AMD has only just started with AM5, so I would recommend going with an AMD processor. The Ryzen 5 7600 (non-X) is an exceptionally capable CPU and comes with a stock cooler that should be good enough, provided you don't want to overclock the processor. Otherwise, tower coolers that can handle the heat better can be had for very little money, so grab something like a Scythe Fuma if you're worried about thermals.\n\n4) You'll want an SSD. NVME drives are best, but a SATA drive is acceptable. Avoid HDDs like the plague. You can get a 1Tb solid state drive for dirt cheap these days, so just pick up an NVME drive with as much capacity as you can afford and don't worry about the speed too much, as literally anything is better than a hdd, and you can easily upgrade down the line if you want.\n\n5) Unfortunately, DDR5 compatible motherboards are expensive, so just go for the cheapest one you can find, as they should all give you fine performance, so long as you make sure the BIOS is up to date.\n\n6) After the full system upgrade, you should have around 300 to 400 dollars CAD left, so I would recommend an AMD RX6600 or 6600XT, if you can afford it. If you can snag an RX 6700XT for within your budget, either new or second hand, then this would be awesome. If your budget comes out tighter than that, then a used RTX 2070 or 2060 may be within budget, and in the worst case scenario, a GTX1660 or 1660Ti/Super should be well within your grasp, and you can always sell it to finance an upgrade later.\n\n7) Intel recently entered the graphics market with their A750 and A770 cards. They offer attractive performance for the price, but unfortunately, they have some serious stability and behaviour issues, which are particularly bad on older games. If you play predominantly modern games, then an Intel GPU may be worth a look in, but otherwise, I recommend you steer clear of Intel GPUs until at least the next generation."
+    },
+    {
+      "author": "Catereds",
+      "body": "Alright I can increase my budget quite a bit if I sell my current computer and old xbox (since I haven't used it in 3+ years) I went from about a 1000 to about 1800 but that's fine since I have steady income for the next little bit. [https://ca.pcpartpicker.com/list/NpMdW4](https://ca.pcpartpicker.com/list/NpMdW4) this is what I'm currently going for I doubt I'll need to upgrade anytime in the future but please tell me if there's anything that's the same for less or a bit better for a little bit more."
+    },
+    {
+      "author": "Integratedgrapes",
+      "body": "Hey, that looks like a really good setup. That's a powerful machine right there, and I'd only really recommend a few little nips and tucks to get more for your money.\n\nThe biggest one I would recommend is to change the Ryzen 5 7600x for the vanilla 7600. You'll save a bit of money and the performance difference between them is nearly nothing. If you're just gaming, that GPU is going to hit its limits WAY before that CPU does on most games, so you're unlikely to ever notice the difference. \n\nSecond, is to cut out the cooler. The 7600 also comes with a stock cooler, which isn't amazing, but the much lower 65 watt TDP of the 7600 means that the stock cooler will keep it under control, and in most scenarios, you're unlikely to have that stock fan spin up so hard you'll notice. Try running it with the stock cooler for a while and if you find that the computer behaves poorly, you can get an aftermarket cooler for reasonably cheap.\n\nWith that money saved, you might want to get some 6000 mhz RAM. I said RAM speed doesn't really matter, and for the most part that's true, but Ryzen 7000 really likes that specific speed, so it might be worth a look. Otherwise, your RAM is fine.\n\nNext, if you can find an NVME drive that uses PCIE 4.0 instead of 3.0 for about the same price, or slightly more, I would recommend getting that. You won't see much improvement in real world scenarios, but if you start up a game that uses DirectStorage, you might see some benefit to the extra speed, and generally, if you can get one for only ten dollars more or something, it's better to have it and not need it. Alternatively, the SSD there is perfectly fine, and a solid choice.\n\nFinally, if you go for the 7600 and lose the cooler, you might be able to put the money into a better GPU. If you can find an RX6800, that would perform that bit better, or alternatively, something like a 3070 would offer better ray tracing performance for a similar price, if you much care for ray tracing. Alternatively, you could go for a bigger SSD, or maybe a few RGB goodies.\n\nEither way, that's a really powerful PC you've got there and the parts list checks out good. Just a few nips and tucks would give better overall value, but the system you've got there is absolutely rock solid."
+    },
+    {
+      "author": "Catereds",
+      "body": "Alright thank you so much, I think I'm going to go with this [https://ca.pcpartpicker.com/user/sooshlslushi/saved/WHBmLk](https://ca.pcpartpicker.com/user/sooshlslushi/saved/WHBmLk) since I feel like this gpu and cpu is all I need since I don't do resource heavy tasks."
+    },
+    {
+      "author": "Integratedgrapes",
+      "body": "That looks like a damn fine build to me. You should be golden with that. Share pictures of the results when you're finished so we can all see the results, and have fun putting it all together."
+    }
+  ],
+  "58": [
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "You gotta give us more.\n\n1. What lights are we talking about? Motherboard lights? Light strips? Fan lights?\n2. what mobo, case, adapters do you have? USB? Plugged into the PC's argb ports?\n3. What software is being used to control the lights?"
+    },
+    {
+      "author": "Intelligent-Owl-5258",
+      "body": "The entire pc and I can't see how that matter they are just lights and Im evga precision but was using gigabyte control center"
+    },
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "It may have hardware lighting options, my Corsair stuff did. Look in both apps."
+    },
+    {
+      "author": "Intelligent-Owl-5258",
+      "body": "I have the lights set to what I want I just want them to automatically go to the color I want when the oc turns on"
+    },
+    {
+      "author": "Intelligent-Owl-5258",
+      "body": "Like when I turn the pc on a off the lights just go to some random color until I open the app"
+    },
+    {
+      "author": "Sgt-JimmyRustles",
+      "body": "Yeah that's hardware lighting (IE your lights come on and are random colors until your app takes control over the lighting), and if your components don't let you set a hardware lighting profile, then you're SoL."
+    },
+    {
+      "author": "Intelligent-Owl-5258",
+      "body": "Ah I'll look"
+    }
+  ],
+  "59": [
+    {
+      "author": "Justifier-MC",
+      "body": "Currently according to what I've seen to get on par with DDR4 4k MT/s CL19,  you need at least ddr5 7433 MT/s, with rather tight timings (CL32-34)\n\nWhich is a rather tall task for most z690 boards unless they're 2dimm or overclocking focused (extremely expensive)\n\nWhile 5% alone doesn't seem like much, 5% with 45-55ms Latency down from ~70-80ms stock settings does mean a bit more imo\n\n20-35ms off the TSL makes the whole thing feel snappier"
+    },
+    {
+      "author": "Blake_S2k",
+      "body": "I wasn't able to find a single comparison with someone using the DDR4 I have, G.  Skill Trident Z 4000mhz CL14 specifically  \"CL14-15-15-35\" out of the box. This paired with a Z690 was what I was using and after getting my current Z790 I went with 6000mhz CL36 DDR5. The price for it was reasonable compared to what I've paid for high end DDR4 in the past. I expect to fully upgrade my current DDR5 by the end of the year possibly beginning of next year as I know timings and kits will likely be much much better.\n\nCurrent DDR5 mt/s don't really wow me purely because timings are in most cases double or triple that of DDR4. I mean this was the exact same scenario when we had DDR3 and DDR4 came out. Overtime better kits come along, timings drop and then kits will move into the sweet spot and become a standard.\n\nI plan to look into it more but from what I was doing I saw a +/- 5-7 FPS change going from 4000 CL14 to 6000 CL36"
+    },
+    {
+      "author": "Justifier-MC",
+      "body": "[https://youtu.be/Ou55IExG3Z8](https://youtu.be/Ou55IExG3Z8)"
+    },
+    {
+      "author": "Blake_S2k",
+      "body": "?  No relevance. He's using Alder Lake for one and for two he strapped a water block and liquid cooled the dimms to even touch 7000mhz for the sake of a benchmark and that's very unrealistic and likely unrealiable in a day to day constant use case. That video is basically a year old as well."
+    }
+  ],
+  "60": [
+    {
+      "author": "barackobamafootcream",
+      "body": "[steps 3 and 5](https://www.makeuseof.com/windows-11-game-stutter-fix/)\n\nThese."
+    },
+    {
+      "author": "Zeke_Watts",
+      "body": "Will try"
+    },
+    {
+      "author": "Zeke_Watts",
+      "body": "nope ,didn't work"
+    },
+    {
+      "author": "barackobamafootcream",
+      "body": "I am not sure if dpc latency checker or latency mon still work / exist but might be worth trying these to see if you can get any clues from them as to what is causing the hitches"
+    },
+    {
+      "author": "Zeke_Watts",
+      "body": "Will try"
+    }
+  ],
+  "61": [
+    {
+      "author": "Juice_231",
+      "body": "This is why I love dogs \ud83d\udc36"
+    },
+    {
+      "author": "jay2068",
+      "body": "I thought of that. This might be the answer"
+    },
+    {
+      "author": "jay2068",
+      "body": "Eww windows :) I have triple boot, Win11, Linux and OSX. And I did change that and it didn't matter. If you hold it down for 10 seconds it shuts off."
+    },
+    {
+      "author": "jay2068",
+      "body": "Yeah that didn't work for me. That cat is fat and pushes it  off."
+    },
+    {
+      "author": "jay2068",
+      "body": "Dude that's it! Though I think I need to 3D print this. Off to thingverse to see what's available!"
+    },
+    {
+      "author": "Juice_231",
+      "body": "Actually we got a younger pup that\u2019s kind of a bastard with chewing cables \ud83d\ude0f"
+    }
+  ],
+  "62": [
+    {
+      "author": "Trombone66",
+      "body": "These would be excellent choices. \n\nAlso, if you haven\u2019t already purchased the SSDs, the ones below would be better choices for less money. The NV2 is about twice as fast as the P2 and the KC3000 is about twice as fast as the 980. (It\u2019s even faster than the 980 Pro.)\n\n[PCPartPicker Part List](https://uk.pcpartpicker.com/list/JL7B3y)\n\nType|Item|Price\n:----|:----|:----\n**CPU Cooler** | [Deepcool AK620 WH 68.99 CFM CPU Cooler](https://uk.pcpartpicker.com/product/gvGbt6/deepcool-ak620-wh-6899-cfm-cpu-cooler-ak620-wh) | \u00a370.47 @ Scan.co.uk \n**Motherboard** | [Asus ROG STRIX B760-A GAMING WIFI D4 ATX LGA1700 Motherboard](https://uk.pcpartpicker.com/product/ZMGbt6/asus-rog-strix-b760-a-gaming-wifi-d4-atx-lga1700-motherboard-rog-strix-b760-a-gaming-wifi-d4) | \u00a3236.39 @ Scan.co.uk \n**Storage** | [Kingston KC3000 1.024 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://uk.pcpartpicker.com/product/ccFbt6/kingston-kc3000-1024-tb-m2-2280-nvme-solid-state-drive-skc3000s1024g) | \u00a383.56 @ CCL Computers \n**Storage** | [Kingston NV2 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://uk.pcpartpicker.com/product/3QXJ7P/kingston-nv2-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-snv2s2000g) | \u00a3107.99 @ Box Limited \n | *Prices include shipping, taxes, rebates, and discounts* |\n | **Total** | **\u00a3498.41**\n | Generated by [PCPartPicker](https://pcpartpicker.com) 2023-01-25 14:29 GMT+0000  |"
+    },
+    {
+      "author": "Appropriate_Rent4242",
+      "body": "Thanks, I like the cooler. Just wish that board was mote white but the back plate of my card us silver as well so should blend nicely with that. Cooler is 70 as well. \n\n3070 wasn't really a choice. Nothing else was available. Would've got a 3070ti at least otherwise"
+    },
+    {
+      "author": "Appropriate_Rent4242",
+      "body": "https://uk.pcpartpicker.com/list/hsXB3y someone else kindly put this list together. Cpu cooler is the same so that'd what I'll buy but the mobo is different. Should I go with your one or their one? Also the ssds were purchased in 2021"
+    },
+    {
+      "author": "Trombone66",
+      "body": "The Asus Strix board I chose has better VRMs and slightly better Wi-Fi (Wi-Fi 6 vs 6E).\n\nThe Prime board with the Z790 chipset can be overclocked. \n\nIf you want to overclock your CPU, go with the Prime. If you don\u2019t plan to overclock, go with the Strix."
+    },
+    {
+      "author": "Appropriate_Rent4242",
+      "body": "Also noticed the prime doesn't seem to have bios flashback so will go with the strix. Looks slightly better as well imo."
+    }
+  ],
+  "63": [
+    {
+      "author": "TheAltOption",
+      "body": "Wear and tear doesn't really affect ram. There's nothing to wear out. That's more for everything else they sell. If you bought from Amazon, print the invoice and request an rma. They'll replace it almost guaranteed."
+    },
+    {
+      "author": "retardedboi1991",
+      "body": "I can't be arsed to be honest, its easier to just buy a new kit than faffing around with amazon returns, i think its time for an upgrade anyway."
+    },
+    {
+      "author": "retardedboi1991",
+      "body": "Then i'd probably have to send both sticks which would leave me ramless until they sent me a new kit, which could be a couple weeks, if they even sent me back a new kit at all."
+    },
+    {
+      "author": "TheAltOption",
+      "body": "They won't authorize a return (the A in RMA) unless they intend to send you something back. I sent back a 6 year old PSU because it couldn't handle the transient spikes of a 3090. It was still a solid PSU, but they have me an RMA for it and sent me a better one. Yeah, they will want both sticks so you but the cheapest ddr4 you can get and deal for two weeks while waiting for your new stuff to come in. I dealt with using integrated graphics since the only other PSU I had couldn't run my GPU. Short hassle, but saves you money."
+    },
+    {
+      "author": "retardedboi1991",
+      "body": "ok i'll look into it."
+    }
+  ],
+  "64": [
+    {
+      "author": "LJBrooker",
+      "body": "Not in any meaningful way, no. Maybe at 1080p you'll find a few games that leave you CPU limited, but generally no."
+    },
+    {
+      "author": "FUCKABTCHFACE",
+      "body": "With both gpu or just with rtx 2060?"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "Both should be fine really."
+    },
+    {
+      "author": "FUCKABTCHFACE",
+      "body": "Maybe could I go up to 2070?"
+    },
+    {
+      "author": "LJBrooker",
+      "body": "I think you'd POSSIBLY start to leave some GPU performance on the table at 1080p, but honestly I'd hate to say for sure. You certainly won't be bottlenecked up the ass. I'd say that's a pretty solid pairing really."
+    }
+  ],
+  "65": [
+    {
+      "author": "bulletfever409",
+      "body": "I know AMD have storemi for SSD caching. So might give it a go and see, work has a bunch of spare nvme SSD's"
+    },
+    {
+      "author": "smoothartichoke27",
+      "body": "Well, there you go! Sounds like a plan!\n\n\nIS StoreMi actually fixed these days, though? I remember last trying to give it a go a few years back and it ended up corrupting data regularly. It was certainly great when it worked, though."
+    },
+    {
+      "author": "bulletfever409",
+      "body": "Yeah, done some research and seen a lot of that and no real updates. Fuck it, I'll leave it. Had no issues up until this point for speed really. Just annoying that I paid for something I didn't get."
+    },
+    {
+      "author": "smoothartichoke27",
+      "body": "Well, fwiw, and if you're willing to shell out the extra cash, Primocache works great, try it out free for 30 days and see if it suits your needs."
+    },
+    {
+      "author": "bulletfever409",
+      "body": "I was going to but when I installed primocache it told me my trial had expired. I never remember having it installed before though but I guess I'd have to pay if I wanted to try it. Which with its price is a hard sell."
+    }
+  ],
+  "66": [
+    {
+      "author": "armoman92",
+      "body": "In neither your current, or your desired PC's specs, do you tell us what kind of hard drive or solid-state drive you have in your machine, for your operating system.  You tell the case you have/want though....\n\nlol. Im kidding.\n\nStill, your performance is mostly likely limited by your hard drive (or SDD).  \n\n\\-----\n\nIf you are on a HDD (spinning disk), then you need to at least switch to a SATA SSD.  That's a huge gain.\n\nSwitching to NVME M.2 (if your board supports it, or via a PCIE riser) is the next upgrade, as it is way faster than SATA SSD."
+    },
+    {
+      "author": "maddog16_11",
+      "body": "I have a hdd and an ssd. my os, launchers and random programs are installed on the ssd its only 225gb so I cant fit games on it, I wasn't really aware that caused problems. my mother board doesn't support nvme."
+    },
+    {
+      "author": "armoman92",
+      "body": "On your old PC, do you have [a free PCIE 16x lane](https://www.magewell.com/static/uploads/2015/07/PCIe-x1-x16-1.0.jpg) (like under your GPU)?\n\nIf so, you could get a 4tjh gen M.2 NVME drive, and [this kind of adapter](https://www.amazon.com/AMPCOM-Adapter-40Gbps-Desktop-Speed/dp/B0876MLNY6?th=1).\n\nCheaper upgrade, in the meantime.   \n\n\\----------"
+    },
+    {
+      "author": "maddog16_11",
+      "body": "I do have a spare pcie slot, will the adapter hinder the speed at all? with the cpu how do you tell if the it is going to be bottlenecked the gpu I was thinking about getting the 3060 first but it might get bottlenecked, and is there a noticeable difference if the gpu is bottlenecked?"
+    },
+    {
+      "author": "armoman92",
+      "body": "> will the adapter hinder the speed at all? \n\nPCIE (3.0 and 4.0) NVME is faster than SATA6.  The adapter is passive; all it does is connect the traces. No, it has zero effect on speed.\n\nYou can clone your existing OS onto the new NVME (given there is enough space). Then you can format the old SSD, keep it attached, and use it for faster game storage. \n\nThen later, if you get a new PC, you can pop out the M.2 NVME from the adapter, and slot it directly into the new motherboard. Or you could keep it in the adapter.  The PC doesn't see the M.2 differently (adapter, vs port in the motherboard); both are just PCIE.\n\n\\------------------\n\n>....cpu how do you tell if the it is going to be bottlenecked the gpu \n\nThere are calculators that can tell you.  But, in reality, it really comes down to **the monitor** you are trying to run with the PC (and the games you play)."
+    }
+  ],
+  "67": [
+    {
+      "author": "16golfr",
+      "body": "Honestly take advantage of different markets...\n\nHow much is your PC worth in South Africa? Might be better to sell before you leave then pickup something when you arrive.\n\nThe PC you currently have is worth about $300-$400 cdn max\n\n300 Canadian Dollar =\n3,853.44 South African Rand"
+    },
+    {
+      "author": "AWR197",
+      "body": "Thanks, I was thinking components too but was a bit hesitant because the graphics card only has 2GB VRAM so it has a hard time running more modern games."
+    },
+    {
+      "author": "AWR197",
+      "body": "Well I got it back in 2018 and I paid about 15K for it or $873 US. But this is the whole package like monitor and everything.\n\nGraphics card would cost about 2.5K fresh on the market\n\nRAM about 1K give or take since I'm not sure of the make. I just know I got 16GB.\n\n2TB of storage so about another 1.5K on top of that.\n\nProcessor goes for about 3.2K and the SSD about 1K.\n\nThe rest of the parts I'm not too sure of. \n\nGiven it's a bit old I was estimating between 8-10k for it in total."
+    },
+    {
+      "author": "16golfr",
+      "body": "Exactly! Sell it!\n\nJust some information, a quick search local \"Toronto\"[https://www.facebook.com/marketplace/item/2499026460263992/](https://www.facebook.com/marketplace/item/2499026460263992/)\n\nI'm not recommending that one exactly, but just to get an idea.That one is $300 all you need is a GPU you have a 1050... a 1660S goes for $125-$200\n\nso $500 or less CAD you have a machine capable of playing AAA at 1080p/60fps"
+    }
+  ],
+  "68": [
+    {
+      "author": "possiblynotracist",
+      "body": "If they are that important, contact a professional service and STOP accessing the drive. It\u2019s probably not going to be cheap."
+    },
+    {
+      "author": "Sharp_Mail_1",
+      "body": "Thanks, any suggestions on such a service?"
+    },
+    {
+      "author": "possiblynotracist",
+      "body": "Never used one myself so I don\u2019t have any first hand recommendations. Good luck! \n\nI physically lost the disk that had all our wedding pictures on it, I can relate and wish you the best of luck."
+    },
+    {
+      "author": "Sharp_Mail_1",
+      "body": "Oh man, yup, our wedding photos were also on the same drive that Robocopy deleted along with the kids pics. Have yet to tell the wife. \nIt's frustrating to be able to recover and see the files, yet they are corrupt and won't open!"
+    }
+  ],
+  "69": [
+    {
+      "author": "XxStawModzxX",
+      "body": "It just verified and it's done"
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "As someone who used to work in IT support (for about 10 years) you'll find Google is your friend with these matters. [https://www.howtogeek.com/440339/how-to-back-up-and-restore-your-chrome-bookmarks-locally/](https://www.howtogeek.com/440339/how-to-back-up-and-restore-your-chrome-bookmarks-locally/) is a good enough guide. But search around for how to also back up your passwords and bits. If you're uncertain about how to follow these guides, you may need to find someone who is more confident with computers to do it for you."
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "And you've uninstalled and reinstalled the C++ libraries? Follow the guide from start to finish. By my reckoning if you do it step by step it should (no guarantees) solve your problem. You'll also probably need to reinstall Chrome"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "I have my passwords on a file so that isn't the problem it's just the cookies going away"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "Could it be OneDrive making the chrome chrome from my laptop and my pc intervene with each other?"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "Yes"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "I just realized chrome exe is deleted for no reason"
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "And what happens if you type \"backup cookies chrome\" into a Google search? Or at a push, Bing?"
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "No, it sounds like the installation of Chrome on the affected computer has become corrupted in some way. Without actually being able to see the computer I could only guess why, however ultimately the answer will be the same: wipe and reinstall Chrome. If the executable is gone and the C++ library is causing chrome grief then it's your best bet. Also do a virus scan of your computer. If Chrome died an inexplicable death then alarm bells should be ringing..."
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "Well are your appdata folders for chrome still there? You can still save the cookies before you completely remove and reinstall Chrome."
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "I can't because I don't have chrome"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "I did virus scan nothing came up"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "What should the path appadata for chrome be called?"
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "You're running Windows. You have Edge. Use that."
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "Ok. It was worth doing anyway."
+    },
+    {
+      "author": "Shutthefunkdown",
+      "body": "Google it, but its probably appdata/local/Google/chrome"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "Yep found it I'm backing it up right now"
+    },
+    {
+      "author": "XxStawModzxX",
+      "body": "Chrome doesn't exist when trying to uninstall"
+    }
+  ],
+  "70": [
+    {
+      "author": "Cave_TP",
+      "body": "Stay away from gaming chairs, those things are garbage"
+    },
+    {
+      "author": "Faonir",
+      "body": "I checked and it mentions 136kg, though I think that's the rated weight limit for the gas cylinder, before it loses gas once you sit on it."
+    },
+    {
+      "author": "Faonir",
+      "body": "Are you referring to the Titan specifically? Or gaming chairs in general? If it's the former, what happened? If it's the latter, what happened and with which brand?"
+    },
+    {
+      "author": "Cave_TP",
+      "body": "https://youtu.be/9Yhc6mmdJC4"
+    }
+  ],
+  "71": [
+    {
+      "author": "MineBastler",
+      "body": "I mean - you can feel a difference... but - Make sure your parts are compatible... how do I know? r5 3600x and RAM at 2666Mhz with 3200Mhz sticks.... Anything over 2666 just results in crashes for me (well my mainboard is half dead half alive as well) - but I'm to lazy to get anything new right now (maybe if I upgrade my GPU in a couple if months)"
+    },
+    {
+      "author": "Frank_West08",
+      "body": "Thank you for your concern but I got no Hardware limitations. I only really aske me IF 3600 will make a big difference. I got 3200 hz ram at the moment!"
+    },
+    {
+      "author": "MineBastler",
+      "body": "not really a big difference but it'd be slightly noticeable"
+    },
+    {
+      "author": "Frank_West08",
+      "body": "Enought to buy new ram for 100 Euros?"
+    },
+    {
+      "author": "MineBastler",
+      "body": "That, I don't know - it's not really a big performance boost tbh - from 3200 to 3600 at least - It may make your system a bit snappier over all but I doubt you'd get more than +5 fps in games (if even that)\n\nin my opinion it wouldn't be worth it if your system currently runs fine tbh - but if you'd need more capacity and somehow stumble over some sticks that aren't that much more expensive than their 3200 variant... - go for it (during a sale for example)\n\noh and - *Gr\u00fc\u00dfe aus Deutschland :p*"
+    }
+  ],
+  "72": [
+    {
+      "author": "Astroweeb",
+      "body": "Then a diffrent OS would definitly do the job. windows, linus, take your pick"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "not sure it's that easy but I'll try booting windows from USB"
+    },
+    {
+      "author": "Astroweeb",
+      "body": "Good plan"
+    },
+    {
+      "author": "Astroweeb",
+      "body": "Or you could just sign up to enterprise with a dummy email. Why dont you want to sign up?"
+    },
+    {
+      "author": "Astroweeb",
+      "body": "Had a little Google.\nthe enterprise admin has set the device to force re-enrollment. If that is so, you need to ask the admin to unenroll the device. If not, you can flip it to/from dev mode and that will be enough\n\nhttps://superuser.com/questions/811404/remove-enterprise-enrollment-from-chrome-os"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "just got like 10 of these from a company and they haven't seemed to have deregistered them which is a pain"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "u need a valid email for it, probably from the companies domain"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "I've tried a couple emails btw"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "ok had a go at this but it's for a chrome book and it requires u to hit a refresh key which I don't have at all as I'm using an external keyboard"
+    },
+    {
+      "author": "Astroweeb",
+      "body": "Could try using the on screen keyboard?\nSo what's the story here, how and why do you have a ton of chromebooks without there keyboards?"
+    },
+    {
+      "author": "ncolyer11",
+      "body": "on screen keyboard doesn't have it either and they're chromeBOXES not chromebooks"
+    }
+  ],
+  "73": [
+    {
+      "author": "ANTIANONIMI2",
+      "body": " One of my friends had the \" same \" problem ( artifacts on an MSI 2070 super Ventus ) you can try replacing the thermal paste on the GPU if nothing in the comments works ( reinstalling drivers, reseating GPU, trying another PCI slot another cable, another port from GPU, turn down the OC settings if you have some ) if nothing work ... sorry to say GPU is dead"
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "I\u2019ve got a 2070 that\u2019s been working fine, I have no idea why it would die like that"
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "Gonna buy a new displayport cable rn"
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "So I don\u2019t have a monitor, but I will try an hdmi. Couldn\u2019t find a displayport cable at 9pm. Who knew places would be closed haha"
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "Might be time. I just bought a GIGABYTE 3070 off newegg to use, but the 1060 does the job for youtube and whatnot"
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "haha, i wish\n\nbut yeah, diagnosed the dying gpu, looking into seeing if I can crack it open to figure out what failed partly because curious partly because potential fix. I ordered a 3070 off newegg so if I can't fix it(likely case) I'll have something besides an old 1060 I've got for these things."
+    },
+    {
+      "author": "DIGITAL_Reddit",
+      "body": "It was. Found that out by swapping it out for my old 1060. Ordered a 3070, guess the 2070 said \u201ctime to upgrade, byotch\u201d."
+    }
+  ],
+  "74": [
+    {
+      "author": "Westdrache",
+      "body": "Ok quick step by step.\n\nYou Google intel Rapid storage driver, go to the intel.com \n\n\nYou download f6vmdflpy-x64.zip\n\n\nYou unpack it and put it on your windows install stick.\n\n\nYou boot from your install stick until you are at the second picture you posted.\n\nWhen you are at the second picture, click on the little disc icon \"load drive\" \n\nNow you'll see your sticks folder structure, go to the folder you unpacked and copied to your stick\nGo to F6/vmd and there should be only one folder, go to that and choose the file iaStoreVD.cat     \n\n\n\n\nThat should load the driver and you should see your discs"
+    },
+    {
+      "author": "RookCustodian",
+      "body": "The files for the drivers aren't showing up unfortunately. It just has the files from install media."
+    },
+    {
+      "author": "Westdrache",
+      "body": "Mmh can you post a pictur of the folder structure inside of the stick? Did you maybe forget to unzip the file you download? :D I am not 100% sure but like 95% sure this should work\n\nEdit: you can also try to deactivate intel Rapid storage in your bios (first pic) but to be honest I do NOT know how badly this might screw your performance"
+    },
+    {
+      "author": "RookCustodian",
+      "body": "https://preview.redd.it/2k1c62z698ea1.jpeg?width=3468&format=pjpg&auto=webp&v=enabled&s=712a62bc0f2e96a672a166eb0847e6bad2b51a4b"
+    },
+    {
+      "author": "Westdrache",
+      "body": "And at some point the folder is just empty when you dig deeper into f6flpy-x64-vmd?\n\nThat's weird in that case I am also sadly out of ideas I am sorry :/"
+    },
+    {
+      "author": "RookCustodian",
+      "body": "Yeah unfortunately"
+    },
+    {
+      "author": "Westdrache",
+      "body": "Sadly I am out of ideas than."
+    },
+    {
+      "author": "Westdrache",
+      "body": "Ah okay last idea do you have an Intel or an AMD CPU? If it's AMD you might have picked the wrong driver if it's intel I am out"
+    },
+    {
+      "author": "RookCustodian",
+      "body": "It's Intel"
+    },
+    {
+      "author": "RookCustodian",
+      "body": "I just don't understand how can the BIOS recognise its there but not make it bootable and not show up in the windows menu"
+    }
+  ],
+  "75": [
+    {
+      "author": "orz_nick",
+      "body": "When you delete stuff, you aren\u2019t getting rid of the data only telling your file system that the files no longer exist. When new data is added, it may overwrite those deleted file locations making them largely irrecoverable. However if the drive is not filled up much after deleting files, then usually you can recover stuff no problem. If you are trying to really delete something, you need to use programs that will write over disk data with 0\u2019s or 1\u2019s or random characters etc."
+    },
+    {
+      "author": "DriftingBenji",
+      "body": "I see, I had read that elsewhere but it said SSDs work differently. So it can be recovered with software, any suggestions?"
+    },
+    {
+      "author": "orz_nick",
+      "body": "I use the EaseUS suite for formatting wiping and recovery, always had good luck with using those to recover files and set up new drives"
+    },
+    {
+      "author": "DriftingBenji",
+      "body": "Perfect, thank you so much!"
+    }
+  ],
+  "76": [
+    {
+      "author": "StatisticianTop8813",
+      "body": "U can always add a ssd just for storage"
+    },
+    {
+      "author": "TTuxlion",
+      "body": "Thank you!"
+    },
+    {
+      "author": "StatisticianTop8813",
+      "body": "I have one I keep my os and files on and games on a m.2"
+    },
+    {
+      "author": "TTuxlion",
+      "body": "I wanted to try and keep everything on an NVME but I'll look at an SSD"
+    }
+  ],
+  "77": [
+    {
+      "author": "John_Mat8882",
+      "body": "2600k can definitely fit. The trouble is how much you would spend for it, if the CPU has still life left in it and if your cooler can handle it. But again don't expect it to fare much better."
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "Thanks  , i have to risk idk"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "if you spend like 20-30 bucks ok, anything more really, put it towards a new system.. or more ram if you have only 8Gb or a single stick."
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "Ye i have 14gb ram"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "14? How? Use two equal sticks or 4 equal sticks. If you have uneven ram (8+4!?) that's a possible cause of the lags."
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "It has 4 slots ,3 rams with 4gb and 1 ram has 2 gb"
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "Maybe , my pc works super for those specs no laag , but maybe u right"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "When you use uneven ram modules, you have a part of ram that works in single channel mode, or flex mode. Not good for gaming. If you manage get rid of that 4th 2gb stick and replace it with another 4gb. Or do some tries, there's a high possibility that the system could behave better by running 2x4gb than your odd ram configuration."
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "Okay thanks bro didnt know that i change it today or tomorrow"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "If you have a manual see how to populate the slots. Generally is by looking at the CPU socket\n\nCPU socket/empty slot/ram stick/empty/ram stick/empty.\n\nTry to use only 2 sticks of 4gb. If not try to get a 4th stick with the same rating and speeds of the other 3 you have. \n\nUse CPU-z (from cpuid.com) memory/SPD tab of that app to identify the ram you have"
+    },
+    {
+      "author": "ExtremeEchidna5226",
+      "body": "Okay thanks i install nos"
+    }
+  ],
+  "78": [
+    {
+      "author": "bartico",
+      "body": "Atm i7-3930k, but in next month I'm gonna buy either Ryzen 5800x3D or I5-13600KF, depending what will be the best bang for the buck."
+    },
+    {
+      "author": "Mornerth",
+      "body": "Shit! They're already here!\n\nhttps://i.redd.it/8unvbiqfz4ea1.gif"
+    },
+    {
+      "author": "bartico",
+      "body": "Sheesh, that's true, I guess I need to start posting from PC rather than from the phone."
+    },
+    {
+      "author": "bartico",
+      "body": "You had me scared for a moment .-."
+    }
+  ],
+  "79": [
+    {
+      "author": "Imyoungcyrus",
+      "body": "You saw that your cpu reached 95 degrees and you cleaned it with compressed air? I am really confusion"
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "https://preview.redd.it/rj7otu2s18ea1.jpeg?width=3024&format=pjpg&auto=webp&v=enabled&s=4a62231be6f28e13f55040743276628d420f4ba1\n\nYou have any ideea what is this? This wierd..idk.. grease"
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "I cleaned my PC (fans, cpu cooler, filters) with compressed air and i changed thermal paste on cpu :)"
+    },
+    {
+      "author": "Imyoungcyrus",
+      "body": "Gotcha. Ok just wanted to make sure. And your video card is put in on the first slot of course? Nothing interfering with the fans to stop it from spinning?"
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "Yes, first slot\n\nhttps://preview.redd.it/3dt5zqmne7ea1.jpeg?width=1536&format=pjpg&auto=webp&v=enabled&s=5bb4e07ae23c80391563b348bee7f60c0c923c49"
+    },
+    {
+      "author": "Imyoungcyrus",
+      "body": "Ok so a couple things for future. The amd stock coolers arent the best. Invest in a coolermaster, or look for what might be good for your cpu. Your gpu has quite a bit of sag, a good ol 10 amazon buy and that would be a easy fix. But for now the gpu. Have you checked msi\u2019s afterburner?"
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "No i didn't. It's ok to turn on the pc without gpu? my gpu gets very hot after 10 minutes"
+    },
+    {
+      "author": "Imyoungcyrus",
+      "body": "Actually dont, please recheck if you have gpu all the way in, and your psu cables to the gpu."
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "Ok, i go to check my cables"
+    },
+    {
+      "author": "Resident_Victory7291",
+      "body": "my cables are ok :("
+    }
+  ],
+  "80": [
+    {
+      "author": "Doom-Slay",
+      "body": "Wait you can Control your Gf through Steam?"
+    },
+    {
+      "author": "Parking-Cow-1487",
+      "body": "![gif](giphy|624P6yxUw2HwT9Sxs6)"
+    },
+    {
+      "author": "Parking-Cow-1487",
+      "body": "What\u2019s your top Stat?"
+    },
+    {
+      "author": "Parking-Cow-1487",
+      "body": "https://preview.redd.it/2csbcj9b66ea1.jpeg?width=828&format=pjpg&auto=webp&v=enabled&s=c670c047e5bacceb72f905f071788cdc2523f8f7"
+    },
+    {
+      "author": "Doom-Slay",
+      "body": "Its Coloring Pixels . At 48%"
+    },
+    {
+      "author": "Doom-Slay",
+      "body": "https://preview.redd.it/9avroaer66ea1.jpeg?width=1080&format=pjpg&auto=webp&v=enabled&s=2841c68a21aaaa574ecb0bbe5801bd0639d24eed"
+    },
+    {
+      "author": "Parking-Cow-1487",
+      "body": "Prove it."
+    },
+    {
+      "author": "Parking-Cow-1487",
+      "body": "Yikes yike\n\n![gif](giphy|p4cqQ0gUIMcU0)"
+    },
+    {
+      "author": "Doom-Slay",
+      "body": "https://preview.redd.it/yas010ex66ea1.png?width=1080&format=pjpg&auto=webp&v=enabled&s=356cb6fda118ffaee5385efcce03e15e674d328b"
+    },
+    {
+      "author": "Doom-Slay",
+      "body": "Now I am sad."
+    }
+  ],
+  "81": [
+    {
+      "author": "Verdreht",
+      "body": "There'll be more to it than that, is it the MSI Z270 gaming plus, MSI Z270 a pro?"
+    },
+    {
+      "author": "delirio91",
+      "body": "Thank you. I appreciate all of your help with this. I do see some of the other ones and they're easier to see. Just this one stumped me."
+    },
+    {
+      "author": "delirio91",
+      "body": "Yeah I have a pretty accessible case. But I also have long tweezers/forceps from my instrument repair tools."
+    },
+    {
+      "author": "delirio91",
+      "body": "MSI Z270 Gaming M3 (Enthusiast)"
+    },
+    {
+      "author": "Verdreht",
+      "body": "Red = power sw (any orientation)\n\nBlue = power LED+\n\nGreen = power LED-\n\nhttps://preview.redd.it/axkey7xt46ea1.jpeg?width=698&format=pjpg&auto=webp&v=enabled&s=2bda622d3dc2b3f379bb48d2f418710a3667b8c9"
+    },
+    {
+      "author": "Verdreht",
+      "body": "https://preview.redd.it/diukqmqv46ea1.jpeg?width=1033&format=pjpg&auto=webp&v=enabled&s=8c369bafd1273f9b7f5a6813d9e255e16acacb5a"
+    }
+  ],
+  "82": [
+    {
+      "author": "RookCustodian",
+      "body": "I changed them to sata 3 and 4 and still not showing up"
+    },
+    {
+      "author": "armoman92",
+      "body": "On the screen [that looks like this](https://i.stack.imgur.com/875Hh.jpg), in the installer?  Is this where nothing shows up?"
+    },
+    {
+      "author": "armoman92",
+      "body": ">Asus z790 p Motherboard\n\ntry a different SATA cable too, just to be sure.  Also, try another SATA power cable and/or port on the PSU.\n\nSadly, without pro equipment, you have to do rule out some stuff by swapping."
+    },
+    {
+      "author": "RookCustodian",
+      "body": "Exactly yes."
+    },
+    {
+      "author": "RookCustodian",
+      "body": "Yes I've already changed the sata power cable twice."
+    },
+    {
+      "author": "armoman92",
+      "body": "Ok, well here is our differential diagnosis (in no particular order):\n\n1. The SSD drive itself is defective\n2. The SATA controller (one little chip) on the motherboard is defective\n3. SATA power rail on PSU is defective\n4. Deeper issue, motherboard defective\n5. The Windows installer you made is corrupted\n\n\\---------- from above ------------\n\n1. You will need to test using another SATA drive, one you know does work.  Just get up to the 'drive-selection' screen of the installer, and see if anything shows up.\n2. Again, with a known working SATA drive, try various SATA ports on the motherboard. Having another know working motherboard to cross-check helps.\n3. Again, with a known working SATA drive, you will need to test.  Having another know working motherboard and PSU to cross-check helps.\n4. contact asus support\n5. Try to make another installer.  Probably not the issue, but it doesn't hurt.\n\nSome other stuff to try:\n\n* In the BIOS, go to the \"Boot\" setup screen.  Do you see the SSD listed there.?\n* In the Windows USB installer, launch command prompt (SHIFT + F10), and use the [DISKPART tool to examine the drives connected to the PC](https://youtu.be/CgmU8mEgoD0?t=204).  Just \"LIST DISK\" and see what shows up."
+    }
+  ],
+  "83": [
+    {
+      "author": "thelebuis",
+      "body": "Personally I would get the faster cheaper card with more vram"
+    },
+    {
+      "author": "dragondace18",
+      "body": "Update: got the 6800xt, happy I spent less and don\u2019t think I would\u2019ve noticed much of a difference in performance. However, the AMD software is WAYYYY better than nvidias! Hope anyone else on the fence will find this helpful!"
+    },
+    {
+      "author": "thelebuis",
+      "body": "Personally would not be willing to get a shower card to get ray tracing in a couple of games"
+    },
+    {
+      "author": "thelebuis",
+      "body": "This is all there is to it"
+    }
+  ],
+  "84": [
+    {
+      "author": "StephenBaker01",
+      "body": "Any particular reason why you swapped away from the Corsair AIO?"
+    },
+    {
+      "author": "Sota77",
+      "body": "Thanks! I think it's the camera angle because the G500A comes with an anti-sag bracket that's installed in the back of the case."
+    },
+    {
+      "author": "Sota77",
+      "body": "Yeah, it's surprisingly efficient, basically as good if not better than my 3080, which I gave to my nephew. Also, runs like 15-20 degrees cooler."
+    },
+    {
+      "author": "Sota77",
+      "body": "I could have swapped it over to the new case and top mounted it, but I was pretty committed to the idea of going for the dark look and putting in a Noctua NH-D15. I decided to give my old case and AIO to a friend who is building his kid a PC this spring."
+    }
+  ],
+  "85": [
+    {
+      "author": "Primary_Pomelo1705",
+      "body": "That\u2019s awesome!! It\u2019s really sad that Evga doesn\u2019t make GPUs anymore"
+    },
+    {
+      "author": "seamanplays",
+      "body": "Haha i hope si too"
+    },
+    {
+      "author": "seamanplays",
+      "body": "Yeah luckily it did. I had a full midi tower and i bought a future proof 850 PSU so it was just a swap and driver download and it was good to go!"
+    },
+    {
+      "author": "seamanplays",
+      "body": "Yes, in time spy 3Dmark benchmark i went from an average 32 fps to 70 fps. I haven't even overclocked it yet. I can run all of my games ay 1440p ultra"
+    }
+  ],
+  "86": [
+    {
+      "author": "SeaGoose",
+      "body": "I would, now this is just my opinion, shutdown, unplug the power, hold down the power button for 3 seconds to drain all the power, and then re-seat all memory and cards, retighten all connectors, and then once you have completed that plug the power back in and wait 10 seconds for the system to re-energize and process anything BIOS related. Then I would initiate a cold boot bmand make sure the monitor wasn't in standby mode and watch the boot sequence and monitor the light.  If the light stays off, you may have had a loose connection which is know to happen over time due to the fans sometimes causing mild cavitation. Again, this is opinion and not instructions, and there is no warranty on my opinion."
+    },
+    {
+      "author": "TheBorgCollective01",
+      "body": "I can check. Thanks"
+    },
+    {
+      "author": "TheBorgCollective01",
+      "body": "Even if it doesn\u2019t fix it, it wouldn\u2019t hurt to try. Thank you! I\u2019ll do this now"
+    },
+    {
+      "author": "TheBorgCollective01",
+      "body": "Red light is no longer there! Thank you again"
+    },
+    {
+      "author": "SeaGoose",
+      "body": "Cavitation is a weird issue that is an old school issue from back in the day. Glad this issue is resolved for you!"
+    }
+  ],
+  "87": [
+    {
+      "author": "Sinnerofsorrow",
+      "body": "Yeah I'm having a seizure trying to figure this out lmao he's running Bedrock vanilla with no resource or texture packs. Everything is updated too Windows his GPU drivers idk :(("
+    },
+    {
+      "author": "StrayWalnut",
+      "body": "Hopefully someone comes in with a fix. I think I\u2019ve expended all my helpful guess :/\n\nAt least GTA is running smooth!!"
+    },
+    {
+      "author": "Sinnerofsorrow",
+      "body": "Thank you for the support anyway! I appreciate it friend!"
+    },
+    {
+      "author": "StrayWalnut",
+      "body": "No problem brother!"
+    }
+  ],
+  "88": [
+    {
+      "author": "Blasphemy4kidz",
+      "body": "I'd prob check on your CPU temps first..."
+    },
+    {
+      "author": "Crazy_o_O",
+      "body": "SP016GBLFU320B22\n\nWhen I open bios it doesn't give a load xmp profile like his, but I did see it did have 2 available xmp slots in the ram, It just didn't give me anything that I could open or use, just information\n\n6.0-6.4 says dont if im using summit? Does jumping to 7.0 skip that?"
+    },
+    {
+      "author": "Crazy_o_O",
+      "body": "Whats wrong with it?"
+    },
+    {
+      "author": "Blasphemy4kidz",
+      "body": "Well [according to AMD](https://www.amd.com/en/product/1236) you're at maximum operating temp (95 degrees). Anything higher and you risk damage.\n\nNVM I just realized you are using 'murica units and it's totally fine. Ignore me."
+    }
+  ],
+  "89": [
+    {
+      "author": "Anonymous_v8",
+      "body": "I have this and am looking to sell it. Its used but in near perfect condition minus some minor cosmetic flaws. How much could i sell it for?"
+    },
+    {
+      "author": "Destroyed_Bullet",
+      "body": "Honestly I wouldn't expect to get anything near $700. Test the waters and ask for something you think is reasonable considering those cosmetic flaws. Remember an Xbox and PS5 are about $500 these days and going back into stock and unfortunately that laptop is nowhere near as powerful as either of those."
+    },
+    {
+      "author": "Anonymous_v8",
+      "body": "With the hardware, how much do you think i could get for it? Also when i say minor cosmetic flaws, i mean a couple scratches on the lid that don\u2019t affect performance"
+    },
+    {
+      "author": "Destroyed_Bullet",
+      "body": "$400"
+    },
+    {
+      "author": "Anonymous_v8",
+      "body": "Thats better than what i was thinking. I was thinking about $200 - $400"
+    },
+    {
+      "author": "Destroyed_Bullet",
+      "body": "Good luck, friend."
+    }
+  ],
+  "90": [
+    {
+      "author": "7800x3dismyjesus",
+      "body": "Imo the only reason to go to windows 11 is if you have a CPU with e cores or one of the Zen 4 3d vcache CPUs with 2 CCDs when they release"
+    },
+    {
+      "author": "Andrewz_Best",
+      "body": "Thank you for replay, I will stay more to see what others say."
+    },
+    {
+      "author": "Andrewz_Best",
+      "body": "Ok I will fresh install windows 10 today thanks for reply"
+    },
+    {
+      "author": "Andrewz_Best",
+      "body": "I reinstalled windows 11 from stick but is the same so I will go for windows 10."
+    },
+    {
+      "author": "Andrewz_Best",
+      "body": "When that windows will release I will have a newer and better pc\ud83d\ude05"
+    },
+    {
+      "author": "7800x3dismyjesus",
+      "body": "Only noticed that now lol"
+    },
+    {
+      "author": "Andrewz_Best",
+      "body": "Lool"
+    }
+  ],
+  "91": [
+    {
+      "author": "Reynholmindustries",
+      "body": "Don\u2019t need to, the firmware on the board the card is plugged into tricks your computer into thinking it\u2019s bigger. Eventually it will write over older data. You\u2019ve been scammed\u2026"
+    },
+    {
+      "author": "-RaiderLeader666-",
+      "body": "I'm aware I've been scammed but i can still move things to it so if i can figure out the actual size I can find a way to overwrite it and use it"
+    },
+    {
+      "author": "Reynholmindustries",
+      "body": "Find H2testw on the web\n\nTp link support shows how to use [software](https://www.tp-link.com/us/support/faq/2592/#:~:text=Install%20the%20H2testw%20on%20your,capacity%20of%20your%20SD%20card.)\n\nBut I honestly wouldn\u2019t trust it. Maybe as a thumbdrive to have a copy of data. You\u2019ve no idea of the quality of the card they threw in there\u2026"
+    },
+    {
+      "author": "-RaiderLeader666-",
+      "body": "This is gonna take a while but thank you"
+    },
+    {
+      "author": "Reynholmindustries",
+      "body": "No problem! Better to figure it out now instead of down the road."
+    },
+    {
+      "author": "-RaiderLeader666-",
+      "body": "Exactly why i was asking"
+    }
+  ],
+  "92": [
+    {
+      "author": "supadupanova",
+      "body": "I\u2019ve done that in both PCIE slots, & have reseated the ram"
+    },
+    {
+      "author": "twoscoop",
+      "body": "Tried a new cable?"
+    },
+    {
+      "author": "supadupanova",
+      "body": "I have, both new display cable & new power cables for the gpu"
+    },
+    {
+      "author": "twoscoop",
+      "body": "When did you get the GPU? From where?"
+    }
+  ],
+  "93": [
+    {
+      "author": "maxtheginger_",
+      "body": "MB-x570 Aorus ultra WiFi r1.1 CPU- Ryzen 9-5900x Ram-2x16 corsair vengeance ddr4 3600 cl16 CPU cooler- EK D-rgb 360 Case- Corsair 5000D airflow Power supply- evga p2 1000w\n\nI have double checked all connections and cpu pin contact. When I turn power supply on I get a flashing light and the case power button does nothing."
+    },
+    {
+      "author": "Elfarma",
+      "body": "First of all, move the RAM to the second and fourth memory slots.\n\nSomething is probably shorting the motherboard to ground. Most commonly:\n\n* Standoffs\n* Power cables used from a different power supply\n\nOther possibilities:\n\n* One of the two motherboard power connectors is not (fully) plugged in on the PSU side\n* PSU is faulty (try the paperclip test)\n* Bent CPU pins\n\nWeird stuff:\n\n* Try unplugging the single 4pin CPU power cable (ATX\\_12V1)"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "I switched the ram and now one of the fans is flashing green after the power supply was turned off and unplugged"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "Did the paper clip test and the fan did not spin. Could the faulty psu have damaged the board"
+    },
+    {
+      "author": "Elfarma",
+      "body": "Set the ECO switch to OFF on the PSU first and try the test again. Triple check that the 24pin connectors (there are 2 MB receptacles on the PSU side) are fully plugged. If that still fails, probably a dead PSU."
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "I turned eco mode off and the fan ramped up\u2026"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "It\u2019s being quite weird, when i started it up with the 24 pin mb connector unplugged, the ram and fans lit up, but then turned it off, plugged it back in and it went back to nothing"
+    },
+    {
+      "author": "Elfarma",
+      "body": "Wait.. Were you trying the paperclip test while the other connectors are plugged to the PC? That can put the motherboard at risk.\n\nWith that being said, it sounds like you either need to fully plug the 24pin connector, or that the front panel power button is defective. Try plugging the 24pin connector back (make sure it's snuggly fit). Use a screw driver or a metal object to short the power button pins (on the motherboard). Be careful not to touch anything else or you risk damaging the motherboard."
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "I unplugged everything from the psu side to do the paper clip, figured out the psu worked, and plugged everything back in, I just forgot to plug the 24 into the mb. I turned the power supply on and the rgb and fans booted, I didn\u2019t even need to hit the case power button, but I realized the 24 was unplugged, so I shut it down, plugged it back in, and I\u2019m back where I started"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "Shorting does nothing"
+    },
+    {
+      "author": "Elfarma",
+      "body": "Have you tried unplugging the 4pin CPU power connector? Try that. Also, try unplugging the 8pin CPU power connector next to it. It seems there is a problem with that connection."
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "I unplugged the rgb controller and works fine now, I wanted to thank you for all your help"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "Yeah I unplugged the 4 earlier, I\u2019ll do both now"
+    },
+    {
+      "author": "Elfarma",
+      "body": "You're welcome, glad it works now!"
+    },
+    {
+      "author": "maxtheginger_",
+      "body": "Nothing different, the only sign of life is when the 24 pin is unplugged"
+    },
+    {
+      "author": "Elfarma",
+      "body": "You can replug the 8+4pin connectors.\n\nSomething on the motherboard is causing a short. I suggest you unplug all the RGB and fan connectors and try again. Then unplug all the USB internal connector and try again."
+    }
+  ],
+  "94": [
+    {
+      "author": "kwanye_west",
+      "body": "keychron"
+    },
+    {
+      "author": "SinglSrvngFrnd",
+      "body": "The K10 is like the only option that comes close and I don't know how silent the brown switches are."
+    },
+    {
+      "author": "kwanye_west",
+      "body": "you could always replace them with switches of your choice if you get the hot swap one"
+    },
+    {
+      "author": "SinglSrvngFrnd",
+      "body": "I guess I'll have to. It just surprises me that this set of wants isn't more common. I can't be the only person on planet earth that doesn't want to spend $400 customizing a keyboard."
+    },
+    {
+      "author": "kwanye_west",
+      "body": "don\u2019t worry it\u2019ll be nowhere near $400. the board itself is $80ish? a set of switches probably $50 if you don\u2019t get the super high end ones. \n\ni recently got a set of linear blacks for TKL and it only cost me $30."
+    }
+  ],
+  "95": [
+    {
+      "author": "reddit_equals_censor",
+      "body": "just in regards to the mouse.\n\nthat mouse seems to be a meme.\n\nthe sensor isn't centered below the below, but is off the side??? wtf and it has adjustable weights. a joke, that no senseful mouse company does anymore (thank goodness)\n\nit actually does use a laser sensor mentioned on the website.\n\nno one is using laser sensors anymore. all the top sensors are optical.\n\nand the best value optical for a mouse like this should be the pixart 3360 if i remember correctly.\n\nso the sensor/firmware might not be flawless and  might have tracking issues.\n\nif you REALLY REALLY REALLY need those extra side buttons, then maybe??? but there certainly should be better options out there with those side buttons.\n\nalso dpi numbers are meaningless and razer produces pure garbage, that falls apart after a months usually and is overpriced.\n\npc part picker mentions that mouse at 46 dollars. some videos talk about it like a 30 us dollar mouse. either way i'd say avoid completely.\n\nif you need an \"mmo\" mouse rtings has a list:\n\n[https://www.rtings.com/mouse/reviews/best/mmo](https://www.rtings.com/mouse/reviews/best/mmo)\n\nthere is a cheapest one the evga one costs 42 us dollars rightnow.\n\nand if you DON'T need those extra buttons, then i'd suggest much lighter mice.\n\nof course a mouse can get replaced easily later on, but hey thought i'll mention it.\n\n\\_\\_\\_\n\nfor the ssd i'd get a TLC ssd with a dram cache, instead of one without,  but not a big thing."
+    },
+    {
+      "author": "_Chibyk_",
+      "body": "i was thinking of going with an aio at first but then I saw some news about how it could destroy the gpu if it leaks so i got paranoid, probably gonna upgrade to an aio when i have enough money to replace the system  **\ud83d\ude2d** \n\n&#x200B;\n\nI heard that some companies reimburse whole systems if they leak but I'm not sure if that's true\n\n###"
+    },
+    {
+      "author": "_Chibyk_",
+      "body": "This was the mouse i was thinking of getting but the parts picker didn't have it\n\nlmk what u think\n\n[https://www.amazon.com/gp/product/B0B66RHD7B/ref=ox\\_sc\\_act\\_title\\_9?smid=A2N5Q13T20FFT2&psc=1](https://www.amazon.com/gp/product/B0B66RHD7B/ref=ox_sc_act_title_9?smid=A2N5Q13T20FFT2&psc=1)"
+    },
+    {
+      "author": "reddit_equals_censor",
+      "body": "i can't find any review on it, or anything on the sensor the specs are mentioning.\n\ni would advice against it for it being wireless already. i would expect lots of variance in latency from cheap wireless mice + they DO cause health issues, because wireless radiation does (can provide studies/references if needed)\n\nalso if it uses a battery (99% of wireless mice do), then have fun replacing it in maybe 3 years time for example, when the charge gets worse enough. while of course a well build wired mouse should last you 8+ years easily one would hope and potentially longer. i mean you are only wearing out the switches and the rest should be built reliable enough to not break down on a wired mouse.\n\namazon mentions product weight at 4.8 ounches, which would be 136 grams. the reddragon website has NO mention about weight in the \"spec sheet\" for it.\n\nfor reference the mouse, that i am currently using the endgame xm1r (might be way too expensive for you, don't worry, just as a reference) weighs 68.6 grams and that is considered heavy these days for mice.\n\nor to put it differently. the mouse you want to get weighs DOUBLE the amount, that a standard lightweight mouse weighs these days.\n\nso assuming your idea with wireless is, that not having a cable will make the mouse feel lighter and freeer, well.... forget that with this one, as said it weighs DOUBLE the weight of any half decent mouse.\n\nyou should have a VASTLY better experience getting any of these mice:\n\n[https://www.rtings.com/mouse/reviews/best/lightest](https://www.rtings.com/mouse/reviews/best/lightest)\n\n(except the razer one, that one will break and the software is spying on you, etc...)\n\nand it also doesn't have to cost more.\n\n<looks at random one, the roccat kone pro weighs 62.2 grams WIRED. costs on amazon 40 us dollars rightnow. (sale from 80 dollars usually it says, idk? should be really good value)\n\nreview on that one:\n\n[https://www.techpowerup.com/review/roccat-kone-pro/7.html](https://www.techpowerup.com/review/roccat-kone-pro/7.html)\n\nso highly recommended one and the software is OPTIONAL and data is saved onto the mouse:\n\n> When applied, all settings are saved to the on-board memory, so the software does not need to be running (or be installed) all the time. \n\nno idea if the shape is for you. go through the recommended cheap options on the rtings best list for a start i guess, but yeah.\n\njust a random mouse, that costs less and will ABSOLUTELY CRUSH the wireless garbage one you thought of getting.\n\nand as mentioned and said differently it \"will feel more wireless-y\" than the wireless one, because that one weighs HALF AS MUCH as the wireless one and probably also has better mouse feet.\n\ni hope this helps."
+    }
+  ],
+  "96": [
+    {
+      "author": "shirtlesssam",
+      "body": "Ok, totally understand that, hope the other upgrades get you where you want for fps, I've been wanting to upgrade to a 40 series myself, but honestly just keep getting lost on am5 and the cost of ddr5 vs 13th Gen and the idea it's a dead end in terms of future upgrades."
+    },
+    {
+      "author": "C-_-Fern",
+      "body": "Thanks for your help! And happy cake day!"
+    },
+    {
+      "author": "C-_-Fern",
+      "body": "Yaa and set the scaling to GPU"
+    },
+    {
+      "author": "C-_-Fern",
+      "body": "Yeah it\u2019s always a fight with myself of when or if and what to upgrade to lol"
+    }
+  ],
+  "97": [
+    {
+      "author": "mackerson4",
+      "body": "What exactly does the power supply/adapter do?  \nOtherwise this looks pretty decent, thank you."
+    },
+    {
+      "author": "RunningLowOnBrain",
+      "body": "*very easy"
+    },
+    {
+      "author": "RunningLowOnBrain",
+      "body": "It powers the mic.\n\nWithout it, the mic won't get any power, and thus will not work.\n\nUse the XLR to XLR cable to go from the mic to the input on the interface (power adaptor) and the XLR to 3.5mm cable from the output on the interface to the mic port on the back of the PC."
+    },
+    {
+      "author": "mackerson4",
+      "body": "Ohhh okay thank you."
+    }
+  ],
+  "98": [
+    {
+      "author": "N00b22",
+      "body": "Is that in USD? Here in CR it's at around 250 dollars"
+    },
+    {
+      "author": "Tight-Tackle4386",
+      "body": "It's a mix of both I'd say"
+    },
+    {
+      "author": "Tight-Tackle4386",
+      "body": "That's in euros, found one in the same store for 250\u20ac tho"
+    },
+    {
+      "author": "N00b22",
+      "body": "Yeah it's overpriced. Get a 3070 instead"
+    },
+    {
+      "author": "Tight-Tackle4386",
+      "body": "I found a 1660 Super for 250 probably gonna take that my budget is around 300\u20ac max"
+    }
+  ],
+  "99": [
+    {
+      "author": "DeerNo4078",
+      "body": "G sync on + v sync on + fame limit set to ~3fps below your refresh rate. Leaving v-sync on ensures frametime variances do not result in tearing. \n\nhttps://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/14/"
+    },
+    {
+      "author": "AnxiousShoulder2654",
+      "body": "yeah thats not my question read it again"
+    },
+    {
+      "author": "DeerNo4078",
+      "body": "Yeah, thats your answer. read it again"
+    },
+    {
+      "author": "AnxiousShoulder2654",
+      "body": "i did m8, your on about g sync, im on about v sync"
+    },
+    {
+      "author": "DeerNo4078",
+      "body": "Did you read past the first bit about g sync, where your question is answered, m8? And maybe check out that super detailed link i posted where your question is answered in excruciating detail, m8?"
+    }
+  ],
+  "100": [
+    {
+      "author": "EliteAlienGrey",
+      "body": "Just my opinion but that power supply seems kind low?"
+    },
+    {
+      "author": "Charcharbinx69",
+      "body": "Idk man it\u2019s just what came in the prebuilt. It still doesn\u2019t turn on when I take the gpu out so the low wattage wouldn\u2019t be a problem I wouldn\u2019t think. Also it ran fine beforehand. Thanks for the suggestion though."
+    },
+    {
+      "author": "EliteAlienGrey",
+      "body": "I would start by getting the model off the motherboard and go to the manufacturers website and get details on the specs. Also check the requirements for the gpu. Does it still run without the new gpu?"
+    },
+    {
+      "author": "Charcharbinx69",
+      "body": "That would be a good idea I\u2019ll look into it thanks."
+    }
+  ],
+  "101": [
+    {
+      "author": "kor34l",
+      "body": "it's the RAM.  It's always the RAM.\n\nchange the slots they are in, try one stick, try slowing them down in BIOS, etc.\n\nOver the years I've encountered, over and over, tons of tiny strange compatibility issues with motherboards and supposedly compatible RAM.  Shit has been finicky since the 90's."
+    },
+    {
+      "author": "anchunger",
+      "body": "Cool, I\u2019ll give this a shot and let you know"
+    },
+    {
+      "author": "anchunger",
+      "body": "I have re-slotted them before but I\u2019ll try slowing them down next. Thanks!"
+    },
+    {
+      "author": "kor34l",
+      "body": "also keep your eyes open for BIOS settings that change themselves.  Some mobos will reset BIOS to default if it fails to post a couple times in a row.  It's possible your settings won't boot, and after a couple failed attempts it sets things to default (temporarily) which allows it to boot that time, but it still remembers your OG settings next time.\n\nThat's how it went when I added pc3200 ddr4 corsair dominator RAM to my friend's pre-built ibuypower PC.  Enabled the XMP profile for the ram to set the clock speeds and all, and it wouldn't post the first or second time, but would on the third.  Eventually realized it was the RAM, disabled XMP and set the speed significantly lower, and it would boot fine.  He had an ASRock motherboard, but I don't remember which model exactly except that it ended with ib which is for ibuypower PCs specifically"
+    }
+  ],
+  "102": [
+    {
+      "author": "Devilnutz2651",
+      "body": "Has he tried moving his desk back to where it was?"
+    },
+    {
+      "author": "archie1185",
+      "body": "I\u2019ll try to get info on the mobo. He has two hdmi ports. One on graphics card the other on the mobo. Neither work on any displays. He unfortunately doesn\u2019t have a display port cable to try. \n\nAs mentioned above, it doesn\u2019t display anything on any device so I\u2019m not sure the monitor settings are worth looking into but will suggest anyways."
+    },
+    {
+      "author": "archie1185",
+      "body": "Haha he has actually. Used the same electrical outlet and it didn\u2019t work."
+    },
+    {
+      "author": "Devilnutz2651",
+      "body": "He might need to open it up and check some of his connections and make sure everything is still seated properly"
+    },
+    {
+      "author": "archie1185",
+      "body": "He did and says everything is tight"
+    },
+    {
+      "author": "Devilnutz2651",
+      "body": "And I've had people complain about their computer or monitor not coming on and swore up and down everything was plugged in when I asked. I walk my happy ass over to their desk, and sure as shit their tower or monitor is unplugged. Might need a second set of eyes on it"
+    },
+    {
+      "author": "archie1185",
+      "body": "I\u2019m making him double check"
+    }
+  ],
+  "103": [
+    {
+      "author": "LiliNotACult",
+      "body": "Not just bad. The GPUs ship from HP with a custom undervolt profile because the damn things can't even get enough airflow to not overheat. So the performance is less than stock XD"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Didn\u2019t know that, buts that\u2019s funny. Pre-built companies really do not care about their customers, just profit margins"
+    },
+    {
+      "author": "LiliNotACult",
+      "body": "Same reason why a lot of 'gaming' prebuilts ship with 5600G instead of 5600 or 5600X."
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Yeah, and that thing doesn\u2019t even support Pcie 4.0"
+    }
+  ],
+  "104": [
+    {
+      "author": "richardgrabcat",
+      "body": "Please don't toss it in the trash, find a computer store that recycles to give it to."
+    },
+    {
+      "author": "NRMusicProject",
+      "body": "I guess I saved mine as backup parts, but no way they'd fit in a modern computer now.  I still kinda want to get an IDE to USB adapter and see what's on that 120gb Maxtor that I was so proud of."
+    },
+    {
+      "author": "NRMusicProject",
+      "body": "This one came with the front panel that you could plug mics/instruments to.  My first \"professional\" sound card.  Many good memories."
+    },
+    {
+      "author": "NRMusicProject",
+      "body": "Oh, good point.  I wonder if I can find a computer store anymore, they're getting fewer and farther between anymore."
+    }
+  ],
+  "105": [
+    {
+      "author": "Andis-x",
+      "body": "Either you are doing some serious LN2 stuff or there's a problem.\n\nTry re-seating CPU in socket to see if that helps. If it doesn't there might be issue with your motherboard."
+    },
+    {
+      "author": "D8926",
+      "body": "Cpu temp shown as -55\u00b0c, so AIO fans do not run. Then pc powers down as cpu is actually 90\u00b0c (HWINFO reading).\n\nWhen save & exit bios I get a black screen but AIO fans begin to run as normal.\n\nPc worked fine yesterday, no hardware or settings changes..nothing. Today, won\u2019t work.\n\nHelp!"
+    },
+    {
+      "author": "D8926",
+      "body": "It\u2019s all just coming up on a month old. My first pc. I have no idea what LN2 is.\n\nTook the cpu out and replaced thermal paste already. All ok."
+    },
+    {
+      "author": "D8926",
+      "body": "I\u2019ll try contacting gigabyte. Not found anything to help me so far.\nDo you know what detects the \u201ccpu temperature\u201d? Is it the motherboard saying it\u2019s -55\u00b0c or does the AIO tell the motherboard the temp?"
+    }
+  ],
+  "106": [
+    {
+      "author": "Vidman11",
+      "body": "Hard to get a good view with it on in a photo.  Send a pic of the back where your cables are coming out as well please"
+    },
+    {
+      "author": "i-am-cursed-potato",
+      "body": "posted the photos"
+    },
+    {
+      "author": "Vidman11",
+      "body": "Firstly,  can you move ram to slot 2 and 4?\nYou need to remove your gpu and clean in. Take off the fan shroud and use a duster can really good. Wipe the blades down on the underside.\nClean your other cpu fans and wipe the underside of the blades.\nIt looks like the front bottom fan on the case is blowing air out of the case, you want to make sure it's pulling air in to the case. \nFor your windows health, run the following commands As Administrator:\nType the following command, and then press Enter.  It may take several minutes for the command operation to be completed.\n\nDISM.exe /Online /Cleanup-image /Restorehealth\n\nNow run this command:\nsfc /scannow\n\n\nNext download the newest nvidia drivers. Get DDU from\nhttps://www.guru3d.com/files-details/display-driver-uninstaller-download.html\nUse DDU to remove your old nvidia drivers.\nInstall the updated nvidia drivers you downloaded.\n\nLet me know how that works out for you."
+    },
+    {
+      "author": "i-am-cursed-potato",
+      "body": "im about to clean my pc, if you dont mind me asking where is the ram stick and how do i change its slot?"
+    },
+    {
+      "author": "Vidman11",
+      "body": "See image. Move the two sticks circled here over to the yellow lines. Just one slot to the right.  Be careful and go slow with that. You will need to push down on the two clips, one at the top and one at the bottom of each stick. \nTo reinsert, do the same but in reverse. You will need to push kinda hard to get the ram stick to seat all the way down in the slot. You will know it's in correctly when you can close the clips on the top and bottom.\n\nhttps://drive.google.com/file/d/119Y5kkzBTHYKqcFAGLTw8nmgFPBCzsBW/view?usp=drivesdk"
+    },
+    {
+      "author": "i-am-cursed-potato",
+      "body": "ty ive tried everything else and they havent worked so i hope this does"
+    }
+  ],
+  "107": [
+    {
+      "author": "Nidhoggr84",
+      "body": "Right-click extract. Windows can natively extract zip files.\n\nThen look for a EXE, MSI, or something like a setup file.\n\nExcept BIOS files, which you should consult your motherboard  manual."
+    },
+    {
+      "author": "-Metaphysical",
+      "body": "Wait so I don't extract the bios ones?"
+    },
+    {
+      "author": "Nidhoggr84",
+      "body": "You still need to extract them. However you need to copy them to a FAT32 formatted USB drive and then you need to boot into the BIOS flash utility (usually from within the BIOS configuration screen).\n\nBIOS file names are different depending on the motherboard OEM."
+    },
+    {
+      "author": "-Metaphysical",
+      "body": "That sounds way too complicated, can I ignore those? Also I extracted and setup all the drivers that didn't say bios, is that alright?"
+    },
+    {
+      "author": "Nidhoggr84",
+      "body": "You must double-click to run any SETUP.exe or .msi files, to install the drivers.\n\nThey might not be called SETUP, but look for a .exe or .msi file."
+    },
+    {
+      "author": "-Metaphysical",
+      "body": "Sorry if I wasn't clear, I did set up all drivers that didn't say \"bios\" on their title"
+    },
+    {
+      "author": "Nidhoggr84",
+      "body": "Oh, then you are good.\n\nCheck Device Manager for any yellow ! marks."
+    }
+  ],
+  "108": [
+    {
+      "author": "Valoneria",
+      "body": "If it's just for 3D printing, you don't need anything spectacular, as slicing can be done on even moderate hardware. Do you mean you want to do 3D modelling as well  ?"
+    },
+    {
+      "author": "DeathAngel102213",
+      "body": "Mainly a pc for making miniatures like warhammer and maybe using stuff off the free websites,I'm totally new to this so forgive me. I also wanna game like stuff off steam as I already have switch and ps5. I need like a dummies guide on how to go about this,what to buy,etc. Any info will certainly help!"
+    },
+    {
+      "author": "DeathAngel102213",
+      "body": "So yes I guess mainly 3d modeling would be what I'm after and not printing?"
+    },
+    {
+      "author": "Valoneria",
+      "body": "Well for 3D Printing you might want to figure out whether you'd want a Resin printer (typically SLA) or a more traditional FDM printer.\n\nA SLA is typically great for miniatures due to the better detail at smaller levels, although the fumes can be outright toxic, and printing in resin can be a trial in skill.\n\nFDM printing is typically a bit easier, but still requires a lot of tinkering on a printer in that budget range. It does come with a somewhat wide range of printable materials (PLA, PETG, Nylon, ABS/ASA, flexible TPE/TPU, Polycarbonate). A FDM printer fumes are still not either pleasant, nor particularly healthy (depending on the type of material you print with, it can get toxic, but baseline is not healthy for extended durations either).\n\nSo if you're only going to be printing miniatures, and have the space to exhume the fumes, a Resin printer will make sense.\n\nIf not, and you're still able to ventilate your room, a FDM printer will be what you'll need."
+    },
+    {
+      "author": "DeathAngel102213",
+      "body": "Awesome thank you so much for the detailed info,what's my best bet for a desktop pc under 1000?"
+    },
+    {
+      "author": "Valoneria",
+      "body": "A pre-built, or are you looking to build it yourself?"
+    },
+    {
+      "author": "DeathAngel102213",
+      "body": "Good question, I would prefer pre-built since I have no idea how to build a computer."
+    },
+    {
+      "author": "Valoneria",
+      "body": "I am admittedly not the best at the pre-built market, since i'm from the EU and not the US, but i've found two possible models:\n\n[https://www.ibuypower.com/store/gaming-rdy-slhbg219](https://www.ibuypower.com/store/gaming-rdy-slhbg219)\n\nDecent all-round specs, but nothing extravagant. Will do more than fine for 1080p gaming, and should pull any game currently on the market with a little bit of eyecandy as well.\n\nPositives:\n\n* On a easily upgradeable platform if you need to upgrade in a year or so (I3 -> I5 or I7 would be a decent netboost in performance)\n* PSU can handle a larger graphics card without much issue, which is probably the biggest drawback currently, but the rig is also well suited for 1080p gaming as it is now\n* 16GB of RAM, the current sweetspot\n* 3 year warranty\n\nNegatives:\n\n* Small storage space. Only a 500GB SSD, that can be quickly filled. On the positive side, it's very cheap to expand on.\n\n&#x200B;\n\n[https://www.newegg.com/abs-ala294/p/N82E16883360259](https://www.newegg.com/abs-ala294/p/N82E16883360259)\n\nSlightly more powerful PC in both processor and graphics card, with one main drawback: The GPU is such a new thing that some older games might not run as expected on this machine.\n\nPositives:\n\n* More CPU than the previous machine, so less need to upgrade it down the line\n* Lower price\n* The graphics card is the equivalent of the RTX 3060, ie. the larger sibling of the previous machines graphics card. \n* Potentially positive: Looks like a aftermarket CPU cooler, with a larger fan. Should run the CPU a bit colder than otherwise\n\nNegatives:\n\n* Only 8GB of RAM ([however a upgrade kit is only $50](https://www.newegg.com/corsair-16gb-288-pin-ddr4-sdram/p/N82E16820233859), although it requires you to install them yourself)\n* Only 512GB of storage, same issue as the previous machine.\n* Only 1 year of limited warranty\n* The Intel ARC graphics cards are so new, that they still have some \"child issues/sicknesses\" as it's called. It's slowly being rectified, but it might lead to a few issues down the line, so staying on top of getting stuff like drivers updated is going to be a main priority."
+    }
+  ],
+  "109": [
+    {
+      "author": "FarInk8",
+      "body": "If you want to figure out what they are, as unorthodox as it is, try and record your screen with your phone to see if you can slow it down till you notice the program names."
+    },
+    {
+      "author": "SilentWetFarts",
+      "body": "I\u2019ve actually thought about that. I tried it once but it didn\u2019t happen. I\u2019ll try to make it happen tonight and see what it is."
+    },
+    {
+      "author": "SilentWetFarts",
+      "body": "https://preview.redd.it/ha9dooga84ea1.jpeg?width=2778&format=pjpg&auto=webp&v=enabled&s=7288d7f8139ddbda0f52c5eb8d8b5de9ff47de75\n\nBest I could get. All I did was open chrome leave it up for a few minutes close and shutdown."
+    },
+    {
+      "author": "FarInk8",
+      "body": "https://answers.microsoft.com/en-us/windows/forum/all/windows-10-program-manager-preventing-shutdown/169cb3a2-a377-4f70-8407-53fc4a1f27ad\n\nThis might be helpful, short on time atm but I might come back to this if I remember it."
+    }
+  ],
+  "110": [
+    {
+      "author": "PhenoStyle",
+      "body": "dont you need an offset bracket for top mounting a rad there?"
+    },
+    {
+      "author": "AccomplishedMedia174",
+      "body": "What do you mean by offset? Rad fits snugly in there, with the normal size fans, they got blocked by ram, heatsinks on motherboard and rear 120mm fan.  But I am also pushing this tiny case to the limits with a 360 rad, and full sized ATX board"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "My lian li 011 mini air has offset brackets for top mounted rads. So you dont have clearance problems with ram etc"
+    },
+    {
+      "author": "AccomplishedMedia174",
+      "body": "Shit man, I\u2019ll have to look through all the parts again, I read through all the attachments but it was all for water cooling, I also gave the dynamic with glass front, no mesh,"
+    },
+    {
+      "author": "PhenoStyle",
+      "body": "doesnt even know if they ship them with the case, but they have them on their page..."
+    }
+  ],
+  "111": [
+    {
+      "author": "Mm11vV",
+      "body": "Okay, this looks like an extremely friendly case for air cooled GPUs, I'm digging it!"
+    },
+    {
+      "author": "phi1_sebben",
+      "body": "Thank you for the positive comments!"
+    },
+    {
+      "author": "phi1_sebben",
+      "body": "For the setup shown with the 3060 it really was. The airflow through was so efficient. We will see how it is with the 4070 because it\u2019s now just a big wall. The air to the gpu is great but I have noticed the cpu, ram, psu area is hotter than before. I flipped the psu in hopes to use it as a bit more exhaust but it doesn\u2019t move much air. I saw someone had put an 80mm fan at the top right above the aio which might be an option as well."
+    },
+    {
+      "author": "Mm11vV",
+      "body": "Could easily flip the aio and put an 80 there. Be quiet and noctua both have some sick 80s that move some air quietly.\n\nI gotta say though, awesome case. If I didn't already have a solid case I'd pick one up, but there's always the next build."
+    }
+  ],
+  "112": [
+    {
+      "author": "Remmes-",
+      "body": "1 pin missing is normal. Yes it will still work just fine."
+    },
+    {
+      "author": "Zealousideal-Body334",
+      "body": "Yeah they work for my gpu but I\u2019m wondering about the 24pin my psu is missing one but the cable kit has all the pins"
+    },
+    {
+      "author": "Zealousideal-Body334",
+      "body": "But will the cable kit work it has all pins"
+    },
+    {
+      "author": "Remmes-",
+      "body": "Yes. That 1 pin just won't transfer any power. It'll all still work."
+    }
+  ],
+  "113": [
+    {
+      "author": "Hackdirt-Brethren",
+      "body": "Does he have any case preferences? Like RGB or size?\n\nAnd does he ever plan on streaming or using raytracing often?\n\nAnd your ideal budget?"
+    },
+    {
+      "author": "iJxe",
+      "body": "I don\u2019t think he cares about RGB. Or size. To him the most important is that it functions properly. As for streaming and Raytracing, I\u2019m not sure. I would imagine not really. He will have a 1660 super for right now so I\u2019d like to imagine that\u2019s out of the options for him currently. Streaming I don\u2019t think so either since he\u2019s quite busy but he does like watching other streamers."
+    },
+    {
+      "author": "Hackdirt-Brethren",
+      "body": "https://pcpartpicker.com/list/Ygkyzf\n\nHere's what I recommend, a few notes as well.\n\nThe 5600 is almost exactly the same as the 5600X but 40$ cheaper, very worth it, and the stock cooler most likely won't cut it after a while.\n\nYou will need to update the bios, but the MoBo in the list has biosflash back so it shouldn't be hard.\n\nThe PSU isn't needed, but he'll most likely upgrade the 1660S after a while and the 750 will be enough for most things.\n\nThe case has 2 140mm intake fans so I'd recommend getting a arctic p12 or so for a rear exhaust fan."
+    },
+    {
+      "author": "iJxe",
+      "body": "I sincerely thank you. I will take your notes in mind as well."
+    }
+  ],
+  "114": [
+    {
+      "author": "John_Mat8882",
+      "body": "Bx500 are QLC. It won't go faster than that during writes, especially long writes. Those are meant to be read only drives or big data storage drives imho."
+    },
+    {
+      "author": "Not-A-myth",
+      "body": "Oh. So when there is 40 % free space, the speeds are more or less constant?"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "You could try to run HDTach (execute it in windows xp compatibility mode) and see if the drive eventually needs a secure erase or a firmware update. Sometimes they get stuck in slow speeds \n\nBut I bet it's kind of normal, which size is the drive?"
+    },
+    {
+      "author": "Not-A-myth",
+      "body": "It is a 1 TB drive. \n\nCan you please explain what HDTach is and what to do with it?"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "It's a tool that measures the state of the drive (you can only run it in read if there's a partition on it) if you see a jagged graph all over it means the SSD is a bit in pain and may require a secure erase. I have 1tb as well I'll try this evening but I don't remember fast things from a QLC, dramless drive. I remember it had buffer troubles by recording shadow play on it"
+    },
+    {
+      "author": "Not-A-myth",
+      "body": "Oh ok. I had used CrystalDiskInfo and it had reported that my drive was healthy. Also, does using primocache result in better performance? I tried creating a cache. But when I tried moving a game into it, the speeds dropped off drastically after a certain point. So there is no other way to make it better?"
+    },
+    {
+      "author": "John_Mat8882",
+      "body": "Nah you can't do much (don't use primo cache), how much is it filled up?   \n\n\nI can't remember where I've set my own BX500, this is a quick graph on my other QLC sata ssd I have, which is a Samsung 860 QVO 1Tb. if you see a graph like this, that it's mostly flat, the drive doesn't have particular issues. Mine is 2/3rd filled up, this one has still QLC nand, but has a dram cache that helps during writes.   \nCrucial BX series do not have dedicated dram cache, this is why you may see those huge dips after long write tasks, because the QLC has to flush buffer info and write performance tanks briefly.\n\nhttps://preview.redd.it/x09g0w2j28ea1.jpeg?width=788&format=pjpg&auto=webp&v=enabled&s=51ef9790310974b2a76b9d36934388fbb77b963a\n\n  \ntL;dr always try to buy TLC nand drives with dram cache. Like Crucial own MX series, Samsung EVO, WD blue (sata format), Kingston KC600."
+    }
+  ],
+  "115": [
+    {
+      "author": "silentxsound",
+      "body": "And I thought my old 955 which scored 4,600 was low. Just upgraded to 7950x and trying to break 40k now!"
+    },
+    {
+      "author": "SenkoTaken",
+      "body": "4600 isnt very high yeah\n9000 - 10k is actually pretty good"
+    },
+    {
+      "author": "silentxsound",
+      "body": "Was referring to your Athlon score of 1255!"
+    },
+    {
+      "author": "SenkoTaken",
+      "body": "yeah well its an athlon cpu"
+    }
+  ],
+  "116": [
+    {
+      "author": "FALLOUTOfCAR",
+      "body": "How about a used 3060ti or 3070?"
+    },
+    {
+      "author": "NotPiKei",
+      "body": "To be 100% honest with you mate, I didn't even take into consideration smart access memory. I didn't know such a thing existed. Thank you!"
+    },
+    {
+      "author": "NotPiKei",
+      "body": "Thanks for the reply. The used market is not really good where I live and I don't really prefer used parts. It just feels odd to me. Though I fully believe it's a good option for some people. Also, I don't really want any bottleneck so the GPUs I mentioned are the ones with the least bottleneck."
+    },
+    {
+      "author": "FALLOUTOfCAR",
+      "body": "O cool i didint kno, they still sell 20 series new where you live?"
+    },
+    {
+      "author": "NotPiKei",
+      "body": "Yes, that's correct. 2060 is the most available one but the 2070,2080 etc are overpriced or partially stocked.\n\nEdit: After checking out, everything is out of stock other than the 2060 cards."
+    },
+    {
+      "author": "FALLOUTOfCAR",
+      "body": "[watch this 2060 vs 6600](https://youtu.be/g303wY9FAHA) 6600 is the better option. Especially cause its cheaper then the others too"
+    },
+    {
+      "author": "NotPiKei",
+      "body": "I agree. It has more ram and supports PCIe x4.0"
+    }
+  ],
+  "117": [
+    {
+      "author": "Ergit3000",
+      "body": "No if you don't give a lot more details explaining the situation..."
+    },
+    {
+      "author": "maxwellmemes",
+      "body": "update: im also now getting the \" automatic repair \"\nblue screen when starting up"
+    },
+    {
+      "author": "maxwellmemes",
+      "body": "i dont know how to get details, it just keeps restarting at random times"
+    },
+    {
+      "author": "maxwellmemes",
+      "body": "its not caused by games since it will do it on the lock screen if its left on it"
+    }
+  ],
+  "118": [
+    {
+      "author": "mrpasciak",
+      "body": "Lol nah, reddit is quick. Ideally, if you have the anti static bag also that would be a good addition."
+    },
+    {
+      "author": "PixelGun3DPlayer",
+      "body": "Now would two of them in one pocket hurt it?"
+    },
+    {
+      "author": "mrpasciak",
+      "body": "You're pushin it. I personally wouldn't even put 1 in my pocket. If it bends even a little bit it could break or crack the solder. Any reason why you can't just hold it? Or put it in a backpack?"
+    },
+    {
+      "author": "PixelGun3DPlayer",
+      "body": "Why didn\u2019t I think of that? Tiny brain moment right there lol"
+    }
+  ],
+  "119": [
+    {
+      "author": "Tyr_Kukulkan",
+      "body": "Call me old fashioned but... Read the case and card specifications?"
+    },
+    {
+      "author": "Old_Fart_on_pogie",
+      "body": "With tens of thousands of cases out there, and not all list specifications such as maximum supported GPU size."
+    },
+    {
+      "author": "Tyr_Kukulkan",
+      "body": "I just look at the ones I like. I'm fairly certain GPU length and hight are specified. It is really important as GPUs are insanely huge these days.\n\nI miss the days when an X800XT PE or 6800 Ultra were single slot."
+    },
+    {
+      "author": "Old_Fart_on_pogie",
+      "body": "Yeah, I got a 7900 GPU and it is significantly longer than a standard 7900. Also has three PCIe connectors instead of the standard two."
+    }
+  ],
+  "120": [
+    {
+      "author": "Stryf0013",
+      "body": "How would I transfer them?"
+    },
+    {
+      "author": "Erdnussflipshow",
+      "body": "Either copy them from the other drives with file explorer, or clone the drive that used to be your boot drive onto the new SSD with Software like Macrium Reflect"
+    },
+    {
+      "author": "Stryf0013",
+      "body": "Will this let me still use files from my other drive, I had 2 drives and now I have the m.2 if I clone one to the m.2 can I still access the other?"
+    },
+    {
+      "author": "Erdnussflipshow",
+      "body": "Cloning means you copy the exact structure of one drive to another, creating 2 identical drives. Cloning copies, it doesn't change anything on the source."
+    }
+  ],
+  "121": [
+    {
+      "author": "PhotoVideoReview",
+      "body": "I'm glad you understood that because it had some swiping errors I'm not proud of. \n\nHope it works!"
+    },
+    {
+      "author": "Snoo-91512",
+      "body": "Yeah, I just realized now that I remember my uncle using that to build something on our backyard, but thanks for the help!"
+    },
+    {
+      "author": "Snoo-91512",
+      "body": "Just to make sure, did u mean by \u201cdon\u2019t take everything out then try it as an open air computer\u201d or something else? Because I\u2019m pretty sure I understand how you\u2019re trying to say how I should put like a cardboard on the bottom when I\u2019m proceeding of drilling it in to remove the bottom casing"
+    },
+    {
+      "author": "PhotoVideoReview",
+      "body": "\n\nSince you are planning on taking out the electronics to drill out the rivet, go ahead and take the components out. Then check that everything is compatible by making an open air computer. If your configuration doesn't boot, or otherwise is not stable, then dont move on to drilling out the rivet.\n\nHope that helps."
+    },
+    {
+      "author": "Snoo-91512",
+      "body": "Yup thank you! I\u2019ll just get my uncles help when needed."
+    }
+  ],
+  "122": [
+    {
+      "author": "unorthodox_name98",
+      "body": "Are your temps good with the cpu/gpu? Or did you undervolt anything"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "No undervolting, the temps are fine too. idk what to do, EVERYTHING CRASHES. EVEN ROBLOX"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Did this just start happening randomly all of a sudden or is this a pc you just received"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Also are you keeping on top on driver updates for your 3060ti"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "so i upgraded my gpu and ddu on the old amd drivers but everything else is used"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "yea the newest are installed"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Okay so are you saying you used to have an amd gpu and you used display driver uninstaller to get rid of all the old drivers before installing the nvidia gpu"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "after installing the nvidia gpu\\*"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Okay that could be the problem, when installing a new gpu all of the old drivers should be fully removed before putting in the new gpu. I would try wiping all drivers again and then reinstalling them again. There just may be some corruption with your drivers hence the crashes"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "Lemme explain better. So I put my new GPU in my computer with the old amd drivers installed. Then I installed the nvidia drivers. Then 1 day later I ddu because it was crashing. Then I installed the drivers again."
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "Then its still crashing...."
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "even tabs in my browser crash......"
+    },
+    {
+      "author": "WorldlyJump1652",
+      "body": "Could it be the ram? \n\n(i have a backup 1x16gb @ 3000)"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Wait you only have 1 stick of ram installed? Either way thag shouldn\u2019t be the issue but either way you more than likely have dual channel ram so you should have 2 sticks of 8gb equaling 16gb or if you only have 1x16 than buy another 16 of the same exact stick of ram for 32 total"
+    },
+    {
+      "author": "unorthodox_name98",
+      "body": "Also try reinstalling windows as a whole (make sure to choose leave personal files when reinstalling)"
+    }
+  ],
+  "123": [
+    {
+      "author": "zeug666",
+      "body": "I can't check the manuals myself at the moment, but it seems like you have some stuff covered, just don't know what to look for.\n\nAccording to the first image, this board has no lighting (RGB or aRGB). 970 Pro is fairly old, like 10 years+, so not a surprise it doesn't have lighting.\n\nPicture 2 doesn't show anything (nice looking AIO).\n\nPictures 3 and 4 show an aRGB connector in 2 formats for expanded compatibility. #3 is the most common and considered the 'standard' for aRGB, the VDG was a thing that Gigabyte tried to do for a bit before giving up on it. You would only need to plug in one of these two connectors since they do the same thing.\n\nSince you have no aRGB controllers you will need to add one. There's a variety from basic/simple ones that are manual (buttons or remote) that plug into power from the PSU and offer a few preset options for lighting settings on up to USB-based options that offer software-based control.\n\nCheck out the [PCMR RGB Primer](https://new.reddit.com/r/pcmasterrace/comments/kd4vju/pcmr_rgb_primer_v2/) for some more information."
+    },
+    {
+      "author": "Vivid-Ad4148",
+      "body": "Hey thanks for respond. I see and i will see if it is possible to DIY."
+    },
+    {
+      "author": "Vivid-Ad4148",
+      "body": "Hey thanks for respond. Oh i see. If i want to make that type. Can i make it on a USB type so i can plug it in with a usb to turn on led? If i can make that type, do You know the scheme like how to DIY. If it is possible to make that way."
+    },
+    {
+      "author": "zeug666",
+      "body": "There are a few options for a USB controller: Razer, Zalman, and Cooler Master makes one.\n\nThese are generally easy to set up; there's a connection to the power supply to power everything, a connection to a motherboard USB 2.0 header (#12 at the bottom of the motherboard), and then connect the various aRGB things.\n\nYou'll then use the software for the controller to control the lights."
+    },
+    {
+      "author": "Vivid-Ad4148",
+      "body": "Ooooh okay okay. Soooo i can't do it myself to make it just like. Light up. Connecting it to basic circuit with usb so it lights up? Or you need to use these controllers specifically?"
+    },
+    {
+      "author": "zeug666",
+      "body": "I don't know what you're capable of, but it would take more information and research than I care to put into it, so I would just suggest buying a product that does what you need."
+    },
+    {
+      "author": "Vivid-Ad4148",
+      "body": "Okay thank you very much. I appreciate it. \ud83d\ude01"
+    }
+  ],
+  "124": [
+    {
+      "author": "How_TF_",
+      "body": "Just get a new main monitor 1440p use other two as side monitors. Boom"
+    },
+    {
+      "author": "Anime_Gerl",
+      "body": "But they aren't the same monitors they are 2 different models"
+    },
+    {
+      "author": "How_TF_",
+      "body": "No biggie, specially if they\u2019re being used as side monitors. I have a curved Dell main monitor 32\u201d 1440 and my side monitor is a 27\u201d acer 1080p"
+    },
+    {
+      "author": "Anime_Gerl",
+      "body": "The thing is my main one is a 24 inch curved monitor and my secondary is a 20 inch office monitor"
+    },
+    {
+      "author": "How_TF_",
+      "body": "What I\u2019d say would be get a bigger one like a 32\u201d curved for the main, put the smaller curved one above main aiming down(monitor your stream preview and chat). Put the 20\u201d office to the left or right side (pulling up discord/obs etc)"
+    },
+    {
+      "author": "Anime_Gerl",
+      "body": "That's a good idea but I think 32 is WAY too big for my taste, I'll try and find a good deal on a 27 instead since I don't have much space on my desk."
+    }
+  ],
+  "125": [
+    {
+      "author": "taha420420",
+      "body": "Yea, those are all plugged in. I've disconnected everything and reconnected, uninstalled icue and reinstalled, tried checking for updates. Maybe it's windows 11."
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Hmmm\u2026.idk, sorry"
+    },
+    {
+      "author": "Pretend-Constant-630",
+      "body": "Maybe a BIOS update?"
+    },
+    {
+      "author": "taha420420",
+      "body": "No prob bro"
+    },
+    {
+      "author": "taha420420",
+      "body": "Sure, I'll try that."
+    }
+  ],
+  "126": [
+    {
+      "author": "Current-Estimate-00",
+      "body": "Probably drivers. Try reinstalling them.\n\nThat ROG logo also looks a little distorted. Then your graphic card may be dying. Maybe that's how it's supposed to i never had a ROG mb.\n\nBoot to the bios and see if it looks fine."
+    },
+    {
+      "author": "Damien_The_God",
+      "body": "I\u2019ve had this monitor for a year and always used HDMI because it didn\u2019t work. But I\u2019ve had two gpu\u2019s gtx 1060 and Rtx 3070 ti and it\u2019s had a issue for both. Which is why I thought the monitor was the issue until I decided to try it again and I see the color is okay at first"
+    },
+    {
+      "author": "Current-Estimate-00",
+      "body": "Yeah could be a issue in the port or panel in monitor\n\nWhat about the bios screen?"
+    },
+    {
+      "author": "Damien_The_God",
+      "body": "I always had hdr on and decided to use obs on my other monitor to see what I\u2019m doing and color came back. I remember turning it off in the past and it didn\u2019t work so it\u2019s weird it\u2019s working now. I\u2019m assuming these display ports are good with hdr ??? When the hdmi is on hdr is on 99% of the time"
+    },
+    {
+      "author": "Current-Estimate-00",
+      "body": "I don't have any experience with HDR so no idea"
+    }
+  ],
+  "127": [
+    {
+      "author": "Puzzleheaded_Ad_6712",
+      "body": "I wish i had money"
+    },
+    {
+      "author": "KeynesianCartesian",
+      "body": "Thank you!"
+    },
+    {
+      "author": "KeynesianCartesian",
+      "body": "Thanks!"
+    },
+    {
+      "author": "KeynesianCartesian",
+      "body": "Thanks!  I first set out to do no RGB build, and was going for all black.  I cant remember, but the available pump/res or GPU waterblock was only available in RGB variant, and even with the LEDs off it was a white strip.  Then I realized the Debug LED.  Then the onboard motherboard RGB.   Next thing you know I'm buying RGB LED Fans.  slippery slope I guess lol"
+    }
+  ],
+  "128": [
+    {
+      "author": "Thx_And_Bye",
+      "body": "GParted or any Linux live boot that includes GParted (like Ubuntu)."
+    },
+    {
+      "author": "TemporaryPop3837",
+      "body": "Thanks guys"
+    },
+    {
+      "author": "TemporaryPop3837",
+      "body": "Thank you so much guys and i appreciate the help \ud83d\ude0a"
+    },
+    {
+      "author": "TemporaryPop3837",
+      "body": "Thank you so much guys and i appreciate the help \ud83d\ude0a"
+    }
+  ],
+  "129": [
+    {
+      "author": "CanisMajoris85",
+      "body": "[https://youtu.be/aQklDR8nv8U?t=855](https://youtu.be/aQklDR8nv8U?t=855)\n\n145fps avg at 4k, 219fps avg at 1440p. Add programs in the background and the 1440p average will likely only be lower than that for normal gamers given that's a clean test bench."
+    },
+    {
+      "author": "MakeshiftRocketship",
+      "body": "Crap I\u2019ll have to watch that later I\u2019m at work! lmao I was only basing it off my 3080ti performance and assuming the 4090 would easily outperform my PC"
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "Depends on game of course. Some will be like 90fps at 4k, some will be 200. Just on average, the 4k 144hz monitor will be maxed out more plus 4k just looks better. I've never gone above 175hz so can't speak to 144hz vs 240hz but for normal people I don't see it being worthwhile over 4k."
+    },
+    {
+      "author": "MakeshiftRocketship",
+      "body": "I totally agree. 4K looks soo good I think it\u2019s worth the slightly lower max fps"
+    }
+  ],
+  "130": [
+    {
+      "author": "CanisMajoris85",
+      "body": "[https://pcpartpicker.com/product/FsfnTW/msi-pro-b660-a-ddr4-atx-lga1700-motherboard-pro-b660-a-ddr4](https://pcpartpicker.com/product/FsfnTW/msi-pro-b660-a-ddr4-atx-lga1700-motherboard-pro-b660-a-ddr4)"
+    },
+    {
+      "author": "Icy_Development_4680",
+      "body": "Can I put b660m?"
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "You can ya."
+    },
+    {
+      "author": "Icy_Development_4680",
+      "body": "Are u 100% sure?"
+    },
+    {
+      "author": "CanisMajoris85",
+      "body": "If it's a B660m with 4 ram slots, then ya. Some have 2.\n\n[https://pcpartpicker.com/product/6ft9TW/gigabyte-b660m-aorus-pro-ax-ddr4-micro-atx-lga1700-motherboard-b660m-aorus-pro-ax-ddr4](https://pcpartpicker.com/product/6ft9TW/gigabyte-b660m-aorus-pro-ax-ddr4-micro-atx-lga1700-motherboard-b660m-aorus-pro-ax-ddr4)"
+    }
+  ],
+  "131": [
+    {
+      "author": "DankestDoge342",
+      "body": "https://preview.redd.it/jv23pxlpm3ea1.jpeg?width=4032&format=pjpg&auto=webp&v=enabled&s=992441dac6e61331940307ef4b2b553e8c9791ab\n\nThis is how it looks on top."
+    },
+    {
+      "author": "Chakramer",
+      "body": "Yeah 10/10 on top, good ol Ikea lol"
+    },
+    {
+      "author": "DankestDoge342",
+      "body": "And I\u2019m about to go plant overload"
+    },
+    {
+      "author": "Chakramer",
+      "body": "I'm gonna go Ikea shelf overload to hold all my nerd decorations, they look really good for cheap"
+    },
+    {
+      "author": "DankestDoge342",
+      "body": "I would do the same but German walls are impossible to drill into"
+    },
+    {
+      "author": "Chakramer",
+      "body": "Command strips work pretty well"
+    }
+  ],
+  "132": [
+    {
+      "author": "canbrinor",
+      "body": "If you're playing with the game set at 1600x900 then changing your resolution in windows will do literally nothing, your GPU will already be rendering that game at 1600x900"
+    },
+    {
+      "author": "KingNecrosis",
+      "body": "Like I told someone else,  this isn't a game issue. It's an issue with the monitor itself. This is a  problem with active signal resolution vs. desktop resolution as in the  screenshots in the main post and my comment detailing the issue [here](https://www.reddit.com/r/pcmasterrace/comments/10ke3dn/comment/j5q1w78/?utm_source=share&utm_medium=web2x&context=3)."
+    },
+    {
+      "author": "KingNecrosis",
+      "body": "This isn't a game issue. It's an issue with the monitor itself. This is a problem with active signal resolution vs. desktop resolution as in the screenshots in the main post and my comment detailing the issue [here](https://www.reddit.com/r/pcmasterrace/comments/10ke3dn/comment/j5q1w78/?utm_source=share&utm_medium=web2x&context=3)."
+    },
+    {
+      "author": "canbrinor",
+      "body": "The active signal resolution can't exactly match the display resolution sometimes, just like how 144hz displays are actually 143.85hz or something like that. Don't need to be a dick man"
+    },
+    {
+      "author": "KingNecrosis",
+      "body": "1. I didn't know that\n2. You kept addressing it like my issue was with a game when it was with the resolutions of the desktop and active signal. I wasn't being a dick, I was pointing out what my actual problem was."
+    }
+  ],
+  "133": [
+    {
+      "author": "BAAAASS",
+      "body": "Because there are a larger number of page faults on the low latency config: You can check your boot drive (or which-ever contains your page file) for bad sectors or other smart errors.\n\nMy thinking: because the lower number of page faults on the higher latency config, it would seem that more of the memory is in the paged pool (on disk).\n\n\nDo you have a similar comparison when the page faults are the same or at least closer to each other?"
+    },
+    {
+      "author": "Loud_Grapefruit_4982",
+      "body": "https://preview.redd.it/sl050ha2x8ea1.jpeg?width=3024&format=pjpg&auto=webp&v=enabled&s=5ede508f82e8fad7d6c47c4b1c3f833c0808a5be"
+    },
+    {
+      "author": "Loud_Grapefruit_4982",
+      "body": "My specs are\nAMD Ryzen 3800x\nGPUs above \n32 gigs of RAM \nPower supply 750w\nMotherboard MSI gaming edge, Wi-Fi \nAnd windows 11"
+    },
+    {
+      "author": "Loud_Grapefruit_4982",
+      "body": "It\u2019s not audio it\u2019s more system latency, like it would spike and in game it would stutter, it doesn\u2019t feel super fluid i\u2019ve tried vsync and G sync and none of them, but it would always stutter but that little micro stutter feels noticeable"
+    },
+    {
+      "author": "Loud_Grapefruit_4982",
+      "body": "my brain is small and compact so I\u2019m sorry if I don\u2019t fully understand, where would I go to my boot drive or file page and what do you mean by similar comparison?"
+    },
+    {
+      "author": "Loud_Grapefruit_4982",
+      "body": "Update so basically I went into my computer and I made sure the cables were connected correctly to the power supply, and I don\u2019t think they were so I changed where it was connected to, and the latency was drastically lower. I think this is what worked for me, and the games I did play to test it felt better, but I\u2019ll have to use it for a while and see."
+    }
+  ]
+}
