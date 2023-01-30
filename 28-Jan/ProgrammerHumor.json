@@ -1,0 +1,880 @@
+{
+  "0": [
+    {
+      "author": "dumnaya",
+      "body": "Should\u2019nt last one be\n\n![gif](giphy|a9xhxAxaqOfQs)"
+    },
+    {
+      "author": "n4jm4",
+      "body": "it still frickn maintained in 2023 *dies of gay laughing fit*"
+    },
+    {
+      "author": "n4jm4",
+      "body": "me: *submits pull request to close 203 CVE's*\n\nauthor: *closes pull request #wontfix*"
+    },
+    {
+      "author": "n4jm4",
+      "body": "/s"
+    }
+  ],
+  "1": [
+    {
+      "author": "darth_faader",
+      "body": "We'll have to agree to disagree. A consistently poor process is still poor and will have a more detrimental impact over time, as compared to suffering through the headaches in the short term to bring things up to par. If you want to make an omelette you have to break a few eggs, and It's often that one developer going rogue who proves out the advantages of best practices to the rest of the team. He's typically the one and only that pushes practices forward at all, there's usually only one at most. When that isn't encouraged, again, stagnation. I've stepped into too many projects where teams don't even tag their releases, can't tell you what revision is currently deployed to prod, just because 'extra steps'. Need look no further than the comments on this post for proof of that. And if you get a merge conflict because someone edited a live production file and you skipped fetching that day, someone skipped steps in best practices. Noone is cranking out so much code in a day that it would be difficult to overcome otherwise."
+    },
+    {
+      "author": "RandyHoward",
+      "body": "> It's often that one developer going rogue who proves out the advantages of best practices to the rest of the team. He's typically the one and only that pushes practices forward at all, there's usually only one at most\n\nMy experience has been pretty different in that regard. Most of the time when I've seen someone go rogue, it's been that person editing files directly in production, and typically that person has been a CTO or senior dev who should know better. \n\n> Need look no further than the comments on this post for proof of that\n\nBut the comments on this post are illustrating my point - nobody here is following the same standard version control / deployment process but I'll bet you that the vast majority have a process and that process works for their team. Is it a best practices process? Likely not, but those teams are still cranking out code that works. Is there some technical debt in their codebases? Yeah, most likely - but technical debt does not prevent a business from operating and making money (most of the time). Therefore, their less than ideal processes are working just fine for their team. Could it be better? Sure, but that doesn't matter a whole lot if the business is meeting its goals. Devs like to strive for perfection in the codebase, but at the end of the day how beautiful your codebase is doesn't matter one bit to the business as long as it functions as intended.\n\nEdit: I saw your reply before you decided to block me...\n\n> you're more concerned about being right than about contributing in a meaningful way\n\nThe fact that you blocked me means you're more concerned about being right than having a discussion. You admit ROI and shelf life are some of the most important things, but technical debt doesn't negate any of that. But since you decided to block me because your ego can't handle seeing things from a different viewpoint then I guess there is no point in continuing."
+    },
+    {
+      "author": "darth_faader",
+      "body": "I can see your initial point around consistency over best practice - I don't agree with it but, I understand the rationale there. But this follow up is just wrong, and demonstrates to me you're more concerned about being right than about contributing in a meaningful way.\n\n>But the comments on this post are illustrating my point - nobody here is following the same standard version control / deployment process but I'll bet you that the vast majority have a process and that process works for their team. Is it a best practices process? Likely not, but those teams are still cranking out code that works. Is there some technical debt in their codebases? Yeah, most likely\n\nAll the majority of comments on this post illustrate are an overarching ignorance of the best practices that version control tools are intended to facilitate. I'm assuming that's because they're either working on simple projects or lack experience. The rest of your comment are entirely assumptions on your part \"I'll bet\" .... \"Likey not\" .... \"Likely\" with very little substance to establish any of that.  I don't expect various teams working on various projects to implement best practices in the same way. Those span architectures, languages, team structures, and for a reason.\n\nProper versioning has little to do with beautiful code, that's not at all the intention of it. Plenty of people branch and merge ugly code as well as they do pretty code. And if anything, ugly code benefits even more for proper versioning - in some instances, it's the ugly code itself that necessitates proper versioning.\n\nBest practices is about managing multiple versions of code across teams to provide for more stable parallel development, reduced cost, improved stability and maintainability, and general extensibility. That whole take calls into question your own understanding around all this. As does trying to trivialize the need for staying on top of tech debt, but that's a separate topic. At the end of the day, it's about more than functional code, it's about return on investment and shelf like."
+    },
+    {
+      "author": "darth_faader",
+      "body": ">But since you decided to block me because your ego can't handle seeing things from a different viewpoint then I guess there is no point in continuing.\n\nI blocked you because I have no interest in continuing this exercise in futility, you stopped adding value when you started making broad, unsubstantiated assumptions and unfounded claims - as you're doing here. And do you want to know the most obvious indicator as to why you're wrong? You got personal. You wouldn't have had to go there otherwise, it's all you have. Believe me, I've met plenty of devs over the years that behave this way. Its so common in the field that it's a cliche. Typically by folks who work with talented people, but aren't talented themselves. Ego by proxy if you will.\n\nThere's nothing you could or couldn't say that would invalidate my correctness here, because what I'm stating to you are facts. I'm trying to show you where you're wrong, because you are. And your ignorance is showing, even in this edit. Tech debt can absolutely negate ROI and shelf life, if not addressed. Hence best practices around versioning code. Allows for much simpler addressing of tech debt via proper branching - and that's just one benefit.\n\nI'm going to block you again, because you're a dead end. No offense, but you might want to brush up on your understanding around version control. And tech debt just for good measure, I'm not sure you understand that either. The only thing worse than ignorance is ignorance masquerading as knowledge."
+    }
+  ],
+  "2": [
+    {
+      "author": "DeGandalf",
+      "body": "why not just use Instantiate on component.gameObject and then get the Components you need later with getComponent<x>();?"
+    },
+    {
+      "author": "Ethical_John",
+      "body": "> Doesn't seem like you're returning different types.\n\nevery `T` used in a method, makes the types be preserved throughout the block. so when I return that `T` typed value, the type is preserved. with your solution, the child types won't be preserved and the user will have to cast them manually and by previous knowledge of their type (a.k.a. not type safe). I couldn't find a proper way to do this really. and by looking at the Tupple class source code, looks like C# devs are doing the same with that class too... they create a separate class for each number of Ts used (I have too. the screenshot is 10 Ts, but I have less Ts above that too).   \nthough still can't stop thinking there's got to be a better way to preserve the input types... \ud83e\udd14\n\n\n> code block is like \\`goto code class\\` (will display as `goto code class`) and full line with  \n \\`\\`\\`csharp   \ngoto code class  \n\\`\\`\\`  \n(will display as \n```csharp\n goto code class\n```\n\n) (in web version you'll see csharp specific syntax highlighting, but not in mobile version)"
+    },
+    {
+      "author": "Ethical_John",
+      "body": "that has a small issue: there could be multiple components and we might want a specific one"
+    },
+    {
+      "author": "DeGandalf",
+      "body": ">and the user will have to cast them manually and by previous knowledge of their type (a.k.a. not type safe)\n\nneither is yours. The user still has to give the right type or else it throws an exception."
+    },
+    {
+      "author": "Ethical_John",
+      "body": "you mean for input? it simply wants a component or a subclass of component. if you pass something else it won't even compile\n\nand if they send in a Button component, and treat the result as something else, it won't compile either. that's what I meant by typesafe. errors are catched at compile time and not during the cast"
+    },
+    {
+      "author": "DeGandalf",
+      "body": "> and if you treat the result as something else, it won't compile either.\n\nThat's wrong. You can give wrong Genetics classes, as long as they inherit from Component. That means if your argument is a XComponent the compiler will allow you to give a YComponent as the Generics class. Which would result in an exception when casting."
+    },
+    {
+      "author": "Ethical_John",
+      "body": "huh? it makes no sense to pass in a XComponent and cast it to YComponent by mistake. generics can only do so much. if a dev really did a bad cast like that, chances are the dev wants to see how sharp you are for accepting pull requests"
+    }
+  ],
+  "3": [
+    {
+      "author": "Mr_Yuker",
+      "body": "Lol as a contractor myself.... I get put onto a new team and they introduce with \"welcome the new guy\"... Followed with someone explaining to them that I've been there for 4 years"
+    },
+    {
+      "author": "Ok-Kaleidoscope5627",
+      "body": "I remember a coop student who was at my company for like 6 years. The company wanted to hire him but he was an Iranian citizen so they could only hire him as a co-op or something stupid like that.\n\nIt was always amusing introducing him as the co-op student... Who's one of the most senior people on the team."
+    },
+    {
+      "author": "Mr_Yuker",
+      "body": "Damn red tape! Hope the guy was getting paid correctly though"
+    },
+    {
+      "author": "Ok-Kaleidoscope5627",
+      "body": "I hope so. His situation didn't make much sense to me honestly. All I know is that he's a regular employee now. I assume if he wasn't being paid fairly he'd have moved on now that he has citizenship?"
+    },
+    {
+      "author": "Mr_Yuker",
+      "body": "Good to hear! Hope he pressured them for a fatty raise.. too many people, myself included, didn't negotiate the initial offer correctly and it was an uphill battle getting HR to approve additional changes...\n\nI hope we automate HR with AI first before any other department... Those people are the worst"
+    },
+    {
+      "author": "Ok-Kaleidoscope5627",
+      "body": "I was going to say I didn't negotiate my offer either but then I remembered I kind of did lol. Just not the money part of it. I signed the offer, took the signing bonus and then told them I'd see them in a year."
+    }
+  ],
+  "4": [
+    {
+      "author": "Shehab_2049",
+      "body": "Wait how"
+    },
+    {
+      "author": "once_a_member",
+      "body": "Squared numbers retain their order, so if |a| > |b| then a\\^2 > b\\^2. If you need to calculate if something is within range, you can just check if the square of the distance is within the range squared. \n\nYou can't get around doing the multiplication, but the square root is often just for calculating a number you don't actually need.\n\nSay you want to calculate the flux of something. Flux drops with the distance squared. So why calculate the distance rather than just plugging in the square?\n\nIf you really need the square root, pay the price, but think about what it is you really need."
+    },
+    {
+      "author": "Shehab_2049",
+      "body": "You mean by |a| the absolute value or that is a square root other than that thx"
+    },
+    {
+      "author": "once_a_member",
+      "body": "Absolute value, yes. \n\nIn other words, what you get when you square a number and then take the square root."
+    }
+  ],
+  "5": [
+    {
+      "author": "shastacokediet",
+      "body": "Who exactly would the paper clip be then ?"
+    },
+    {
+      "author": "Bielh",
+      "body": "This is a old Brazilian chatbot using AI from 2004."
+    },
+    {
+      "author": "Bielh",
+      "body": "Yup"
+    },
+    {
+      "author": "Bielh",
+      "body": "manda o rob\u00f4 ed chamando o chatGPT de netinho"
+    }
+  ],
+  "6": [
+    {
+      "author": "GuiGeeKang",
+      "body": "One of the commentators got what I was going for. I wanted some error handling for a joke."
+    },
+    {
+      "author": "snackynorph",
+      "body": "I don't know if you noticed but you were perhaps a little heavy handed there chief"
+    },
+    {
+      "author": "GuiGeeKang",
+      "body": "Because it\u2019s just a script in an html file. There\u2019s \nno style no ux, just a document writer. OP didn\u2019t even bother writing the no condition."
+    },
+    {
+      "author": "snackynorph",
+      "body": "OP strikes me as a literal kid, and when I was his age all I could do was make a TI-83 flood the screen with \"RACK CITY BITCH RACK RACK CITY BITCH\""
+    },
+    {
+      "author": "GuiGeeKang",
+      "body": "I found a algorithm that spits out a number in x \u221ay form because it looked better than anything else."
+    }
+  ],
+  "7": [
+    {
+      "author": "KernelDeimos",
+      "body": "Knowledge and intelligence are two very different things.\n\nMy argument is not that stupid people aren't a problem in society, but there's a problem of semantics of what a stupid person is. You could say it's low IQ, but you can't attribute people's stupid decisions purely to their IQ. For example, intelligent people are also responsible for disastrous problems on an enormous scale. Perhaps intelligent people are more responsible, having more tools in their arsenal (or more privilege) to be able to climb the social ladder and have influence in these issues.\n\nThere's no logical decision to make if you don't have a goal in mind. For example, is the continuation of humanity in this universe logical? It's something most of us value, and we can make decisions that are logical toward achieving that goal.\n\nWhat if your a data analyst with a goal to optimize an advertising network to maximize profits for shareholders? A very intelligent person will perform better at the job. Is the goal something helpful toward other things that we value, such as preservation of life on earth and the continuation of RNA-based lifeforms through the universe? I don't know, I think probably not. Maybe the most effective way to maximize profits involves exploiting people, crashing markets, destroying the environment. It's possible for someone to be intelligent and not care about these things.\n\nDogs are pretty smart. They're not as smart as humans, at least certainly not by the measure of IQ. I don't know how a dog would take an IQ test but, if they could, their score would definitely be pretty low. What are dogs doing to destroy our future?"
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "IQ is the most objective test of intelligence by far. I've asked you to provide another and you've failed."
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "Substandard means below standard. You're not fooling anyone with your ridiculous games.  Lying continuously and throwing out constant disingenuous arguments is hardly civil. Be better."
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "100 is standard. Under 100 is substandard. So simple a literal toddler could understand it. Yet here we are."
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "Your argument actually WAS that stupid people aren't a problem.  I explained to you that stupid people elect stupid representatives (this is well documented).  I won't address the bulk of your non sequiturs except for your ridiculous canine argument. I'll just say this: If dogs had the right to vote or hold public office, you MIGHT just have a point. Considering dogs have neither of those abilities, you are extremely far from making a point."
+    },
+    {
+      "author": "KernelDeimos",
+      "body": "I said this:\n\n> I don't think a lack of IQ is the real problem we have in this world. Just because somebody is intelligent does not imply they're knowledgeable or a good person.\n\nThat's what you're referring to, right? That's not the same statement. \"stupid\" is a subjective term and the definition I've been using during this discussion is \"someone whos actions come at the cost of collective goals\".\n\nThe meaning behind what I said is I think you're weighing IQ too highly among a multitude of other factors. It measures someone's ability to solve problems, like math and engineering problems, not the amount of effort they'll put into voting responsibly."
+    },
+    {
+      "author": "KernelDeimos",
+      "body": "I'd also like to add, if you'd like to switch gears and turn this into a meaningful conversation rather than trying to weaponize words, this is a really interesting topic of discussion and merits different perspectives."
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "If you don't think the lack of IQ is a problem, then you don't think that low IQ individuals electing people like Trump is a problem. Again, just an example, but a pretty damned big one I'd say. Presidents, ESPECIALLY PotUS, have the ability to inflict a great amount of harm to the world.  Yes, the media is a huge problem with how they handle candidates like Trump. However, if the populace were more intelligent, the media wouldn't be able to dupe them so easily."
+    },
+    {
+      "author": "KernelDeimos",
+      "body": "I'm supposing there's a study you know of that shows that among people who vote, people who score lower on an IQ test are more likely to vote a particular candidate. If that's true then I think the problem I'm having with this is people having a low IQ score *can't* be the reason for bad problems that we wish to solve. People who score low on an IQ test exist, and as a culture we've decided they're allowed to exist and that's great because I'm not a huge fan of the alternative. Let me ask you this - if we blame people having a low IQ for most of the world's problems, what solution would you propose?"
+    },
+    {
+      "author": "Efficient_Thanks_342",
+      "body": "Firstly, there are such studies, here is one of them:\n\nhttps://pubmed.ncbi.nlm.nih.gov/22222219/\n\nSecondly, I didn't propose a solution to the problems they cause, mostly just expressed frustration and anger due to the problems they DO cause.  As you said, the media is also a huge problem and one way that smarter people can help with this problem is by demanding more accountability in the media.  The media portrayed Trump as a harmless spectacle. They ignored some of his more horrific scandals, such as a credible rape allegation from a girl who was 13 at the time and numerous other rape allegations.  The difference in the way the media treated Clinton (who I'm not a fan of) versus Trump was an absolute joke. Constantly harping about her email \"scandal\" while there was almost zero substance to it, while ignoring every awful Trump scandal unless they were forced to cover it. This unequal treatment gave Comey the unmitigated balls to open a case against Clinton days before the election only to close it a few days later. This undoubtedly swayed the outcome of the election. \n\nSo yes, there are obviously things that smart people can do to help mitigate the damage that dumb people inflict on the world, but my point is that if those stupid people didn't exist, there would be significantly less damage to mitigate in the first place."
+    },
+    {
+      "author": "KernelDeimos",
+      "body": ">demanding more accountability in the media\n\nYeah I definitely agree, that's super important. It really sucks that our system for understanding the world around us is also designed to be bought and sold, with little vetting of the actual information being given."
+    }
+  ],
+  "8": [
+    {
+      "author": "Brianprokpo456",
+      "body": "Whatever... people don't understand the difference between a system and it's components. So it's not surprising they will think the android/ios app is the entirety of facebook, for example"
+    },
+    {
+      "author": "GuiGeeKang",
+      "body": "Yes, but you're talking to devs this sort of communication error is important. We need to know if you want to delete things out of the cloud or just exclude them from the console ui."
+    },
+    {
+      "author": "Brianprokpo456",
+      "body": "I guess there's not much of a solution buddy. We can't just force them to understand."
+    },
+    {
+      "author": "GuiGeeKang",
+      "body": "Sometimes you have to ask what a word means to someone."
+    }
+  ],
+  "9": [
+    {
+      "author": "Kermit2punt0",
+      "body": "Oh no \ud83e\udd72"
+    },
+    {
+      "author": "Educational-Lemon640",
+      "body": "It _mostly_ happens when you write in C, C++ or similarly low level code that has no guardrails. I've seen it happen in other environments, but that's usually a bug in something written in those languages."
+    },
+    {
+      "author": "Kermit2punt0",
+      "body": "Probably a stupid question but I write in c# when I'm using unity? Does it apply there?"
+    },
+    {
+      "author": "Educational-Lemon640",
+      "body": "Basically the core processor in a PC is pretty stupid and doesn't have many safeguards. This is left up to whatever produces the source code, generally the compiler. Segfaults are one of the only safeguards, when a program screws up so bad, even the core processor knows. And it's a really stupid safeguard; it basically kills the program hard and just stops, maybe dumping the process' memory to disk verbatim.\n\nThis can only really be the programmers fault when they are writing in a language that allows more or less uncontrolled access to memory, and in practice that's C and C++. Most other languages limit your memory access to named variables, which are generally safe. They also add checks around array access so you don't go out of bounds. If you really try, you can screw up, but it's not a \"natural\" failure mode like it is in C."
+    },
+    {
+      "author": "Kermit2punt0",
+      "body": "Good to know, thank you"
+    }
+  ],
+  "10": [
+    {
+      "author": "OB1_error",
+      "body": "I can\u2019t believe they didn\u2019t call it winedows."
+    },
+    {
+      "author": "rosuav",
+      "body": "Winedows Is Not an Emulator, Doesn't O? Windows Software\n\nI'm blanking on what the last word might be. Feel free to suggest."
+    },
+    {
+      "author": "OB1_error",
+      "body": "Winedows is not an emulator, directly opens windows software."
+    },
+    {
+      "author": "rosuav",
+      "body": "I like it."
+    }
+  ],
+  "11": [
+    {
+      "author": "Spot_the_fox",
+      "body": "If memory serves me right, initially all bool variables were defined as integers, so to not break older code in c99, the idea was to name introduced bools as \"\\_Bool\" (yeah, sorry, I forgot that it was with a capital b) instead of \"bool\". Although a small library, standard bool or stdbool.h was also introduced, and As far as I know, it redefines \\_Bool as bool and defines true and false macros."
+    },
+    {
+      "author": "procrastinatingcoder",
+      "body": "There's a difference between redefining stuff and having it as a reserved keyword. Even moreso having to import something. \n\nBut yes, that's why I said it just removes a macro definition, because they are basically short ints or a byte. \n\nAnyway, we'll see."
+    },
+    {
+      "author": "Spot_the_fox",
+      "body": "that difference being what? If I understand it correctly redefined bool is functionally identical to the keyword \\_Bool."
+    },
+    {
+      "author": "procrastinatingcoder",
+      "body": "It's functionally identical yes, but this guarantees it. It basically avoids issues. \n\nThink of it like this, bool can currently be anything. You could have conflicting definitions or issues. With this, no issues will arise. You shouldn't have someone who decides to redefine bool to a uint8\\_t for instance.\n\nKind of like if you relied on a macro redefining \\_if () to if(). It's identical once it gets replaced, the problem is that middle step with replacement. \n\n&#x200B;\n\nAnd because the compiler never sees \"bool\" - only the preprocessor, it can help make error messages a bit better. It's mostly QoL stuff there, but there's a difference. You weren't likely to have any problems before, but now it'll be even less likely."
+    }
+  ],
+  "12": [
+    {
+      "author": "sirpedorisas",
+      "body": "literally some junior put a non breaking non width space on a text value that was used like enum in our code for values read and writen in a database I was crazy trying to find until I replaced and then checked unicode values\n\n now code has both variant in order to fix what was writen in others..."
+    },
+    {
+      "author": "neverfarts",
+      "body": "Love the Kebab case, will surely implement"
+    },
+    {
+      "author": "neverfarts",
+      "body": "Use Greek variables? Straight to jail"
+    },
+    {
+      "author": "sirpedorisas",
+      "body": "? should be ;"
+    },
+    {
+      "author": "neverfarts",
+      "body": "What"
+    },
+    {
+      "author": "sirpedorisas",
+      "body": "greek question mark \";\" looks like semicolon \";\"\n\ncompilation error ensues"
+    }
+  ],
+  "13": [
+    {
+      "author": "FatalError13",
+      "body": "Did I say you need the instance? I said you need the class. So if the class is the toy, it\u2019s not correct."
+    },
+    {
+      "author": "Z21VR",
+      "body": "And still, after some time in charge, a dice would be better than me, maybe ?"
+    },
+    {
+      "author": "Z21VR",
+      "body": "Yeah, but it says \"you dont need to have the toy in front of you\" and \"without the need to touch the toy\"\n\nIt sounds like \"you dont need to have the pointer/instance of the toy\" even if it says that \"the class is the toy\" before, which  seems to mean the class, not the instance, is the toy, i see that"
+    },
+    {
+      "author": "FatalError13",
+      "body": "It\u2019s wrong. The correct answer would be \u201cstop with this stupid \u201clike I\u2019m 5\u201d questions, some things just can\u2019t be explained to children, because they are children, not to mention that they can\u2019t even be explained to most adults\u201d. ![gif](emote|free_emotes_pack|joy)"
+    },
+    {
+      "author": "Z21VR",
+      "body": "Lol, yep, on that we agree"
+    }
+  ],
+  "14": [
+    {
+      "author": "Aurzanny",
+      "body": "Ik, haven't heard of js before though."
+    },
+    {
+      "author": "TXR_TUBE",
+      "body": "Uhh it stands for JavaScript"
+    },
+    {
+      "author": "Aurzanny",
+      "body": "I'm slightly knew to coding."
+    },
+    {
+      "author": "Aurzanny",
+      "body": "AUTOCORRECT DOES THAT?"
+    },
+    {
+      "author": "TXR_TUBE",
+      "body": "No"
+    }
+  ],
+  "15": [
+    {
+      "author": "M1ghty_boy",
+      "body": "Yeah been trying to use it to help me write a program that reconnects a USB device, it got me most of the way there but still needs fixing to work. ChatGPT is great to help fix errors and write small potions of code but isn magic"
+    },
+    {
+      "author": "un_sherwood",
+      "body": "So, DSL all over again?"
+    },
+    {
+      "author": "M1ghty_boy",
+      "body": "Yeah a lil proof of concept for my server that has an internal speaker, thought using it for auditory would be cool/useful"
+    },
+    {
+      "author": "M1ghty_boy",
+      "body": "Love it"
+    }
+  ],
+  "16": [
+    {
+      "author": "Shmodecious",
+      "body": "> The real important question is 'what problems is it capable of solving?' This is objective, quantifiable\n\nIt really isn\u2019t, though. Simple algorithms may be classified in this way: some can solve shortest-path problems, some can solve sorting problems, ect.\n\nBut I think the entire point of AI is to solve subjective problems. How can you objectively determine whether AI art is beautiful? How can you determine which speech-to-text is better, what if one is more accurate with British English and another is better with AVEE? With what boundaries should these fluid dialects even be defined, for the purpose of measuring accuracy?\n\nThis is why I think it\u2019s dangerous to apply the typical objective analysis which programmers are used to. It\u2019s like WW1 commanders charging tanks on horseback."
+    },
+    {
+      "author": "currentscurrents",
+      "body": ">How can you objectively determine whether AI art is beautiful? \n\nDon't underestimate mathematicians abilities to quantify things! There are two general approaches to this problem. \n\n* You can train a model to judge the beauty of an image by providing it with a large number of images human-ranked by beauty. [Such models exist](https://github.com/LAION-AI/aesthetic-predictor) and are used for filtering bad/ugly images out of your datasets. \n\n* Alternately you could take a dataset of known-beautiful images (which your AI art generator has never seen) and use an aesthetic similarity function to compare them. This is how [FID scores](https://paperswithcode.com/sota/image-generation-on-cifar-10) work. \n\n> How can you determine which speech-to-text is better, what if one is more accurate with British English and another is better with AVEE? \n\nBy comparing it to a [dataset](https://paperswithcode.com/dataset/common-voice) of speech from 50,000 different speakers in 20 different languages, each labeled with accent and dialect."
+    },
+    {
+      "author": "Shmodecious",
+      "body": "> human-ranked by beauty.\n\nHow are humans supposed to rate beauty objectively?\n\n> known-beautiful images\n\nKnown by who?\n\n> each labeled with accent and dialect.\n\nAgain, how are you going to draw lines between different dialects? Not objectively.\n\nThis is still boiling down to your inability recognize that meaningful subjective qualifiers exist. You are giving examples of a  qualification being meaningfully applied, and using that as evidence that it must be objective.\n\nI know this is probably starting to sound like semantic nitpicking, but the concept of subjectivity is fundamental to what I\u2019m trying to express"
+    },
+    {
+      "author": "currentscurrents",
+      "body": ">How are humans supposed to rate beauty objectively?\n\nThey don't have to rate it objectively, they just have to rate it. The fundamental thing you're not recognizing is that both beauty and dialect are *classifications made by neural networks in the first place.* Beauty just means \"human brains like these kind of images\"; there is nothing deeper. \n\nOur brains have two different kinds of systems: \n\n1. Objective ideas come from the system that works with logic and ideas and symbols. We've known how to implement these in computers for decades; they work well with symbolic logical ideas but fail at complex real-world data.\n\n2. Complex \"intangible\" ideas like beauty or audio/video processing come from trained neural systems, like we can create with neural networks. Because they're created by a training process rather than a logic solver, complexity is irrelevant. They don't need to understand an idea to represent it; but they are bad at structured problems where logic solvers work much better.\n\nTraditional computer programs are very good at #1 and very bad at #2. In the last few years, Transformer models have gotten very good at #2 but are very bad at #1. Somehow our brain combines both of these, and we don't understand how yet."
+    },
+    {
+      "author": "Shmodecious",
+      "body": "> The fundamental thing you're not recognizing is that both beauty and dialect are classifications made by neural networks in the first place.\n\nI am not failing to recognize this at all, my only point is that these are subjective classifications.\n\nMy main point has been to rebut your claim that whether or not an AI has \u201csolved\u201d a particular problem is objective and quantifiable. Just like you could think someone has terrible taste, you could think that an AI produces terrible art, even if it scored high on some beauty metric, because that beauty metric is also subjective.\n\nIt sound like perhaps you  agree with this point, but you don\u2019t think it\u2019s the main thing we\u2019ve been talking about? What exactly is it that you thought I was arguing when you wrote this response?"
+    }
+  ],
+  "17": [
+    {
+      "author": "AgsMydude",
+      "body": "Major depression flag\n\nYou okay?"
+    },
+    {
+      "author": "peppaz",
+      "body": "Yes it told me I was not a natural born SQL jockey, which is true"
+    },
+    {
+      "author": "peppaz",
+      "body": "**MegaPhoney!**"
+    },
+    {
+      "author": "peppaz",
+      "body": "Ha that's for stratifying our patients by risk.\n\nBut also, no, I am not thank you!"
+    }
+  ],
+  "18": [
+    {
+      "author": "Awkward-Skill-6029",
+      "body": "Vpn"
+    },
+    {
+      "author": "fuckingshitfucj2",
+      "body": "I don\u2019t have one and I cannot be arsed to get one. Also I don\u2019t mind not using ChatGPT, only used it for the funsies really"
+    },
+    {
+      "author": "Awkward-Skill-6029",
+      "body": "vpn is free, you just have to watch ads and maybe share some data"
+    },
+    {
+      "author": "fuckingshitfucj2",
+      "body": "> I can\u2019t be arsed to get one"
+    }
+  ],
+  "19": [
+    {
+      "author": "zmitic",
+      "body": "> any other frameworks that have embraced the long-running application model.\n\n&#x200B;\n\nYou can do the same in PHP with Swoole or Roadrunner.\n\n&#x200B;\n\n>With those, you can, pretty much out of the box, have your HTTP server, application, shared long-lived resources, \n\n&#x200B;\n\nRoadrunner is single [CLI command](https://github.com/baldinof/roadrunner-bundle#development-mode).\n\n&#x200B;\n\n>and even database (e.g., in-memory SQLite or H2) \n\n&#x200B;\n\n[https://stackoverflow.com/a/23539791/377192](https://stackoverflow.com/a/23539791/377192)\n\n&#x200B;\n\n>all running in a single process \u2014 great for a prototype, and easy to build out as necessary.\n\n&#x200B;\n\nSame for PHP; Symfony config is just one-line DSN [like this](https://symfony.com/doc/current/doctrine.html#configuring-the-database).\n\n&#x200B;\n\n> I can't do that in PHP \u2014 I have to dump the data somewhere between requests,\n\n&#x200B;\n\nUse in-memory SQLite, or Memcached or Redis... But long term in-memory persistence is not a test of the real thing so I wouldn't do it anyway."
+    },
+    {
+      "author": "javajunkie314",
+      "body": "AFAIK, PHP's built-in webserver is a single-threaded afterthought, so it can't handle requests in parallel, which can be necessary for prototyping different types of API (e.g., long polling). I assume the limitation exists because the server has to load and unload the application for each request. I do see it has an experimental option to fork multiple workers, but that's not supported on Windows. And while this would at least avoid having to run a separate HTTP server, I don't think it would allow you to share values in memory between requests or anything like that.\n\nAs for the separation between server and application, I do usually put a reverse proxy server like nginx in front of any application, to handle things like HTTPS and load balancing. That works the same either way \u2014 all that changes is whether nginx uses CGI or proxies the HTTP request. And if the application speaks HTTP, down the road when it gets popular, I can move nginx to a load balancer and run multiple instances of the application without having to also run additional HTTP servers alongside them.\n\nBut I also think it makes sense for the primary interface to an HTTP application to be HTTP. The application can directly implement things like streaming input and output and websockets, because it's all just HTTP and TCP. And anyway, PHP frameworks like Symfony also *act* as if they speak HTTP, but they have to reassemble the request from the superglobals."
+    },
+    {
+      "author": "javajunkie314",
+      "body": "Interesting. I haven't seen this before.\n\n> > I can't do that in PHP \u2014 I have to dump the data somewhere between requests,\n\n> Use in-memory SQLite, or Memcached or Redis... But long term in-memory persistence is not a test of the real thing so I wouldn't do it anyway.\n\nMy point there is that, in something like Django, I can skip *any* database and just use objects in memory. This is for prototyping, not for testing, so there's no \"real thing\" to emulate. Maybe I want to prototype a CRUD API, just to play with the model before building the real thing.\n\nThis next bit isn't related to prototyping, but I'm curious: The [docs for Symfony's message queue worker] (https://symfony.com/doc/current/messenger.html#deploying-to-production) mention that \n\n> Some services (like Doctrine's `EntityManager`) will consume more memory over time. So, instead of allowing your worker to run forever, ... tell your worker to only handle 10 messages before exiting.\n\nThe Symfony message queue worker is a long-running command, not tied to a specific request, and the docs are concerned about framework memory leaks \u2014 enough that they recommend a pretty short lifetime for the worker processes, even in production.\n\nDoes Roadrunner keep the Symfony service container alive between requests? And if so, since the service container contains services like `EntityManager` that may grow unbounded, how does Roadrunner handle memory consumption?\n\n---\n\nThis kind of feels like a lot to pull out for a prototype. So now you'd have Roadrunner as a server layer *and*, e.g., Symfony as an application layer. You need to pull in a Roadrunner worker for Symfony and configure it. And you still don't have shared memory if you run more than one worker process \u2014 which I think you need to in order to handle parallel requests?\n\nThat's a lot, especially if we're not using Roadrunner in production.\n\nMeanwhile, Django or any other framework handles all of this out of the box, without any hacks around the language's core interface (CGI) or assumptions (short-lived processes tied to a request), and with threading to allow parallel requests access to shared memory."
+    },
+    {
+      "author": "zmitic",
+      "body": ">The Symfony message queue worker is a long-running command, not tied to a specific request, and the docs are concerned about framework memory leaks \u2014 enough that they recommend a pretty short lifetime for the worker processes, even in production.\n\n&#x200B;\n\nYeah... that thing is *kinda* false, but easier for beginners to understand and not get confused.  \nHere is the thing. \n\nModern ORMs use [identity-map pattern](https://martinfowler.com/eaaCatalog/identityMap.html) which means you will always have **same** instances. That is language-agnostic, nothing PHP related.\n\n  \nBut yes, that would mean that with time and lots of entities processed, memory would rise. Again: nothing language specific; it is actually the most important feature in any ORM now.\n\nIt is very easy to solve; all that is needed is to call `$em->clear()` after the job has been completed. The easiest way is to implement listener to [kernel.reset](https://symfony.com/doc/current/reference/dic_tags.html#kernel-reset) and [messenger events](https://symfony.com/doc/current/reference/dic_tags.html#kernel-reset), clear entity manager and that's it; no more memory leaks. \n\nBut see how all this could confuse beginners? Newcomers are still learning gazillion of things, they don't need to be confused even more by IM pattern. Once they hit the problem, a quick google search will help them.\n\n&#x200B;\n\nThe other problem is logging. Default behavior is to keep logs in memory (`type: fingers_crossed`) and save them at the end of request or job. Easy to change: just set `type: stream.` \n\nBut these are covered with RR bundle, user doesn't have to do anything now.\n\n&#x200B;\n\n>Does Roadrunner keep the Symfony service container alive between requests?\n\n&#x200B;\n\nYes. They do get reset after certain number of requests (configurable) or if exception is thrown; while it is resetting, other worker will handle the job.\n\n&#x200B;\n\n>how does Roadrunner handle memory consumption?\n\n&#x200B;\n\nSame `kernel.reset` event. Pretty much by now, **all** Symfony bundles use it if they have to.\n\n  \nThe use is super-simple: if any of your service needs resetting before worker starts next request, just implement [ResetInterface](https://github.com/symfony/symfony/blob/6.3/src/Symfony/Contracts/Service/ResetInterface.php#L27) and Symfony will pick it automatically."
+    }
+  ],
+  "20": [
+    {
+      "author": "JGHFunRun",
+      "body": "Install: `sudo <packagemanager> install oneko`\n\nRun: `oneko&`\n\nThe & backgrounds the oneko process so that you can do other things. On my machine if you close the terminal using the `exit` command the terminal window is closed but you keep the oneko, this is how I have the first oneko when the video starts (did you even notice it?), whereas if you use alt+f4 (and presumably the x button) it kills the oneko. That is to say, do not hit alt+f4."
+    },
+    {
+      "author": "kaihatsusha",
+      "body": "Man, 1987 called, and wanted their screensaver / screenmangler apps back."
+    },
+    {
+      "author": "JGHFunRun",
+      "body": "I ~~Googled~~ DuckDuckGo'd `screenmangler` to figure out what the fuck that is and this very was third result. Taking DDG's suggestion and searching only for `\"screenmangler\"` and this thread because first result. I searched it with TOR to make sure\n\nAnd as for Google, it was first result for `screenmangler`\n\nI guess thanks for getting one of my posts to be first on Google lmao\n\nBut seriously what the fuck is a screenmangler"
+    },
+    {
+      "author": "kaihatsusha",
+      "body": "Way back before LCD monitors, people had to use \"screen saver\" programs to protect CRT screens from burn-in. Many had elaborate animations. See Microsoft Idlewild or Johnny Castaway. Even X11 Unix users made them. Some just ran animations as an overlay (like OP's) when user activity was present.\n\nEven farther back, before graphical displays, when the whole screen was text, prank TSR (terminate and stay resident) programs were popular, to jumble or mangle up the text when users were not actively typing. They'd animate faces or missing letters or scramble text or \"melt\" all text off the screen. These were the precursors to screen savers."
+    }
+  ],
+  "21": [
+    {
+      "author": "Electronic-Bat-1830",
+      "body": "Release is what you would be publishing though."
+    },
+    {
+      "author": "outfrost",
+      "body": "Commercial game development has a huge case for obfuscation, for example."
+    },
+    {
+      "author": "outfrost",
+      "body": "that's exactly what I said???"
+    },
+    {
+      "author": "Electronic-Bat-1830",
+      "body": "I mean you are testing the binaries that you will eventually ship to customers, after all."
+    }
+  ],
+  "22": [
+    {
+      "author": "FalconRelevant",
+      "body": "I have learnt from experience that you people are beyond hope."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "And yet you're still talking. And assuming a lot what kind of people I am."
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "I made an educated guess from the information available."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "I'm not sure that's an adjective you should be using ever"
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "Not the first thing your kind has been wrong about."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "What kind would that be?"
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "Alt-econ."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "Oh because I'm not a member of your cult?"
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "Ah yes, the dominant and successful economic system that all prosperous nations follow is a \"cult\". Not the alternatives that almost always have lead to mass starvation yet people still fervently believe in, no that is completely logical.\n\nPlease enlighten me more."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "Economics has no predictive power, and no scientific backing. It is neither the result of, nor a tool for, science. It relies on nonsense entities and absurd ynsupportfed ideas about human behavior. It's not a science-But it's devotees call it one. Like dianetics or cosmism, but less cool. It's a cult."
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "This is just sad."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "You can't actually answer anything I've said can you?"
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "You're speaking nonsense and when I refuse to honour that you consider it your success?"
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "But you're not even talking about specific claims; you're just calling me names. I think it's because youhave found your positions to be indefensible. From this direction at least."
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "See? Just as I said when I refuse to honour your nonsense you consider it your success. \n\nCome to r/EnoughCommieSpam or r/neoliberal if you want to find people who still have the patience to try and educate you."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "Prove you even read any of my replies that addressed non-meta points all the way through?"
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "Shit like how billionaires drink slave blood? Unfortunately I did."
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "I think it's actually children's blood they drink."
+    },
+    {
+      "author": "FalconRelevant",
+      "body": "Wow Schizophrenic much?"
+    },
+    {
+      "author": "cavitationchicken",
+      "body": "I'll agree to that if you spice it up a little."
+    }
+  ],
+  "23": [
+    {
+      "author": "The_Real_Slim_Lemon",
+      "body": "I was a whole 3 years old when C# was designed, mad"
+    },
+    {
+      "author": "Arshiaa001",
+      "body": "C# gets a new version every year. To really have a parallel, try coding in C# 1.0, without async, linq, even generics. ArrayList all the way baby!!"
+    },
+    {
+      "author": "The_Real_Slim_Lemon",
+      "body": "Don\u2019t you dare take my Async. I need it. And the other things too"
+    },
+    {
+      "author": "Arshiaa001",
+      "body": "But that's the magic of C, you get to code in the NINETEEN EIGHTY NINE version of it!"
+    }
+  ],
+  "24": [
+    {
+      "author": "fryuni",
+      "body": "I gave a talk last week on just the points when JS causes TS's type system to fall apart.\n\nVery relatable meme"
+    },
+    {
+      "author": "TheGreatGameDini",
+      "body": "Well, make the meme! Each pic would be a different \"intricacy\" as the confusion gets more and more existential."
+    },
+    {
+      "author": "fryuni",
+      "body": "[My favorite](https://www.typescriptlang.org/play?#code/HYQwtgpgzgDiDGEAEB3AlgLxAJwCbYE8kBvAWACgkkB6apAFQAs0ol4AbEKVlpYCAG4RsSCAA8YAe2wAXCLgA0SKJL6r4k3MkkBXGVDRakM5q1CRYCZPBDBRQkRuBQZ2HfBlJbSNM5m3EJEkAMyQAAwBRMBgZAjCAOgoqDi5WKJiiYgBfJNEJaU9gnWAPNEk7MBAAczR4ACFJMQAeegA+AAppNBrQdgAuJHTYgEoB+hJcqlokAHVkbAhENCEkARB2HW1Q2JhkSOjYsK9gXDZGRYBrY0YQTzQ71hDjAl3wobjEyioaOnoX6Hg2DQMS83B0FmutyQACkAMqoaQXVjsNAXZD3JC4STQJQoc4La68FC6dindYoEAEVgAI2Qrk2n2+PlCnSBPXWPj8AQgT3ewwmXyZ01hvkCJl4LCUvmuPMISnJlNY4kWenk8uARB2W3CXXZ7COUEYJNOCygOnYdzs3mE2GkjKZ11tKD4EGdEWwtuw7QA5LDJJBys7JLt+KcTMhKjV4EhqY14t7hgBuSZIHLkFPTACCrDN8EYSnDz1eTzCut86yOIGCchEhacuHuZV6PlYYX4DjCSgMJXRnkNxpdDiQNxgIftUzoIp7XlW602QW2-3C7eERxswGAkk8tLY5Rcbg8ap8D1BBiqoGp7DpqlsBHFwCq8rMqlF-rgMjQ1LQKNibG8kngeAdGwcckAWGRgLsMtemTL40zTChpiYZB2EkKMvFjFZ1lQlBWBsFxfCqY5NSXGQbw1IJw1rJd0BMXRPEEYRMUkQjji8DwdA5fCZE+JDTARc1TmJbArloxh7AgOwxJnFFgBrJAYAWIQ5NY28-xcKBPgoJwXGUf0IFhVxCIGfdWIAXiQABGAAmABmRMfgYfjqQWEAkW0vdPFsLd8UMoEHxMoyHyQCz0CwPBCHiSNagaMR2hs2yk0cpheCxaBgG9GQgA)"
+    },
+    {
+      "author": "TheGreatGameDini",
+      "body": "Thanks, I hate it.  /s\n\nThat's fucking stupid. !/s"
+    }
+  ],
+  "25": [
+    {
+      "author": "ballslicker1337",
+      "body": "for android its called rooting and yes ppl still very much do it since not owning something you paid for is kinda shit"
+    },
+    {
+      "author": "ManyFails1Win",
+      "body": "Not owning? What is that supposed to mean? I'm 100% sure I own my phone."
+    },
+    {
+      "author": "ballslicker1337",
+      "body": "u sure? try to delete the contacts app"
+    },
+    {
+      "author": "ManyFails1Win",
+      "body": "software having restricted APIs isn't the same as not owning the software lol.  anyway if that's what you like to do more power to ya."
+    }
+  ],
+  "26": [
+    {
+      "author": "Affectionate-Set4208",
+      "body": "lmao. I may change my user to u/Assholenate-Set4208 then"
+    },
+    {
+      "author": "1Wr1te1nC0de",
+      "body": "![gif](giphy|Yavo0SXhZYhSo)\n\nIf you google blind, it \u2026. Nevermind. It\u2019s a joke. I don\u2019t usually combine r/ProgrammingHumor with being literal. Might be in the wrong sub there, bud."
+    },
+    {
+      "author": "1Wr1te1nC0de",
+      "body": "![gif](giphy|TNR2EpkHYwW0ifyMDF)"
+    },
+    {
+      "author": "Affectionate-Set4208",
+      "body": ">google blind\n\noh oops lmao, didn't know that was a thing"
+    }
+  ],
+  "27": [
+    {
+      "author": "Plisq-5",
+      "body": "Your finance team doesn\u2019t care about the stack you use. They care about how much money your companies product brings in. Feel free to read both links below and the links they contain as well. It should be self explanatory why CRO is bad with blazor. If not feel free to read these issues on blazors GitHub: https://github.com/dotnet/aspnetcore/issues/42284 & https://github.com/dotnet/aspnetcore/issues/41909\n\nhttps://web.dev/why-speed-matters/\n\nhttps://web.dev/lcp/\n\nI\u2019m not sure what age has to do with our discussion or how insulting your conversation partner is useful."
+    },
+    {
+      "author": "EnthusiasmWeak5531",
+      "body": "Do you think throwing an \"lol\" in when claiming superiority on a technology is proper conversation etiquette? Not to mention your general tone has been condescending since the beginning. Consider that before you feel you have the high road to imply the other is insulting you.  You may have earned that insult.\n\nYes, you are saying it's not performant in certain situations. I'm familiar with the complaints and I've actually told another developer to consider that before adopting it for his own project. If I had to make the decision between Blazor and another technology believe me I'd be evaluating that. The finance team is still a pretty odd angle to this argument though. This is an IT decision for those to understand tech and your particular problem domain."
+    },
+    {
+      "author": "Plisq-5",
+      "body": "Okay buddy. I\u2019ve never seen someone so offended by a single lol that wasn\u2019t meant to be offensive. Anyway, like I said before, feel free to read the links I sent. They should be self explanatory why finance matters. \n\nYou keep being you, that\u2019s definitely going to work out :)."
+    },
+    {
+      "author": "EnthusiasmWeak5531",
+      "body": "Offended? I'm not the one who claimed to be offended. Was I? Just giving you some tips on how to NOT get into situations where people will say things that hurt your feelings.\n\nHas for 47 years. What should I be looking out for? I'll check with my  wife, kids, friends, and my programming team."
+    },
+    {
+      "author": "Plisq-5",
+      "body": "Uhu, keep going on. Show me how you\u2019re not offended."
+    },
+    {
+      "author": "EnthusiasmWeak5531",
+      "body": "\"insulting your conversation partner is useful.\"![gif](emote|free_emotes_pack|cry)"
+    },
+    {
+      "author": "Plisq-5",
+      "body": "You\u2019re soooo not offended. \u2014-> lol <\u2014-\n\nAnyway, this is boring. I don\u2019t think you\u2019re capable of having a normal discussion. Good day, blocking you now."
+    }
+  ],
+  "28": [
+    {
+      "author": "JellySword8",
+      "body": "I'll be honest, I haven't used c# all that much but doesn't it still require a bunch of oop concepts like Java?"
+    },
+    {
+      "author": "PixelAgent007",
+      "body": "I am a programmer ya'll, you can stop recommending languages to me"
+    },
+    {
+      "author": "JellySword8",
+      "body": "And which language do you use the most?"
+    },
+    {
+      "author": "PixelAgent007",
+      "body": "Typescript, Python\n\nsometimes I sprinkle in a bit of java"
+    }
+  ],
+  "29": [
+    {
+      "author": "Stunning_Ride_220",
+      "body": "OK, so you insisting on using a full IDE setup for 3 lines of code?"
+    },
+    {
+      "author": "FactoryNewdel",
+      "body": "Yea. I doubt that these are the the only 3 lines of code ever written in this language on this machine.  \n\nOP also said that he used a text editor in the past and is now using another one so he probably coded whole (probably...hopefully small) projects already using a text editor"
+    },
+    {
+      "author": "Stunning_Ride_220",
+      "body": "Well, if he feels confident with this setup, I see no need to try to teach him do otherwise.\n\nI wouldn't do larger projects (and especially ones where I work with others) with this setup myself as lots of IDEs come with plugins to help you write better code.\n\nBut heck I rarely code these days anyways..."
+    },
+    {
+      "author": "FactoryNewdel",
+      "body": "> Well, if he feels confident with this setup, I see no need to try to teach him do otherwise.  \n\nThat's exactly the mindset that lead us to 5000 IPv4 additions to not use IPv6, Excel as a database, older people who never got in touch with the 21th century and literally everything in Germany that went wrong with digitalization in the last 20 years (excluding infrastructure):  \n\n\"If it works, there is no need to change it\"  \n\nWe don't need to, yes, but it would make everyones lifes easier to just be open minded about new technologies for example"
+    },
+    {
+      "author": "Stunning_Ride_220",
+      "body": "Haha no. I tend to kindly disagree (part of my work duties is to help clients whose 'transformation' strategies went wrong, especially in the Tech domain).\n\nGermans tend to spend way to much time to discuss the 'proper' technologies, making projects taking longer than expected and therefore leaving no room for approaching smaller endevaours. If you see business units relying on excel heavy 'processes' it's likely they do not trust IT to provide better solutions (due to the aforementioned discussion).\n\n\nThere is a great book about it from Gregor Hohpe.\n\nTech companies are not great and successful because they use (the latest) tech, they are because they know how to solve Business problems with tech."
+    }
+  ],
+  "30": [
+    {
+      "author": "Sad-Carrot-4397",
+      "body": "There\u2019s a book on Amazon for $200,000 that\u2019s called \u201chow to make $200,000 online\u201d"
+    },
+    {
+      "author": "mighty_eyebrows1",
+      "body": "approved by whom?"
+    },
+    {
+      "author": "Sad-Carrot-4397",
+      "body": "Me"
+    },
+    {
+      "author": "mighty_eyebrows1",
+      "body": "fair enough"
+    }
+  ],
+  "31": [
+    {
+      "author": "HawocX",
+      "body": "To me a badly designed core construct of a language is not at all comparable to a badly designed piece of company code."
+    },
+    {
+      "author": "Steuh",
+      "body": "Yes I agree with that but as I said I don't see the connection with my point, given my point only says \"that's not only a JavaScript problem so you should be aware of it whatever your language is\""
+    },
+    {
+      "author": "HawocX",
+      "body": "Let's just agree to disagree, it's not that important."
+    },
+    {
+      "author": "Steuh",
+      "body": "> Let's just agree to disagree\n\nLove this formula, will use it :)"
+    }
+  ],
+  "32": [
+    {
+      "author": "bordumb",
+      "body": "Yes please."
+    },
+    {
+      "author": "Wide_Cantaloupe_79",
+      "body": "Because there are 10 types of people\u2026"
+    },
+    {
+      "author": "bordumb",
+      "body": "That doesn\u2019t make much sense to me.\n\nWhy 10?\n\nIs this a reference to something?"
+    },
+    {
+      "author": "Wide_Cantaloupe_79",
+      "body": "https://www.reddit.com/r/Jokes/comments/2178k6/there_are_10_types_of_people_in_this_world/"
+    }
+  ],
+  "33": [
+    {
+      "author": "Daneldor",
+      "body": "It's still a loop. Which was my point.  As for the rest of your statements about it being more efficient... That's only a maybe"
+    },
+    {
+      "author": "Djasdalabala",
+      "body": "And my point was that 99% of the time it's a bad idea to re-implement something that exists natively.\n\nFirst, because that code has almost certainly been written by very senior devs, and reviewed more than yours or mine ever will.\n\nSecond, because they had access to tools outside of the language capabilities. When you write a low-level function for Python, you don't write it in Python, you write it in C.\n\nIf you think you can do better on your own and without access to low-level optimization, I'd like some of whatever you are smoking."
+    },
+    {
+      "author": "Daneldor",
+      "body": "Dude you're not adding anything useful to the conversation.  We don't need to discuss the minutae of optimization when we're simply discussing basics."
+    },
+    {
+      "author": "Djasdalabala",
+      "body": "Using native functions when possible is not \"minutae of optimization\", it's as basic as it gets.\n\nBut I get it, you are not interested in changing your mind. Bye."
+    },
+    {
+      "author": "Daneldor",
+      "body": "It's not a matter of changing my mind bro.  I actually agree with you.  It's that it isn't relevant"
+    }
+  ],
+  "34": [
+    {
+      "author": "look4jesper",
+      "body": "Well just go home after 8 hours then. It's not that hard."
+    },
+    {
+      "author": "plinkoplonka",
+      "body": "You definitely don't know what you're talking about now, you're just making yourself sound silly.\n\nI'm gonna go out on a limb and guess that:\n\n1. You don't know about US work culture\n2. You're not in a salaried position\n3. You're not responsible for delivery of anything E2E\n\nYou have responsibility as a single-threaded leader to deliver. Overtime is expected until that's delivered. You're measured against that.\n\nIt's the flip side of them paying well, the hours are long and often stressful.\n\nSaying \"just go home\" shows that you have no compassion and don't understand what you're talking about tbh."
+    },
+    {
+      "author": "look4jesper",
+      "body": "I do not work in the US no, but I work on a salaried position with developing enterprise code. It's not on the developers to work unpaid overtime because something needs to be delivered, it's on the group manager/product owner to make sure that what needs to be done is distributed in such a way that it can be accomplished in normal working time. If that isn't possible then you either have to prioritise or demand overtime, which is substantially more expensive for the company.\n\nSucks that Microsoft apparently have both bad managers and bad employment contracts \u00af\\\\\\_(\u30c4)\\_/\u00af\n\nEdit: Also no, I don't have much compassion because if you dislike your 100k+/year salaried job at Microsoft then you should go work somewhere else. You are obviously qualified."
+    },
+    {
+      "author": "plinkoplonka",
+      "body": "I don't work for Microsoft.\n\nI'm a consultant. \n\nI wasn't asking for compassion for you, I'm fine thanks. I was just saying that you sound like a bit of a dick for basically saying that it's what people should expect.\n\nThe people laid off are still human beings who have families and mortgages and hopes and dreams like everyone else.  I don't get this hate people get because of jealousy.\n\nThat being said, this isn't a productive use of either of our time, and we obviously don't agree that people deserve to be treated fairly. So have a great day."
+    }
+  ],
+  "35": [
+    {
+      "author": "CorespunzatorAferent",
+      "body": "Should I dare ask about your username? Do you wipe back to front or the other way around with a different color?"
+    },
+    {
+      "author": "Electronic-Bat-1830",
+      "body": "I mean, makes sense for the times there was no bool, but now... ehhhhhh."
+    },
+    {
+      "author": "CorespunzatorAferent",
+      "body": "Windows still exists because it has strong backwards compatibility. They could have \"upgraded\" the signatures when they switched to 64bit, but the 32bit subsystem is still a thing - so they can't (at least without duplicating a lot of code, everywhere)."
+    },
+    {
+      "author": "CorespunzatorAferent",
+      "body": "Instructions unclear. Got a crooked bullseye and a very aggressive beaver."
+    }
+  ],
+  "36": [
+    {
+      "author": "LasevIX",
+      "body": "Well that's endurance testing then, can the infrastructure hold up to RCE attacks or admin access abuse?"
+    },
+    {
+      "author": "otdevy",
+      "body": "But we are specifically talking about normal people not corporations. Someone just walks into your home and for example sets your couch on fire, or breaks your work laptop and destroys the harddrive"
+    },
+    {
+      "author": "LasevIX",
+      "body": "That's a data redundancy test. Did you correctly make and save backups?"
+    },
+    {
+      "author": "otdevy",
+      "body": "That only applies to computers though not the rest of the stuff you own"
+    },
+    {
+      "author": "LasevIX",
+      "body": "Why not? Don't you have backup furniture in a remote warehouse in Oregon? I thought everyone did"
+    },
+    {
+      "author": "otdevy",
+      "body": "Honestly I can see rich people paying for this to spice up their life"
+    }
+  ],
+  "37": [
+    {
+      "author": "Free-Database-9917",
+      "body": "https://i.redd.it/jhyuo7ym94da1.png\n\nThis you?"
+    },
+    {
+      "author": "Bubbly_Sell5448",
+      "body": "Ah right. A meme probably made by a novice programmer, I guess that settles it."
+    },
+    {
+      "author": "Free-Database-9917",
+      "body": "And you're an \"expert programmer\" who spends the work day on reddit?"
+    },
+    {
+      "author": "Bubbly_Sell5448",
+      "body": "Maybe let's stick to discussion rather than dick swinging. But FWIW, I'm not employed, currently just working privately on my own research projects. And yeah, probably get distracted a bit too often :)"
+    },
+    {
+      "author": "Free-Database-9917",
+      "body": "damn. Touched a nerve. If you're calling people on the internet Novice Programmers, the implication is that you aren't. That you're better than them.\n\nYou're a keyboard warrior acting like you do Code Review somewhere.\n\nCode that is fast enough, effective enough, isn't using a bitwise operators instead of logical operators, doesn't introduce NullPointerExceptions, is good enough for me.\n\nThe person who made this post knew what he made was bad because he says in the title that this is his application to work for the dutch government because there was a post a while back about some random guy hacking in the dutch government, just for them to send him back a shitty T-shirt. This doesn't seem like the person posting this seriously believes this is the best way to approach this problem"
+    },
+    {
+      "author": "Bubbly_Sell5448",
+      "body": "I didn't say I don't have programming experience. I've been programming for over 20 years and worked at all levels."
+    }
+  ],
+  "38": [
+    {
+      "author": "sws9520",
+      "body": "Other translations include \"thunder strike/stroke\" I believe. It's also capable of killing through armour, so if you are in a sparring environment with synthetic swords, it's still dangerous and often banned from HEMA (Historical European Martial Arts) clubs. In short, there is no way to make mordhau safe"
+    },
+    {
+      "author": "code-panda",
+      "body": "At our club it wasn't banned for the nylon swords, just discouraged since it does nothing for sparring. The trainer did annihilate a helmet to show why we shouldn't use it with steel."
+    },
+    {
+      "author": "sws9520",
+      "body": "Our club banned it even with nylons, we also have a ban on most blunt weapons which I don't think is standard elsewhere but we're a university club so we can't risk blunt force trauma. Some of us do still use steels tho.\n\nEdit: I also know that a local non-school club has a ban on it and was told that it was common"
+    },
+    {
+      "author": "code-panda",
+      "body": "Discouraged as in \"Oi, stop being a cunt, you're damaging equipment.\". The steel ban includes instant expulsion and a notification to all other clubs in the country, and possibly criminal charges in case of injury."
+    }
+  ]
+}
