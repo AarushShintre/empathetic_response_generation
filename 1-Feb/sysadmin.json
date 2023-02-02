@@ -1,0 +1,2096 @@
+{
+  "0": [
+    {
+      "author": "AppIdentityGuy",
+      "body": "Precisely what I was going to suggest. Learn KQL. It can be painful but it is worth the time\u2026"
+    },
+    {
+      "author": "IndyPilot80",
+      "body": "Not sure if you can answer this. But, basically, we want to block any e-mails that contain a HTM or HTML attachment. I did a content search and found many that had HTML attachments. But a lot of them looked like forwarded e-mails where the sender's signature was put into a .htm file when forwarded.\n\nSo, if I setup a rule to block any emails with .htm attachments, those forwards will be blocked also?"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Block them from coming in or going out?"
+    },
+    {
+      "author": "IndyPilot80",
+      "body": "Block them from coming. Long story short, our AV has been catching a bunch of malicious e-mails coming in with HTML attachments. While the AV is catching them, I'd rather just block them before they even get in."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "It\u2019s been my experience that blanket bans never work\u2026. Also I\u2019m not sure that such a rule would catch HTML in the actual message body. What O365 licensing do you have? Take a look at safelinks and safe attachments perhaps."
+    },
+    {
+      "author": "IndyPilot80",
+      "body": "Yeah, our license doesn't include Safe Attachments. Right now, this wouldn't be a blanket policy. Mainly just for the accounts getting hit the most. I do see where I can send the e-mail to quarantine instead of just deleting it, so at least it can be reviewed."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "It\u2019s a tricky one. Blanket bans almost always land up with some high powered person demanding an exception and then you land up with so many exceptions that the policy is weren\u2019t anything. Get a good consulting company to help you analyse your email traffic and see some patterns. Where you based?"
+    }
+  ],
+  "1": [
+    {
+      "author": "walachewaka",
+      "body": "Thats fine, the problem is, even when simply just moving the teams window around or starting to type in the chat box, the window will hang and eventually stop responding for a random amount of time before going back to normal."
+    },
+    {
+      "author": "AlphaRoninRO",
+      "body": "maybe the following is working for you but it is unsupported and the site in german\nhttps://jans.cloud/2020/11/teams-optimierung-fuer-terminalserver/"
+    },
+    {
+      "author": "walachewaka",
+      "body": "Audio is passed through the RDP session. We've gotten that to work, the issue is really teams that randomly hangs regardless of being in a call or not."
+    },
+    {
+      "author": "walachewaka",
+      "body": "Thanks, il try it out!"
+    }
+  ],
+  "2": [
+    {
+      "author": "vbate",
+      "body": "[https://www.catalog.update.microsoft.com/Search.aspx?q=kb890830](https://www.catalog.update.microsoft.com/Search.aspx?q=kb890830)"
+    },
+    {
+      "author": "Sgtkeebs",
+      "body": "That is the same tool that is in the link above. That is the actual tool rather than the security update. I am having a heck of a tough time finding this update."
+    },
+    {
+      "author": "vbate",
+      "body": "that is the update that comes out every month with the same KB number, there is no other update."
+    },
+    {
+      "author": "Sgtkeebs",
+      "body": "I am doing something wrong then? When I click on that to run it, all it asks me to do is to either do a full scan, quick or custom. Am I missing something?"
+    },
+    {
+      "author": "vbate",
+      "body": "thats all it is, it just scans."
+    },
+    {
+      "author": "Sgtkeebs",
+      "body": "Well, I think I figured out what I need. I updated the mpam-fe.exe and it looks like that cleared up the scans"
+    }
+  ],
+  "3": [
+    {
+      "author": "Kwen_Oellogg",
+      "body": "RemindMe! 1 Days"
+    },
+    {
+      "author": "_ReeX_",
+      "body": "What?"
+    },
+    {
+      "author": "Kwen_Oellogg",
+      "body": ">[RemindMe!](https://www.reddit.com/r/RemindMeBot/comments/c5l9ie/remindmebot_info_v20/) \n\nThe bot will remind me in one day to come back here and check all the answers."
+    },
+    {
+      "author": "_ReeX_",
+      "body": "Haha, same issue mate?"
+    },
+    {
+      "author": "Kwen_Oellogg",
+      "body": "Similar issues.  File Shares that randomly stop being available...\n\nAnd its just an interesting problem and I might learn something from it.  :D"
+    },
+    {
+      "author": "_ReeX_",
+      "body": "In your case, does it help rebooting?"
+    },
+    {
+      "author": "Kwen_Oellogg",
+      "body": "Yep.  Every time.  Then the File Share is available again."
+    },
+    {
+      "author": "_ReeX_",
+      "body": "Same here......."
+    }
+  ],
+  "4": [
+    {
+      "author": "br1ckd78",
+      "body": "What version of the Android OS is on these devices? Mobileiron only list up to Android 10 in their compatibility matrix from what I can see.  https://help.ivanti.com/mi/help/en_US/core/10.7.0.0/rn/Content/CoreConnectorReleaseNotes/Support_and_compatibilit.htm\n\nI feel for you OP. I used to work in product support for the company that bought mobileiron a couple of years ago. I hope for your sake their support structure is better these days than it was back then."
+    },
+    {
+      "author": "Carson_Official",
+      "body": "Thanks for your feels my man! It was never fantastic to begin with haha.\n\nAs they are all supported Google Pixel devices, they are running Android 13. They were updating with no issues for years until around mid December is when I was hearing about people not getting December's update (despite most having it already). However, barely anyone has January's! I expect the same to apply for Feb too when it releases next week.\n\nI have raised it as a support ticket as well, just seeing if anyone else is seeing this issue."
+    },
+    {
+      "author": "br1ckd78",
+      "body": "I never did work on that product directly so I can't really give you any direct insight, sorry friend.  And it's possible their compatibility matrix is not accurate, I ran into that with some of that company's other products from time to time.\n\nI wish you the best with their support, man, and wish I had more to offer. I used to know personally the person they put in charge of the mobile iron support team post acquisition, but I happen to also know that person has moved on to other products due to mitigating circumstances.  \n\nKeep on them is my best advice. Daily emails asking for updates, if you have to escalate to your CSM or above, they take those kinds of things very seriously in my experience.  When nothing else gets the ball rolling, dropping the magic word of escalation gets things moving."
+    },
+    {
+      "author": "Carson_Official",
+      "body": "Thank you my friend! Yeah I will, just don't want to go back to the days of manual updates \\*shudder\\*!\n\nSorry forgot to mention, the KB you provided is for MobileIron Core (the on-prem version), we use MobileIron Cloud so the platform should be on the latest with full support for Android 13."
+    },
+    {
+      "author": "br1ckd78",
+      "body": "Oh yes, good catch on the KB. Being familiar with the parent company but not the product itself I was going with what Google found for me."
+    }
+  ],
+  "5": [
+    {
+      "author": "St0nywall",
+      "body": "Has the NPS server been registered in AD?"
+    },
+    {
+      "author": "capricorn800",
+      "body": "u/St0nywall: Yes"
+    },
+    {
+      "author": "St0nywall",
+      "body": "Is the NPS server on a DC?"
+    },
+    {
+      "author": "capricorn800",
+      "body": "u/St0nywall: No its a separate server."
+    },
+    {
+      "author": "St0nywall",
+      "body": "Sorry, have to ask.\n\nHas it been rebooted?"
+    },
+    {
+      "author": "capricorn800",
+      "body": "u/St0nywall: Yes few times and also restarted the service few times."
+    },
+    {
+      "author": "St0nywall",
+      "body": "In the Network Policy Server MMC control app, right click on the server and is \"Register server in Active Directory\" greyed out?\n\nAgain, sorry, just making sure."
+    },
+    {
+      "author": "St0nywall",
+      "body": "Is the server cert expired?"
+    },
+    {
+      "author": "capricorn800",
+      "body": "No. The server is already register."
+    },
+    {
+      "author": "capricorn800",
+      "body": "No. Is there any way to force it to use the DNS name?"
+    },
+    {
+      "author": "St0nywall",
+      "body": "Not easily and you've already tried the registry method.\n\nHonestly, I would be building a new NPS server at this point."
+    },
+    {
+      "author": "capricorn800",
+      "body": "Its a new server installed yesterday.\nOne thing I found is that we have a dns zone same as netbios name. Well I inherited this environment. Cannot do much. Finding a way that I can use DNS name. Not sure if its different in 2019 can might work with registry or someothere way or even in win 2022. Then I can try on these OS."
+    }
+  ],
+  "6": [
+    {
+      "author": "St0nywall",
+      "body": "You sure you're reading that date right?\n\n&#x200B;\n\nCould it be January 5, 2023?"
+    },
+    {
+      "author": "ihmsm7899",
+      "body": "Sorry the formatting was different on there but pretty sure it says it is valid. It says valid for 89 days and I force renewed it already so. The original expiry date was on April but now it is in may."
+    },
+    {
+      "author": "St0nywall",
+      "body": "Does their screenshot show the expiry date?"
+    },
+    {
+      "author": "ihmsm7899",
+      "body": "Yes it showed that it expired on the 27th of January"
+    },
+    {
+      "author": "St0nywall",
+      "body": "Sounds like they are hitting a cached page, maybe a load balancer or a different server that has an old cert.\n\nHopefully they didn't manually install the cert on their computer..."
+    },
+    {
+      "author": "ihmsm7899",
+      "body": "I would hope so they are two different companies with the same issue though.\n\nI ran the opens certform command and I got this:\n\"No client certificate CA names sent\"\nI'm trying to research what it means..will this be tied to this issue?"
+    },
+    {
+      "author": "St0nywall",
+      "body": "Is your site behind a CDN like Cloudflare?  If so, the CDN may have cached an old cert."
+    }
+  ],
+  "7": [
+    {
+      "author": "rthonpm",
+      "body": "So you have one physical server using Hyper-V with five guests?\n\nWhy not just purchase a drive array and connect it to the physical host? You could then store different VM's on different partitions either on the server or the array, or even have different Vhdx files on different partitions for the VM's specific needs."
+    },
+    {
+      "author": "Heavy_Bread_5919",
+      "body": "Ah I thought SAN would be something more used for sharing data across multiple computers as opposed to within VMs inside the same computer.\n\nWill suggest this to them. Thanks."
+    },
+    {
+      "author": "Heavy_Bread_5919",
+      "body": "Sorry for lack of knowledge on this topic. The SSDs have been purchased and I believe currently it's installed inside the computer. They're NVMe SSDs 400-BLKI. This model I believe [https://www.dell.com/en-us/shop/dell-16tb-enterprise-nvme-mixed-use-u2-g4-p5600-with-carrier/apd/400-bljk/storage-drives-media](https://www.dell.com/en-us/shop/dell-16tb-enterprise-nvme-mixed-use-u2-g4-p5600-with-carrier/apd/400-bljk/storage-drives-media).\n\nI'm not sure then if that leaves us only straight forward options? One main consideration was alotting the 5 tb available strictly on the one priority VM server/guest, which seems to be one of the options they gave us versus possibly on some sort of shared stored across all 5 guests, which would be ideal but we were afraid whether there would be performance cost. In addition we were worried if there would be any impact of Windows and Linux reading and writing from this same storage"
+    },
+    {
+      "author": "rthonpm",
+      "body": "The guests are really writing to the storage. They are writing to their own Vhdx files, which are essentially the hard drives for the guest systems. The only thing the physical storage does is host the files, the underlying operating systems are in their own environments so you can mix guest operating systems without issues."
+    }
+  ],
+  "8": [
+    {
+      "author": "VA_Network_Nerd",
+      "body": "When you login to iDrac, does the iDrac GUI show you similar alarms?  \n\nDo you have good air flow & environmentals in the server room?  \n\nIf you are delivering air to the server that is 80F or cooler, and the cooling fans are all in good health, and you are still experiencing these alert events then you should engage Dell support to start a paper trail.  \n\nIt's possible the thermal paste needs to be cleaned & reapplied.  \n\nBut create the paper trail first."
+    },
+    {
+      "author": "vectorx25",
+      "body": "will do this sensors run  tonite, thanks for the tip"
+    },
+    {
+      "author": "vectorx25",
+      "body": "idrac gui shows temps in normal range, last 30 days never reaching above \n\nalso shows no warnings or critical thresholds.  \n\n\nDont think its anything related to actual heat, probably a faulty sensor driver on the kernel\n\n[https://ibb.co/MkF1wrT](https://ibb.co/MkF1wrT)\n\nhttps://ibb.co/3T5QS8V"
+    },
+    {
+      "author": "VA_Network_Nerd",
+      "body": "Two thoughts:  \n\nFirst, this feels like CentOS has lower threshold levels than iDrac, and the iDrac values were set by Dell, with influence from Intel, so I would grant more credibility to the iDrac values.  You can probably explore this by digging deeper into embedded values.  \n\nSecond, if things are heating up, it should trigger the variable-speed fans to spin faster. I don't know if iDrac or SNMP monitor average RPMs per polling-interval, but it might be interesting.  \n\n\nOnly other thought I have is to identify who triggered this message.  \n\nMeaning:  \n\nDoes the OS kernel think the CPU is too hot, so he is gonna send a SpeedStep Command (or whatever the Xeon variant is) to the related CPU core to clock-down, or is hardware communicating through a driver/library to inform the OS that \"I am too hot, so I am clocking myself down, thought you should know.\"  \n\nMy Linux knowledge is inadequate to determine what that message is telling us."
+    },
+    {
+      "author": "vectorx25",
+      "body": "yea thats what it smells like, kernel has different threshold than firmware\n\nI have dell ticket open w this, will post resutlts when i get to bottom of it"
+    }
+  ],
+  "9": [
+    {
+      "author": "ExhaustedTech74",
+      "body": "But were those non-licensed staff still able to use it as Reader, even if it updated to Pro?"
+    },
+    {
+      "author": "tonkats",
+      "body": "I use a check for acrodist.exe, which only exists with Pro (it's the Distiller application for Professional)"
+    },
+    {
+      "author": "ExhaustedTech74",
+      "body": "That's good to know, thank you!"
+    },
+    {
+      "author": "ExhaustedTech74",
+      "body": "Is it on the system or profile specific only? Everything I'm seeing is profile specific with current logged on user. Seems it would be difficult to track overall and you'd have to check day to day."
+    },
+    {
+      "author": "tonkats",
+      "body": "\"Adobe Acrobat\" for the icon, \"Adobe Acrobat (64 bit)\" listed in Programs and Features. I have this installed, and I do not have acrodist.exe in c:\\program files\\adobe\\acrobat dc\\acrobat\n\nI'm checking for acrodist.exe in the install directories (name in Program Files or x86) for Adobe Acrobat / Reader / Pro. Depending on version, the exact subfolder in there could be named several things. Their naming scheme has always been an absolute CF, and somehow with the unified installer, they managed to make it even worse.\n\nWith Pro, Acrodist.exe should be in the same directory where Acrobat.exe is.\n\nHaven't tested the whole unified / sign in thing for staff with a Pro subscription yet, that is my next step."
+    },
+    {
+      "author": "ExhaustedTech74",
+      "body": "Yeah, I've been creating/customizing two different installer packages for it to distinguish between the two until now but that gets time consuming with testing, incompatibilities, etc. \n\nI'm trying to decide if I really need to know which devices have Reader vs Pro anymore and really, I think I was only differentiating between them for update purposes. If it's all one installer, I don't think it's even necessary or worth the time. \n\nIf management wants to know who has Pro, I'll just give them the licensed users from the portal. Whether or not they actually use that license, not my problem lol."
+    }
+  ],
+  "10": [
+    {
+      "author": "AppIdentityGuy",
+      "body": "It depends on how the control was granted.... Do you or the client have any Global Admin credentials?"
+    },
+    {
+      "author": "Ghost_InThe_Machine",
+      "body": "Hi Yes, we do.\nWe have two licenses which we have access to that have Global Admin rights."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "I would log a call with MS and if they can assist but if they cant at a minimum I would look at disabling any guest user that has any elevated roles... \nI'm assuming it didn't end on good terms..."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "But I would be very careful"
+    },
+    {
+      "author": "Ghost_InThe_Machine",
+      "body": "I don't have the full picture as to why the relationship ended, but I am assuming they were unhappy with the service and wanted to move away. So far the Third party is being very cooperative and has outlined what they will do on their end.\nI did speak with Microsoft and they said that the partner(Third party) is the only one who can do this. They have to sign in to their partner portal and select the client and remove the relationship.\nFrom there we just log in with the global admin credentials and we will have full control.\n\nSince I did this, I kinda wanted a second opinion.\n\nThank you for your responses."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Aah cool. I've seen this when the it's a nasty divorce and it gets messy... I'm assuming the 3rd party was using Lighthouse or something similar"
+    },
+    {
+      "author": "Ghost_InThe_Machine",
+      "body": "Honestly not sure. I do hope it goes smoothly. Will know more tomorrow.\nI am exporting as much as a backup to excel, just incase something goes wrong.\nThe client is aware that this is not in my control. They are the ones who initiated it and they want to move forward with it understanding the that if something goes wrong, they will be down until we can get it back up and running."
+    }
+  ],
+  "11": [
+    {
+      "author": "AppIdentityGuy",
+      "body": "Well once you have agreed usually during app registration it should just work. Admin consent is about defining what level of permission a user can grant an app before an admin user has to consent. Mostly to prevent users allowing malicious apps in.."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "I'm trying to do it for all as admin in one shot with their link.  Otherwise, adobe can't add one drive access from within the app. I believe the per-user block to add apps I have in place to prevent a malicious app is what's throwing the common error of \"ask your IT for consent\" when users try to add it with just user permissions."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "Actually, i just scrolled the comments on the Microsoft link above and I am not the only one with this issue and that goes back 12 months :/"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Is this on Windows?"
+    },
+    {
+      "author": "scratchduffer",
+      "body": "In this case I am trying it on the links for iOS and Android as that's where they need it the most asap"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "That's what I thought. Are these devices Intune enrolled and are you installing the Adobe app from the company portal... I had a similar issue a couple of years ago with something else.."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "No intune at all in one tenant, yes in the other but the same issue.  It's all just happening inside the acrobat app."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "One last thing.. Any device based Conditional Access Policies????"
+    },
+    {
+      "author": "scratchduffer",
+      "body": "No nothing in either tenant for that."
+    }
+  ],
+  "12": [
+    {
+      "author": "Aronacus",
+      "body": "Why not just run a command to add the dl to the user in powershell?"
+    },
+    {
+      "author": "Disastrous-Title-911",
+      "body": "ok , i got the function working , how do i call it ? by function name ? do i include the Get (EG: Get-AddAccounting) ?\n\n`function Get-AddDelivery {`\r  \n`$X=\"clientservices@contoso.com\",\"delivery@contoso.com\"`\r  \n`$y=[System.Collections.ArrayList]$X`\r  \n`foreach ($X in $y){`\r  \n   `Add-DistributionGroupMember -Identity $x -Member $Mail -ErrorAction Stop` \r  \n   `}`\r  \n\r`}`\n\nthis is my function, im not understading how to call it ...\n\nlets say i run `C:\\NewJoinerV5.ps1 Get-AddDelivery`  is this the correct way to call it ?\n\nis the function supposed to be inside the `C:\\NewJoinerV5.ps1` script or be a different file/script ?"
+    },
+    {
+      "author": "Disastrous-Title-911",
+      "body": "might as well do it manually at that point since it would require to edit the script  ? or i guess i could make a script for each department (they have multiple DL)\n\nlike make a list and add them to the DL in the list\n\nmaybe i dint understand your comment"
+    },
+    {
+      "author": "Aronacus",
+      "body": "you'd load the module . ./NewJoinerV5.ps1  \n\n\nFrom there you can call Get-AddDelivery\n\nBut you could also build params in your script so its self contained."
+    }
+  ],
+  "13": [
+    {
+      "author": "LeaflikeCisco",
+      "body": "SPF records are TXT records - https://mxtoolbox.com/SuperTool.aspx?action=txt%3aspf.protection.outlook.com&run=toolpage"
+    },
+    {
+      "author": "rwdorman",
+      "body": "I understand that.\n\nThe recommended Exchange Online SPF record is include:spf.protection.outlook.com\n\nLooking up that host name, spf.protection.outlook.com, is failing.  Since I have a -all on my SPF and it cannot check the IP of the source as being included in the SPF, servers with strict SPF checking are bouncing my mail."
+    },
+    {
+      "author": "LeaflikeCisco",
+      "body": "That\u2019s not how include works."
+    },
+    {
+      "author": "rwdorman",
+      "body": "Interesting. How would you describe the process of resolving what IP is represented by a name in an SPF record?"
+    },
+    {
+      "author": "LeaflikeCisco",
+      "body": "That looks fine , what I\u2019m getting at is if you use a domain with \u201cinclude\u201d it doesn\u2019t have to have an a or cname record. It will check the txt record of the include and include anything defined in that."
+    },
+    {
+      "author": "rwdorman",
+      "body": "I see, thank you!"
+    }
+  ],
+  "14": [
+    {
+      "author": "hydrobroccoli",
+      "body": "Because its a small company the tasks are pretty basic but non technical - emailing potential customers about their IT needs and collecting potential customer data(phone number, email, head office). It's been very basic, but in all honesty I think it's because I have 0 experience is this type of role.\n\nI do not like this type of work. I love doing technical work - once I started this position it made me realize how much I like to be behind the scenes doing the hands on work.\n\nI do like dealing with os issues and problems. It sounds cliche but any internet or computer problems that anyone I know has, I'm the first person they call. While I was looking for Net Admin work, I worked at a packaging warehouse and I was always solving/fixing little problems with the desktops and scanner guns - my nickname became IT girl lol."
+    },
+    {
+      "author": "RedDidItAndYouKnowIt",
+      "body": "I would suggest doing the CompTIA net+ and then looking at the infrastructure line or sec+ www.comptia.org\n\nThose more generalized certs should give you a good idea of what you care about most. I don't need the certs I have but I like the knowledge and knowledge verification so I did the basic trifecta of a+ net+ sec+ and am going to do cysa+ next and my job is as an Infrastructure Sys Admin.\n\nTL;DR Study for different certs to see what actually piques your interest the most; then pursue that course of action."
+    },
+    {
+      "author": "hydrobroccoli",
+      "body": "thanks so much for this!"
+    },
+    {
+      "author": "RedDidItAndYouKnowIt",
+      "body": "My pleasure to help out."
+    }
+  ],
+  "15": [
+    {
+      "author": "zm1868179",
+      "body": "Defender 365 is made for these.\n\nI've always wondered this question Microsoft being one of the largest software companies in the world exclusively uses their own products they don't put third-party products into their environment I was a former engineer with Microsoft and know they're internal environment they are able to protect their entire environment along with all their customers using just defender, DLP policies etc so I never understood why these products are not good for other people cuz to me it just seems like wasting money buying third party solutions when you basically get all this with your Microsoft licensing out the door."
+    },
+    {
+      "author": "y0da822",
+      "body": "I agree. \n\nWe were on malwarebytes for years in our old physical environment before defender was mature. \n\nI will research. Question though does defender 365 have a controller so we can see all in it? Reports etc."
+    },
+    {
+      "author": "zm1868179",
+      "body": "Everything for defender is controlled in the security.microsoft.com portal.\n\nServers can be enrolled here too but you have to manually enroll those endpoints can be enrolled with defender through into pretty easily servers just can't have to be manual.\n\nYeah defender 365 as long as you have the licensing will give you everything from vulnerability detection (you can install the scanner agent on an on-prem server and have it scan your unmanaged endpoint such as switches access points industrial equipment etc) remediation, advanced hunting, client isolation, and as long as you're using the edge browser as your company browser it can even do web-based filtering without the need for a physical filter.\n\nThat's probably the one thing Microsoft just doesn't do they will give you some basic bare Bones reports for a lot of stuff but all the raw data is there so you could build your own reports using something like power bi that's probably the one thing they don't do that third parties do is they don't build your reports for you they'll give you a basic report to kind of get you going and they expect you to be able to pull whatever data you need with power bi and build more advanced reports but they do collect all of the data for you to be able to do that you just have to know how to build what you want."
+    },
+    {
+      "author": "y0da822",
+      "body": "Fair enough. Thank you. \n\nAnd to your point. One thing they can\u2019t do right is backups. Nothing beats veeam and their abilities. \n\nI tried azure backup and a thing like file level recovery is a must have for us."
+    },
+    {
+      "author": "zm1868179",
+      "body": "They do have a pretty good one but it doesn't work for on-prem it works with Azure file shares and Azure storage blobs in a way you can kind of combine it with Azure file sync to kind of make it work with an on-prem. But everyone knows Microsoft's days of on-prem is pretty much come to an end for most products they're pushing everything to Azure based if they can."
+    },
+    {
+      "author": "y0da822",
+      "body": "Correct but with regards to backing up VMs and getting those features of veeam like file level recovery and every 4 hour backups and gfs don\u2019t seem to exist. \n\nCould be wrong about gfs. I think I am. But yea. \n\nThanks for the help. \n\nLooks like since we don\u2019t have exchange online I\u2019ll have to buy Microsoft defender 365 p1 licenses for each user. In the end cheaper than mbam."
+    },
+    {
+      "author": "zm1868179",
+      "body": "I'm not sure if there's file level recovery on VMS but as far as file storage it does exist but it's only with Azure file shares now you can do hourly backups of VMS if they're at your VMS I tried using the Azure backup Manager tool for on-prem VMS and it's very picky on how it works it might work I just never had time to really play with it to see if I can get it to work they have improved the services and there's more they can add it'll get better with time."
+    },
+    {
+      "author": "y0da822",
+      "body": "Yep no big deal. Veeam is overall a great product. \n\nBeen great overall. I moved all the VMs(servers) from on-site to azure. Now slowly cutting over those servers to saas products. Some azure some not. \n\nJust finished vdi deployment using igel desktops and it\u2019s been great. Scaling plans etc. all great. \n\nLittle by little making progress. One engineer for 400+ employees hasn\u2019t been fun. A lot to juggle."
+    },
+    {
+      "author": "zm1868179",
+      "body": "I know that feeling there's two of us that does all the Azure m365 stuff for eight individual businesses I'm trying to migrate things into azer native services such as web apps Azure SQL SharePoint OneDrive Azure file shares it takes time cuz you have to re-architect everything"
+    },
+    {
+      "author": "y0da822",
+      "body": "Yep. And let\u2019s not forget dealing with the users and owners and explaining and their endless demands and attachments to old softwares.\n\nAlso let\u2019s not forget me commuting to an office a couple days a week because \u201cyou have to be in office\u201d."
+    },
+    {
+      "author": "zm1868179",
+      "body": "Yep that's the hardest part getting the users to use the newer more than likely more efficient ways of doing things. \n\nI fortunately am able to work from home because my closest office is in Washington DC and I live in South Carolina.\n\nThe hardest thing though was convincing the it business partners and the IT executives to bring me and the other engineer on products before they decide yet we want this so we can bring up whether or not Microsoft has an equivalent solution so we're not throwing money away on a product that we may already have access to from Microsoft. \n\nFor the longest time we had Mandiant/trellix FireEye and tanium because FireEye was causing all kinds of Major performance issues where it would just eat up all CPU usage lock up all disk usage and the PC was basically a brick titanium was also what I would consider hot garbage having to add like 30 exclusions for a program to function in any kind of antivirus solution just does not sound good to me and plus the thing is just VBS script that files powershell all wrapped and held together with bubble gum.\n\nWhen I showed them all what Windows defender along with its vulnerability management fishing and attack simulator campaigns and everything else it did considering the fact that it's built into the operating systems and it didn't cause that performance hit that we were always seeing and they had no clue what intune was they thought it was just to manage cell phones and that was it they didn't know it was Windows endpoint platform management to me it was us wasting money on products for solutions that we already had included with our Microsoft licensing."
+    },
+    {
+      "author": "y0da822",
+      "body": "Cool and I love that they bought you in on meetings. Our place brings us in at end (not so much anymore but the damage is done) and then expect us to make it work. \n\nAt some point once I get from hosted exchange to exchange online I\u2019ll be able to get an overall license for all. Now I have to do this piece meal crap. \n\nThanks again."
+    },
+    {
+      "author": "y0da822",
+      "body": "Last question I\u2019m pretty sure it\u2019s like other azure licensing. The licensing for defender i assume is per user right so I need enough for all users even though it\u2019s running on the device?"
+    },
+    {
+      "author": "zm1868179",
+      "body": "Yeah defender is a per user license I think there might be a device I'm not entirely sure I'd have to look because some licensing does have device licensing available but I don't know if that one does I think it might though because servers aren't particularly tied to a user and there's licensing available for those I believe."
+    },
+    {
+      "author": "y0da822",
+      "body": "How would one apply a device license? We aren\u2019t azure ad joined. Just regular ad. \n\nI have a feeling it\u2019s user but googling the wrong terms I think.  \n\nAnd man you\u2019re quick to respond. Remind me of me ahahah."
+    },
+    {
+      "author": "zm1868179",
+      "body": "A lot of the device 365 licenses if I'm not mistaken it's more of as long as you own one it turns features on but I don't think there's actually an enforcement or assignment mechanism it's more of a we hope you're telling us the truth type of thing.\n\nIt's like in tune has device based licenses but there's no way to actually apply those to a device it's more of you own them to turn the features on and then you just make sure you have enough to technically cover the amount of devices that will be used"
+    },
+    {
+      "author": "y0da822",
+      "body": "Hmmm thought intune licensing was user based. We use it for our loaner laptops and everyone needed an intune license to use it. \n\nOk I\u2019ll try to find out if defender is per user or per device."
+    },
+    {
+      "author": "y0da822",
+      "body": "Got it. \n\nMicrosoft Defender for Endpoint Pricing\nMicrosoft offers Microsoft Defender for Endpoint licensing per user per month. This licensing offers coverage of up to five concurrent devices for that particular user."
+    },
+    {
+      "author": "zm1868179",
+      "body": "Yeah intune is per user but there is some licenses for InTune and some other services that there is a special per device license you can get it's not typically normally shown in the 365 portal I don't believe I'm not sure how you get them but they do exist for example if you have shared PCS like a shop floor PC there's no assigned user to that device so it needs a device license to be able to be enrolled in InTune.\n\nThey have docs that mention device based licensing for some services I'm just not entirely sure how you actually get those licenses because like I said they don't show up in the 365 portal for purchase it may be something that you have to get through volume license procurement."
+    }
+  ],
+  "16": [
+    {
+      "author": "bbud613",
+      "body": "https://support.zoom.us/hc/en-us/articles/360061936271-Creating-or-editing-synced-contacts"
+    },
+    {
+      "author": "mrcmb55",
+      "body": "This is for the App not a physical desk phone.  I also need to create a company directory of employees"
+    },
+    {
+      "author": "bbud613",
+      "body": "You sync to the app and the phone logs into Zoom to get them."
+    },
+    {
+      "author": "mrcmb55",
+      "body": "You would think that would be the case but it's not."
+    }
+  ],
+  "17": [
+    {
+      "author": "da_kink",
+      "body": "Unifi enterprise XG has a 10Gbit ~~+PoE~~ 24 / 48 port model\n\nNo PoE. I was sure they had one though. But search results and the actual data sheet are not labeled the same. The 6 port (and 8?) Are PoE.\n\nNetgear M4300-16X seems to fit the bill if 16 ports is enough"
+    },
+    {
+      "author": "SmoothRunnings",
+      "body": ">Meraki MS355\n\nWow over $9k for a 24 port. lol"
+    },
+    {
+      "author": "SmoothRunnings",
+      "body": "You need to double check that, I just looked at both their US and Canada stores and they \"USW-EnterpriseXG-24\" is not POE. Not to mention there isn't a USW-EnterpriseXG-48\" listed."
+    },
+    {
+      "author": "da_kink",
+      "body": "Jip. I was certain they had one. Was looking at it for homelab but apparently search results and page naming is not the same as specs. Fuck.\nThanks for the headsup"
+    }
+  ],
+  "18": [
+    {
+      "author": "patg84",
+      "body": "See if you can link an article that talks about this."
+    },
+    {
+      "author": "zm1868179",
+      "body": "I found the IMAP thing\n\nhttps://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online\n\nIt's in the same article where they're saying they turn off basic auth.\n\nThey will allow oauth 2.0 IMAP and POP3 and smtp connections and that article States the Outlook client will not support oauth2.0 POP3 or IMAP authentication. \n\nSo Outlook will not be able to connect by IMAP once it's turned off on your tenant either.\n\nQuote from the article\n\n\"In 2020, we released OAuth 2.0 support for POP, IMAP, and SMTP AUTH. Updates to some client apps have been updated to support these authentication types (Thunderbird for example, though not yet for customers using Office 365 Operated by 21Vianet), so users with up-to-date versions can change their configuration to use OAuth. There is no plan for Outlook clients to support OAuth for POP and IMAP, but Outlook can connect use MAPI/HTTP (Windows clients) and EWS (Outlook for Mac)\""
+    },
+    {
+      "author": "zm1868179",
+      "body": "The IMAP document I'll have to see if I can find but I know I've seen it before as far as the register key you did that disables modern authentication and switches it to basic that's been known for 2 years there's hundreds of articles where Microsoft has said they are turning that off and they have worldwide there's only a handful of tenants that didn't get turned off but got an extension to like the end of January but by mid February it will be off everywhere no way to turn it back on"
+    },
+    {
+      "author": "patg84",
+      "body": "Thanks, read it now.\n\nThis Office 365 account isn't under a tenant. It's literally a Microsoft Office 99.99/year bs account with the 5 licenses that the customer thought was a steal."
+    },
+    {
+      "author": "patg84",
+      "body": "I just don't like the fact that you can't log into each application individually. It forces all or nothing.\n\nI've found legit instances of where people want to stay logged in with Word, Excel, PowerPoint, and have Outlook separated for their work email but since it's all or nothing, they're screwed."
+    },
+    {
+      "author": "zm1868179",
+      "body": "I'm not really sure on those but I mean technically on the back end there is actually still a tenant if it's like that it's treated as like a personal account so it would be like an outlook.com account or something like that I don't know if they will disable it for those type of accounts or not Enterprise accounts yes they have but the global outlook.com accounts I have no clue."
+    },
+    {
+      "author": "zm1868179",
+      "body": "That's how modern authentication works when you log into one application and grabs an access token that access token is shared with the operating system everything else will use that login token that's just how they're designed there's no way around it unfortunately."
+    },
+    {
+      "author": "patg84",
+      "body": "Yep that's what it is an outlook.com account. I would think a tenant with 5 potential users."
+    },
+    {
+      "author": "patg84",
+      "body": "Well fuck those developers and that bullshit design."
+    },
+    {
+      "author": "zm1868179",
+      "body": "It seems like the disablement of basic auth it's supposed to also apply to the outlet.com hotmail.com accounts as well. When this is happening I do not know as the only date is still the same as everyone else the October 2022 date but as of right now it seems like it still working my guess is this will stop working shortly after they finish disabling it everywhere else."
+    },
+    {
+      "author": "patg84",
+      "body": "Probably. With my luck it'll happen tomorrow."
+    }
+  ],
+  "19": [
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "Also, Event ID 14 seems to be that the kerberos krbtgt account password hasn't been reset.  I'd reset it once, and only once (wait at least a day+ before trying again or  you can break things).  You can set it to anything, the DC will generate its own secure krbtgt password.  That might clear this up..."
+    },
+    {
+      "author": "TheSmJ",
+      "body": "I ran 11bchecker. Didn't find anything aside from some old assets that are no longer needed and they aren't the accounts referenced in the event logs.\n\n> DefaultDomainSupportedEncTypes\n\nI thought this was no longer supported/needed since the November OOB patch was released?"
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": ">I thought this was no longer supported/needed since the November OOB patch was released?\n\nThe November patch sets this to a default value of 0x27.  That default value is fine, unless you are forcing AES instead of RC4.  You are supposed to set it to 0x18 if you are blocking RC4 and forcing AES."
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "> You are supposed to set it to 0x18 if you are blocking RC4 and forcing AES.\n\nDo this first though:\nhttps://www.reddit.com/r/sysadmin/comments/10p5l92/disabled_rc4_on_fully_updated_2016_dcs_now_seeing/j6ixf4f/"
+    },
+    {
+      "author": "TheSmJ",
+      "body": "Did this. Still seeing the error. I also did this last month as a preventative measure. I probably should have put that in the OP.\n\nI logged in as one of the accounts that trigger that error. GPUpdate /force fails when updating the user policy, and I get messages popping up from the tray telling me to lock/unlock the account using the correct password.\n\nFunny thing is, I see this even after resetting the password for the account and using that new password to log in."
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "How are you blocking RC4, just out of curiosity?"
+    },
+    {
+      "author": "TheSmJ",
+      "body": "A group policy setting \"Network security: Configure encryption types allowed for Kerberos\" with only AES128_HMAC_SHA1, AES256_HMAC_SHA1, and Future encryption types enabled. The policy is applied to all servers, DCs and computers.\n\nI also have the RC4 ciphers disabled under \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\", though I don't believe this should effect kerberos:\n\n    [HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\\RC4 128/128]\n    \"Enabled\"=dword:00000000\n    \n    [HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\\RC4 40/128]\n    \"Enabled\"=dword:00000000\n    \n    [HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\\RC4 56/128]\n    \"Enabled\"=dword:00000000\n    \n    [HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\\RC4 64/128]\n    \"Enabled\"=dword:00000000\n    \n    [HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SCHANNEL\\Ciphers\\Triple DES 168]\n    \"Enabled\"=dword:00000000"
+    },
+    {
+      "author": "TheSmJ",
+      "body": "Another tidbit of info - I asked a couple of users who get named in these errors to try resetting their passwords. After attempting to do so they are met with an error:\n\n>The encryption type is not supported by the KDC"
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "The second set are SSL/TLS ciphers, but the first one is correct.\n\nThe only thing I can think of is that the script that was supposed to detect issues didn't work actually work (or it missed something). If you have the registry key set to 0x18 on the DC's, and that GPO, as long as the accounts have AES keys (recent password resets) it should work.  \n\n Do you have an old domain? What is your forest and domain functional level?"
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "Do you have a setup like this, where you have multiple domains in a forest that you have to authenticate through?:\n\nhttps://techcommunity.microsoft.com/t5/itops-talk-blog/tough-questions-answered-can-i-disable-rc4-etype-for-kerberos-on/ba-p/382718"
+    },
+    {
+      "author": "TheSmJ",
+      "body": "It's an old domain (was running at a Win2000 functional level when I started here almost 8 years ago) but as of a year ago both are running at 2016. They were 2008 R2 prior to that."
+    },
+    {
+      "author": "TheSmJ",
+      "body": "Nope. Only one domain/forest."
+    },
+    {
+      "author": "PrettyFlyForITguy",
+      "body": "Are all accounts not working, or just some?  The passwords would have needed to be changed after they were upgraded passed 2008R2 at least once, then successfully logged in once."
+    },
+    {
+      "author": "TheSmJ",
+      "body": "Most are working. It seems like roughly a 1/4 are not.\n\nI changed the GPO to allow RC4 encryption and set DefaultDomainSupportedEncTypes to 0x27. That stopped the errors from coming up.  After doing this, the couple users that were reporting issues earlier are no longer having issues. At least that confirms where the issue lies.\n\nI'm going to find out which accounts haven't changed their password since 2018 since the last password policy was changed, and have those individuals change them again before attempting to disable RC4 again."
+    }
+  ],
+  "20": [
+    {
+      "author": "BrainWaveCC",
+      "body": "Also: [https://www.reddit.com/r/sysadmin/comments/10oi5wm/sysadmin\\_pay/](https://www.reddit.com/r/sysadmin/comments/10oi5wm/sysadmin_pay/)"
+    },
+    {
+      "author": "ElectricOne55",
+      "body": "Thanks man. Ya plus the time it will take to get up to c# developer is what worries me too. Because I think employers will be very picky and give really intense coding tests"
+    },
+    {
+      "author": "BrainWaveCC",
+      "body": "Even if getting hired is relatively just as easy as it is for you as a sysadmin, the issue is going to be you starting over, essentially, as a novice developer.  You will almost certainly be making less than you are making now, given the proficiency difference, and then you will have to work your way up to where you are beyond where you are now, from a salary perspective.\n\nAnd being a dev comes with its own quirks."
+    },
+    {
+      "author": "ElectricOne55",
+      "body": "What quirks are you referring to?\n\nAlso, what do you think of the advice that my friend was giving me to learn c# and Javascript and see if I can find c# jobs. The thing is I know syntaxes and stuff off of w3schools but idk if that's enough to get through interviews. Or if I would even get an interview?\n\nOr would it be better to continue down the windows/Linux admin path and work with python like I been doin and leave it at thst?"
+    }
+  ],
+  "21": [
+    {
+      "author": "KStieers",
+      "body": "To build my new CAs, I used this [https://timothygruber.com/pki/deploy-a-pki-on-windows-server-2016-part-1/](https://timothygruber.com/pki/deploy-a-pki-on-windows-server-2016-part-1/)\n\nStep by steps to migrate here: [https://docs.microsoft.com/en-us/archive/blogs/pki/decommissioning-an-old-certification-authority-without-affecting-previously-issued-certificates-and-then-switching-operations-to-a-new-one](https://docs.microsoft.com/en-us/archive/blogs/pki/decommissioning-an-old-certification-authority-without-affecting-previously-issued-certificates-and-then-switching-operations-to-a-new-one)\n\nIt has links to background that's useful to understand how its put together, and how to clean up the old one once you're done.\n\nPutting the CA on a DC is not a great idea.  It should be its own box, because it needlessly complicates DCs, makes the DC more vulnerable."
+    },
+    {
+      "author": "RaevenFairchilde",
+      "body": "Highest of fives @bread_on_trees! Thank you for the response and the recommendations! I'll unpack this tomorrow at the office. You gave me a lot to look into, and I really appreciate it!"
+    },
+    {
+      "author": "RaevenFairchilde",
+      "body": "Right on, thanks @St0nywall, I was thinking the same, but thought I'd ping the experts to get some insight there first ;)"
+    },
+    {
+      "author": "RaevenFairchilde",
+      "body": "thanks for the links and recommendations, u/KStieers. I was thinking the same as far as separating the role from the PDC. Still needed a place to start! :D"
+    }
+  ],
+  "22": [
+    {
+      "author": "Tricks_",
+      "body": "check the DCs Sysvol/policies folders, find the GPO and compare. Had something like that happen.\n\ncheck the client PC eventlog"
+    },
+    {
+      "author": "scratchduffer",
+      "body": "YEah, it's pretty basic and I am seeing what I am expecting."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "Alright will check the folders. PC logs haven't shown anything so far."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "So I opened GPMC on each and forced it to each local DC and highlighted the GPO and went to settings.  The last modified is the same on all 3,  but two DC's have User version of 78(AD) and Sysvol 78 and one DC has 78(AD) and 67(Sysvol). I browsed into the folder as far as the documents and settings and it is empty. So I guess I have DC with some sort of issue that repadmin isn't showing."
+    },
+    {
+      "author": "Tricks_",
+      "body": "There you go :)\n\nI forgot what I did to fix it though, sorry."
+    }
+  ],
+  "23": [
+    {
+      "author": "etherd0t",
+      "body": "Are they really Company owned/provided devices or BYOD?\n\nBecause if it's the later - you will face resistance, no matter what method you chose (profiles is better but you won't be able to explain that you're not tracking their personal data)"
+    },
+    {
+      "author": "r3ptarr",
+      "body": "They're all company owned devices so no BYOD."
+    },
+    {
+      "author": "etherd0t",
+      "body": "Are they also allowed/enabled and for personal use (COPE) or just for work?\n\nIf it's COPE, still work profiles is the recommended choice."
+    },
+    {
+      "author": "r3ptarr",
+      "body": "COPE was depreciated so I guess this would be the new COPE (fully managed with a device profile). Right now we assume every employee is using their work phones for personal stuff since we have no way to actually check and enforce yet."
+    },
+    {
+      "author": "etherd0t",
+      "body": "COPE isn't gone, for your case look for Corporate-owned with work profiles, create a work profile token (QR code) to share with the users (again you're gonna need to do some explaining) and manage assigned users to profile via a dynamic security group; Chose Android Enterprise;  \nAlternative, for Zero touch w/ Google you assume control beforehand of devices, and everyone has the devices pre-enrolled."
+    }
+  ],
+  "24": [
+    {
+      "author": "dcg1k",
+      "body": "sent you a link for officedeploymenttool\\_11901-20022.exe in your DM"
+    },
+    {
+      "author": "Fatboy40",
+      "body": "Hi, I got an alert for the DM on my smartphone, clicked on it but got \"wow, such empty\" :(\n\nAlso no new mail in the web version other than for your post above :(\n\n(did Reddit maybe not like your DM / link?)"
+    },
+    {
+      "author": "dcg1k",
+      "body": "can you try the other [link](http://216.239.131.120/Tools/officedeploymenttool_11901-20022.exe)instead"
+    },
+    {
+      "author": "Fatboy40",
+      "body": "Thank you :)"
+    }
+  ],
+  "25": [
+    {
+      "author": "Takia_Gecko",
+      "body": "Also you might want to try \n\n    dism /online /get-targeteditions\n\nto view available editions"
+    },
+    {
+      "author": "neko_whippet",
+      "body": "Ill try it but I did it with 3 others servers without the gen key and it worked"
+    },
+    {
+      "author": "neko_whippet",
+      "body": "same error with gen key and I did reboot the server"
+    },
+    {
+      "author": "neko_whippet",
+      "body": "No it\u2019s standard"
+    },
+    {
+      "author": "neko_whippet",
+      "body": "It\u2019s not a dc"
+    },
+    {
+      "author": "neko_whippet",
+      "body": "Did and the version is shown there"
+    }
+  ],
+  "26": [
+    {
+      "author": "ALurkerForcedToLogin",
+      "body": "Are you adding an iSCSI disk that's NTFS formated for multiple computers to access? Out of the box, you cannot do this, or Windows will corrupt your drive immediately. There is a way to do this with failover clustering, but outside of that specific scenario, your just going to destroy your data."
+    },
+    {
+      "author": "ExcellencePursuit",
+      "body": "Thank you, I am going to look the DSM drivers up for this."
+    },
+    {
+      "author": "ExcellencePursuit",
+      "body": "Thanks a lot, I will check that out and exclude this LUN if the device specific module drivers don't rectify it. Awesome post and thanks a lot for the links."
+    },
+    {
+      "author": "ExcellencePursuit",
+      "body": "Thanks for the reply, there is a cluster witness disk too! But it isn't this particular volume. And thankfully has no errors."
+    }
+  ],
+  "27": [
+    {
+      "author": "Cormacolinde",
+      "body": "Which version of SMB is being used as reported by get-smbsession? Have you tried using other methods of enabling encryption like set-smbshare or set-smbserverconfiguration?"
+    },
+    {
+      "author": "betelguese_supernova",
+      "body": "Get-Smbconnection reports 3.0.2 as the dialect. I want to force this from the client side to make sure the client always uses instead of relying on the server settings."
+    },
+    {
+      "author": "Cormacolinde",
+      "body": "So the connection is SMB3 so should support encryption. I am suggesting trying to force it server side to see what happens. The client side gpo might be incorrect in some way."
+    },
+    {
+      "author": "betelguese_supernova",
+      "body": "Well the GPO is just adding the UNC hardening key value pairs. I confirmed in the registry the paths are added correctly, it just doesn't seem to be respecting the RequirePrivacy option.\n\nSeems like maybe I am not the only one? [https://community.spiceworks.com/topic/2474299-unc-hardening-not-working-for-file-shares-in-dfs-namespace](https://community.spiceworks.com/topic/2474299-unc-hardening-not-working-for-file-shares-in-dfs-namespace)"
+    },
+    {
+      "author": "betelguese_supernova",
+      "body": "Update: it seems Get-Smbconnection does not report the encryption status properly.\n\nI tried with my non-DFS share \\\\\\\\server\\\\Share and Get-Smbconnection shows encrypted as False. However, I fired up Wireshark and confirmed that the connection actually is encrpyted.\n\nMy problem still remains with the DFS share though. If I go to \\\\\\\\domain\\\\Data\\\\Shares, Wireshark is not showing it as encrypted which I'm not exactly sure why becuase I see the client is being referred to \\\\\\\\server\\\\Shares which should match my UNC path in the GPO."
+    },
+    {
+      "author": "Cormacolinde",
+      "body": "That\u2019s interesting! Maybe you should also force encryption on the DFS path not just the target path?"
+    },
+    {
+      "author": "betelguese_supernova",
+      "body": "Well I'm using a wildcard to begin with (\\\\*\\sharename) so I figured that should get \\\\domain \\data\\sharename and \\\\server\\sharename but it doesn't seem to."
+    }
+  ],
+  "28": [
+    {
+      "author": "silicondt",
+      "body": "Thanks. In our case we have a server with our \"quality tracking software\" on it. This server has only this software on it and the database for this software. The client apps for this software are installed on the server.\n\nI get that we probably shouldn't be letting end users onto the server that hosts the database for the software, but it works way way faster that way.\n\nThat's why I kind of wanted to keep it segregated from others and have only those 5-6 people get on it.\n\nIf I didn't go the remote app way, could I make a separate collection with only this one server in it? Our end users like the desktop, because they save reports off onto that desktop etc. And the \"internet\" is WAY faster through the session vs their cellular hotspot."
+    },
+    {
+      "author": "cmwg",
+      "body": "> If I didn't go the remote app way, could I make a separate collection with only this one server in it? \n\nsure, a collection can have only one server or as many as you need (if they are all identical), or create more than one collection if needed"
+    },
+    {
+      "author": "silicondt",
+      "body": "Thanks so much for help! Last question lol\n\nIf it's just one server I want 5-6 people to connect to for production use - Do I even have to put it in a collection? I guess I would need to convert it to a session host. But it looks like I can \"add server\" and convert to a session host without adding it to any collections.\n\nCould I connect directly to it via our RD gateway and edit the registry on the server to point to the licensing server so it will consume CALs? Hope this makes sense."
+    },
+    {
+      "author": "cmwg",
+      "body": "i actually don\u00b4t know that one :) since i have never had a collection of just one server or this idea - but i don\u00b4t think it is possible since the rd license server wouldn\u00b4t be giving out licenses since this is (as far as i know tied to the collection)"
+    }
+  ],
+  "29": [
+    {
+      "author": "Mc-lurk-no-more",
+      "body": "This I believe is what is happening. I found when joining our AAD, whichever account was used to join would be given local admin privileges. Which can be problematic when users run applications that require local admin rights."
+    },
+    {
+      "author": "Junior466",
+      "body": "The command works perfectly. I was able to add myself to the Administrator group. Thank you."
+    },
+    {
+      "author": "Junior466",
+      "body": "So in this case, adding myself to the Administrator group should be the solution? Unfortunately when trying to do so my username is not available during the search. It doesn\u2019t allow a search in AAD but only on the local computer."
+    },
+    {
+      "author": "Mc-lurk-no-more",
+      "body": "You would go through the same process that was done, and rejoin the domain but with you're azure ad account."
+    },
+    {
+      "author": "Mc-lurk-no-more",
+      "body": "What I had to do in my case however was different. So I needed an application to be able to run as admin when launched as it wanted to update itself at the time.  So I setup a service account as an administrator to do so. Then cached those credentials in cred manager.  Then created a batch that would use runas command and the service account (using cached creds to remove prompts to user). So all of our clients could walk in and run the app without problems after migration to AAD.  Probably not the most secure route, but it got me through a pinch."
+    },
+    {
+      "author": "Junior466",
+      "body": "Would that fix the issue for me but I assume he now has the issue as me before (not a big deal if so)?\n\nAnd while on the permission subject, how can I make it so my test VM requires the same elevated credentials when performing a task such as editing Device Manager  when he logs in using his credentials? A bit rusty in the Windows world."
+    },
+    {
+      "author": "Mc-lurk-no-more",
+      "body": "I think for security you shouldn't be in a user shell \"sitting\" with admin privileges regardless. So you be launching app's using an elevated local admin account, which gives you full device manager access over the local system. So just make a local admin account for the system and you both would use that?.."
+    },
+    {
+      "author": "Junior466",
+      "body": "I agree. But what I am having trouble is understanding how to make so admin credentials are asked for while performing certain tasks. By creating an admin user, would the prompt automatically appear?"
+    }
+  ],
+  "30": [
+    {
+      "author": "dldwc",
+      "body": "I agree with this part entirely. I feel like the current divide in the US would prevent many more-Conservative-leaning states from \\*allowing\\* the federal government to intervene in such a way; look at the REAL ID implementation, for instance. Do you think the US Federal government could generate and fund the team, give them guiding principles, and then allow the states to have their input on the implementation?"
+    },
+    {
+      "author": "Helpjuice",
+      "body": "This more than likely would need to happen at federal facilities to be done right.  No need for separate configurations or implementations as it would need to be standardized.  I could see the states giving input on increasing security, but with it being done from federal facilities the state would not have much involvement."
+    },
+    {
+      "author": "dldwc",
+      "body": "From a technology perspective - hard agree. \n\n&#x200B;\n\nFrom an actuality - I just have a hard time believing that Florida or Texas, as an example, would ever \"allow\" the \\*current\\* federal government to perform such an implementation on their driver's licenses, or California or Washington from the previous federal government."
+    },
+    {
+      "author": "Helpjuice",
+      "body": "Good points, this more than likely would need to be a separate identify card for digital interaction that is more durable.  It does not need your face or other visible information on it as it would just be used as a PIV."
+    },
+    {
+      "author": "dldwc",
+      "body": "Yep - that\u2019s what I am thinking too!"
+    }
+  ],
+  "31": [
+    {
+      "author": "mobz84",
+      "body": "How many free slots do you have? Might be better and safer to buy 2 x TB drives and create a new raid 1? And usually to be able to expand everything has to be in order, battery/cache etc on the controller.\nNever used megaraid so can not say anything about them.\n\nCan you add the drive to the logical volume?\nIf expand is greyed out, does the controller see the disk? It might be you have to add it to the group or similar. What does the manual say?"
+    },
+    {
+      "author": "Venselor",
+      "body": "Doesn't work unfortunately :s"
+    },
+    {
+      "author": "Venselor",
+      "body": "Thank you for your feedback! We will rebuild and restore a backup."
+    },
+    {
+      "author": "Venselor",
+      "body": "I have 5 free physical slots and the drive is immediately recognised when i insert it. Manual basically states to remove the virtual drive and create a new one using all the drives. Which will remove all of the data iirc"
+    }
+  ],
+  "32": [
+    {
+      "author": "xxbiohazrdxx",
+      "body": "PM"
+    },
+    {
+      "author": "djinnsour",
+      "body": "No problem. Anyone who has done this for a few decades knows what it is like to be desperate for parts the business won't pay for."
+    },
+    {
+      "author": "djinnsour",
+      "body": "You are the second person to respond. A small community college responded first. If they cannot arrange shipping I will contact you."
+    },
+    {
+      "author": "xxbiohazrdxx",
+      "body": "Ah, let them have it for sure. Thanks for the offer though"
+    }
+  ],
+  "33": [
+    {
+      "author": "St0nywall",
+      "body": "I understand and sympathize.  Remember, she is one person, and she has bosses too.  So get friendly with her bosses and look good to them.  That way they'll question her reasoning for not promoting you."
+    },
+    {
+      "author": "PullingHeat510",
+      "body": "Solid advice."
+    },
+    {
+      "author": "St0nywall",
+      "body": "Most of what you hear on reddit for advise will be meaningless and likely dangerous to actually do.  Even what I offer as advise.\n\nExplore your options and talk to the people around you who are your friends and family.  They will know you better than us and likely have your best interests at heart.\n\nGood luck my friend, hope it works out for you."
+    },
+    {
+      "author": "PullingHeat510",
+      "body": "General concensus has been to get my certifications and leave. Anything gathered here is icing on the cake.\n\nThank you!"
+    }
+  ],
+  "34": [
+    {
+      "author": "TroyJollimore",
+      "body": "*Sigh* And people wonder why IT gets a bad rep\u2026"
+    },
+    {
+      "author": "Cistoran",
+      "body": "I guarantee you management has a worse rep because of boomers like you with antiquated ideologies on how jobs should be done."
+    },
+    {
+      "author": "TroyJollimore",
+      "body": "Obviously you don\u2019t have much of a reading retention. It\u2019s more of a case of my not being conceited enough to presume telling the bosses/owners how to run THEIR company, I suppose."
+    },
+    {
+      "author": "Cistoran",
+      "body": "Must be why my bosses like me more than they would like you. Because I'm not afraid to tell them they're wrong when I know their business will be more efficient and productive instead of being just being a brown nosing yes man like you."
+    }
+  ],
+  "35": [
+    {
+      "author": "SingularityMechanics",
+      "body": "A GPO is usable but can be heavy-handed and testify internal users that you don't rant to.  Using RD Gateway you can fully or selectively permit/deny those functions specifically when users are connecting using the RD Gateway.  Same for things like audio or video devices, USB storage in the system initiating the connection to limit functionality.  I do this so that only approved users can print remotely (for example), based on group membership."
+    },
+    {
+      "author": "Cryptolock2019",
+      "body": "Should the Gateway be on the domain or it can off domain ?"
+    },
+    {
+      "author": "SingularityMechanics",
+      "body": "Not sure if it can be off the domain I don't think I've ever tried, I'd have to check, but I would keep it AD joined.  It should be in a DMZ though and properly secured behind a firewall.  It only requires inbound tcp/443 (you could change this boy I don't recommend it).  Some udp can be used too but that may be initiated as outbound only (again I'd need to check).  It will need proper internal access for AD and LDAP since the group validation is done via NPS (easy with AD integration).  If it's party of a full RDS deployment I think AD is mandatory, but I've never tried without it so I'm not 100%.  The Connection Broker would handle the restrictions in that case."
+    },
+    {
+      "author": "Cryptolock2019",
+      "body": "Do you suggest to you the connection broker and Gateway on the same server ? \nRDS server is licensed, gateway doesn\u2019t require a license at al ?"
+    },
+    {
+      "author": "SingularityMechanics",
+      "body": "I always keep the Gateways separate, have multiples, and use them as nodes in a LB/HA config (scale depends on your environment, you may only need 2, or you may need pairs in different datacenters, etc.).  They can be used directly as individuals as part of a LB pool, they don't need any kind of Windows Clustering, just refer to your LB or Firewall documentation.\n\nIf you have an existing RDS configuration setup, adding the Gateways to that will take care of any licensing requirements.  There's no extra licensing for using RD Gateways, its baked into the overall RDS licensing costs (either per-device or per-user, however you've licensed your setup), so setup as many as you need."
+    },
+    {
+      "author": "Cryptolock2019",
+      "body": "I wanna try it next time,I just fired up a VM which isn\u2019t on the domain. I am trying to archief the Gateway up front without having to add it to the domain."
+    }
+  ],
+  "36": [
+    {
+      "author": "GrayRoberts",
+      "body": "1) Yes, Forms/PowerApps/PowerAutomate can do this.\n2) Reevaluate your process. Why are there 4 different types of requests? Can these be reduced? Can you make the end-user's life substantively better with a follow up question/conversation rather than needing to direct them down a decision tree? Are you incentivizing preferential treatment for those who are able to fill out forms?\n\nBasically, whose toil are you reducing? Is that the right person to be reducing that toil for?\n\nMe personally, I _hate_ being the DMV. But then, I'm pretty good at gathering customer requirements."
+    },
+    {
+      "author": "canadian_sysadmin",
+      "body": "Yes, PowerAutomate and PowerApps is the way to do this. Extremely flexible.\n\nThere's a relatively steep learning curve with powerapps but it's about as flexible as it gets short of having a developer write something totally from scratch.\n\nMy prior company used powerapps for all of our forms/approvals and it worked really well. We had pretty crazy approval workflows."
+    },
+    {
+      "author": "canadian_sysadmin",
+      "body": ">Why are there 4 different types of requests?\n\nNot OP, but this isn't uncommon. My prior company dealt in international logistics of raw materials so process flow was fairly complex. Moving a product from Edmonton to Houston required a lot of permitting, approvals, etc.\n\nWe had about 40 different types of requests, all inter-nested.\n\n4 is nothing."
+    },
+    {
+      "author": "GrayRoberts",
+      "body": "That needs a trigger warning."
+    }
+  ],
+  "37": [
+    {
+      "author": "AppIdentityGuy",
+      "body": "Are you saying these attributes don't show in AD on prem at all? What is Powershell saying?"
+    },
+    {
+      "author": "Constant-K",
+      "body": "Thank you!"
+    },
+    {
+      "author": "Constant-K",
+      "body": "Correct, they do not exist. As /u/mkoch7811 pointed out, these attributes are created in active directory [as part of the schema prep for Exchange server](https://learn.microsoft.com/en-us/exchange/plan-and-deploy/prepare-ad-and-domains?view=exchserver-2019)."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Are you using these attributes in on prem exchange or trying to do this for EXO mailboxes?"
+    }
+  ],
+  "38": [
+    {
+      "author": "AppIdentityGuy",
+      "body": "Define inactivity. I'm not being funny.. Is it age of lastpwdset or lastlogondate and what authentication method are you using against AAD?"
+    },
+    {
+      "author": "Ryan-A88",
+      "body": "No worries, did not take it that way. It would be lastlogondate as they are utilizing SSPR for resetting their password via Intune machines.   \n\n\nWhen running lastpwdset for example on a user who I know will have an issue soon, I see a 12/12/22 time stamp. Now when running lastlogondate I see a 11/2/22, which I believe Netwrix is utilizing to disable accounts after 90 days of \"inactivity\". Obviously if they log into the VPN, it will alter that lastlogondate and we don't have an issue. So this is the pickle I am stuck in (I believe).  \n\n\nAs for auth, its Password Hash Sync as well as Pwd Writeback for SSPR capabilities.   \n\n\nHopefully that helps? As usual it's the sales reps that cause the most issues : )"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Important thing to note is that PHS does not update lastlogon and hence never increments lastlogondate at least to my knowledge. So if a user never comes into the office either by VPN or physically and has line of sight to a DC that attribute will never be changed.. Password last set is probably a better tracker depending on your password policies. How are you enforcing the password change when a password expires on prem..."
+    },
+    {
+      "author": "Ryan-A88",
+      "body": "This is the fun part, the third party handles it and as far as their dev's know, it's based off the password last set field. I just thought I could be crafty and somehow send them a email notification via a tool and or PS.  \n\n\nI have a couple routes to go (Always on VPN for the sales members, or just flat out moving them to a AAD Account as they really don't touch any on prem utilities where LDAP/Kerb is needed)."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Sorry it's 1 am here. I thought you said earlier that you thought Netwrix was using lastlogondate.. Have you confirmed with them and thet have stated pwdlastset as the the logic anchor?"
+    },
+    {
+      "author": "Ryan-A88",
+      "body": "No worries at all. They had mentioned they are keying off of pwdlastset which would make sense if our employees are not getting lockouts due to SSPR and resetting it via  Intune machine vs over the VPN with line of sight of the DC."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "I think we are cross talking a bit. We are talking about AAD SSPR with write back to on Prem correct?"
+    },
+    {
+      "author": "Ryan-A88",
+      "body": "That is where the problem lies. It is functioning as intended, but AAD SSPR does not reset AD's lastlogondate.   \n\n\nNetwrix is only doing two things, disabling accounts (Password expiring), and reporting to us about the password expiration and or account inactivity.   \n\n\nSince AAD Intune machines are not tapping into the lastlogondate, Netwrix is disabling them. Their service only queues in on the pwdlastset for their services (Password exp and Account Inactivity). It really is a flaw in their system to be honest as their reports should be utilizing the lastlogondate and allow me to email the users who have not logged onto the VPN so we can avoid them getting locked out. \n\nUltimately, since it's a shortcoming of their software and this subset of users who never touch our VPN, I am just trying to figure out how to notify the subset of users whose accounts are going to expire due to inactivity. I just cannot find a third party tool and or a PS script to email these users that they need to log into the VPN server. Yes, an email would suffice, but ultimately new employees (Sales Reps) will be onboarded, so an automated process was what I was trying to figure out : ("
+    }
+  ],
+  "39": [
+    {
+      "author": "Rickrolled89",
+      "body": "Good to know. I'm relatively new. Been doing similar work for the last 10 years and got tired of it in the city and moved out to a \"smaller\" town. Thanks for the intel. I will look into getting into one with more potential."
+    },
+    {
+      "author": "nick99990",
+      "body": "That is a fair clarification. We are all about the research."
+    },
+    {
+      "author": "nick99990",
+      "body": "What part of the country do you live in? Down here in Texas where I'm at there's a few of our departments that are 100% remote capable. Just have to live in state."
+    },
+    {
+      "author": "Rickrolled89",
+      "body": "Unfortunately I am a transplant in Idaho (Moved back home after living in Seattle for the last 10 years) and I'm starting to find more companies are doing that. But that is exactly what I am looking for"
+    }
+  ],
+  "40": [
+    {
+      "author": "scratchduffer",
+      "body": "Sad news. SRP is out from win 11H2."
+    },
+    {
+      "author": "ach254",
+      "body": "Update: I added the path below and it seems to work. It must be something with running from the task scheduler and the using the variable?\n\nC:\\\\Users\\\\\\*\\\\AppData\\\\Local\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe"
+    },
+    {
+      "author": "ach254",
+      "body": "Yeah, I know. It is a stop gap to get some protection while I try to convince management to allow us to upgrade to Enterprise for AppLocker or go with something like PolicyPak."
+    },
+    {
+      "author": "scratchduffer",
+      "body": "Yeah I need to figure it out as well. I only use it for blocking built in apps on our manufacturing floor.  Intune and applocker or enterprise win is a lot of money for something this easy. Policypak is interesting but I dont like third party AD stuff as I am not an expert in restoring or dealing with that when there is an issue."
+    }
+  ],
+  "41": [
+    {
+      "author": "rms141",
+      "body": "Probably not. Sounds like you\u2019re at the corporate level in their HQ. I was one of the grunts in another state, working for the former IT services provider the healthcare company recently broke contract with.\n\nIf the letters P, T, and C mean anything to you then we are thinking of the same company."
+    },
+    {
+      "author": "audioeptesicus",
+      "body": "Negative. But at least glad I'm not alone? Ha."
+    },
+    {
+      "author": "rms141",
+      "body": "Assuming that the letter H, C, and A mean something to you, then? I was with their competitor. Well, \u201ccompetitor\u201d."
+    },
+    {
+      "author": "audioeptesicus",
+      "body": "Sent you a PM."
+    },
+    {
+      "author": "audioeptesicus",
+      "body": "I worked for a company owned by HCA before, and I work for a pseudo-competitor of theirs now."
+    }
+  ],
+  "42": [
+    {
+      "author": "graceyin39",
+      "body": "I can create a security group and put them in. No problem.\n\nYes, I have a CSV file with 400+ computer names."
+    },
+    {
+      "author": "beritknight",
+      "body": "Great. Create the security group. Create a new group policy. Set the security on the policy so that only your new sec group has the \u201capply this policy\u201d permission. Configure the shortcut with a GPP inside your new policy. Put a test machine in the group and test. When happy, add the rest of the machines to the group. \n\nNow you have a maintainable solution where you can add any machines that need this shortcut to that group, and they\u2019ll get it."
+    },
+    {
+      "author": "graceyin39",
+      "body": "Sounds like a plan. I will test it Monday. Thank you so much for your help! I appreciate it!"
+    },
+    {
+      "author": "graceyin39",
+      "body": "I don't know where I missed, the GPO did not work.\n\nI ran gpresult on my test computer and didn't see the the GPO applied, but I added it to the security group and I set \u201capply this policy\u201d to this group in the GPO.\n\nWhere should I check? Please help!"
+    },
+    {
+      "author": "beritknight",
+      "body": "When did you add your computer to the group? That needs a reboot for Windows to pick up. Reboot a few times and then see what goresult says"
+    },
+    {
+      "author": "graceyin39",
+      "body": "I have rebooted 3 times, still didn't see that GPO under \"Applied Group Policy Objects\" in the gpresult. \n\nI will try to remove the security filter and apply it to the OU where the test computer is in and see if it is applied."
+    }
+  ],
+  "43": [
+    {
+      "author": "Djdope79",
+      "body": "We are running ars, but not something I have played with, can it hook in to azure ad and can it do bulk management tasks?"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "The newest versions I believe can. There's a connector leveraging the graph api"
+    },
+    {
+      "author": "Djdope79",
+      "body": "I have just had a look, and now it's time to go down the rabbit hole of ARS . Thanks for this"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "No problem.. I will admit Ive not done a lot with the AAD component but I've used it on prem a lot."
+    }
+  ],
+  "44": [
+    {
+      "author": "LewisTheLion",
+      "body": "%Appdata% points to a user directory so therefore it must be a user GP file copy and also tick the \u2018run in users context\u2026\u2019. There was a bug in a recent windows update which meant if this wasn\u2019t ticked it wouldn\u2019t copy. Might need to try replace mode too.\nAlso, assuming it\u2019s just a typo on this write up but you need a double \\\\ for the start of the server network location"
+    },
+    {
+      "author": "spazzo246",
+      "body": "Its visible when I do a gpresult and shows in applied group policy objects. In event viewer there arent any warnings or errors"
+    },
+    {
+      "author": "spazzo246",
+      "body": "Now I know this. I'll try this too\n\nThanks"
+    },
+    {
+      "author": "spazzo246",
+      "body": "I didn't try the run in users context option. I'll try that and change it to a user policy.\n\nYeah server address has a double slash."
+    }
+  ],
+  "45": [
+    {
+      "author": "SwitchOnEaton",
+      "body": "Looks like you got the Eli Apple of UPSs. :)\n\nEaton 9PX with lithium-ion batteries is currently available from 1-3 kVA. 6 kVA coming out later this year: https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-9px-ups/introducing-9px-6kva-lithium-ion-ups.html"
+    },
+    {
+      "author": "joeyl5",
+      "body": "Ouch you have confirmed my worst fears... Their reps talk a good game and are US based, but when you finally get the box, it looks like a pile of thrown together crap from China. Now I'm scared my server room is going to burn down \ud83d\ude10"
+    },
+    {
+      "author": "joeyl5",
+      "body": "Haha, I've made a couple of Eli Apple hate threads because we treated him very well when the Giants dumped him. Then he gets cut after two washed out seasons, and decides to bash the city of New Orleans on his way out. No sir!\n\nI've never used Eaton but I'll look into it for the next data closet replacement. Since I'm partly French, I'm partial to Schneider Electric.\nThanks for the info"
+    },
+    {
+      "author": "SwitchOnEaton",
+      "body": "As a Chiefs fan, I\u2019ll be channeling  your disdain for him on Sunday. Funny how some DBs get cocky while riding the coattails of a great QB on their own team.\n\nNot sure if it makes a difference but my last name is French, my manager is French and we do a lot of UPS development in Montbonnot. I\u2019ve even been there and it\u2019s great. So was Lyon!"
+    },
+    {
+      "author": "joeyl5",
+      "body": "I love watching the Chiefs play, so creative and interesting most games. Let's see if they can get over the Bengals hump which had their number for a few games now. Should be a great matchup.\n\nhaha it does make a difference, the French don't make too many great things but the few things they do I support like Michelin tires, lol. My parents are from Montpellier, (Montpellier France, not Vermont, lol) but I was born and raised in New York. My favorite thing is when traveling to visit family, customs at the airport see my US passport and hear me respond in French, they are quite amazed lol."
+    },
+    {
+      "author": "SwitchOnEaton",
+      "body": "Getting past the Bengals will be tough!\n\nBTW, the Saints almost drafted Mahomes! It\u2019s wild to hear Sean Payton talk about it."
+    },
+    {
+      "author": "joeyl5",
+      "body": "yeah we still cry about it, it would have been the reason Sean would have stayed to coach the Saints, and Brees would have had a great successor.\n\nHopefully his ankle is 100% for the game! Now being in Louisiana, we also have a soft spot for Joe Burrow, Trey Hendrickson and Vonn Bell."
+    },
+    {
+      "author": "SwitchOnEaton",
+      "body": "It\u2019s the Bears who are really crying!"
+    }
+  ],
+  "46": [
+    {
+      "author": "listerfiend123",
+      "body": "Why do you need thin clients to rdp into the vm?"
+    },
+    {
+      "author": "Maleficent-Employ-88",
+      "body": "These are being used in a production workshop for my mom's at home small business"
+    },
+    {
+      "author": "listerfiend123",
+      "body": "Have you heard of igel? I use the hardware all the time to connect to horizon environments (Used to be citrix environments but migrated) and have had 0 issues with any delay. I personally use the hardware and software to accomplish my tasks I use them for alot of other things to such as employee comm boards in break areas etc. Might be worth checking out. I have never used HP thin clients before. \n\nI will tell you igel is more software than hardware these days and you can put it on any old machine only needs 2gb of memory, storage, and 2ghz of cpu to run efficiently with their ios 11+. For your particular situation though how's the bandwidth? It wouldn't make sense to me that a simple rpd connection would cause issues like that through a thin client. Maybe check the firmware for the thin client?"
+    },
+    {
+      "author": "Maleficent-Employ-88",
+      "body": "I will take a look it igel. the clients only have 1GB of ram. i'm starting to think that's the issue. Or that the latest firmware is from 2016. I had a horizon environment but the view client built in was too old to support the newest connection server."
+    },
+    {
+      "author": "listerfiend123",
+      "body": "Makes sense. Yeah check out igel they're pretty good also heads up it's Linux based."
+    }
+  ],
+  "47": [
+    {
+      "author": "Latter_Strawberry_78",
+      "body": "I RDC into the secondary DC with the issue and ran the powershell. I\u2019m going to launch the AD console from there and create a new user as well to see what happens."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "It's 12:30 am so I'm off to bed"
+    },
+    {
+      "author": "Latter_Strawberry_78",
+      "body": "Sure thx for the help."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "If you figure it I would be curious"
+    }
+  ],
+  "48": [
+    {
+      "author": "DarkAlman",
+      "body": "Ran into something similar when setting up my automatic patch policies. Was endlessly frustrating until I figured out the problem...\n\nComputer group membership on the local PC doesn't get refreshed until you reboot.\n\nSo if you add a computer to an AD group and do a gpupdate /force to add a printer it won't work until your reboot the PC. Because the PC only pulls the list of AD groups it's in on bootup.\n\nAlternately you can manually flush the Kerberos tickets\n\nhttps://4sysops.com/archives/refresh-membership-in-ad-security-groups-without-reboot-or-logoff/"
+    },
+    {
+      "author": "emteereddit",
+      "body": "Multiple reboots haven't seemed to make any difference.  Of course, the one machine I just tested on DID work after a reboot, so it may be slightly intermittent."
+    },
+    {
+      "author": "DarkAlman",
+      "body": "Are you sure your SYSVOL replication is healthy?\n\nOpen \\\\dc1\\sysvol\\scripts and put a random text file in there\n\nThen open \\\\dc2\\sysvol\\scripts and see if it appears in there within a minute of so.\n\nIf not that might be your issue. Your GPOs rely on SYSVOL replication to function, if it's broken only 1 of your DCs may contain the GPO data and that could cause this problem."
+    },
+    {
+      "author": "emteereddit",
+      "body": "Sysvol replication seems to be fine.  AD & SYSVOL versions always match in GPM console.  And like I said, other changes to group policy seem to work fine, just these printers.  DFS replication tests have passed using DFS management tools on the sysvol share."
+    }
+  ],
+  "49": [
+    {
+      "author": "DarkAlman",
+      "body": ">is using MDL drives a problem for our setup?\n\nNo, not really.\n\n>didn't have any RAID monitoring software running so I would've had to notice a blinking LED on the front probably\n\nThat's probably exactly what happened\n\n>Since we have MDL drives, does that mean I should be replacing them on a more regular schedule? Or even upgrading them to better SAS drives?\n\nConsider replacing the entire server in year 4 of it's life"
+    },
+    {
+      "author": "plant-fucker",
+      "body": "Let me know if I'm taking the right lesson from this: \n\n- As a small (<25 people) business, it's fine to have everything managed on one server, including relatively light nas/fileserver loads, as long as there is good redundancy and backup in place\n- Splitting out server functions into multiple individual servers is beneficial from a standpoint of spreading out risk, but adds cost and complexity that may not be worth it, considering...\n- Servers should generally be replaced at least every 5 years\n\nDo I have all that right?"
+    },
+    {
+      "author": "DarkAlman",
+      "body": "yes,yes,yes"
+    },
+    {
+      "author": "plant-fucker",
+      "body": "This has given me a crazy idea... \n\nWhat if, when it comes time to replace the main server, we keep the old one in place continuing its job as a nas/fileserver, (updating the drives and monitoring RAID health) and move all other server functions to the new server? \n\nThis seems like a good option, because it would be \n\n- cost-effective: Old server doesn't go to waste and don't have to buy/build a NAS\n- performant: Most small-scale NAS options don't support SAS drives, but this does. It also has a Xeon Silver CPU, 64GB of RAM and redundant power supplies.\n\nThe clear downside would be violating best practices re: hardware replacement timelines, though the drives would be new at least, and that would be one kick-ass NAS.\n\nThis also makes me wonder if we could/should upgrade to 10k or 15k SAS drives for this purpose. It is used for a database, which is pretty intensive... is the performance difference very significant?"
+    }
+  ],
+  "50": [
+    {
+      "author": "klaymon1",
+      "body": "Yep. I've had it on 2 servers. Too much going on to look further into it, though."
+    },
+    {
+      "author": "CAPICINC",
+      "body": "Restarted windows update to see, getting corrupt image error 80070570.  Gonna clean out the local cache, see if that helps."
+    },
+    {
+      "author": "CAPICINC",
+      "body": "Seems to have done the trick: clear the c:\\windows\\softwaredistribution\\download\\\n\nfolder, then restart update service, and it downloaded the rollup and installed it."
+    },
+    {
+      "author": "klaymon1",
+      "body": "Thanks. I'll give that a shot."
+    }
+  ],
+  "51": [
+    {
+      "author": "chillzatl",
+      "body": "We don't disagree in general, but that has little to do with ops scenario."
+    },
+    {
+      "author": "cribbageSTARSHIP",
+      "body": "I just put an edit in the op. He refused the handover package from the VP and what I did was in conjunction with feedback from the department heads. It's a volunteer position so I can't be fired. He also called to apologise."
+    },
+    {
+      "author": "cribbageSTARSHIP",
+      "body": "I'm x combat arms. I'm all good!"
+    },
+    {
+      "author": "cribbageSTARSHIP",
+      "body": "I was so angry when I did my op I forgot to mention it."
+    }
+  ],
+  "52": [
+    {
+      "author": "Least-Music-7398",
+      "body": "Not sure what systems you use but at my place we use M365. If you update attendees on recurring invites you get the option to only update new / removed attendees."
+    },
+    {
+      "author": "BadSausageFactory",
+      "body": "We do, and the option is there, but the problem is the dozens of meetings that they have to go through each time there's a change. Appreciate the response, thank you."
+    },
+    {
+      "author": "Least-Music-7398",
+      "body": "This is where technology and reality collide. You have multiple meetings. Update them. It\u2019s 2023, not Star Trek"
+    },
+    {
+      "author": "BadSausageFactory",
+      "body": "Thank you, I'll keep looking."
+    }
+  ],
+  "53": [
+    {
+      "author": "ryaninseattle1",
+      "body": "So the cost of that would be fine (can't do this for free we get that totally) but I think Veeam would still need to do a proper full backup pretty regularly wouldn't it so the time and storage needed might be an issue."
+    },
+    {
+      "author": "tsmith-co",
+      "body": "Only the first backup is full. You can do forever forward incremental after. After 14days, the oldest incremental gets merged into the full - making a synthetic full."
+    },
+    {
+      "author": "ryaninseattle1",
+      "body": "Thanks so does that synthetic full do the same neat stuff as Veeam does with VMware backups if it's on a REFS file system or will it just take however long it would take to read/write 50TB?\n\nAnd would you have any link to that agent cost please as Veeams license calculator doesn't seem to show it."
+    },
+    {
+      "author": "tsmith-co",
+      "body": "The Agent for Windows won't be able to take advantage of Fast Clone unless it's managed by a Veeam Backup and Replication server, writing to a properly configured Repository.\n\nVeeam Essentials pricing - [https://www.veeam.com/smb-vmware-hyper-v-essentials.html](https://www.veeam.com/smb-vmware-hyper-v-essentials.html)  is sold in packs of 5 licenses, not to exceed 50 licenses."
+    },
+    {
+      "author": "ryaninseattle1",
+      "body": "Ah yeah makes sense so managed not standalone.\n\nThank you I'll look into that option!"
+    }
+  ],
+  "54": [
+    {
+      "author": "VA_Network_Nerd",
+      "body": "\"Add more bandwidth.\""
+    },
+    {
+      "author": "Sync0pated",
+      "body": "Oh that looks amazing, I was looking into rolling out tiered caching using rsync and cron and putting the NVMe in front of the union FS. \n\nThis looks like it takes care of the nitty gritty of that approach."
+    },
+    {
+      "author": "Sync0pated",
+      "body": "The bottleneck are the HDDs."
+    },
+    {
+      "author": "VA_Network_Nerd",
+      "body": "Add more spindles to add parallel bandwidth.  \n\nOr add a larger (battery-protected, or Flash-based) cache to your RAID controllers.  \n\nOr add bandwidth by moving to all-flash arrays.  \n\nAdding a caching server for SMB/CIFS is adding quite a bit of complexity to what should be a simple protocol transaction."
+    }
+  ],
+  "55": [
+    {
+      "author": "cmwg",
+      "body": "a better option imho: https://www.glenn.delahoy.com/desktopinfo/"
+    },
+    {
+      "author": "Biyeuy",
+      "body": "Thanks for hint. Would mean its init file must be at arranged location every boot."
+    },
+    {
+      "author": "Biyeuy",
+      "body": "On another hand one test was performed few minutes ago using sysinhernal Process Monitor utility. Bunch of logs produced with Bginfo64.exe as process name is observed upon user\u2019s strike Apply button bginfo gui. That kind of logs bunch is not observed Windows boot time. This would be a sign bginfo conducts its job once at user request in gui time.\nMentioned bunch of logs includes write to path in registry reading in its part Control Panel\\Desktop\\Wallpaper. Path string is being written to said registry location pointing to BMP file named BGInfo.bmp and located in user profile AppData\\Local tree."
+    },
+    {
+      "author": "Biyeuy",
+      "body": "Thanks for feedback which I take into my records."
+    },
+    {
+      "author": "Biyeuy",
+      "body": "Windows boot-time produces registry query by Explorer.EXE to location in registry mentioned above with bmp file path figured out on previous analysis in query body or answer - sorry didnt learn to read PM logs properly."
+    }
+  ],
+  "56": [
+    {
+      "author": "Real_Lemon8789",
+      "body": "We can d both.\n\nBefore we block appdata with AppLocker, we can do this first to get an inventory of what users had been downloading and see if there are any apps they actually need and then add those to our software deployment.\n\nWe may also need to make exceptions for specific required apps that always install components in the users\u2019 appdata folders even if we deploy the app for the user."
+    },
+    {
+      "author": "ZAFJB",
+      "body": ">we can do this first to get an inventory of what users had been downloading and see\n\n\nThat is plain crazy."
+    },
+    {
+      "author": "Real_Lemon8789",
+      "body": "What exactly is crazy about it?\n\nWhy not do a check prior to enforcing the changes instead of enforcing first and doing a scream test?"
+    },
+    {
+      "author": "ZAFJB",
+      "body": "Becuase the whole time pissing about gathering a meaningless list of apps, your systems are seriosly exposed.\n\nLock it down. Complaints? 'Who said you could install that unauthoruesed app?'\n\nThen spend the time you would have wasted trying to gather lists, and trying to parse lists for whuch you have no contrxt, instead installing apps in the proper place, or making exceptions in SRP. In reality it will be a tiny number of apps that need remediation."
+    },
+    {
+      "author": "Real_Lemon8789",
+      "body": "Since it\u2019s already been this way for years, it seems more crazy to me to break things and ask questions later if you can minimize impact by being more thoughtful about it. \n\nSome of the unauthorized apps will be things users need and would have been approved if a request had gone through proper channels.We need to compare what\u2019s already been downloaded and installed and match it against what we already have available to deploy and address any gaps.\n\nWe can run a software inventory on what\u2019s already installed on all the systems, but it would also be useful to see what installer files users have in their downloads folders."
+    },
+    {
+      "author": "ZAFJB",
+      "body": "It takes about a minute to make a temporary fix in SRP, followed by GPupdate"
+    }
+  ],
+  "57": [
+    {
+      "author": "No-Friendship-396",
+      "body": "I have this sometimes when I deallocate high resource servers and bring them again the next day. I save money, but there is a chance I will have to wait for resource to become available. \n\nYou can always just stop your VM to ensure your resources aren't used elsewhere, but then again you're still paying for the resources."
+    },
+    {
+      "author": "Professional_Drop555",
+      "body": "The big thing about this too is that we were told there could be some cost savings if we can power off servers during off  hours which can be automated. That is great, unless we run into an issue powering them back on when needed."
+    },
+    {
+      "author": "Professional_Drop555",
+      "body": "I was able to find another cpu/mem option that was similar to the one suggested by assess tool I ran. I think its a bit more.  I will build out in a new region where the suggested resources are available, but at least I can play around now."
+    },
+    {
+      "author": "Professional_Drop555",
+      "body": "I wonder if AWS or Google has these issues. It makes  sense that a hosting company would thin provision its resources in a shared data center space. \n\nSeems like it would be better to offer computer/hour in the form of speed rather than vCPU/type. Have a threshold in place so they can start to build out more compute/memory/storage as needed or build a new DCs added to the region high end private networks between DCs where they can migrate entire customers too on the fly.   \n\n\nbasically, like VMWare does for VMotion but on a much larger scale. I know there are things like processor and other hurdles, but this is Microsoft.."
+    },
+    {
+      "author": "No-Friendship-396",
+      "body": "I forgot to mention, this occurs on my west us hosted VMs. That region is crowded."
+    }
+  ],
+  "58": [
+    {
+      "author": "anxiousinfotech",
+      "body": "Where do you think they got the code for those Azure microservices? It's pulled directly from Lync and adapted for current usage. MS does not rewrite any code they don't have to, even if the code they're pulling from is junk. It may all be broken down into separate services, modeled on consumer Skype, but the the foundation of those services is built directly from Lync.\n\nDon't try and blame networks and perimeter devices. The only system that had a problem was Teams Voice. Hell, most of the demos were done entirely on the resellers' systems. Are you saying every single reseller and ACD integration providers' networks are configured incorrectly?  The problem IS Teams itself."
+    },
+    {
+      "author": "zyeus-guy",
+      "body": "Ok.. you clearly think you know more than MS - happy to let you believe what you want to believe. Source: I am a senior consultant for the largest Microsoft UC practice in the UK. We are part of Ring 1.5 of the TAP programme have direct communication with the developers of Microsoft Teams."
+    },
+    {
+      "author": "anxiousinfotech",
+      "body": "Dude, Microsoft even states it themselves in general articles. This is from the first one that comes up in Google results about something completely unrelated. It's redesigned for cloud use, sure, but they flat out state it's the same platform under the hood.\n\n\"The Teams calling and meetings experience is built on the next generation cloud-based infrastructure that is also used by Skype and Skype for Business.\"\n\n\nhttps://learn.microsoft.com/en-us/microsoftteams/office-365-urls-ip-address-ranges\n\nAlso, as a Microsoft UC voice vendor you have a vested interest in speaking of Teams Voice in a positive manner. We've had demos and proof of concepts from firms like yours. They've all been complete disasters with a laundry list of failures/issues that completely disqualified the platform."
+    },
+    {
+      "author": "zyeus-guy",
+      "body": "I am not denying that it wasn't. As I say, back in the SfBO days, a massive chunk of it was. But it is constantly being redeveloped. Some of the PSTN gateway stuff is still a throwback, but the rate of development is unreal, especially since the days of that statement.\n\nWe have had many jobs where we get calls that say \"another reseller has been in and it hasn't worked, can you help?\" I have built Teams voice for the largest accountancy firms on the planet and 100,000+ organizations successfully. For those that have had problems, I have had deep-dive conversations with their network teams and found and fixed the issues.\n\nIf you think about it, those who messed up your demo are using the same platform that I use for my customers. It's a shared platform, yet I don't have those problems you describe. With a little work on customer DNS, firewalls, proxies, VPN, and anti-virus exclusions, I can make any Teams environment sing and perform - from a voice quality point of view, assuming there is enough bandwidth and decent latency to the MS POPs.\n\nI do agree with you regarding the feature set on Teams. Auto-attendants and call queues are no match for a dedicated call center application. But there is a whole ecosystem built on top of Teams to extend it, to match that requirement.  \n\n\nEDIT: For some reason a paragraph got dropped. -  \n\n\nMany generic 365 partners believe that they can do Teams voice as \"it is just part of 365\", but Teams and especially Teams voice takes a skill level that many of the orgs just don't have. I have seen them and had to clean up after them so i know they are out there.   \n\n\nAnyway, you are right i do talk up Teams, but that is because i have seen it work so well when it is correctly implemented. It is a massive game changer over CUCM and older PBX tech."
+    }
+  ],
+  "59": [
+    {
+      "author": "ideohazard",
+      "body": "> shadow principals\n\nJust looked into it, and yeah, seems like a dead end.   I don't remember enabling or setting up anything like this.  But to be sure I pulled up ADSIedit and checked, there's nothing in the SP container."
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "In the configuration partion right and not the FSP container? I might that mistake once...."
+    },
+    {
+      "author": "ideohazard",
+      "body": "Yeah, fairly certain I'm in the correct place--\n\nCN=Shadow Principal Configuration,CN=Services,CN=Configuration,DC=my,DC=domain,DC=local"
+    },
+    {
+      "author": "AppIdentityGuy",
+      "body": "Yep that's the one...."
+    }
+  ],
+  "60": [
+    {
+      "author": "glenharrison8",
+      "body": "What does cluster validation report say?\n\nalso where is your quorum?  If you only have 2 nodes, it must be outside the cluster either on a fileshare or a cloud witness in azure.  It could be that when you shutdown a node, the other one doesn't know it's to take charge and automatically take ownership of roles.  Depending on your setup, might be a good idea to add a third node into the cluster."
+    },
+    {
+      "author": "Allferry",
+      "body": "Thanks glenharrison8. \n\nCluster validation reports only warned about drive signed, cluster does not have create computer object on \u201cOU\u2026), and an update pending on both servers.\n\nQuorum disk is from a SAN, and it currently showing in server 1, that was supposed to receive the VM. \n\nDon\u2019t know if it matters, but I have 3 networks: Storage (on separate switch with no access to  domain network), Cluster (on separate switch with no access to domain network), LAN/domain Network. Cluster network is set to Cluster Only, and LAN network is set to Cluster and Client."
+    },
+    {
+      "author": "glenharrison8",
+      "body": "Just out of interest, what OS is on the VM which won't migrate?\n\n&#x200B;\n\nalso, when you switched the node off, did you wait 4-5mins for the VM to migrate?  I have a feeling when a node suddenly fails, VMs wait a certain time before migrating unlike when you put them into maintenance node.\n\nwhen the node is off, what is the status of it in cluster manager?\n\nrun these powershell commands and let me know what the numbers are\n\n(get-cluster).resiliencylevel\n\n(get-cluster).resiliencydefaultperiod"
+    },
+    {
+      "author": "Allferry",
+      "body": "The VM is also a Server 2019 Standard. Not sure I waited 5mins thou."
+    },
+    {
+      "author": "glenharrison8",
+      "body": "ok, wait 5mins and see if it moves.  Check what state the powered off node is in.  You can reduce the amount of time to wait, but see if it's that first before changing anything."
+    },
+    {
+      "author": "Allferry",
+      "body": "Yep, I\u2019ll do that tomorrow. Just in case I need to change the time, any idea where/how to mess than 5mins? Thanks"
+    },
+    {
+      "author": "glenharrison8",
+      "body": ">(get-cluster).resiliencylevel  \n>  \n>(get-cluster).resiliencydefaultperiod\n\nget those values first, should be 2 and 0.  They are low risk changes, so you can put them back to default if it doesn't do what you want.\n\nIf the VMs never move, it's something else"
+    },
+    {
+      "author": "Allferry",
+      "body": "Thanks mate. Forgot to reply your previous question. The Node shows as \u201cIsolated\u201d in Cluster Manager when i hard power it down."
+    },
+    {
+      "author": "Allferry",
+      "body": "I\u2019ve tested and the VM migrated to the other Node just after 4mins. I\u2019ve ran both lines, results below: \n - resiliencylevel is \u201cAlwaysIsolated\u201d\n - resiliencydefaultperiod is \u201c240\u201d\n\nDo I just run \u201c(set-cluster).resiliencydefaultperiod = 10 (for 10 seconds?) or 0 (for no waiting?\n\nThanks guys."
+    },
+    {
+      "author": "glenharrison8",
+      "body": "That's a good sign.  I don't think the cluster or config is wrong.  The cluster is still working, it's just getting the resources to auto failover."
+    },
+    {
+      "author": "glenharrison8",
+      "body": "Great stuff.  Yeah, change it to 0 and do a bit more testing."
+    },
+    {
+      "author": "Allferry",
+      "body": "Great news. I\u2019ve changed it (actually had to be get-cluster and not set-cluster, weird) to 0 and VM moved right away (1-3secs) the only annoying thing is that the VM powers off then starts up in the new Node. Normal?\n\nA side question, on Cluster Network tab, network property, there are \u201cAllow cluster network communications on this network\u201d and a sub option  \u201cAllow clients to connect through this connection\u201d. Is the Allow clients\u2026 referring to the VMs part of the cluster or workstations/laptops in the domain? And it is for accessing the cluster itself of just the VMs?\n\nI looked for an explanation but couldn\u2019t find one.\n\nThanks for all your help."
+    },
+    {
+      "author": "glenharrison8",
+      "body": "You only want the hosts communicating over the cluster network.\n\nI haven't (touch wood) had a node go down in years, and running an 8 node cluster at the minute so can't say for certain.  The only thing we do is put them into maintenace mode, but I have a feeling it is normal for it to do that when a node dies.  Might be worth checking the settings on the VMs themselves as there are various options for failover.\n\nThe previous error you had in your report is a dead easy fix.  Create an AD security group, put all your hosts computer objects in it, and then add the security group to the OUs security permissions giving modify? rights.\n\nIn about 10 years, the only issue I've had was with a mismatch in jumbo frames between the hosts NIC settings and the switch they were all connected to.  That took some figuring out."
+    },
+    {
+      "author": "Allferry",
+      "body": "Thanks for all your help mate. I guess this is it, cluster completed. \ud83d\ude04"
+    },
+    {
+      "author": "glenharrison8",
+      "body": "Nice one :-)"
+    }
+  ],
+  "61": [
+    {
+      "author": "stuart475898",
+      "body": "Azure B2C custom polices - welcome to hell :).\n\nI will first cover what is happening with the `SignUpOrSignIn` journey without your changes, so you can better understand why your policy isn't working and how the 'solution' works.\n\n**Step 1**:\n\nThis step calls the `SelfAsserted-LocalAccountSignin-Email` Technical Profile (TP). As this step is of the [`CombinedSignInAndSignUp`](https://learn.microsoft.com/en-us/azure/active-directory-b2c/userjourneys#orchestrationsteps) type and uses the [`api.signuporsignin`](https://learn.microsoft.com/en-us/azure/active-directory-b2c/contentdefinitions#content-definition-ids) content definition, the `SelfAsserted-LocalAccountSignin-Email` TP will prompt the user for a username and password, or give the option to signup. If the user enters a username and password and clicks signin, the `login-NonInteractive` [Validation Technical Profile](https://learn.microsoft.com/en-us/azure/active-directory-b2c/validation-technical-profile#validationtechnicalprofiles) (VTP) is called and tries to log the user in. If username/password are wrong, this VTP stops the flow and the user has to correct the mistake.\n\nIf the username/password entered is correct, *OR* if the user clicks Sign Up, only then does the journey move to step 2.\n\n**Step 2**:\n\nAt this stage, the user has either successfully authenticated or has clicked sign up. If you look at the TP for step 2, it calls the `LocalAccountSignUpWithLogonEmail` TP which is used to sign up. If the user has successfully authenticated, we don't want them to do this, hence the [ClaimsExist](https://learn.microsoft.com/en-us/azure/active-directory-b2c/userjourneys#preconditions) precondition - if `objectId` claim exists, then skip as this came from the user authenticating.\n\nIn the `LocalAccountSignUpWithLogonEmail` TP, the user is prompted for information based on the [`OutputClaims`](https://learn.microsoft.com/en-us/azure/active-directory-b2c/self-asserted-technical-profile#output-claims), and once they click `Create`, the `AAD-UserWriteUsingLogonEmail` VTP is called. This is responsible for creating the account in B2C - the `Metadata` key [RaiseErrorIfClaimsPrincipalAlreadyExists](https://learn.microsoft.com/en-us/azure/active-directory-b2c/active-directory-technical-profile#metadata) is responsible for throwing an error if the account exists, as you have noted.\n\n**Step 3**:\n\nOnce the user has successfully authenticated in step 1 (and therefore skipped step 2), or created an account in step 2, we now read several attributes from the directory via the `AAD-UserReadUsingObjectId` TP that may not have been captured during the login step.\n\n**Step 4**:\n\nIssue a `JwtToken`.\n\n**Moving onto your problem**:\n\nThe 'right' way to handle this would be to use your REST TP that calls your API as the first VTP in the `LocalAccountSignUpWithLogonEmail` TP in step 2. Rather than your API returning a 200 response with `\"result\": \"deny\"` in the body, your API should return a non-200 response code, which will stop the journey in its tracks. You can specify a [custom error message](https://learn.microsoft.com/en-us/azure/active-directory-b2c/restful-technical-profile#returning-validation-error-message)  in the response to be displayed to the user. So the VTP section of the `LocalAccountSignUpWithLogonEmail` TP should look like this:\n\n    <ValidationTechnicalProfiles>\n      <ValidationTechnicalProfile ReferenceId=\"REST-MyApiTP\" />\n      <ValidationTechnicalProfile ReferenceId=\"AAD-UserWriteUsingLogonEmail\" />\n    </ValidationTechnicalProfiles>\n\nHere is how it works: the user enters details for the new account and clicks `Create`. `The REST-MyApiTP` (call it what you want) VTP is executed first - non-200 response: stop and show error. 200 response: run the `AAD-UserWriteUsingLogonEmail` TP and create the account.\n\n**Why your policy doesn't work:**\n\nPreconditions for an orchestration step will decide whether that step will execute or not.  In your case, the API hasn't been called at the precondition phase of step 2, so it never skips.\n\nA minor correction also from your original post: `objectId` is the Guid that represents that user in the directory, not the email (which is in the `signInName` claim). The `login-NonInteractive` TP obtains this `objectId` using OIDC and reading the value `oid` from the id token into `objectId`:\n\n    <OutputClaim ClaimTypeReferenceId=\"objectId\" PartnerClaimType=\"oid\" />\n\n&#x200B;\n\nLet me know if any of this doesn't make sense.... if you can't control the response code of the API, then there are other ways to achieve what you want."
+    },
+    {
+      "author": "Khue",
+      "body": "This is by far, the best explanation of anything that goes on in Azure B2C Custom Policies that I've read or watched on youtube so far. This is so concise and explains pretty much everything under the first 3 Orchestration steps in the canned LocalAccount starter pack. It is absolutely criminal that I might be the only one to see this response.\n\nOn to my particular issue...\n\nWe ended up going with what you recommended. I was hesitant about it because I wasn't sure what the level of undertaking would be to get the RestAPI to return a 400 status code when the information sent over was incorrect. The RestAPI itself is part of a much, much larger scale system. That being said, the development group made the changes and rolled it to my UAT environment and we got the 400 status messages working for incorrect submissions. \n\nI had a strong suspicion that the preconditions weren't operating properly because the claims were basically non existent due to the order of operations. I was wrestling in my mind, with how to accomplish calling the API in a prior step to get the claims populated to evaluate in the precondition but ultimately couldn't figure it out. When you confirmed that was what was happening, it made me feel better about my guess for sure. \n\nI have a few other objectives I need to accomplish on my check list to complete the process and do a 1 for 1 with the currently configured User Flows (we decided to try custom policies over user flows because we couldn't get custom integrations like SendGrid email templates working with User Flows). \n\n**Easy**\n\n* Get user submitted Zip Code into Zip Code/Postal Code field in Azure B2C Directory (Completed late yesterday)\n* Get user submitted Email Address into Email field in Azure B2C directory (currently email address is only getting set as UPN). I think I have to use a PartnerClaim function to get this to work.\n* Get user submitted RegID into custom attribute/field in Azure B2C directory (potentially harder, I've already created the \"registrationId\" user attribute but I assume it would be similar to email to insert)\n\nI got postal code to work by adding the claim in 3 places first under `Local Account`:\n\n    <TechnicalProfile Id=\"LocalAccountSignUpWithLogonEmail\">\n        ...\n        <DisplayClaims>\n            ...\n            <DisplayClaim ClaimTypeReferenceId=\"postalCode\" Required=\"true\" />\n            ...\n        <DisplayClaims>\n        <OutputClaims>\n            ...\n            <OutputClaim ClaimTypeReferenceId=\"postalCode\" Required=\"true\" />\n            ...\n        </OutputClaims>\n    </TechnicalProfile>\n\nThen under `Azure Active Directory`:\n\n    <TechnicalProfile Id=\"AAD-UserWriteUsingLogonEmail\">\n        ...\n        <PersistedClaims>\n            ...\n            <PersistedClaim ClaimTypeReferenceId=\"postalCode\" />\n            ...\n        <PersistedClaims>\n        ...\n    </TechnicalProfile>\n\nThen under `Self Asserted`:\n\n    <TechnicalProfile Id=\"SelfAsserted-ProfileUpdate\">\n        ...\n        <InputClaims>\n            ...\n            <InputClaim ClaimTypeReferenceId=\"postalCode\" />\n            ...\n        <InputClaims>\n        ...\n    </TechnicalProfile>\n\n\n**Harder**\n\n* Get display name to update based on user first name and last name (concatenate). I found the following [article](https://learn.microsoft.com/en-us/answers/questions/713037/display-name-of-user-in-ad-b2c-instead-of-unkn) but I am unsure where the technical profile goes. \n\nSo those are my main objectives to try and get a 1 for 1 with User Flows. My last question to you for now is about how the inheritance thing works between the different policies. Currently, when I have something I've had to modify, I've been copying entire blocks out of `TrustFrameworkBase.xml` and pasting blocks into `TrustFrameworkExtensions.xml`. So for example, when I needed to add the single `PersistedClaim` to `AAD-UserWriteUsingLogonEmail` I copied the entire `ClaimsProvider` block for `Azure Active Directory` into `TrustFrameworkExtensions.xml` and then just added the claim. Is that necessary? Could I just copy the barebones info needed for that one tag group into `TrustFrameworkExtension.xml` instead of the whole block? For example, if I wanted to add a City value into a user's directory info, could I just copy the structure to the persisted claim like the following?\n\n    <ClaimsProvider>\n        <DisplayName>Azure Active Directory</DisplayName>\n        <TechnicalProfiles>\n            <TechnicalProfile Id=\"AAD-UserWriteUsingLogonEmail\">\n                <PersistedClaim ClaimTypeReferenceId=\"city\" />\n            </TechnicalProfile>\n        </TechnicalProfiles>\n    </ClaimsProvider>\n\nOr would I have to copy the entire structure for the technical profile `AAD-UserWriteUsingLogonEmail`?"
+    },
+    {
+      "author": "stuart475898",
+      "body": "Glad I managed to help and you got the API updated to return a non-200 response. Thank you for the award :). There are other ways to do it if that was not possible, but they are not as nice or simple.\n\n**Non-existent claims**\n\nJust to call this out - be careful of precondition logic in orchestration steps/VTPs and null claims - all claims are nullable. A boolean claim can be `true`/`false`/`null`. There is a difference between saying 'skip if this claim is false' and 'skip if this claim isn't true' Sometimes it may be necessary to add 2x preconditions - one of the `ClaimsExist` type to confirm the claim isn't null, and then one of the `ClaimEquals` type to confirm the value. Preconditions are executed in order, and once one is matched then the action (`SkipThisOrchestrationStep`/`SkipThisValidationTechnicalProfile`) is carried out and all other preconditions skipped.\n\n**Email claim**\n\nJust skimming over the docs, there is no dedicated email attribute as such. B2C has 2x [built-in](https://learn.microsoft.com/en-us/azure/active-directory-b2c/user-profile-attributes#azure-ad-user-resource-type) attributes for email - `signInNames.emailAddress` (when you use email as signin name) or the `otherMails` string collection attribute. As you correctly identified, you can reference these using the `PartnerClaimType` attribute. This is used to map your policy claim to the remote claim/attribute name. Alternatively, you could store the email address as an extension attribute.\n\n**Extension attribute**\n\nIn addition to the [built-in](https://learn.microsoft.com/en-us/azure/active-directory-b2c/user-profile-attributes#azure-ad-user-resource-type) attributes, you can optionally define extra attributes, known as [extension or custom attributes](https://learn.microsoft.com/en-us/azure/active-directory-b2c/user-flow-custom-attributes?pivots=b2c-custom-policy#create-a-custom-attribute-through-azure-portal). You define them in your [ClaimsSchema](https://learn.microsoft.com/en-us/azure/active-directory-b2c/claimsschema) block, and they *must* all start with `extension_`. Internally they are stored as `extension_<b2c extensions app reg guid in the b2c directory>_<name>` \\- this internal name is most significant when interacting with B2C using the Graph API. So for example, your RegId claim would be defined as `extension_RegId` and stored internally as `extension_<b2c extensions app reg guid in the b2c directory>_RegId`. Within the policies, always reference this claim using `extension_RegId`. e.g. when using it as an `InputClaim`, `OutputClaim` or `PersistedClaim`.\n\n**Postal code**\n\nYou worked this out for yourself - this worked straight way as `postalCode` is a built-in attribute. My only observation is don't forget to add an `OutputClaim` entry for this claim in the `SelfAsserted-ProfileUpdate` TP, otherwise it won't be returned to the claims bag for use in a future step e.g. the `JwtToken` issuer.\n\n**Display name**\n\nThat piece you linked to appears to be exactly what you want. You use `ClaimsTransformations` to manipulate claims, in this case to concatenate first name and last name. `ClaimsTransformations` can be referenced using the `InputClaimsTransformations` and `OutputClaimsTransformations` elements of a TP.\n\nIn your case, you cant use these directly in your TPs that collect the details (e.g. `LocalAccountSignUpWithLogonEmail`) and then persist them using a VTP, because VTPs are [executed before](https://learn.microsoft.com/en-us/azure/active-directory-b2c/technicalprofiles#technical-profile-flow) `OutputClaimsTransformations`. So in the piece you linked to, a new TP of the [ClaimsTransformation](https://learn.microsoft.com/en-us/azure/active-directory-b2c/claims-transformation-technical-profile) type is created, and that is used to call the claims transformations via the `OutputClaimsTransformations` element.\n\nNote that claims transformations can be called from any TP type, its just the `ClaimsTransformation` TP does this with minimal overhead/extra features. Note also that you will need to add an `OutputClaim` element for the concatenated display name in the VTP and calling TP - the VTP to return it to the calling TP so it can then be used by the AAD VTP that will persist it, and in the calling TP so it is returned to the claims bag for use elsewhere - output claims from VTPs will *not* go to the claims bag unless the calling TP has it as an `OutputClaim` element also.\n\n    <TechnicalProfile Id=\"My-TP\">    \n        <OutputClaim ClaimTypeReferenceId=\"Displayname\" />   <!-- output here to send back to claims bag -->\n        \n        <ValidationTechnicalProfiles>\n            <ValidationTechnicalProfile ReferenceId=\"My-VTP\" />\n        </ValidationTechnicalProfiles>\n    </TechnicalProfile>\n\n&#x200B;\n\n    <TechnicalProfile Id=\"My-VTP\">    \n        <OutputClaim ClaimTypeReferenceId=\"Displayname\" /> <!-- output here to send back to My-TP -->\n        \n        <OutputClaimsTransformations>\n            <OutputClaimsTransformation ReferenceId=\"My-Displayname-CT\" />\n        </OutputClaimsTransformations>\n    </TechnicalProfile>\n\n**Policy inheritance**\n\nAs for policy inheritance, your barebones assumption and example given at the end is correct - just do the minimum structure and add the extra bits you want. Recommended practice is to leave `TrustFrameworkBase` alone and make all your changes in an extensions file (for shared elements) or in the relying party (RP) file itself for stuff used just by that RP. Depending on the size and complexity of your policies, you may add more policies into that inheritance tree."
+    },
+    {
+      "author": "Khue",
+      "body": "Hey, I just wanted to circle back with you. So I believe I achieved all the listed items above and I wouldn't have been able to do it without your input. You helped me out big time. One quick note on the updating ADB2C using a custom attribute: I had to add the b2c-extension-app ApplicationId and ClientId to the TP AAD-Common. I couldn't commit the custom attribute update to the user's profile without it. It ended up looking something like this:\n\n    <ClaimsProvider>\n        <DisplayName>Azure Active Directory</DisplayName>\n        <TechnicalProfiles>\n           <TechnicalProfile Id=\"AAD-Common\">\n               <DisplayName>Azure Active Directory</DisplayName>\n               <Metadata>\n                   <!-- b2c-extension-app ClientId -->\n                   <Item Key=\"ClientId\">\"<insertClientIdForB2CExtensionApp>\"</item>\n                   <!-- b2c-extesion-app AppId -->\n                   <Item Key=\"ApplicationId\">\"<insertAppIdForB2CExtensionApp>\"</item>\n               </Metadata>\n            </TechnicalProfile>\n        </TechnicalProfiles>\n    </ClaimsProvider>\n\n\nThis update then allowed me to write the custom attribute to the user's profile.\n\nI had one last thing I was trying to look for in custom policy but I am not sure how to work this Google search appropriately. Currently our B2C environment uses a custom domain. When you are going through the \"SignInorSignUp\" process, when you are typing in your information (Firstname, Lastname, Email Address, etc) there is a \"cancel\" link in the top right of the registration information box. This \"cancel\" button will take you back to the sign in page, but for whatever reason, instead of it sending you back to the sign in screen with the custom domain name, it sends you to the sign in screen but uses the native B2C tenant domain name. We have a ticket open with Microsoft about this but they are taking their time with it. Is there a way to remove the \"cancel\" link on the sign up/registration info box? [Here is an image](https://i.imgur.com/CYcdJ8K.png) of the cancel button I'd like to remove for now. Any ideas?"
+    },
+    {
+      "author": "stuart475898",
+      "body": "To hide the cancel button of any self-asserted TP, add the metadata item [setting.showCancelButton](https://learn.microsoft.com/en-us/azure/active-directory-b2c/self-asserted-technical-profile#metadata) to the TP and set to false. Here is a link to a [demo](https://github.com/azure-ad-b2c/unit-tests/tree/main/technical-profiles/self-asserted#show-the-cancel-button).\n\nThe cancel button should end the journey and return the user to the url specified in the *redirect\\_uri* parameter with the oauth error message *AADB2C90091: The user has cancelled entering self-asserted information*. Its interesting you are being sent back to the sign in screen - could any custom templates you are using be overriding this behaviour with JS? Or is it sending you back to the *redirect\\_uri*, which is then sending you back on the journey? \n\nI would look at what's happening in the network tab in your browser's developer tools (remember to tick the *preserve log* box - or whatever the equivalent is for your browser) to see all the HTTP requests going back and forth. Also consider looking at the B2C logs in AppInsights if you have set it up (which is another monster in itself)."
+    }
+  ],
+  "62": [
+    {
+      "author": "Resejin",
+      "body": "You can right click on the process in task manager from the details tab and select \"analyze wait chain\" to see what's holding it up.\n\nIf I had access to a dump of the hung process I could probably see where it's hung up at."
+    },
+    {
+      "author": "HotFlower9167",
+      "body": "On the chain analysis it just says \"mspaint.exe not answering\".  \nIt does not mention anything else."
+    },
+    {
+      "author": "Resejin",
+      "body": "Whaaaaaaaa\n\nHum... Then yeah I'd need a dump to see more.\n\nI'm willing to dig, but be aware that anything in the memory of that process I'll technically be able to read. I'm not about to waste a bunch of time trying to extract tokens or image data or anything silly like that, but there are people out there that might be, so keep that in mind before you post any sort of memory dump."
+    },
+    {
+      "author": "Resejin",
+      "body": "The only other thing I can think of in regards to azure is there's a limitation to how much disc i/o they let go through at a time... But it sounds like creating a new image doesn't create that same situation... It's almost like paint is trying to check the locks on the file before it overrides it, but then paint 3D being able to do it just fine doesn't make sense either. \n\nLong story short I've never seen this before and I don't have any ideas. I'm hoping someone has something more to offer!"
+    }
+  ],
+  "63": [
+    {
+      "author": "ikakWRK",
+      "body": "This.\n\nIf you add the permissions via Exchange Management Shell you can add a switch to not Automap. Also, if you're assigning permissions via Groups, I don't believe it Automaps"
+    },
+    {
+      "author": "tempredacc85",
+      "body": "Ok I've not tested yet just added a user full access to a another users mailbox. I wasn't sure if it would auto map or if I had to manually add it, so sounds like it will automatically it then?"
+    },
+    {
+      "author": "tempredacc85",
+      "body": "I did neither just added a user full access to the mailbox. Assume this is the same?"
+    },
+    {
+      "author": "ikakWRK",
+      "body": "In this case it *should* auto map"
+    }
+  ],
+  "64": [
+    {
+      "author": "xbone42",
+      "body": "I will agree, their sales team is very aggressive."
+    },
+    {
+      "author": "steveinbuffalo",
+      "body": "well they aggressived themselves out of a sale.. ever.."
+    },
+    {
+      "author": "xbone42",
+      "body": "That's fair. Doesn't take away from the capabilities of the product however. Sales team is shit but what they are selling is very good."
+    },
+    {
+      "author": "steveinbuffalo",
+      "body": "I'll never know."
+    }
+  ],
+  "65": [
+    {
+      "author": "Cyst-Admin",
+      "body": "I found the fix on https://serverfault.com/a/543353 - I had to restart the \"Active Directory Certificate Services\" service."
+    },
+    {
+      "author": "BlackV",
+      "body": "Thanks for posting your working solution"
+    },
+    {
+      "author": "Cyst-Admin",
+      "body": "Sure thing. I didn't want to be *that guy*."
+    },
+    {
+      "author": "BlackV",
+      "body": "Ha"
+    }
+  ],
+  "66": [
+    {
+      "author": "dont_ama_73",
+      "body": "PRTG?"
+    },
+    {
+      "author": "lemon_tea",
+      "body": "Thanks!  I was unaware this was a thing.  Unfortunately I have to self-host/keep my data in-house due to the requirements of our business."
+    },
+    {
+      "author": "lemon_tea",
+      "body": "I will check this out.   Thanks!"
+    },
+    {
+      "author": "lemon_tea",
+      "body": "This is another RRDB type application, correct?"
+    }
+  ],
+  "67": [
+    {
+      "author": "sccmjd",
+      "body": "Also worked on a Win10 22h2 fresh image.  I think I was experimenting with the partition before that, so something may have been altered.\n\n\nNice.... Win11 22h2.1 test machine.  Had a 651MB Recovery partition.  Resized in place (not deleting it and making one from scratch, through C:\\Windows or from copy the existing Recovery files out and back into a brand new Recovery partition) to 1024MB.  The WinRE issue script successfully ran this time.   RE Build Before : 525.  RE Build After:  1105.\n\n\nLet's see what the Win10 22h2 uefi machine does...."
+    },
+    {
+      "author": "BlackV",
+      "body": "did you have another post about this a few days ago?\n\nif so glad you have a solutions and came back with an update"
+    },
+    {
+      "author": "sccmjd",
+      "body": "Also worked for resizing Recovery with a Win10 22h2 MBR bios machine, except it's set id=7 for a basic data partition and then set id=27 for Recovery on MBR."
+    },
+    {
+      "author": "sccmjd",
+      "body": "Win10 UEFI failed with the Recovery script update.  Says potentially pending updates.  But it was just restarted, and there are no updates I see."
+    },
+    {
+      "author": "sccmjd",
+      "body": "A couple, yeah.  I wanted to get this recorded somewhere."
+    },
+    {
+      "author": "sccmjd",
+      "body": "Also successful running the Recovery winre script the first time.\n\nBuild Before: 1\n\nBuild After : 2486\n\nSame 1GB Recovery partition like the gpt/uefi Win10 22h2 machine."
+    },
+    {
+      "author": "sccmjd",
+      "body": "And Win10 UEFI failed again.  I found the logs in C:\\Windows\\logs\\dism, but I can't make sense of them, even with comparing the failed Win10 logs to the successful Win11 dism logs.  Maybe a 1GB Recovery partition is still too small on the Win10 test machine."
+    },
+    {
+      "author": "BlackV",
+      "body": "nice"
+    },
+    {
+      "author": "sccmjd",
+      "body": "It is a fresh install though, so fast boot is still checked.  A restart and a shutdown should get a real restart done.  Or just uncheck fast boot.  If it would be anything with that.  I experimented with a dynamic update and dism on the test Win10 machine before, but I also did the same thing on the Win11 machine."
+    },
+    {
+      "author": "sccmjd",
+      "body": "That was it?  Shutdown, restart, got stuck, forced it off, shutdown, restart... And now the script works on Win10 uefi?\n\nBuild Before: 1\n\nBuild After: 2486\n\n\nIt worked, but I would have just restarted before.  I wasn't thinking about fast boot at all.  And a restart is an actual restart with fast boot I believe.  Shutdown is hibernate."
+    },
+    {
+      "author": "sccmjd",
+      "body": "But I also did the 11/8/2022 dynamic update with dism while I was waiting."
+    }
+  ],
+  "68": [
+    {
+      "author": "ach254",
+      "body": "Dang! Why do these vendors continue to use outdated components. So frustrating. Thanks."
+    },
+    {
+      "author": "Starblazr",
+      "body": "Well I just got an email after this year they're not going to be doing the desktop version anymore for 50."
+    },
+    {
+      "author": "ach254",
+      "body": "Thanks. I did not see that."
+    },
+    {
+      "author": "ach254",
+      "body": "I called Sage and the person told me that this is not true?"
+    }
+  ],
+  "69": [
+    {
+      "author": "bluescreenfog",
+      "body": "https://dontasktoask.com/"
+    },
+    {
+      "author": "Stryker727",
+      "body": "So I have two DPM servers, set up in Cyclic Protection mode. One right now houses all of or servers to host for back ups. I need to separate them out so half of them are protected on each server. Like one is across the street in case this building goes down, we still have say building a backed up on building b. When I try and move them over I get a warning message from dpm that I'm trying to protect a replica that is on another dpm server primary server. So as I move through the creating group section I get another warning about one or more selected data sources are already config for protection on primary server. I did set the new dpm location with a set cmd for the new server. And then sometimes I get a warning about couldn't locate C: as it's name has been changed or deleted... Neither of those are true, I havr changed the c drive on the servers. Tldr: rebuilt both dpm servers to match each other, need to move half over and it throws errors and won't proceed on the move."
+    },
+    {
+      "author": "Stryker727",
+      "body": "So I have two DPM servers, set up in Cyclic Protection mode. One right now houses all of or servers to host for back ups. I need to separate them out so half of them are protected on each server. Like one is across the street in case this building goes down, we still have say building a backed up on building b. When I try and move them over I get a warning message from dpm that I'm trying to protect a replica that is on another dpm server primary server. So as I move through the creating group section I get another warning about one or more selected data sources are already config for protection on primary server. I did set the new dpm location with a set cmd for the new server. And then sometimes I get a warning about couldn't locate C: as it's name has been changed or deleted... Neither of those are true, I havr changed the c drive on the servers. Tldr: rebuilt both dpm servers to match each other, need to move half over and it throws errors and won't proceed on the move."
+    },
+    {
+      "author": "Stryker727",
+      "body": "Oh okay, thanks.... That's helpful \ud83d\ude44really, what is the point of thay, so you can be not helpful to your peers.... Grow up"
+    },
+    {
+      "author": "bluescreenfog",
+      "body": "I am trying to be helpful to you. You could've included that same comment you've replied to people in your initial post and saved everyone (including yourself) time."
+    },
+    {
+      "author": "Stryker727",
+      "body": "Yes, I could have, but the amount of people out there that has legit DPM experience is very thin, so why waste my time writing a ten page book of situations and questions if there nobody available to talk to about it."
+    }
+  ],
+  "70": [
+    {
+      "author": "sccmjd",
+      "body": "Yes, the 11/8/2022 non-server Dynamic update installed with dism.  I just don't know what the does exactly...."
+    },
+    {
+      "author": "Ssakaa",
+      "body": "> like the bios not letting you boot off anything besides the hard drive\n\nSince it's not an encrypted partition, unless that drive's a mac-style soldered to the motherboard SSD... who said you had to boot *that* machine to change the file?\n\nPhysical access is required... but physical access is *precisely* what FDE like bitlocker's *SUPPOSED* to mitigate."
+    },
+    {
+      "author": "sccmjd",
+      "body": "Yeah, I was thinking of that after I posted.  Just pop the hard drive out.  I suppose you could also just clone the drive, and then there might be unlimited time to work with it, assuming it would boot on another machine."
+    },
+    {
+      "author": "Ssakaa",
+      "body": "I believe the attack probably leverages the TPM, at least..."
+    }
+  ],
+  "71": [
+    {
+      "author": "digdilem",
+      "body": "Easiest with this limited information?\n\nmysqldump the database and do some careful sed'ing on the dump before reimporting it. (Or into a load it into a reasonably advanced text editor that will search and replace within a regex)\n\n(And obviously, make damned sure you've closed the door they got it. Was it a random plugin?)"
+    },
+    {
+      "author": "BadPrewire",
+      "body": "Example  \n\n\n<script>f26=\"ne\";t87=\"a\";m8d=\"a3\";c02=\"df\";p2ae=\"u4\";l3c0=\"f4\";qcbe=\"no\";gdc5=\"71\";document.getElementById(p2ae+l3c0+gdc5+c02+m8d+t87).style.display=qcbe+f26</script>"
+    },
+    {
+      "author": "BadPrewire",
+      "body": "Looks to have been from an old legacy plugin, yup."
+    },
+    {
+      "author": "digdilem",
+      "body": "Uhuh. Standard."
+    }
+  ],
+  "72": [
+    {
+      "author": "MindfulPlanter",
+      "body": ">tories on the Big Tech people getting thrown away after years of 110% dedication to the company, drinking the Kool-Aid completely, living the culture. They're just in complete shock; some hadn't ever known an employer to be anything but benevolent and able to print mon\n\nStill goes on unfortunately like you said. Some get lucky others.. not so much."
+    },
+    {
+      "author": "spider-sec",
+      "body": "So you\u2019re new here."
+    },
+    {
+      "author": "spider-sec",
+      "body": "Ah, you\u2019re one of those who resorts to name calling when you can\u2019t make an argument."
+    },
+    {
+      "author": "spider-sec",
+      "body": "I don\u2019t need to get upset about it because it immediately shows that my argument is correct because if you had a winning argument you\u2019d state it and back it up instead of resorting to name calling."
+    }
+  ],
+  "73": [
+    {
+      "author": "ThunderDew",
+      "body": "My contribution is if you go into Computer Management on your file server, there should be an option \"Opened Files\" underneath Shared Folders ( can't remember the exact wording but should be close enough).\n\nSounds like there is just some phantom lock or phantom opened file that the server thinks is still opened. You should be able to search through to see anything weird and close that session.\n\nHope that helps if nothing else works!"
+    },
+    {
+      "author": "spazzo246",
+      "body": "Will try this. ty"
+    },
+    {
+      "author": "spazzo246",
+      "body": "Thanks. Will try this"
+    },
+    {
+      "author": "spazzo246",
+      "body": "its not just one particular document though. Its every single document he tries to open on excel. Other microsoft apps work fine and dont have an issue\n\nIll check this anyways thanks"
+    },
+    {
+      "author": "ThunderDew",
+      "body": "Figure it out?"
+    },
+    {
+      "author": "spazzo246",
+      "body": "Nope not yet. Havent had time to go back to it. I have just told the user to use the RDS server.\n\nIll probbaly remake his profile when I get time to"
+    }
+  ],
+  "74": [
+    {
+      "author": "Rawtashk",
+      "body": "Then a UAC Shim needs to be made for that program, or some other program that allows for single program rights elevation.\n\nYou don't need local Admin rights, the program does."
+    },
+    {
+      "author": "xylopyrography",
+      "body": "Some of this software only runs on operating systems before UAC.\n\nThere are hundreds of these software packages and each one sometimes run 10+ separate, undocumented windows services. As well, sometimes you get to a job site and your application is corrupt and needs to be reinstalled. Or you need to download a new one plus a patch and 2 libraries.\n\nI hear what you're saying but I feel like it would be a full time job building and supporting a fleet of locked down VMs by someone who specializes in this activity.\n\nThat goes back to not winning any work as you can't compete. It's going to be won by the outfit that gives the programmer local admin so they can do their work without employing an entire IT personnel. \n\nWhat's going to happen in reality if IT eventually removes this access is we'll have to run offline laptops for legacy software that don't connect to corporate network."
+    },
+    {
+      "author": "Rawtashk",
+      "body": "Sure, that's fine, but OP is who I was replying to, and they didn't indicate that there was a widespread need for it.\n\nThere are other pieces of software out there that will allow old programs to run as Admin without giving the user Admin rights to the desktop. The answer to your problem is not \"well, just give everyone Admin rights\"."
+    },
+    {
+      "author": "xylopyrography",
+      "body": "I mean, it is by the far the simplest and most cost effective method though.\n\nI have met controls people whose IT locks them out of their laptops and then when they need a new program installed it's a 3-4 day time delay from IT to get it solve but the job must be done that day or it could cost $10k, $100k, maybe even $1M.\n\nWhat they will generally do is purchase a laptop at Best Buy, install the software they need, connect to device, make changes, and go home. on the corporate side, they just move the files on to their work laptop through email or file transfer site as a backup but otherwise the laptops just become isolated."
+    },
+    {
+      "author": "Rawtashk",
+      "body": "Why would it take 3 or 4 hours a month for maintenance?"
+    },
+    {
+      "author": "xylopyrography",
+      "body": "It wouldn't require it for an inhouse technician with known software packages to support a single line of controllers from one vendor.\n\nI'm talking about systems integrators which support all platforms.\n\nOne version of one software package from one vendor takes 80 minutes to install each version.\n\nThere are 34 versions to support 1/4th of a particular vendor's controller family. They start at 800 MB and are now 9 GB. The install may fail randomly 15% of the time. They need to be installed in a specific order. There are registry edits and compatibility mode settings including run as admin to allow 2 of the 34 version to function on Windows 10.\n\nOne of the 34 versions has 4 subversions each of which are incompatible with each other--they cannot be installed and operated on the same workstation. But you will encounter controllers in the field which uses all of them and firmware updates are generally not practical/recommended as they can brick devices and cause immense downtime.\n\nThen, there are additional libraries and executables for firmware files, add on profiles, of which you might need at some time.\n\nA system integrator needs to support not only this controller line, but all controllers from that vendor which is 3 other whole software lines, plus dozens of other vendors and everything else you may encounter. Each vendor has their own nuances in terms of licensing maintenance (whether it's cloud based now, or needs a physical licensing server to lease licenses, or is a local license tied to host or VM, or is a key file).\n\nSome of them use hardware keys which are MAC+ID locked.\n\nPersonally, I have probably \\~300 executables worth of software between my host and 15 VMs on my work laptop all of which I have used at some point in the last 5 years. This encompasses perhaps 20% of what's actually out there in North America.\n\n5 years from now, I will have another 50-60 that I will need to add, but I will still need to support (although diminishing) a little bit of the legacy stuff. \n\nI haven't even gotten into patch management yet on the SCADA side of things yet..."
+    },
+    {
+      "author": "Rawtashk",
+      "body": "That's where JIT credentials come into play for people that need to install their own software. You can fairly easily set up something like that with LAPS or Lithnet (or both, https://github.com/lithnet/access-manager). If you have that many endpoints that need that much admin access, then any sort of ransomware is going to mess things up real fast if it gets in, and you'll be spending a lot more than 30-40 hours just getting things back up and running.\n\nI'm not trying to be combative either. I know exactly where you're coming from, because I've been dealing with it basically everywhere I go when I take a new job."
+    }
+  ],
+  "75": [
+    {
+      "author": "Sasataf12",
+      "body": "You can use whatever account you've set as device administrator."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "Sorry, I don't understand, isn't that the same thing as creating a Company Admin account on the machine?"
+    },
+    {
+      "author": "Sasataf12",
+      "body": "No, nothing alike."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "I'm sorry, I'm not getting what you mean. \n\nDo you have a link or something that explains it, as I have no clue what you are talking about (remember, self-taught)\n\nThx"
+    },
+    {
+      "author": "Sasataf12",
+      "body": "The link I posted explains it all.\n\nThere's nothing to get or understand. Just trust that's how things work. Try logging into any device using your own account (or any other device admin account) to see for yourself."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "Erm Ok, I did read it earlier but it gives no clue as to how to access a machine to overide an issue?\nWe only have local accounts on the machines? dunno if that makes a difference?\n\nOr are you saying at the login screen just put in my Admin account? And it will do the rest?"
+    },
+    {
+      "author": "Sasataf12",
+      "body": "Yes. A device admin is an admin on all machines."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "Just had a look on a brand-new machine, I'm setting up, and I have no option to use another user to add my admin creds.\n\nThere is just the three local accounts to log in to, so I have no way way to access it"
+    },
+    {
+      "author": "Sasataf12",
+      "body": "If it's a brand new machine, how can there be 3 local accounts on it? A brand new machine will take you through the setup wizard, where you pick your timezone, keyboard layout, language, etc.\n\nIt should also get you to a point where you pick what type of account you want to log in with - a work account or personal account. Unless the machine is enrolled in Autopilot, then it should only give you the option to use a work account."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "Well, as I said before, we install local accounts onto the machine and set them up. We have to go Personal, then create the company admin acc and so on. Bear in mind, this is what I inherited. Procedures etc \n\nWe looked at Autopilot but had mixed success with it, so we didn't pursue it further\n\n&nbsp;\n\nSo you're saying at the W&S point we should:\n\n* 1) Add our standard admin account, then login with that and create the others from that?\n* 2) Add his account and use the login as other user to access for issues?\n\nI did say we don't know what the correct method is, which is why I'm asking.\n\nI'm trying to figure the \"How\" I do it correctly"
+    },
+    {
+      "author": "Sasataf12",
+      "body": "Okay, so technically it's not a brand new machine if someone's already configured it. Wipe it and start again.\n\nIdeally it goes like this...\n\n1. Configure Autopilot - [https://learn.microsoft.com/en-us/mem/autopilot/profiles](https://learn.microsoft.com/en-us/mem/autopilot/profiles) \n2. Join the laptop to Autopilot. This can be done at the vendor's end, or manually during setup - [https://learn.microsoft.com/en-us/mem/autopilot/add-devices#powershell](https://learn.microsoft.com/en-us/mem/autopilot/add-devices#powershell) and look for \"While OOBE is running, you can start uploading the hardware hash...\"\n3. Give the freshly wiped laptop to the new user.\n4. New user goes through the setup wizard, and enters their M365 account when the setup asks for it.\n5. Intune takes care of installing your apps.\n\nIf you want to do extra steps, like add a user admin account (I personally didn't bother, and just elevated their normal account) you can log in using your user account to do that. Then give the laptop to the user, and they login with their M365 account."
+    },
+    {
+      "author": "O365-Zende",
+      "body": "> Okay, so technically it's not a brand new machine if someone's already configured it. Wipe it and start again\n\nIts a brand new machine I have just done those accounts on. and he is a brand-new user.\n\nSo you use Autopilot, which we don't.\n\nIll Have a look at the info, thx again for the patience, think ill have to make a MS ticket to get the Autopilot checked.\n\nThx again."
+    }
+  ],
+  "76": [
+    {
+      "author": "ifromzero2023",
+      "body": "Hi, how can I check such connectors and certs?"
+    },
+    {
+      "author": "BlackV",
+      "body": "PowerShell, it's the tls settings of the connector"
+    },
+    {
+      "author": "ifromzero2023",
+      "body": "I just looked and I see two different certs for smtp, how is that possible?"
+    },
+    {
+      "author": "BlackV",
+      "body": "cause you can have as many certs as you like assigned the smtp (or iis or whatever ) role\n\nbut not all of them will be active at the same time\n\nyour connector settings should show a thumbprint of the active cert"
+    }
+  ],
+  "77": [
+    {
+      "author": "vast1983",
+      "body": "Not sure what you mean by stability? 99% of the time this is due to configuration. \n\nI have hundreds of Hyper-V VMs running across 8 -8 host clusters. UCS B series hardware, Cluster Shared Volumes via iSCSI to nimble storage arrays, backed up by Commvault. \n\nTeamed management interfaces\n\nLive Migration Interface\n\nCluster Communication Interface\n\niSCSI-A \n\niSCSI-B\n\nTeamed Interfaces for VM Switching\n\nRock Solid for over 3 years."
+    },
+    {
+      "author": "TechFiend72",
+      "body": "That is a lot nicer setup than I usually see on HyperV.\n\nMost of the places I have come in to do an assessment, they picked HyperV because it was free. The rest of their IT infrastructure is on the cost-savings plan.\n\nMost of the VMWare infrastructure has been more serious. However, I have seen some VMWare sitting on top of Synology that ran like a tank."
+    },
+    {
+      "author": "vast1983",
+      "body": "Ill concede NFS is one of VMWare's strengths. It does open the platform up to more use cases.\n\nBut yes, I think we both agree you get in what you put out.\n\nUnfortunately, making something available and free of cost does, infact, make it more accessible to people to set up the wrong way.\n\nPeople that choose things simply because they are free are the same types of people that dont take the whole picture into account.\n\nIve seen the dumbest things you can imagine. A single VM host, using its local storage. Their idea of backups was Veeam community edition backing up the VMs to... you guessed it..... the same local storage.\n\nI think Hyper-V gets a bad reputation because of mistakes like that."
+    },
+    {
+      "author": "TechFiend72",
+      "body": "I see a lot of hyper-v where people effective went next\\\\next\\\\next....\n\nThank you for letting me know that a well configured and hardwared HyperV is working well for you in a moderate-sized environment.\n\nI think part of the issue is finding Windows SEs who know how to configure HyperV. It takes a Senior SE and those are getting harder to find.\n\nContinued good luck in your environment!\n\nGoo"
+    }
+  ],
+  "78": [
+    {
+      "author": "Helpjuice",
+      "body": "**AWS**\n\nYou can use AWS CloudFormation and AWS SAM (Serverless Application Model). \n\nThese tools will allow you to create templates that define your serverless resources and their configurations. You can then use these templates to generate documentation that describes your API, including the endpoints, methods, input/output parameters, and more. \n\nAdditionally, you can use the AWS CLI or SDKs to programmatically access and retrieve information about your serverless resources, which can be used to generate documentation or to automate deployment and testing processes. Other tools such as Swagger, RAML or API blueprint can also be used to document the APIs in a more detailed way.\n\n**Azure**\n\nWith azure you can use OpenAPI, AsciiDoc to create templates with API metadata, combined with Swagger and Azure API management which should help with the management and documentation of your API.\n\n**Google Compute Cloud**\n\nYou can use the Google Cloud SDK, more specifically gcloud command line to generate documentation for your API.\n```\ngcloud endpoints services deploy --descriptor-file <apispecfile>\n``` \nThis will pop out a description of all your API endpoints, request and response bodies, methods, and other related API data.\n\nYou can also use \n```\ngcloud endpoints services describe\n```\nWhich will also give you relevant information for creating more documentation.\n\nAlso be sure with every function, method, etc. you create examples of how to use it along with potential output.\n\n**On-Prem/Custom Setup/Private Cloud**\n\nNormally the application framework used to create the app can be used to also generate the documentation.  For example in Spring Cloud you can use REST Docs, add your dependencies to your pom.xml and create a test class called MockMvc to perform and document responses for requests.\n\nYou can then generate documentation by running\n```\nspring-restdocs-maven-plugin\n```\n\nin your pom.xml\n\nOnce that is completed you can then view your documentation in target/generated-docs directory in your project."
+    },
+    {
+      "author": "anacondaonline",
+      "body": "> AWS ..... You can then use these templates to generate documentation that describes your API\n\nCan you please post a link how this is done ?"
+    },
+    {
+      "author": "Helpjuice",
+      "body": "Here is a simple example with additional resources\n\n-  https://aws.amazon.com/blogs/infrastructure-and-automation/automated-documentation-of-aws-cloudformation-template-parameters/"
+    },
+    {
+      "author": "anacondaonline",
+      "body": "I think you misunderstood the question.\n\nThere is no information in this link about how to create API documentation in a serverless environment.\n\nThe following is an example of what API documentation looks like using Swagger.\n\nhttps://static1.smartbear.co/swagger/media/images/tools/opensource/swagger_ui.png?ext=.png \n\nFor testing in serverless environments, I would like to create API documentation. This does not necessarily have to be a swagger doc"
+    },
+    {
+      "author": "Helpjuice",
+      "body": "You are going to need to learn and be curious as the tools you are asking for have been provided.  With the exports or cloudformation templates you can search and use many of the free and paid doc generators and testers or build your own from the data.\n\nHere is another tool that can help generate documentation from a cloud formation template which is a standard way to deploy serverless lambda apis\n\n- https://pypi.org/project/cloudformation-docs/\n\nAlso make everything is modeled correctly if you are using sam, export it then you can generate docs with openapi.\n\nhttps://openapi-generator.tech/docs/generators/#documentation-generators"
+    }
+  ],
+  "79": [
+    {
+      "author": "Polarnorth81",
+      "body": "Nope, just tried, it was on, i toggled. I also PS disable/enable still nothing. Logged into my outlook mailbox under a different account and mine works. I will have this person log into my laptop and see if its the account or the windows profile. if it works on mine its his profile if it doesnt its the 365 account. This is so weird, it had to be a snr exec too, anyone else id say deal with it."
+    },
+    {
+      "author": "Polarnorth81",
+      "body": "Hi, yes this was one of the things I tried \ud83d\ude1e"
+    },
+    {
+      "author": "Polarnorth81",
+      "body": "Hi, \n\nI checked via PS, I even toggled it off and on, still nothing."
+    },
+    {
+      "author": "Polarnorth81",
+      "body": "Hi, they have it on and working on their phone, thanks though"
+    }
+  ],
+  "80": [
+    {
+      "author": "ThisGreenWhore",
+      "body": "Can you have two apple ID's assocated with a device? Or were you just looking at managing apple ID's from day one?"
+    },
+    {
+      "author": "Luxily",
+      "body": "You will only need one apple id. I'd force users to use 1 apple id. \n\nI don't believe you can have 2 apple IDs associated to a device.  \n\nFrom day 1 I wanted to use federated login with our aad. But then 200 users will get notified. So yeahhhh"
+    },
+    {
+      "author": "ThisGreenWhore",
+      "body": "Okay, I think I understand what you're saying.\n\nYou want let's say all the iphone users in your company to use user@domain.com for all apps? Is that correct?"
+    },
+    {
+      "author": "Luxily",
+      "body": "Yeah. But since if we do @domain.com we would have to force 200 users to change. Instead you could probably do @appleid.domain.com and have your users login with that."
+    },
+    {
+      "author": "ThisGreenWhore",
+      "body": "I think the problem with this is assuming that every is going to use the same apps all the time. Especially paid apps.\n\nI don't know what your company does, but that's really not feasible because some staff will use paid apps for legitimate work that doesn't need to be paid for or installed everywhere else."
+    },
+    {
+      "author": "Luxily",
+      "body": "In apple business manager, you can purchase apps from there and assign certain apps to certain users within Intune. \n\nSay, a user wants a paid app for these specific task. You can buy it within apple business manager. Then go over to Intune and find the app in there and assign it to that specific user and make it available to only them within Company Portal."
+    },
+    {
+      "author": "ThisGreenWhore",
+      "body": "Thank you for letting me know how this works. How do you manage a employee who has to buy an app on their own? Can you absorb  this app in your infrastructure?\n\nThe last time I explored MDM was pretty \"contentious\" with the company. So I just had to let it go and move on"
+    },
+    {
+      "author": "Luxily",
+      "body": "They HAVE to buy an app on their own using their own AppleID? Then dont really have an answer for you. \n\nIf it's company device then if an app needs to be purchase it will be purchased through ABM then assigned to that user that needs it. \n\nI would still venture for more answers and not take everything as I say as fact. I recently got into the situation that OP is in and learning everything along the way.\n\n\n*Now if it's their own personal device and the company bought them an app through apple business manager, they can also assign the app via Intune and the user can download the paid app through Company Portal*"
+    },
+    {
+      "author": "ThisGreenWhore",
+      "body": "It was just a questions because users are users. Y'all know more than I do so I appreciate being pointed in more directions for my own learning."
+    },
+    {
+      "author": "Luxily",
+      "body": "No problem!!"
+    }
+  ],
+  "81": [
+    {
+      "author": "mobz84",
+      "body": "A small nextcloud? Disable everything except file and pdf. Might be an idea i do belive you cabb get previews and drag and drop of files. And the built in reader if you want to use it is pretty good."
+    },
+    {
+      "author": "xAfnD",
+      "body": "yes its for internal Access only. and thank you for that suggestion."
+    },
+    {
+      "author": "xAfnD",
+      "body": "nope we don't have toys."
+    },
+    {
+      "author": "xAfnD",
+      "body": "thank you i hope so too."
+    }
+  ],
+  "82": [
+    {
+      "author": "BmanUltima",
+      "body": "Do you need to connect other devices to the same internal LAN that the VMs are on?\n\nIf so, you'd use a second physical NIC. If not, then you don't need to assign a NIC to it at all."
+    },
+    {
+      "author": "Ev1lC4t",
+      "body": "Nope just the VMs but the VMs will need internet connectivity, so that network will NAT to my home network in order for traffic to pass through my default gateway and out to my ISP. \n\nSO the WAN IP of the PFSense should be on the same subnet as my home network. Sorry if this is all confusing, I\u2019ll try to get a diagram on here"
+    },
+    {
+      "author": "BmanUltima",
+      "body": "Ok, so then the second vswitch for the vms doesn't need a physical NIC assigned to it, and you're correct, the WAN IP of PFSense will be on your home network's subnet."
+    },
+    {
+      "author": "Ev1lC4t",
+      "body": "But my question is, if the second vSwitch doesn't have a physical uplink, how will the VM's attached to it get to the internet?"
+    },
+    {
+      "author": "BmanUltima",
+      "body": "Through PFSense."
+    }
+  ],
+  "83": [
+    {
+      "author": "Real_Lemon8789",
+      "body": "So, if WDAC doesn\u2019t work for this, what does work for blocking running executables from the desktop and downloads folders?  \n\nEven if you block saving executables to their downloads folder, they can get around it by finding another location to save to.\n\nApps that can be installed without local admin rights generally end up installing in the user\u2019s appdata directory.  Is there a method to block that?"
+    },
+    {
+      "author": "disclosure5",
+      "body": "Applocker is usually the answer. It requires *either* enterprise edition or to be deployed via InTune."
+    },
+    {
+      "author": "Real_Lemon8789",
+      "body": "Isn\u2019t AppLocker being deprecated?  I thought WDAC was supposed to replace AppLocker."
+    },
+    {
+      "author": "disclosure5",
+      "body": "Applocker is deprecated in the same way Active Directory is deprecated."
+    }
+  ],
+  "84": [
+    {
+      "author": "flowflag",
+      "body": "It's work for you on Windows 11 ?"
+    },
+    {
+      "author": "anonymousITCoward",
+      "body": "yes"
+    },
+    {
+      "author": "flowflag",
+      "body": "Doesn't work for me (on new profiles), it's just flush the taskbar but not add anything"
+    },
+    {
+      "author": "anonymousITCoward",
+      "body": "My script changes the start menu, not the task bar.\n\nWhat are you trying to do with the taskbar?"
+    },
+    {
+      "author": "flowflag",
+      "body": "for example remove Edge and Store and add Firefox and Explorer files on taskbar. Now i just success to remove all pinning objects"
+    },
+    {
+      "author": "anonymousITCoward",
+      "body": "that should be easy enough, you'll need to google those bits, and modify what I gave you."
+    }
+  ]
+}
