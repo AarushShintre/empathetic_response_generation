@@ -1,0 +1,1638 @@
+{
+  "0": [
+    {
+      "author": "MineCraftingMom",
+      "body": "I wonder if that effect works with a spirit fire under them. \n\nIsn't Calcifer blue though (I need to reread those again), so soul fire would be better, if it doesn't hurt the fox"
+    },
+    {
+      "author": "electricfantasy",
+      "body": "I haven't read the book, but I believe he is! Foxhounds can [actually be blue](https://twitter.com/VazkiiMods/status/1312936342255476738?t=sjKdN3qdB9BrwAZzx9hMeg&s=19) if they spawn in Soul Valley/other soulsand biomes! But also if I remember correctly Spirit Fire doesn't hurt mobs? So both would work!"
+    },
+    {
+      "author": "MineCraftingMom",
+      "body": "Oh they're such good books and so fast to read.\n\n https://dianawynnejones.fandom.com/wiki/Calcifer has a picture of book Calcifer, blue going to green. \n\nI think purple spirit fire going into blue firefox would do very nicely. \n\n\nThe general house aspect of your build is so cute too"
+    },
+    {
+      "author": "electricfantasy",
+      "body": "Yeah, I think that's what I'll do! Great suggestion, hadn't really thought about it past the campfire at all but I think doing both will look lovely! And thank you!!!"
+    }
+  ],
+  "1": [
+    {
+      "author": "mehvahdjukaar",
+      "body": "You can make your own . These were made by supplementaries discord members. Lanterns too"
+    },
+    {
+      "author": "Randomguy20011",
+      "body": "I second this, also can you turn them into lanterns?"
+    },
+    {
+      "author": "mehvahdjukaar",
+      "body": "Was too thick for reddit"
+    },
+    {
+      "author": "mehvahdjukaar",
+      "body": "They can all be made into jack o lanterns"
+    },
+    {
+      "author": "mehvahdjukaar",
+      "body": "Haunted harvest mod"
+    }
+  ],
+  "2": [
+    {
+      "author": "chulk607",
+      "body": "They didn't pour boiling oil on people, generally speaking. Oil was expensive and worth keeping. Why use boiling oil when you can just use boiling water, or even arrows?"
+    },
+    {
+      "author": "futt_monkey",
+      "body": "Because the oil would stick and blind people, whereas water wouldn't. Arrows were much more valuable for long range engagements."
+    },
+    {
+      "author": "chulk607",
+      "body": "OK good point about arrows (pun definitely intended). But as for the oil, it is pretty much just a TV trope as far as we know.\n\nThere are records of boiling water, hot sand and I believe quicklime, however. Quicklime would be *rough*."
+    },
+    {
+      "author": "chulk607",
+      "body": "Oh, and rocks. Lots of rocks."
+    }
+  ],
+  "3": [
+    {
+      "author": "Rookshar2",
+      "body": "Unless I'm mistaken, the FTB map allows you to claim chunks, preventing griefing from both mobs and players. Journey Map may also do that, but I prefer the FTB map."
+    },
+    {
+      "author": "Eyaslunatic",
+      "body": "That is... not what I was describing lol. Those are for protecting your own builds.\n\nI'm talking about random, generated structures from any given mod"
+    },
+    {
+      "author": "Rookshar2",
+      "body": "So can you not claim the chunks that the random structure is in? I've never tried. But I would think that would work."
+    },
+    {
+      "author": "Eyaslunatic",
+      "body": "That's not the point. None of this should be manual in what I described. I want generated dungeons to disable the player from placing or breaking blocks while near them so that they don't just build to the top.\n\nThis isn't for my own personal modpack experience where I can just make up rules on the fly, I want this to literally be a forced game mechanic of my modpack that I'm making."
+    },
+    {
+      "author": "Rookshar2",
+      "body": "Ah, that makes sense, then I'm sorry as I don't know of any mods that can do that, if you figure it out, I'd love to try it."
+    }
+  ],
+  "4": [
+    {
+      "author": "trashpanda0088",
+      "body": "[Snow Real Magic](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/all?filter-game-version=1738749986%3A628) makes tall grass and snow coexist in the same block, making snowy biomes look less jarring. I used to use it with [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) and [Serene Tweaks](https://www.curseforge.com/minecraft/mc-mods/serene-tweaks) to make winter look a lot nicer.\n\nIf you're referring to the weather particles themselves, I don't know of any particle overhaul mods for 1.12. Best thing you could do is probably use a shader and hope it makes weather look a bit nicer."
+    },
+    {
+      "author": "Prince_Polaris",
+      "body": "> Increasing the particle distance?\n\nMaybe the particle distance?  I don't care if the rain and snow are made of sprites or not, I just hate how they only exist within the 5 or so blocks around your character >_>"
+    },
+    {
+      "author": "Prince_Polaris",
+      "body": "Yeah, I'm talking about the actual weather particles themselves, in a purely visual sense.   I didn't even know about snow and tall grass!\n\nAre there any shaders that add their own rain?  I have the default rain/snow disabled through optifine, so if there's any shaders that add their own rain, that would probably do it."
+    },
+    {
+      "author": "trashpanda0088",
+      "body": "Here's a screenshot album of what I currently use for weather: [https://imgur.com/a/avXE7va](https://imgur.com/a/avXE7va)\n\nI use a resource pack called [Better Rain & Snow](https://www.planetminecraft.com/texture-pack/better-rain-amp-snow-texture-pack) which makes the default rain/snow more dense and visible, with some subtle fog. It's more noticeable when moving around. Should work on 1.12 since it's just a texture replacement. Or if I misunderstood and you want *less* visually obtrusive weather, there's a good pack called [Soft Weather](https://www.curseforge.com/minecraft/texture-packs/soft-weather) you could use.\n\nMy shader of choice is [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined) which mostly adds fog and color change instead of making the particles themselves more noticeable. Not sure if a newer shader like this would work on 1.12, but you could give it a try.\n\nI tried combining Better Rain & Snow and the shader, and there was a very slight difference. Particles seemed more noticeable if I looked hard enough, but I think the shader's effects and fog overpower most of it. That's about the best you're gonna get; there are mods that overhaul rain/snow into individual particles but none of them are for 1.12."
+    }
+  ],
+  "5": [
+    {
+      "author": "HELLOGAMER123456qa",
+      "body": "wdym? i put in the ingredients for a wyvern core, and it didnt craft"
+    },
+    {
+      "author": "PiBombbb",
+      "body": "You also need to open the gui of the core and presd the craft button"
+    },
+    {
+      "author": "HELLOGAMER123456qa",
+      "body": "there is no craft button, and according to waila theres no energy in the injectors, as in 0 fe"
+    },
+    {
+      "author": "PiBombbb",
+      "body": "Not sure about this, but I think the core can't detect 2 of your injectors, it needs to be in a 3\u00d73 in a direction of the core for it to detect. If it can't find a valid recipe a craft button won't appear"
+    }
+  ],
+  "6": [
+    {
+      "author": "Darkhax",
+      "body": "I just tried setting this up and it worked fine. I am guessing you have something misconfigured. Here are the steps I took.\n\n1. Download GraalVM Community Edition 22.3.1 from [the GitHub](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.3.1).\n2. Extract the zip to a reasonable place such as `C:\\Program Files\\Java\\graalvm-ce-java17-22.3.1`\n3. In Prism open settings and set the Java installation path to the javaw.exe in your graal folder. For example `C:/Program Files/Java/graalvm-ce-java17-22.3.1/bin/javaw.exe`.\n4. The game should run with no further changes.\n\nNote that while GraalVM has a good reputation for being high performance, these benefits have not been demonstrated for modded Minecraft environments. It's still worth checking out if you're curious but there may be compatibility issues with certain mods and modloader features."
+    },
+    {
+      "author": "Beginning_Ad8076",
+      "body": "ok i tried using another launcher and it worked so the culprit is prism"
+    },
+    {
+      "author": "Beginning_Ad8076",
+      "body": "I downloaded the java 17 version for 1.19.3 and it doesnt have any args"
+    },
+    {
+      "author": "Beginning_Ad8076",
+      "body": "I dont see any \"javaw\" file in mine, i can only see \"java\" maybe i have downloaded the wrong file"
+    }
+  ],
+  "7": [
+    {
+      "author": "Chaosfox_Firemaker",
+      "body": "Porting things between versions takes time. And they were a bit off theme, having nothing to do with tool creation. So they it got probably removed to make the mod more coherent to its own thesis.\n\nGiven that another one of your comments also mentions the pam's juicer, I assume what you mean to ask is why these things are absent from a particular pack. That question being un-answerable without you saying what pack. Though I can hazard a guess and say \"because the pack dev felt like it\""
+    },
+    {
+      "author": "Gimiter",
+      "body": "and why pam harvest craft juicer wtf?"
+    },
+    {
+      "author": "Gimiter",
+      "body": "no juicer recepie 2 apples to 1 juice that give food for 1 apple?"
+    },
+    {
+      "author": "Chaosfox_Firemaker",
+      "body": "By defualt, pams lowers the food value of apples to 1, so the juice gives 2 for the 2 apples.\n\nWhatever pack you are playing has likely disabled pams overwriting of vanilla foods, leaving the apple at its default value of two hocks."
+    }
+  ],
+  "8": [
+    {
+      "author": "Ktesedale",
+      "body": "That's way too open ended - what do you like about Stone Block 3? What packs have you played before? Do you like kitchensink packs or quest packs or something else?"
+    },
+    {
+      "author": "Stra1e__",
+      "body": "I played all sky factory packs i realy love creat and mechanics with that mod i realy like valhelsia packs and i play meteryal energy but i get quicly bored with that one so that is it"
+    },
+    {
+      "author": "Ktesedale",
+      "body": "Okay, so probably not really heavy quest packs if you didn't like Material Energy.\n\nHave you played Create Above and Beyond?  It's made by the Create developers and is focused around that mod. The goal is to automate a *ton* of things. It has quests as a guide, but it's not heavily quest-focused."
+    },
+    {
+      "author": "Stra1e__",
+      "body": "That a good i idea i will try it"
+    }
+  ],
+  "9": [
+    {
+      "author": "Candymuncher42",
+      "body": "perhaps some sort of star? dunno but i think it looks very sick!"
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "On thats a good idea with the hell light theme of the underground. Will see what i can do. But top of glass is only y=5 so not a huge amount of room. But would give a good look to central pillar to have me cables in. \nAnd like lava idea but wanting a clean look but a big lit up think in central pillar would work well with a practical aspect."
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "Great idea. May try one like from tramsformers 2"
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "Thats a good idea. Or as control rods for some sorta of central pillar"
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "Oh i like that idea. Like a glowing ball above those top pillars with like a beam going into it."
+    }
+  ],
+  "10": [
+    {
+      "author": "Seraphaestus",
+      "body": "This is fantastic! Had this kind of Infinifactory-like idea in my head for a while, glad someone is making it! Love the thought process too, plus the editing on the video\n\nThe only thing I would criticize is the story, which sounds a little too forced(?) to me. Theming is super important imo for making the player feel immersed and like they're doing something diegetically meaningful.\n\nFor example, instead of using bedrock, you can make certain regular blocks indestructable and build the room out of those, to decorate it. One theme I'd considered for this kind of idea is that you're one of Santa's elves, constructing different types of presents. The room in this case could be a room of Santa's workshop. You could even have a fake door that can't be opened (so the room is still enclosed), but gives the player the feel that it's a real space. \n\nIn my original conception, it was something like Santa had crashed at your house, and the playable area was your living room, except you're resized with Pehkui so the blocks are tiny and the room is built at a larger scale, which justifies the scale of the things you're making with blocks. Plus you could use a Create train as a model train running on the carpet around the Christmas tree, which was a really cool visual in my head.\n\nOr maybe you're a futuristic assembly-line construction robot that's gained sentience and has to eventually try to escape, while solving rooms, Portal-style. I think that one would be a lot of fun, actually."
+    },
+    {
+      "author": "TheRealQuentin765",
+      "body": "I wrote a massive thing then my phone died, so i'm gonna keep this short (heh 'short' did not happen)\n\nI think that your consideration in the story is valid.\n\nHowever the situation that is christmas themed, although quite jolly, is not a good solution as it alienates players who do not have that belief or any month that is not near christmas.\n\nThe current story checks the boxes exceedingly well, which are more important than I let on in the video.\n\nThis is because instead of just making machines that take a input and build a single output multiple times, it would be more interesting if it was inputs that change and outputs that need to react\n\nThis can be seen in the comparison of opus magnum and warp factory (a underrated game imo).\n\nHowever these puzzles are significantly harder to solve in base in reality.\n\nFor example in warp factory about half of them are somewhat seem like real puzzles (maximize the length of time it takes to bring the fuel rod (a green rectangle) to the output) while the rest give up and are an abstract (if the input is flat then output 1 block and if the input is L shaped then output one more block then the previous time or something.)\n\nSo that is why it is even more important to maximize the flexibility of the story for puzzles.\n\nAlso the bug story although not completely immersive at first, I have come up with a story with plot developments and twists and turns and eventually a climax and a 'final boss'. So I think it could be interesting enough.\n\nI also have some floating ideas of how I could\nmake it much deeper, however I don't think I can push the medium of minecraft modpack too for a story. Also these are ideas that I have not been able to work out into a story line.\n\nOverall I am not too attached to the currently story line, and would love to here you suggestions!"
+    },
+    {
+      "author": "Seraphaestus",
+      "body": "Christmas is really a secular tradition for most people, so I really don't think it would alienate anyone worth catering to.\n\nThat's interesting though, having puzzles be about adaptation rather than a fixed automation. Not entirely sure how it'll work but I'll look forward to seeing more videos on it!\n\nMaybe instead of it being a bug, it could be a human, with the big people outside being monsters of some sort who deliberately farm and trap humans in these automation cubes to do their labor for them? Sort of like a *Promised Neverland* kind of vibe. That might make it more intuitively immersive since it'd be easier to put yourself in the shoes of a person?\n\nAnd not to sound like a broken record but you could even make parts of the cell out of glass and use Pehkui to make a giant creature looking at you from outside, that's a pretty cool visual\n\nHonestly I think a lot of the design ideas I have tend to revolve around wowing the player with some cool set piece or visual. I think my problem with the bug concept as-is is that it doesn't feel quite so epic? Or  \"high concept\" perhaps is the term, like having a concept that can be easily summarised and used as a hook"
+    },
+    {
+      "author": "TheRealQuentin765",
+      "body": "good points, I made some pretty interesting terrain generation. For example look at the image at the end screen of the video. But then that was not good for building with with so I made a different one that is better.\n\nHowever, you are giving me some good ideas. I think I could maybe even do it starts out where you it seems that you are a normal person that wakes up with no memory or maybe even at first you are playing a normal modpack then something happens, these are some ideas that I will need to consider.\n\nAlso I guess if you being forced by some alien race to do stuff then that has even more opportunity for making puzzles than some random dude that wants you to make his life easier, and the other human activities that I had planned.\n\nThis is definitely a concept I will think about for the future."
+    }
+  ],
+  "11": [
+    {
+      "author": "Radplay",
+      "body": "> Is there a 1.7.10 alternative for either of these two mods?\n\nTry deleting the configs for both mods if you haven't already. If it doesn't work, try the GTNH fork of NEI."
+    },
+    {
+      "author": "ergodicOscillations",
+      "body": "Thank you. The former does nothing. The second, CodeChickenLib fails with an InvocationTargetException. By \"the GTNH fork\", you did mean this, right?:"
+    },
+    {
+      "author": "ergodicOscillations",
+      "body": "https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh"
+    },
+    {
+      "author": "Radplay",
+      "body": "Yes, I forgot to mention that you also need the GTNH forks of  CodeChickenLib (and possibly CodeChickenCore too. I ran into some issues with 1.1.7, so if you also run into them, try using 1.1.6 instead)"
+    },
+    {
+      "author": "ergodicOscillations",
+      "body": "Well you didn't need to tell me, since they're clearly listed as dependencies on the CF page.\n\nBut, 'Core seems to have precisely one version: 1.1.6. I don't see 1.1.7 anywhere. Are you getting it from somewhere else than CF?\n\nEDIT: Oh, I found the github releases. Guess they haven't made it to CF yet.\n\nEDIT 2: I found out I didn't have the latest version of Waila (1.5.7 instead of 1.5.10). Now it's solved. I'm a dumbass."
+    }
+  ],
+  "12": [
+    {
+      "author": "Strnge05",
+      "body": "Don't even know how it's done but I knew integrated could do some cool shit. I will definitely try this"
+    },
+    {
+      "author": "JWalty",
+      "body": "The ability to read NBT of any block, tile, or entity definitely opens a new world of possibilities! Just have to figure out how to smash it together the right way lol"
+    },
+    {
+      "author": "JWalty",
+      "body": "That\u2019s the plan! Could make a List of books that are desirable to hunt for and subtract a chest full of the ones you\u2019ve already got!"
+    },
+    {
+      "author": "JWalty",
+      "body": "I\u2019d definitely recommend using the labeler to make every step along the way very clear but it\u2019s just a bunch of == or && checks! Dm me if you need any help!"
+    }
+  ],
+  "13": [
+    {
+      "author": "SirRoderic",
+      "body": "I will when I have the time"
+    },
+    {
+      "author": "m33rak",
+      "body": "do you have Corail Tombstone? It might be that"
+    },
+    {
+      "author": "SirRoderic",
+      "body": "What is that?"
+    },
+    {
+      "author": "m33rak",
+      "body": "it's a graveyard mod, when you die a grave spawns with your items in it"
+    }
+  ],
+  "14": [
+    {
+      "author": "OmegaX____",
+      "body": "Caster tomes give you instructions on how to make that specific spell and also cost less than the spell itself if used from the spellbook, they're effectively a tutorial. A very useful tutorial but a tutorial nethertheless, vault is another very useful tome enabling a form pseudo flight, same as fireball for ancient debris mining."
+    },
+    {
+      "author": "Okmrsavage",
+      "body": "Ah ok I understand the tutorial part but, I'm playing in a server with my mates and we're doing the quests slowly so I don't want to be the one person who rushes to the end so I can acquire a elytra to craft the glide spell as it is needed to copy this take off! Spell. Is there anyway to just transfer this spell into my very own spellbook, as you said it would cost less mana to cast etc"
+    },
+    {
+      "author": "OmegaX____",
+      "body": "There's no way, unfortunately. The reason it gave you the recipe is so you could make it yourself, the higher tier runes are always more difficult to get which makes caster tomes overpowered since it normally involves 1 or 2.\n\nIt costs less to balance itself as it is only a single spell as opposed to the spell book that can hold multiple, including the caster tomes spell once remade."
+    },
+    {
+      "author": "Okmrsavage",
+      "body": "Damn well thank you for the help, btw is there any good spells I should try making like that fireball one u mention earlier?"
+    },
+    {
+      "author": "OmegaX____",
+      "body": "There's tons of good spells to make, the spell book is legitimately a multitool. It can be used for silk touching or using fortune on blocks when mining and can break obsidian or ancient debris itself (diamond pickaxe), cutting down entire trees (diamond axe), fighting at range (bow), smelting items (furnace), crafting items (crafting table), opening ender chest storage (well ender chest) and flying(Elytra) as you mentioned before to name just a few. Its really a case of seeing what runes you have access to and which ones you make as to what spells you will have access to, it's an incredibly versatile mod. It's also worth keeping an eye out for equipment with the mana regen or mana boost effects as they will make spell casting much easier."
+    },
+    {
+      "author": "Okmrsavage",
+      "body": "Thanks for this, I'll try see if there any videos online that can help me with crafting these cool spells. They all sound sick and op at the same time"
+    }
+  ],
+  "15": [
+    {
+      "author": "Radplay",
+      "body": "Try Rubidium + Rubidium Toolkit, both are available on 1.16.5"
+    },
+    {
+      "author": "AshenToasters",
+      "body": "Thank you, I'll check them out!"
+    },
+    {
+      "author": "Radplay",
+      "body": "~~Oh, I forgot to mention, make sure to use the latest (1.0.4) release of Rubidium Toolkit, the previous version(s) had poor performance with dynamic lights enabled, it was fixed in 1.0.4.~~\n\nEDIT: Looks like the issue still isn't fixed"
+    },
+    {
+      "author": "AshenToasters",
+      "body": "Hm... Game takes longer to load and then crashes while joining a world. I'm using Rubidium 0.2.10 and Rubidium Toolkit 1.0.4-Hotfix1"
+    },
+    {
+      "author": "Radplay",
+      "body": "I just tested it myself, and even though the dev said they fixed the issues, they're still there apparently. Guess I'll re-open the issue on GitHub.\n\nYou can use Magnesium/Rubidium Dynamic Lights and Magnesium/Rubidium Extras instead (you'll need both if you want good performance). If you're using the CurseForge launcher, it may also download Magnesium, so you'll need to remove it manually from the mods folder."
+    },
+    {
+      "author": "AshenToasters",
+      "body": "Seems to work, it gets a bit laggy at times but it's manageable. Thank you!"
+    }
+  ],
+  "16": [
+    {
+      "author": "Fisher77",
+      "body": "Does what exactly?\n\nI think you've asked \u00bd of a question here."
+    },
+    {
+      "author": "kirikazethedragon",
+      "body": "my bad, ill clarify. the mod highlights a slot red if it doesnt go there while you hold down the shift key and mouse over an item, say you mouse over and hold shift on a chest plate its supposed to highlight all armor slots red except the chest plate slot where it can be worn. however there seems to be issues with compatibility in other mods. which is why i want to remove it however i completely forgot what the mods name was so i dont know what to remove without breaking everything"
+    },
+    {
+      "author": "kirikazethedragon",
+      "body": "also just realized the image didnt post either so heres what was supposed to accompany the post: https://imgur.com/a/BP6WBlf"
+    },
+    {
+      "author": "Fisher77",
+      "body": "2 possibilities I can think of:\n\n1) There's a mod called \"What's that slot?\"\n\n2) It's a feature of quark.  You can disable it in the client config.  Look for \"invalid slot\"."
+    },
+    {
+      "author": "kirikazethedragon",
+      "body": "thank you, 2nd worked."
+    }
+  ],
+  "17": [
+    {
+      "author": "ferventlotus",
+      "body": "Keep at it. You're doing everything correctly, just extremely bad odds right now. If mods added more loot to the loot table for that particular mob, then the percentage probably changed."
+    },
+    {
+      "author": "Dangerous_Story6287",
+      "body": "Ok, so I just got a head, but it took me WAY more tries than necessary. It should be smooth sailing from now on."
+    },
+    {
+      "author": "Dangerous_Story6287",
+      "body": "Nope, not really. Stalwart added a new type of wither skeleton, which I think has its own loot table. Not sure how that would effect regular wither skeletons though."
+    },
+    {
+      "author": "ferventlotus",
+      "body": "How many of those 200 were normal minecraft wither skeletons? If they all were, then something has to be off with the drop percentages, which some mob mods can actually change for their own mobs and vanilla mobs. Weapon mods can also change the percentage in their config files.\n\nI know this for certain because often times when building my own modpacks, I'd have to set the percentage to be standard because some modpacks demand smaller drop rate percentages to slow progress."
+    }
+  ],
+  "18": [
+    {
+      "author": "Sardonyx-LaClay",
+      "body": "So the waste output sends through ultimate pressurized pipes into a Solar Neutron Activator. The radiation appears to be leaking from the pipes, not from the reactor itself"
+    },
+    {
+      "author": "blackout30",
+      "body": "That is just the particle effects while the reactor is running. A leak would be a fuzzy screen and lots of damage over time that lasts for a while ingame"
+    },
+    {
+      "author": "blackout30",
+      "body": "My guess is that its leaking at the solar neutron activator, that outputs spent waste as well as its output."
+    },
+    {
+      "author": "Sardonyx-LaClay",
+      "body": "It does those affects when I\u2019m walking around though. I guess I haven\u2019t tested because my hazmat suit is always on but there\u2019s a clear threshold when I cross it I get the particles and my Geiger counter starts reading radition"
+    }
+  ],
+  "19": [
+    {
+      "author": "dasupabebe",
+      "body": "Sir, this is Time Horton's."
+    },
+    {
+      "author": "dima233434",
+      "body": "Sir, this is your mom's bank account"
+    },
+    {
+      "author": "dasupabebe",
+      "body": "My mom is dead, so jokes on you."
+    },
+    {
+      "author": "dima233434",
+      "body": "Aw I'm sorry :("
+    }
+  ],
+  "20": [
+    {
+      "author": "theredghostwolf",
+      "body": "Not sure if [these](https://i.imgur.com/XCEd705.png) still work in the newer versions on AE2, but the things at the back are an interface with a crafting card attached to a storage bus set to extract only.\n\nand then you can put up to 9 different stacks of items in the interface which will be kept in stock. great for keeping low quantities of many items available.\n\nIf you need bulk available say 1000 or more you can setup an exporter facing into an interface and give it a crafting and redstone card. then attach a level emitter on the side to enable it whenever your supply drops below a certain treshhold.\n\nalternatively if you dont wanna clog your crafting cpus. you can just have a dedicated setup somewhere where you just export all needed items to and let it fill up some container like a chest, barrel or drawer."
+    },
+    {
+      "author": "cbcb96",
+      "body": "Perfect, ty"
+    },
+    {
+      "author": "cbcb96",
+      "body": "Ty"
+    },
+    {
+      "author": "cbcb96",
+      "body": "I like that idea, set up a sub net only for the item, because my cpus are always clogged now haha\nThanks"
+    }
+  ],
+  "21": [
+    {
+      "author": "lovelyracoon",
+      "body": "You could probably add a recipe to convert the manure into bonemeal, I would definitely check the hatchery config before attempting that though."
+    },
+    {
+      "author": "damnozi",
+      "body": "The hatchery config unfortunately doesn\u2019t have anything regarding conversion for the manure. Is it simple to add a recipe? I\u2019ve never done anything like that before."
+    },
+    {
+      "author": "lovelyracoon",
+      "body": "i sent you a dm with a link to the script along with instructions"
+    },
+    {
+      "author": "damnozi",
+      "body": "Oh sweet, thank you so much!!"
+    }
+  ],
+  "22": [
+    {
+      "author": "Puresteel_28",
+      "body": "The luck crystal is not the normal recipe. Cycle to the next recipe.\n\nThe recipe for Luck (the first tier) is cornflower + 2 copper ingots + 2 Lapis blocks."
+    },
+    {
+      "author": "Bussr1",
+      "body": "So is there no way to obtain it?"
+    },
+    {
+      "author": "Puresteel_28",
+      "body": "The luck crystal is a way for modpack makers to add it in something like a quest reward. So if they want, they add \"Luck\" as a reward to you through a quest, and maybe they would also remove the normal recipe(s).\n\nOutside of that, the normal recipe of cornflowers, copper and lapis is the only way to get Luck (the first tier)."
+    },
+    {
+      "author": "Bussr1",
+      "body": "Alright thanks!"
+    }
+  ],
+  "23": [
+    {
+      "author": "ergodicOscillations",
+      "body": "According to their website, the command is \"/portal dimension\\_stack\" to open a gui. However I think they focus on their fabric version, so it may not be on the forge version."
+    },
+    {
+      "author": "DieselDean",
+      "body": "The gui pops up but when I enable it and click finish it doesn\u2019t do anything"
+    },
+    {
+      "author": "ergodicOscillations",
+      "body": "Well that definitely sounds like a bug."
+    },
+    {
+      "author": "DieselDean",
+      "body": "Rip"
+    }
+  ],
+  "24": [
+    {
+      "author": "richhologram",
+      "body": "how long it took you? was it fun? i posted earlier today about any suggestions for modpack for my upcoming lets play series. what can you tell about experience. is it quest driven? sorry so many questions at once"
+    },
+    {
+      "author": "TrashboxBobylev",
+      "body": "1) you can see in gallery but 445 hours.\n\n2) it was enjoyable finding ways to get things without the usual murder of bosses and hostile mobs, but I had to ask the developer to simplify or tweak some parts because I thought it was too much in some cases. but as you can see, it was enough fun to keep me entertained for almost entire year!\n\n3) it is largely similar to original E2E with it being non-linear experience with many routes to take and many ways to achieve your goals.\n\n4) quests do give you some helpful messages and loot, but it is not strictly required to follow it for normal playthrough (you do need to complete some quests in Skyblock or Peaceful because of hardcoded checks being completed by them)"
+    },
+    {
+      "author": "richhologram",
+      "body": "i didn't see gallery of pictures. just the front one \ud83d\ude06 whats your next goal? quite achievement you done here. \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc"
+    },
+    {
+      "author": "TrashboxBobylev",
+      "body": "I will probably update a bunch of backlog from my github, since I haven't touched the majority of projects in few months. On topic of minecraft packs, not sure"
+    }
+  ],
+  "25": [
+    {
+      "author": "Puresteel_28",
+      "body": "Guide (feel free to try anything to everything in here):\n\nhttps://www.reddit.com/r/feedthebeast/comments/wy2s4b/the_ultimate_updated_guide_on_increasing_fps_and/\n\nPerformance/Optimization/etc mods:\n\nhttps://github.com/Radplay/ActuallyUsefulMods"
+    },
+    {
+      "author": "TrickNeal77",
+      "body": "Thank you, but I'm still a little confused. That link talks about \"threaded\" something if you're using the forge app, but I'm using the FTB app. Also it talks about installing different mods, but I just have the modpacks as an icon, how do I add or subtract mods and where do I go for help with a specific modpacks?"
+    },
+    {
+      "author": "Puresteel_28",
+      "body": "I think there is some misunderstanding on the terminology here.\n\nI assume you are talking about:\n\n> Enable \u201cForce threaded chunk rendering\u201d in Forge\u2019s client config (if you\u2019re using Forge).\n\nForge is a modloader. The other major modloader is Fabric. Almost every modpack is either a Forge or Fabric pack. Modloaders pretty much determine what mods can be added to a modpack and are essential to running modded minecraft.\n\nThe FTB App is a Minecraft launcher. It is used to download, manage and play various modpacks.\n\nMost of the FTB modpacks are Forge (there is a recent one that is Fabric). Direwolf's 1.19 pack is a Forge pack. So using the FTB app does not exclude you from accessing the threading chunk rendering option.\n\nTo get to this option, go to the main menu or Esc menu in your modpack. Look for an option like **Configs** or **Mod Options**. Once in, either search for **\"Forge\"** or scroll to it and select it. Go into the configs. Then look for \u201cForce threaded chunk rendering\u201d, and make sure it is turned on. That's what that bullet point is talking about. It has nothing to do with the launcher.\n\n-------------------------------\n\nTo add and subtract mods, go to a modpack, look for three dots somewhere (should be next to Play), then open the Mods Folder from there. From there just drop the .jar of a mod you want to add, or delete the .jar of a mod you don't want. Then that's pretty much it. Becareful when updating modpacks though, they may 'forget' your manual changes. Just check the Mods folder everytime you play your modpack."
+    },
+    {
+      "author": "TrickNeal77",
+      "body": "Thank you very much."
+    }
+  ],
+  "26": [
+    {
+      "author": "Gamergrl09",
+      "body": "There\u2019s 7 instances of \u201cNoClassDefFound\u201d and all of them mention networking api? \u201cCould not initialize class net.fabricmc.fabric.api.networking.v1.ServerPlayConnectionEvents\u201d\n\n* line 56 Charm\n* 130 I can\u2019t tell (fabric itself?)\n* 162 Moonlight\n* 172 Moonlight again\n* 210 nbt crafting\n* 214 omega crafting\n* 246 pehkui\n\nI *think* this means fabric updated/changed the names of something these mods call for but I\u2019m not really sure. I\u2019d look into these respective mods\u2019 bug reports and see if anything comes up"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "Error: java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'apoli'!"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "This is what happens after installing \"NotEnoughCrashes\" mod  \nhttps://mclo.gs/hfv9JBH"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "every time i remove mods that are responsible for the crash it changes to different mods\n\nError: java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'charm'!"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "is this because of sodium? I've already tried deleting the config file (and redownloaded sodium)"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "Now its\n\nError: java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'creativecore'!"
+    },
+    {
+      "author": "MuttMundane",
+      "body": ">I've seen it being an issue with fabric api on a different github discussion but im using the latest version and i cant downgrade because of multiple mods im using requiring version 0.73 or higher"
+    },
+    {
+      "author": "MuttMundane",
+      "body": "im incredibly confused"
+    }
+  ],
+  "27": [
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "was using digital miner and placed some bedrock in creative for making out area while playing around. thought wouldn't be mined out\n\nedit: must have just been cause in creative at the time. wouldn't happen in survival"
+    },
+    {
+      "author": "Rakatesh",
+      "body": "Could be some mod modifies bedrock (given by the fact that bedrock bricks and compressed bedrock seem to exist?) so the ones you placed down had different hidden properties from naturally generated bedrock indeed."
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "Yea maybe that too. Tho also tested on some other unharvestable blocks from ice and fire mod structures. And it could mine the blocks. Tho only some ( like the dread block it mine about half of one type) and all slab and stair(which are bugged to be minable) \nAnd did in survival this time. So must be something up with how it mines things"
+    },
+    {
+      "author": "Rakatesh",
+      "body": "I\u2019m guessing but maybe some blocks arent really unbreakable but they just set the required tool level at like \u201c9999\u201d and the digital miner just mines everything thats not really unbreakable regardless of required mining level"
+    },
+    {
+      "author": "henryGeraldTheFifth",
+      "body": "Yea as the block data says not harvestable by player. Rather than bed rock saying unharvestable. But weird how doesnt do all of that block type. \nProbably mod conflicts and other weird stuff going on"
+    }
+  ],
+  "28": [
+    {
+      "author": "RamboCambo_05",
+      "body": "So a brass funnel will work then. Since it picks up the whole stack, it should never run out"
+    },
+    {
+      "author": "lorilith",
+      "body": "I normally use chutes from the top since they act as a buffer and can pull from above"
+    },
+    {
+      "author": "RamboCambo_05",
+      "body": "I'll be using these for future contraptions then! Sounds like another great solution."
+    },
+    {
+      "author": "lorilith",
+      "body": "another option, once you have access to them, is the mechanical arms which can pull out of a buffer chest and place into either deployer"
+    }
+  ],
+  "29": [
+    {
+      "author": "garry4321",
+      "body": "Is it just you on there? Someone could have hidden a lag generator on your map to troll you."
+    },
+    {
+      "author": "AdLanky178",
+      "body": "We are 5 players, and none of them have done any lag generator, I am the only one who has this problem, the first day of the game I played normally without any lag, thx"
+    },
+    {
+      "author": "garry4321",
+      "body": "Hmm, that makes me think its an issue with your PC. Update all drivers, reinstall your client etc. \n\nIs it in a certain area of the map or everywhere?\n\nDo you have ok specs?"
+    },
+    {
+      "author": "AdLanky178",
+      "body": "I already reinstalled the client like 3 times, and even formatted my pc, but it still continues, I'll try to update the drivers although I think I already have them updated, this problem happens everywhere on the map, anywhere, my pc aspects are not good but they are not terrible either, let's say they are normal, but playing with mods never gave me problems, my fps were good and stable, oh and by the way, yesterday I created another server with the same amount of mods and apparently it doesn't freeze anymore, (I hope I continue to play normally and it doesn't happen like it did on my last server, which was stable only the first time I played) Apparently this problem only happened to me on the other server, because nothing happened to me on minigame or singleplayer servers."
+    },
+    {
+      "author": "garry4321",
+      "body": "Hmm, If you PM me your specs, Im more than happy to help you troubleshoot this issue to the best of my knowledge. I've been troubleshooting game issues for like 20 years now, so I know that frustration. \n\nIt could very well be that your world has too many entities and its bogging down your CPU. minecraft only uses one core, so if you have too much going on, it could certainly cause you lag as your single core tries to process everything going on.\n\nI would also suggest trying to go so far from where everything you built is that it doesnt load the chunks on your client to see if that stops the lag."
+    }
+  ],
+  "30": [
+    {
+      "author": "Madmonkeman",
+      "body": "Security Craft. It\u2019s mostly for PVP but it\u2019s got turrets and security cameras.\n\nAnother one is The Hordes which lets you create custom hordes that invade your base."
+    },
+    {
+      "author": "Snoo-28479",
+      "body": "Are both of these 1.16+? They seem familiar, but I'll check if they are available in those versions"
+    },
+    {
+      "author": "Madmonkeman",
+      "body": "I know they\u2019re available for 1.16.5 but I don\u2019t know about later versions."
+    },
+    {
+      "author": "Snoo-28479",
+      "body": "Ok, So I checked them both out, I really like the Hordes mod, and SecurityCraft is good too, albeit a little too high tech for the aesthetic I'm going for(I will be using Immersive Engineering and Create, which have steampunk like themes, after all), but I can see these being implemented nonetheless"
+    }
+  ],
+  "31": [
+    {
+      "author": "Pittol",
+      "body": "Bro u put together almost 200 mods without proper integration or config, its a surpirse it boots up, no wonder it freezes. With such amount of heavy mods like Alex Mobs for example you are bound to have problems. If you dont want to spend hours upon hours localising the problems and fixing each problem u face I would just advise using a ready modpack and maybe add a handful of mods that you miss, rather than doing everything from scratch"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "Farmer's Delight (by vectorwing)\r  \nElytra Slot (Forge) (by TheIllusiveC4)\r  \nNekoration (by DevBobcorn2)\r  \nPortable Mobs (by Dremoline)\r  \nExplorer's Compass (by Chaosyr)\r  \nWarrior Rage (Forge/Fabric) (by Tiviacz1337)\r  \nSpecial Drops (by TrueRealCursed\\_Warrior)\r  \nKotlin for Forge (by thedarkcolour)\r  \nMmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)\r  \nSimply Light (by Flanks255)\r  \nPipez (by henkelmax)\r  \nChicken Chunks 1.8.+ (by covers1624)\r  \nSophisticated Backpacks (by P3pp3rF1y)\r  \nIron Chests (by ProgWML6)\r  \nUnusual End (by Sweetygamer)\r  \nBlueprint (by TeamAbnormals)\r  \nCollective (by Serilum)\r  \nPig Pen Cipher (by DarkhaxDev)\r  \nFPS Reducer (by bre2el)\r  \nStructory (by botanydev)\r  \nDynamic Surroundings Resurrected (by theNyfaria)\r  \nJust Enough Items (JEI) (by mezz)\r  \nArchitectury API (Fabric/Forge) (by shedaniel)\r  \nCreate : Misc & Things (by to0pa\\_fr)\r  \nArmor Statues (by Fuzs\\_)\r  \nFastWorkbench (by Shadows\\_of\\_Fire)\r  \nCherry Blossom Grotto (by Dekunutter)\r  \nEnchantment Descriptions (by DarkhaxDev)\r  \nWaystones (by BlayTheNinth)\r  \nAnimalistic (by ALe96LN)\r  \nJoy of Painting (by xerca0)\r  \nNature's Compass (by Chaosyr)\r  \nSpice of Life: Carrot Edition (by lordcazsius)\r  \nControlling (by Jaredlll08)\r  \nBetter Combat \\[Fabric & Forge\\] (by daedelus\\_dev)\r  \nShetiPhianCore (by ShetiPhian)\r  \nMo' Guns (by Bomb787)\r  \nExotic Birds (by ThePavoReality)\r  \nPlacebo (by Shadows\\_of\\_Fire)\r  \nPuzzles Lib (by Fuzs\\_)\r  \nDrip Sounds (Forge) (by PieKing1215)\r  \nFantasy's Furniture (by ApexMdr)\r  \nJade \ud83d\udd0d (by Snownee\\_)"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "What would be the best way to go about integrating the mods I\u2019m not opposed to putting in the work as long as it runs properly"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "Relics (by SSKirillSS)\r  \nMacaw's Doors (by sketch\\_macaw)\r  \nImmersive Armors \\[Fabric/Forge\\] (by Conczin)\r  \nCrafting Mania (by ckmrd1)\r  \nChoiceTheorem's Overhauled Village (by ChoiceTheorem)\r  \nTowns and Towers (by Biban\\_Auriu)\r  \nClumps (by Jaredlll08)\r  \nCreate Cafe (by 1mphuls3)\r  \nEasier Sleeping (by GeheimagentNr1)\r  \nSuperMartijn642's Core Lib (by SuperMartijn642)\r  \nTitanium (by Buuz135)\r  \nForgeEndertech (by EnderLanky)\r  \nRSInfinityBooster (by hexeptiondev)\r  \nCosmetic Armor Reworked (by LainMI)\r  \nQuark Oddities (by Vazkii)\r  \nCritters and Companions (by joosh\\_7889)\r  \nSimple Hats (by fonnymunkey)\r  \nEcologics (by SameDifferent)\r  \nNyf's Spiders (by theNyfaria)\r  \nCurios API (Forge) (by TheIllusiveC4)\r  \nTerraBlender (Forge) (by TheAdubbz)\r  \nRepurposed Structures (Forge) (by telepathicgrunt)\r  \nGeckoLib (by ThanosGecko)\r  \nMrCrayfish's Gun Mod (by MrCrayfish)\r  \nMore Babies (Forge & Fabric) (by mammut53m)\r  \nDomestication Innovation (by sbom\\_xela)\r  \nCultural Delights (by NCP\\_Bails)\r  \nGobber Delight (A Farmer's Delight Add-on) (by nocubeyt)\r  \nImmersive Paintings \\[Fabric/Forge\\] (by Conczin)\r  \nCreate Stuff & Additions (by Furti\\_Two)\r  \nSmall Ships \\[Fabric & Forge\\] (by talhanation)\r  \nSupplementaries (by MehVahdJukaar)\r  \nFairy Dragons! (by kiakkers)\r  \nFestive Delight (by to0pa\\_fr)\r  \nL\\_Ender 's Cataclysm (by mcl\\_ender)\r  \nCooking for Blockheads (by BlayTheNinth)\r  \nAlex's Mobs (by sbom\\_xela)\r  \nItalian's Delight (by walta\\_whit)\r  \nmutil (by mickelus)\r  \nAppleSkin (by squeek502)\r  \nSavage & Ravage (by TeamAbnormals)\r  \nIron Jetpacks (by BlakeBr0)\r  \nJade Addons (Forge) (by Snownee\\_)\r  \nBetter Animations Collection (by Fuzs\\_)"
+    },
+    {
+      "author": "Pittol",
+      "body": "Basically you would have to dive deep into what each mod does, then turn off all the unnecessary stuff via configs or datapacks and scripts. Some tools to get it done would be spark to see what is causing performance issues, crafttweaker to make zen scripts to turn off items and badmobs to blacklist problematic entities. It is a process of fail and error often, adapting over time as you learn more and more about each mod and pretty much takes hundreds of hours of time to do properly. Thats why I advise ready pack"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "Village Artifacts (by Lothrazar)\r  \nMultiBeds (by ShetiPhian)\r  \nAngel Ring (by DenisMasterHerobrine)\r  \nDark Utilities (by DarkhaxDev)\r  \nConfigured (by MrCrayfish)\r  \nMagic Totems (by Daripher)\r  \nSpelunking Bags (by Sweetygamer)\r  \nRefined Storage (by raoulvdberge)\r  \nFrozen Delight (A Farmer's Delight Add-on) (by nocubeyt)\r  \nStraw Golem Rebaled - Forge (by CommodoreThrawn)\r  \nBrutal Bosses - Dungeon Bosses (by someaddon)\r  \nJourneyMap (by techbrew)\r  \nAlex's Delight (by NCP\\_Bails)\r  \nNomadic Tents (by skyjay1)\r  \nImmersive Engineering (by BluSunrize)\r  \nWandering Bags (by Furti\\_Two)\r  \nMystical Agradditions (by BlakeBr0)\r  \nStructure Gel API (by ModdingLegacy)\r  \nLootr (Forge) (by Noobanidus)\r  \nWhisperwoods (by itsmeowdev)\r  \nQuark (by Vazkii)\r  \nBotany Pots (by DarkhaxDev)\r  \nInventory Profiles Next (by mirinimi)\r  \nMystical Agriculture (by BlakeBr0)\r  \nMagnum Torch (by Fuzs\\_)\r  \nCombat Roll \\[Fabric & Forge\\] (by daedelus\\_dev)\r  \nCreate Slice & Dice (by possible\\_triangle)\r  \nSnuffles (by schnappdragon)\r  \nDelightful (by brdbrn)\r  \nGuard Villagers (by almightytallestred)\r  \nDoggy Talents (by percivalalb)\r  \nMouse Tweaks (by YaLTeR)\r  \nTool Belt (by gigaherz)\r  \nEasy Magic (by Fuzs\\_)\r  \nOpenBlocks Trophies (by GizmoTheMoonPig)\r  \nAkashic Tome (by Vazkii)\r  \nGoblin Traders (by MrCrayfish)\r  \nMoonlight Lib (by MehVahdJukaar)\r  \nDungeons Weaponry (by JeremySeq)\r  \nNether's Delight (by lumpazl)\r  \nChisels & Bits - For Forge (by AlgorithmX2)\r  \nLittle Geode (by transpirateur)\r  \nAutoRegLib (by Vazkii)\r  \nspark (by Iucko)"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "RFTools Base (by McJty)\r  \nIndustrial Foregoing (by Buuz135)\r  \nEpic Paladins - 2.0 Update soon (by VeroxUniverse)\r  \nGobber \\[FORGE\\] (by kwpugh)\r  \nCreate Crafts & Additions (by MRHminer)\r  \nCreate (by simibubi)\r  \nAIOT++ \\[Forge\\] (by JackRaidenPH)\r  \nPlayer Companions (by Kaworru)\r  \nOre Excavation (by Funwayguy)\r  \nAdditional Guns (by AutovwDev)\r  \nNaturalist (by Starfish\\_Studios)\r  \nESSENTIAL Mod (by SparkUniverse\\_)\r  \nFairy Lights (by pau101)\r  \nNot Enough Wands (by romelo333)\r  \nInfused Foods (by ApexMdr)\r  \nTarot Cards (by shiroroku)\r  \nLet Sleeping Dogs Lie (by ohaiiChun)\r  \nThe Twilight Forest (by Benimatic)\r  \nCustomizable Elytra (by Hidoni)\r  \nRunelic (by DarkhaxDev)\r  \nBetter Fps - Render Distance\\[Forge\\] (by someaddon)\r  \nArtifacts (by ochotonida)\r  \nCodeChicken Lib 1.8.+ (by covers1624)\r  \nFarmer's Respite (by lumpazl)\r  \nPolymorph (Forge) (by TheIllusiveC4)\r  \nFarming for Blockheads (by BlayTheNinth)\r  \nJust Enough Resources (JER) (by way2muchnoise)\r  \nMob Grinding Utils (by vadis365)\r  \nSophisticated Core (by P3pp3rF1y)\r  \nBotany Trees (by DarkhaxDev)\r  \nFastFood Delight (by akaneo2)\r  \nEasy Villagers (by henkelmax)\r  \nExtra Golems (by skyjay1)\r  \nRefined Storage Addons (by raoulvdberge)\r  \nNameless Trinkets (by Cozary)\r  \nStalwart Dungeons (by Furti\\_Two)\r  \nplayerAnimator (by KosmX)\r  \nEffective (Forge) (by BottomTextDanny)\r  \nLightman's Currency (by Lightman314)\r  \nCitadel (by sbom\\_xela)\r  \nPatchouli (by Vazkii)\r  \nCreeper Overhaul (by joosh\\_7889)\r  \nWorld Pre Generator (by GeheimagentNr1)\r  \nImmersive Aircraft \\[Fabric/Forge\\] (by Conczin)"
+    },
+    {
+      "author": "LongSilencer",
+      "body": "Aquaculture 2 (by Shadowclaimer)\r  \nThe Missing Villages (by bigreefer420)\r  \nTameable Beasts (by themodderg)\r  \nCreate Deco (by talrey)\r  \nEntity Culling Fabric/Forge (by tr9zw)\r  \nFriends&Foes (Forge) (by faboslav)\r  \nCloth Config API (Fabric/Forge) (by shedaniel)\r  \nJust Enough Drugz (JEDZ) (by Jon1471)\r  \nDungeons Enhanced (by Valarauko9)\r  \nFrozen Up (by ninnih\\_)\r  \nRFTools Power (by McJty)\r  \nlibIPN (by mirinimi)\r  \nAccommodations (Japanese Additions) (by Klausster01)\r  \nFramework (by MrCrayfish)\r  \nCreate Confectionery (by Furti\\_Two)\r  \nBookshelf (by DarkhaxDev)\r  \nAdvanced Chimneys (by EnderLanky)\r  \nPneumaticCraft: Repressurized (by desht\\_08)\r  \nLet's do Wine! (by satisfyL)\r  \nInfinite Trading (by Serilum)\r  \nCucumber Library (by BlakeBr0)\r  \nPlushie Mod (by Link\\_911)\r  \nMCA Reborn \\[Fabric/Forge\\] (by jahx\\_senpoopie)\r  \nCaelus API (Forge) (by TheIllusiveC4)\r  \nBeautify ! (by P4ndariX)\r  \nRFTools Utility (by McJty)\r  \nMcJtyLib (by McJty)\r  \nTrolldom (by mickelus)\r  \nPortable Hole (by Fuzs\\_)\r  \nCapybara \\[Forge\\] (by TechSupportRed)\r  \nOpenBlocks Elevator (by vsngarcia)\r  \nFramedBlocks (by XFactHD)\r  \nNether Depths Upgrade (by scouter567)\r  \nBalm (Forge Edition) (by BlayTheNinth)\r  \nHole Filler Mod (by DannyBoyThomas)"
+    }
+  ],
+  "32": [
+    {
+      "author": "KJswine",
+      "body": "If your looking to do random advancements just spin a wheel with all of them on it, as for advancement information there\u2019s a mod called AdvancementInfo (I think) that allows you to click on an advancement and see what\u2019s missing"
+    },
+    {
+      "author": "Mission-Conclusion-9",
+      "body": "That\u2019s what I\u2019ve been doing, but manually adding all achievements then updating it as more unlock is a huge chore in a large modpack"
+    },
+    {
+      "author": "KJswine",
+      "body": "You could assign each advancement a number and use a random number generator removing completed ones as you go"
+    },
+    {
+      "author": "Mission-Conclusion-9",
+      "body": "How do you typically advance through a new unknown modpack?"
+    },
+    {
+      "author": "KJswine",
+      "body": "Usually there is a quest book, if not I watch someone play it on YouTube or just spend time looking at recipes in JEI"
+    }
+  ],
+  "33": [
+    {
+      "author": "lorilith",
+      "body": "https://lambdaurora.dev/optifine_alternatives/\n\nThe list is kept by an avid quilt supporter but most are fabric and just work on quilt."
+    },
+    {
+      "author": "Nice_Lie_731",
+      "body": "I was more asking for custom entities and etc that optifine has, but still thank you, and yes sodium is epik"
+    },
+    {
+      "author": "Nice_Lie_731",
+      "body": "Okay thank you, i will try to find the mods i require to replace optifine, and what is quilt? Another mc launcher?"
+    },
+    {
+      "author": "lorilith",
+      "body": "quilt is a fork for fabric. the quilt team didnt like how long it took for fabric to implement things, nor the community of Fabric so they took fabric and made it different.\n\nso its basically Forge, Fabric and Quilt now instead of just Forge and Fabric"
+    },
+    {
+      "author": "Nice_Lie_731",
+      "body": "Okay, i hope there is the custom entitiy models and whatnot needed for fresh animation and max\u2019s better mobs, thanks for the info"
+    }
+  ],
+  "34": [
+    {
+      "author": "LEG_LIKE_fish",
+      "body": "2 seems more \"do whatever you want\" but 3 is more streamlined with quests and a couple things are gated"
+    },
+    {
+      "author": "MaOr_RageQuit",
+      "body": "Yo bro thanks for the well written response lmao, I really appreciate it. I'll probably check it out since I've used chickens before so itll prolly be good, and I like the idea of the nether and end being rings around the center. I'll probably give it a shot after my entrance exam next week (and after we finish project ozone 3)"
+    },
+    {
+      "author": "MaOr_RageQuit",
+      "body": "Thanks for the rough idea, I'll prolly get along to it soon after PO3"
+    },
+    {
+      "author": "MaOr_RageQuit",
+      "body": "Aaaa alr I like the sound of that more tbh, even tho I kinda felt like I had a general direction with 2 anyways, so if its more streamlined it'll be better ig"
+    }
+  ],
+  "35": [
+    {
+      "author": "antrobot1234",
+      "body": "As someone else said, litematica does have this feature. Sadly, it is only for fabric. Create also has this feature if you need something for forge. It also has the schematicannon, which can automatically build any schematic."
+    },
+    {
+      "author": "FirstGonkEmpire",
+      "body": "Oh, that's cool. What block or item is it called for the schematic guide thing?"
+    },
+    {
+      "author": "antrobot1234",
+      "body": "The schematic table let's you import schematics onto a blank schematic. The schematic and quill let's you turn in world builds into schematics. If you hold a schematic in your hand, then you can set it down in world as a ghost image. It will stay there as long as you hold it in your hot bar."
+    },
+    {
+      "author": "FirstGonkEmpire",
+      "body": "Cool! Thanks for the info"
+    }
+  ],
+  "36": [
+    {
+      "author": "sadness255",
+      "body": "Wouldn't it be faster to tp the player to his various waystone with commands ?"
+    },
+    {
+      "author": "GirlWithCollar",
+      "body": "That would be a good idea, if we had the coordinates for said waystones."
+    },
+    {
+      "author": "sadness255",
+      "body": "I thought the data you tried to copy were those ?"
+    },
+    {
+      "author": "GirlWithCollar",
+      "body": "In the player.dat, the Waystones NBT data saves as UUIDs for each stone.\n\nThe have upwards of 40 waystones saved, it would frankly be easier to copy the data than try to fugure out the coordinates for each stone.\n\nEspecially if this happens in the future, I don\u2019t want to have to teleport people around the map. This is the third time data has corrupted with this modpack."
+    },
+    {
+      "author": "sadness255",
+      "body": "Well shit, best bet then would be to find the data causing the corruption by deleting only part of the player.dat and reconnecting until it's working, then delete said value whe corruption occur."
+    },
+    {
+      "author": "GirlWithCollar",
+      "body": "That leads back to the original issue:\n\nPlayer data does not save and reverts back to what is was after uploading the new data. Deleting data, adding data, it doesn\u2019t matter.\n\nIf you know how to edit that data in a way that saves, I\u2019m all ears."
+    },
+    {
+      "author": "sadness255",
+      "body": "Oh I thought it was limited to the waystone data, sorry no idea then, as far as I know nothing special should be required, do you think it might be an issue with what you are using to edit ?\n\nI used to use nbtedit."
+    },
+    {
+      "author": "GirlWithCollar",
+      "body": "That\u2019s what I\u2019m using as well. It\u2019s frustrating, to say the least."
+    }
+  ],
+  "37": [
+    {
+      "author": "Pengu526",
+      "body": "More Info:\n\nThis is specifically the Grounded Origins Add-on by mo-shark and it adds classes where the player height is modified to be shorter, wider, or higher than the original player model. The penguin class seems to be the only class I cannot climb stairs with. \n\nSo I'm wondering if there's a mod where I can make even smaller stairs for my tiny legs to go up on. If not, thanks for taking the time to help!"
+    },
+    {
+      "author": "UlyssesB",
+      "body": "Grounded Origins uses Pehkui so you'll want to use the /scale command to change your `pehkui:step_height` stat. At least I am pretty sure this should work. There's more information on the [mod page](https://www.curseforge.com/minecraft/mc-mods/pehkui)."
+    },
+    {
+      "author": "Pengu526",
+      "body": "I'll give this a try thank you! I honestly forgot about this mod."
+    },
+    {
+      "author": "Pengu526",
+      "body": "Thank you so much this worked!"
+    }
+  ],
+  "38": [
+    {
+      "author": "nddragoon",
+      "body": "even if the school doesn't block it you shouldn't expose your home pc to the internet like that. instead I'd recommend setting up an openvpn server to use your laptop as if it was on your home network"
+    },
+    {
+      "author": "ERROR_CODE509",
+      "body": "While I agree, that's probably too far outside what the casual user is capable of doing. Definitely a worthwhile suggestion though."
+    },
+    {
+      "author": "nddragoon",
+      "body": "not really. you just run a script to make the setver, forward a port on your router, transfer the key file to the laptop, and download an app to connect. anyone remotely tech savvy should be able to do it i think"
+    },
+    {
+      "author": "ERROR_CODE509",
+      "body": "Don't get me wrong, it's not especially difficult. But I'd go as far as to say that a lot of people on this sub don't know how to find their public IP, let alone properly port forward. Many of the people here aren't especially tech savvy, at least based on my prior experience here."
+    }
+  ],
+  "39": [
+    {
+      "author": "MyHeadIsARotaryPhone",
+      "body": "I think you can only get albino/white rats through breeding (at least according to the mod wiki)"
+    },
+    {
+      "author": "ratgarcon",
+      "body": "Could you lmk what page says that? I\u2019ve looked through the wiki but I easily could\u2019ve overlooked it"
+    },
+    {
+      "author": "MyHeadIsARotaryPhone",
+      "body": " https://rats-mod.fandom.com/wiki/Rat#Breeding Right on the breeding section I think"
+    },
+    {
+      "author": "ratgarcon",
+      "body": "Thank you! Makes a lot more sense that after spawning and killing over 100 rats I didn\u2019t get an albino one lmao"
+    }
+  ],
+  "40": [
+    {
+      "author": "squintytoast",
+      "body": "couple things....   what is supplying power?  how many faces of plug/point are being used?\n\nthe 10k limit sounds like supply or cable limit."
+    },
+    {
+      "author": "LoganMM5",
+      "body": "One face of the plug is being used, I am supplying power through it with environmental tech's max tier solar array and I've also stockpiles extra energy. I have like 64 full gargantuan storages. I have 4 flux points with one face each connected to the woot advanced powercell. Two points are directly connected and the other two I tried using cryo-stabilized fluxducts to see if that would fix anything.\n\nThe reason I need more energy input is because I am using a few watches of time to speed up the woot factory."
+    },
+    {
+      "author": "squintytoast",
+      "body": "hmmm...  sounds like you got most things covered.\n\nis 'advanced powercell' actually woot?  it sounds like rftools.  powercells also work on a per face basis. if it is in fact an rftools adv. powercell is it infused?   either way, with the many full gargantuan storage, it still sounds like that is all that is being used by the woot stuff, though woot is one of the few mods i havnt touched."
+    },
+    {
+      "author": "LoganMM5",
+      "body": "Ya the advanced powercell is actually from the woot mod. And it says it can handle... welp, I just went to double check and misread it before, thought it said 100k transfer rate, its only 10k transfer rate, which is why I'm getting 40k total transfer with 4 flux points. Time to make a premium powercell then. Thanks for working that through with me."
+    },
+    {
+      "author": "squintytoast",
+      "body": "you're welcome!  kinda what this sub is for right?"
+    }
+  ],
+  "41": [
+    {
+      "author": "Synliss",
+      "body": "Agreed with u/Mang_Kanor_69 100 hours in is fairly early. If a friend is playing and interested, this is the best time to start. Also the first techs are probably the most grindy and slow. So you are not missing too much."
+    },
+    {
+      "author": "M0rdwyn",
+      "body": "Jeebus. And I thought my e2e efforts were impressive..."
+    },
+    {
+      "author": "M0rdwyn",
+      "body": "Ok, might try to join his server. I tried out gtnh and I feel a bit lost going backwards from 1.12\u2026 been playing that version for what feels like forever."
+    },
+    {
+      "author": "Synliss",
+      "body": "Agreed, I played a E2E before jumping again into GTNH. It takes time, it is a very different beast. Just be ready to spend a lot of materials. They are somewhat easy to get back."
+    },
+    {
+      "author": "M0rdwyn",
+      "body": "I'm ok with that as long as I get to go crazy with big machines, power gen and automation. Although I have a feeling that is very very far off."
+    },
+    {
+      "author": "Synliss",
+      "body": "Even early, automation is your friend. AE2 isnt for a few tiers but there are plenty of other production chains you can work on."
+    },
+    {
+      "author": "M0rdwyn",
+      "body": "Ah I'm ok without ae2 as long as I can automate via other means. Inventory management is the bane of my existence though. I'll end up creating an elaborate setup of drawers (there are drawers right?)"
+    },
+    {
+      "author": "Synliss",
+      "body": "Oh yeah there are. Everything is gated behind GT so GL!"
+    }
+  ],
+  "42": [
+    {
+      "author": "KJswine",
+      "body": "No idea about why he can\u2019t pick up his t1 dragons. As for issues with ridding dragons, usually for me it\u2019s a keybind issue, try having him rebind the dragon movement keys"
+    },
+    {
+      "author": "Nn3rik",
+      "body": "He tried it, nothing new to note. He tested on a singleplayer world and it worked"
+    },
+    {
+      "author": "KJswine",
+      "body": "If it\u2019s works on singleplayer it may be an issue with the server like lag or, and this is probably a stupid question, does he actually own the dragons he\u2019s trying to interact with?"
+    },
+    {
+      "author": "Nn3rik",
+      "body": "Yes he owns multiple all with the same problem. And I believe the server should be good, considering I make them myself"
+    }
+  ],
+  "43": [
+    {
+      "author": "AcidicGaming695",
+      "body": "before you say anything, YES IT IS ASSEMBLED."
+    },
+    {
+      "author": "Datvoidcat",
+      "body": "I think it\u2019s a bug, you can still build on the ship"
+    },
+    {
+      "author": "AcidicGaming695",
+      "body": "already tried..."
+    },
+    {
+      "author": "AcidicGaming695",
+      "body": "this may be a stupid question, how do you access the config?"
+    },
+    {
+      "author": "AcidicGaming695",
+      "body": "the assemble button just doesn't grey out."
+    }
+  ],
+  "44": [
+    {
+      "author": "Xalavis",
+      "body": "So what you\u2019re implying is that I cannot see the terms of uploading a modpack until I\u2019m trying to actually upload the modpack? Doesn\u2019t sound right to me but okay."
+    },
+    {
+      "author": "Targren",
+      "body": ">  It might be referring to the feature Curse has that is able to block downloads of its content through platforms not supported by curseforge\n\nYou nailed it. That's exactly what it is."
+    },
+    {
+      "author": "Targren",
+      "body": "You probably can, but that's the easiest path to finding it. You'll have to agree to the terms to upload your mod pack anyway, and if you're not uploading content, you don't need it."
+    },
+    {
+      "author": "Xalavis",
+      "body": "Well that\u2019s why I was asking for a source\u2026 is because every time I try to find it through other means (google searches, Curseforge website, etc.) I find nothing. Surely Curseforge doesn\u2019t expect people to just make modpacks without knowing the terms of service until they go to upload it, otherwise how would anyone know what is and isn\u2019t allowed? Trial and error?"
+    },
+    {
+      "author": "Targren",
+      "body": "They could, I dunno, ask the community who have done it before? Like the ones who put up the mods they're trying to make their packs out of.\n\nIf you don't want to take anyone else's word for it, and you don't want to read the TOS yourself, I don't know what to tell you."
+    },
+    {
+      "author": "Xalavis",
+      "body": "I do want to read the TOS though. That\u2019s the whole point of why I\u2019m asking for a source\u2026 I just want to read it -before- I have to upload the modpack up, since the modpack hasn\u2019t even been started yet because I don\u2019t know what I can and can\u2019t include."
+    }
+  ],
+  "45": [
+    {
+      "author": "blahthebiste",
+      "body": "Climatic Biomes in 1.12"
+    },
+    {
+      "author": "Thegreatexplorer11",
+      "body": "Yes I saw that but it's incompatsble with the mods I'm using"
+    },
+    {
+      "author": "Thegreatexplorer11",
+      "body": "Anything for 1.18.2?"
+    },
+    {
+      "author": "blahthebiste",
+      "body": "Not my area of expertise"
+    }
+  ],
+  "46": [
+    {
+      "author": "Automatic_Parsnip305",
+      "body": "I\u2019ve seen good prices on pebble hosting. Is it good?"
+    },
+    {
+      "author": "skyyhacylon",
+      "body": "I moderate on a discord channel that hosts a dedicated machine from pebble. Runs great but can still have TPS issues on an individual modpack if people aren't being smart about minimizing tps (lots of ticking mobs are an issue in ANY pack so lots of villagers in each person's base will always cause problems or lots of passives like the penguins in The Twilight Forest, endgame with super heavy automation packs like SB3 can run slow). I highly recommend learning to use the mod \"observable\" to find what's taking up tick time on your world or server regardless of who you host through. Sometimes it's not the server per se but what the players have done."
+    },
+    {
+      "author": "Automatic_Parsnip305",
+      "body": "Yeah, i saw a mod that reduces the lag from enteties behind solid blocks from a player. Im definitely gonna install that. So you recommend pebble?"
+    },
+    {
+      "author": "skyyhacylon",
+      "body": "That's just disabling rendering on the client side to reduce client-side lag (ie low frame rate) and has nothing to do with the entity on the server side. It's still there and still ticking.\n\nYeah, pebble has been great but keep in mind we have an entire dedicated machine to ourselves, it's not just some vm partitioned out that other people are running off of, so I can't say what that plays like with them. FWIW, the machine we run on has a powerful cpu (can't remember exactly what it is off the top of my head) and 128gb of ram."
+    },
+    {
+      "author": "Automatic_Parsnip305",
+      "body": "Ah, yeah i\u2019m planning on doing the 6gb of ram version, so i hope it will work."
+    }
+  ],
+  "47": [
+    {
+      "author": "trashpanda0088",
+      "body": "MCreator is the only \"mod maker\" program. If it's not for 1.16.5, you can only use KubeJS to add some custom items or learn to code mods manually."
+    },
+    {
+      "author": "Impossible-Raisin500",
+      "body": "Ok, I am just trying to make some custom stuff for my modpack"
+    },
+    {
+      "author": "Impossible-Raisin500",
+      "body": "Ok, that\u2019s good to know"
+    },
+    {
+      "author": "Impossible-Raisin500",
+      "body": "It\u2019s called EpicSuperFlat+ if you want to try it, it should be coming out in the next couple days"
+    }
+  ],
+  "48": [
+    {
+      "author": "Zenyatta_2011",
+      "body": "\"my fps is low\"\noh I can help!\n>120fps\n\n...bruh\n\nmy potato pc runs at 15fps on a great day and I find that fine"
+    },
+    {
+      "author": "ALPHA_LOOPER",
+      "body": "Yes minecraft is predominantly using my GPU. It uses around 30% but also there is a small amount of CPU activity nearly 10%. When pressing f3, i can see both my cpu and GPU specs listed on the right corner"
+    },
+    {
+      "author": "ALPHA_LOOPER",
+      "body": "How do I check that?"
+    },
+    {
+      "author": "ALPHA_LOOPER",
+      "body": "I will give that a try ig"
+    },
+    {
+      "author": "ALPHA_LOOPER",
+      "body": "Dude i bought a pc for nearly $3000, I expect it to run better"
+    }
+  ],
+  "49": [
+    {
+      "author": "Quantum-Bot",
+      "body": "Rustic waters (both 1 and 2) is pretty fun"
+    },
+    {
+      "author": "jursamaj",
+      "body": "I just looked at Mischief Of Mice's opening video in his series playing Rustic Waters 2, and he starts out by looking in the quest book.  Sure enough, the Final Act page has you make what looks like a bunch of creative items.  And I'm pretty sure the 'lore' Booly put in the questbook has no effect at all on playing. Sounds like exactly the sort of thing I *don't* want."
+    },
+    {
+      "author": "Quantum-Bot",
+      "body": "It\u2019s a pack about gathering resources from an ocean planet to rebuild your rocket and return to your home. The pack has a very well-balanced progression with some looting and dungeons sprinkled in, and the end goal is building a rocket rather than singularities and god items which is why I suggested it"
+    },
+    {
+      "author": "jursamaj",
+      "body": "I definitely saw the Storage Drawers Creative Storage Upgrade in the final quest page.  How is that not a \"god item\"?"
+    }
+  ],
+  "50": [
+    {
+      "author": "zspacekcc",
+      "body": "Any chance the impacted ones are either on a chunk border (the machine is in one chunk and the conduit head is in the first block of the next chunk), or that the multi block is split between two chunks?\n\nWorld loading can cause issues with multiblocks if they're split between chunks sometimes. If you want to check F9 in most modpacks will bring up the chunk borders. Then if you see one of the impacted machines split, try moving it and see if that resolves the issue."
+    },
+    {
+      "author": "DarkTemplar_of_Chaos",
+      "body": "ok so, after some checking and testing, it would seem that chunk boundaries are kind of the issue.\n\nmy main smeltery is all contained in a single chunk (I still build 3x3 like a filthy casual), and none of the conduits disconnect upon world load.\n\nmy gigantic tinker tank full of steam is sliced in half by chunk boundary, but works perfectly fine. no disconnects.\n\ncetane boosted diesel tinker tank is sliced into quarters by chunks (boy did I fuck that up), and every conduit except one disconnects. \n\nthe real anomalies are my tiny tinker tanks for hydrogen / oxygen / nitrogen / milk, those are all contained in one chunk but half the conduits connected to each disconnect. \n\nI can't figure out why, but you're absolutely right about it being chunk boundaries. I think the problem has to do with whether the conduit line goes over the chunk boundary, and how often the connected tanks have block updates, which tinker tank drains don't do on their own iirc\n\nI think I'm just gonna switch to Gregtech multiblock tanks for all of these. should have plenty of titanium to make a couple hundred"
+    },
+    {
+      "author": "DarkTemplar_of_Chaos",
+      "body": "shit you might be on to something.\n\nI'm not gonna lie, I forgot F9 was still a thing. I thought that feature died when NEI was replaced by JEI, along with F7 for lighting. I'll try that when I load in.\n\nmy space platform is a jumbled mess anyway, it needs to be rebuilt xD"
+    },
+    {
+      "author": "zspacekcc",
+      "body": "So typically the controller is what defines the multiblock. For the cetane tank, is the one that works in the same chunk as the controller, but the others are not?\n\nThe hydrogen/O2 tanks I have no idea on. Normally if both the tank and the head of the conduit are in the same chunk everything plays nice. \n\nDo you have a chunkloader near your base? I wonder if the chunkloader is getting loaded first and the causing havoc on everything else as it loads the chunks around it."
+    },
+    {
+      "author": "DarkTemplar_of_Chaos",
+      "body": "chunks are loaded by ftb utils, but afaik the chunks still have to load sequentially based off where you spawn in at before chunk loading takes place.\n\nfor the cetane tank, the one that works is weirdly the one on the opposite corner chunk from the controller, and moving the controller to that chunk does nothing but delete all of my turbo diesel... oops. well backups are a thing at least.\n\nI think that one might be working because that chunk is the farthest from my spawn point, and therefore is the last to load in. since it's last, it sees a working multiblock and works fine I guess?\n\neither way, swapping the hydrogen / oxygen / nitrogen tanks to GT multiblock ones seemed to fix them, probably because each individual block is a ticking tile entity."
+    }
+  ],
+  "51": [
+    {
+      "author": "Paradigm_Reset",
+      "body": "Use Spark and/or Observable (both mods) to see what's up."
+    },
+    {
+      "author": "Meep1122131313",
+      "body": "Ok done, what next?"
+    },
+    {
+      "author": "Paradigm_Reset",
+      "body": "Huh?  You lost me."
+    },
+    {
+      "author": "Meep1122131313",
+      "body": "My bad, I've installed and run spark do you want the link to the results? Im in the dark here I've never used spark."
+    },
+    {
+      "author": "Paradigm_Reset",
+      "body": "Nah, I don't want the results.  You gotta read how to interpret them.  The dude who made the mod wrote up all sorts of stuff explaining how it works."
+    },
+    {
+      "author": "Meep1122131313",
+      "body": "Okay thanks for the help!"
+    }
+  ],
+  "52": [
+    {
+      "author": "ZeCatox",
+      "body": ">That's why I highlighted Heavens of Sorcery. It's really a whole different level in terms of questing.\n\nIts questing system is precisely what led me to stop playing it. Here is what I noted from my experience with this pack :\n\nHeavens of Sorcery- definitely original, could be nice- quest line is completely obscure : most quests being revealed only after the previous ones are done=> you don't know where you're going or how, which leaves you having to follow blindly a series of tasks without much sense of agency"
+    },
+    {
+      "author": "MineCraftingMom",
+      "body": "Interesting how different people experience things. It's lucky there's lots of different packs out there!\n\nFor me, it was nice to have something I could turn back to when I started trying to do everything all at once. I found the limited quests at a time relaxing rather than limiting. \n\nNow I'm curious, and this is just curiosity, by the way, how do you feel about quest-less packs?"
+    },
+    {
+      "author": "ZeCatox",
+      "body": "Oh, I **need** quests <\\^\\_\\_\\^;\n\nI'm one of those players who have a hard time finding a goal of their own and sticking to it : being a very solo player, it would end up feeling pointless anyway.\n\nFollowing a given set of objectives feels less pointless somehow : it's not exactly *competing*, but you have a sense of trying to achieve something others may be trying to as well, or already did.\n\nSo, yeah, \"directions please\" :P"
+    },
+    {
+      "author": "MineCraftingMom",
+      "body": "Same! Part of why I like the Mana and Artifice mod is that it's like \"we heard you liked quests, so here are quests to go with your quests\"\n\nAnd I like quests to give presents"
+    }
+  ],
+  "53": [
+    {
+      "author": "d645b773b320997e1540",
+      "body": "Because the lava isn't touching the honey *source*."
+    },
+    {
+      "author": "FodziCz",
+      "body": "Oh\n\nSo limestone isnt infinite?"
+    },
+    {
+      "author": "d645b773b320997e1540",
+      "body": "oh nvm, I misread. It might still depend on the order they touch in.\n\nI'd try this then:\n\n    H A A L  \n    S A S S\n\nH = Honey source, L = Lava Source, A = Air, S = Stone (viewed from the side)\n\nEdit:\n\nhttps://cdn.discordapp.com/attachments/1038099450381479988/1068883498200481894/image.png\n\nAlternatively:\n\nhttps://cdn.discordapp.com/attachments/1038099450381479988/1068885110117642260/image.png\n\nI think what you have is working, it's just due to different flow speeds the limestone is forming beneath the lava on the right and not where you are expecting it, or something like that.."
+    },
+    {
+      "author": "FodziCz",
+      "body": "I tried different things, limestone never formed.\n\nI will try this tho"
+    },
+    {
+      "author": "d645b773b320997e1540",
+      "body": "What version of Create are you on?"
+    },
+    {
+      "author": "FodziCz",
+      "body": "Whatever version has Stoneblock 3 V1.5 installed"
+    }
+  ],
+  "54": [
+    {
+      "author": "BartYT1",
+      "body": "It's harder to understand than other tech mods"
+    },
+    {
+      "author": "sailing94",
+      "body": "Abjectivly false. It has a built in dedicated tutorial video for near every single block accessible in game."
+    },
+    {
+      "author": "BartYT1",
+      "body": "Correction I find it harder to understand"
+    },
+    {
+      "author": "sailing94",
+      "body": "Judging from your response being a downvote, I deem you a liar who made no attempt to try. That's not failure to understand, that's just cowardice."
+    },
+    {
+      "author": "sailing94",
+      "body": "What is the point of failure for your efforts."
+    }
+  ],
+  "55": [
+    {
+      "author": "Ridanisaurus",
+      "body": "There is a fun way I usually test ore gen with.\n\nCreate a minecraft:air based strata and just give it any random texture, like stone for example, and set your ore features to generate between 64-256, with filler type set to the air strata. It will actually consider air as a valid block, and will spawn floating in mid air. It's how I was able to get a good screenshots of the Dike, Dense, and Sphere deposits.\n\nHope that helps. If you can't figure it out, let me know and I can provide you with JSONs for testing."
+    },
+    {
+      "author": "LimblessNick",
+      "body": "Oh that will work perfect, that's fantastic.\n\nOne more question, is there anyway to do mixed deposits? Like one that spawns gold and silver ore, or other variations? Reading through the documentation\n\n>\"blocks\": [{ object }] // example: \"blocks\": [{\"material\": \"iron\", \"weight\": 10}, {\"tag\": \"forge:ores/gold\", \"weight\": 3}, {\"block\": \"minecraft:diamond_block\", \"weight\": 1}]\n\nI'm assuming that's how a list works here? I could also include blocks of raw ore, the way that minecraft's vanilla spawns work for large ore and copper veins?"
+    },
+    {
+      "author": "LimblessNick",
+      "body": "https://i.imgur.com/2wgokhD.png\n\nSo I gave it a try, but I must be doing some thing wrong. The ores generate, but only about as high as 80 or so.\n\nMy air strata is as follows \n\n    {\n    \"id\": \"minecraft_air\",\n    \"baseTexture\": \"minecraft:block/stone\",\n    \"suffix\": \"air\",\n    \"fillerType\": \"minecraft:air\",\n    \"localizedName\": \"air\" ,\n    \"hardness\": 0.5,\n    \"resistance\": 0.7\n    }\n\nand my Iron Deposit as an example\n\n    {\n    \"type\": \"emendatusenigmatica:vanilla_deposit\",\n    \"dimension\": \"minecraft:overworld\",\n    \"biomes\": [\n    ],\n    \"registryName\": \"vanilla_overworld_iron_ore_deposit\",\n    \"config\": {\n      \"material\": \"iron\",\n      \"fillerTypes\": [\n        \"minecraft_stone\",\n        \"minecraft_andesite\",\n        \"minecraft_granite\",\n        \"minecraft_deepslate\",\n        \"minecraft_air\"\n      ],\n      \"chance\": 30,\n      \"size\": 16,\n      \"minYLevel\": 64,\n      \"maxYLevel\": 255,\n      \"placement\": \"uniform\",\n      \"rarity\": \"common\"\n    }\n    }"
+    },
+    {
+      "author": "Ridanisaurus",
+      "body": "You are correct. Non-Vanilla-Deposits do indeed support mixed generation. The list can be either a block, a tag, or a material. You can mix as many blocks as you want, and control them with the weight system."
+    },
+    {
+      "author": "Ridanisaurus",
+      "body": "I haven't tried that with the Vanilla Deposit, there might be some limitation somewhere as that feature is technically the same as the Vanilla with just the added functions.\n\nI'll look into it tomorrow, and see why it's not spawning any higher."
+    },
+    {
+      "author": "LimblessNick",
+      "body": "Ok. I'll try one of the other types to see.\n\nIt seems to be limited by the terrain height in some way. It won't generate over large bodies of water either, but I had it generate as high as 140 over a mountain.\n\nhttps://i.imgur.com/COAg5Fq.png"
+    }
+  ],
+  "56": [
+    {
+      "author": "KarateTB",
+      "body": "You could find a mod that adds a woodcutter to the game and just get it that way. The crafting would be more resource efficient anyway"
+    },
+    {
+      "author": "KVenom777",
+      "body": "biomesoplenty:redwood\\_planks\n\nbiomesoplenty:redwood\\_slab\n\nbiomesoplenty:redwood\\_stairs\n\n&#x200B;\n\nDouble-checked, all IDs are proper, as they are in the code."
+    },
+    {
+      "author": "KVenom777",
+      "body": "So? Any advice? I checked Id's, even double checked them and redacted the comment."
+    },
+    {
+      "author": "KVenom777",
+      "body": "Yes. But we are trying to do it without cheats. And we want a properly working mod. And I have the skills, but I seem to lack understanding required to fix this. Thus I am here, at the mercy of you, Spirits of the Internet."
+    }
+  ],
+  "57": [
+    {
+      "author": "SimianMetal4353",
+      "body": "There is immersive engineering wire that can convert rf/eu but imo it\u2019s not my favorite cable\u2026"
+    },
+    {
+      "author": "CrimsonAndGrover",
+      "body": "And I assume you're overclocking your recyclers? Like a lot?"
+    },
+    {
+      "author": "SimianMetal4353",
+      "body": "I was trying to avoid over clocking for now since I\u2019m still trying to get my reactors up and going but it\u2019s on my list. I\u2019ve got 4 reactors. 3 are still on uranium and 1 is almost a full mox reactor"
+    },
+    {
+      "author": "CrimsonAndGrover",
+      "body": "Okay. Using overclockers is when you get a good speed on making scrap. ASAP. You mentioned reactors. Are you running them 5x5?\n\nA long time ago I made a 5x5 ic2 reactor that got me around 900 EU/t .Here is a link to it. \n\nI wasn't using mox fuel, and I don't think that my layout within the grid was necessarily especially excellent. Likely you could do even better. But the system of using biogas to get your energy from nuclear in ic2 is about as good as it gets in ic2.\n\nhttps://forum.industrial-craft.net/thread/11303-survival-my-first-5x5-biogas-900eu-t-self-feeding-10-uranium-rods-stable/#post181089"
+    },
+    {
+      "author": "SimianMetal4353",
+      "body": "Are you referring to liquid cooled? I haven't gotten into those yet and have been kinda avoiding them haha. Are they seriously better that the regular reactors? Here's my setup. It's a heat neutral and since the rods are all the same it's really easy to automate. \"set and forget\"\n\nhttps://i.imgur.com/F9eay0h.png"
+    }
+  ],
+  "58": [
+    {
+      "author": "KingKongKaram",
+      "body": "The portal"
+    },
+    {
+      "author": "TheGalaxydoll13",
+      "body": "My world doesn\u2019t show up there\u2026 it wants me to pick a starting cave."
+    },
+    {
+      "author": "KingKongKaram",
+      "body": "Do your quests look right? Like are they completed right?"
+    },
+    {
+      "author": "TheGalaxydoll13",
+      "body": "Yes they are up to the point where I was. I\u2019m also holding my obituary."
+    },
+    {
+      "author": "KingKongKaram",
+      "body": "Try doing the /back command if it needs op just open to Lan and enable cheats but it shouldn't need that"
+    },
+    {
+      "author": "TheGalaxydoll13",
+      "body": "Oh that worked!! Thank you. I was worried I was going to lose all my progress."
+    },
+    {
+      "author": "KingKongKaram",
+      "body": "No problem I'd recommend doing a bed and a /sethome command"
+    }
+  ],
+  "59": [
+    {
+      "author": "ImWyrmFood",
+      "body": "when I open a new powershell window and drag the file onto the command line it shows the file path in quotations. If I click enter it shows the file path again underneath it, but nothing happens. \n\nI've also tried adding \"run\" without quotations before the file path but  it just says it's not recognized as a cmdlet, function, script file, or operable program."
+    },
+    {
+      "author": "Targren",
+      "body": "> I've also tried adding \"run\" without quotations before the file path but it just says it's not recognized as a cmdlet, function, script file, or operable program.\n\nDon't just randomly type things, that's not going to do you any good. \n\nWhat are the contents of the script file? Where did you get it?"
+    },
+    {
+      "author": "ImWyrmFood",
+      "body": "I downloaded it straight off the curse launcher from the modpack's profile. It took me directly to the curseforge site, and automatically downloaded it. I also tried going to curseforge myself, finding the modpack manually, and downloading the latest server files that way.\n\nSame files, same issue. I could copy and paste the entire script file if you want, or maybe look for a specific section in it you'd like to save you from a wall of text."
+    },
+    {
+      "author": "Targren",
+      "body": "\nNo, you don't need to. I grabbed a copy of the server file and ran it myself. It seems to be working on mine (PS Version 5.1.19041.2364 in $PSVersionTable). What version do you have on 11?"
+    },
+    {
+      "author": "ImWyrmFood",
+      "body": "It says PSVersion is 5.1.22621.963."
+    },
+    {
+      "author": "Targren",
+      "body": "Hrm. I doubt a minor update would have broken compatibility. That's a weird one."
+    },
+    {
+      "author": "ImWyrmFood",
+      "body": "Honestly, I still appreciate all the time you took out trying to help me troubleshoot this anyway. Thank you."
+    },
+    {
+      "author": "Targren",
+      "body": "Don't mention it. Sorry I couldn't get it sussed."
+    }
+  ],
+  "60": [
+    {
+      "author": "fukin_yeet",
+      "body": "What?"
+    },
+    {
+      "author": "Veryegassy",
+      "body": "Hit it with a pickaxe until it breaks. Pick it up. Place it back on the ground."
+    },
+    {
+      "author": "fukin_yeet",
+      "body": "?thaW"
+    },
+    {
+      "author": "Veryegassy",
+      "body": "...\n\n...\n\n...\n\n*Nope*."
+    },
+    {
+      "author": "fukin_yeet",
+      "body": "?WhathaW?"
+    }
+  ],
+  "61": [
+    {
+      "author": "DvDmanDT",
+      "body": "How much ram do you have in your system and how much are you allocating to the game? How is your system performance in general when this happens? When stuff starts to freeze 10+ seconds, up to minutes, I'm thinking swapping, as in you're running out of free RAM in your entire system."
+    },
+    {
+      "author": "Xpertthiefftw",
+      "body": "My system has 32 gb of ram, 8 gb of which is allotted to minecraft. I heard having too much or too little Ram could be a problem, so I tried to keep it a decent level.\n\nWhenever these freezes happen, everything else seems to continue fine. Music or videos and discord all seem ok. The only thing that freezes is minecraft."
+    },
+    {
+      "author": "DvDmanDT",
+      "body": "Sounds reasonable. I'd still check task manager (assuming Windows..?) next time it happens. If memory is above 80%, chances are swapping is involved. What Java version are you using? Any special args or anything?"
+    },
+    {
+      "author": "Xpertthiefftw",
+      "body": "I'm using the most recent version of Java (version 8, update 361), and im on Windows 11. With my very basic understanding of Java, I tend not to attempt to tamper with args unless someone says I should as I have almost zero idea how they work."
+    },
+    {
+      "author": "DvDmanDT",
+      "body": "Versions sound good and you should indeed not need any args. Again, I'd try to keep an eye on Task Manager and the Performance tab and see if anything interesting happens when you tab back into the game after some AFK time. Like if memory rises or drops significantly.\n\nI've never used Windows 11 so could be something new. As I said, swapping is a prime suspect whenever we're talking delays of these magnitudes, but another potential suspect would be something like some power saving feature, or some feature to reduce fan noise or similar. Could be some driver thing and/or one of those apps that vendors love shipping with laptops and other preinstalled systems. Other than that, I'm out of ideas. Hopefully someone else have more ideas. :)"
+    },
+    {
+      "author": "Xpertthiefftw",
+      "body": "Thanks for your help anyway. I appreciate the assistance"
+    }
+  ],
+  "62": [
+    {
+      "author": "Itsalifeforme",
+      "body": "There are lots of different launcher types to try. I use Prism"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Okay I need help with how to do that. I never copied files from FTB launcher to forge or anything else"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "Have you played on the pack before or is this your first time loading it?"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "That's the thing. No cuz today I discovered that stoneblock 3 is a thing even though it was created months ago so I wanted to play it cuz I played previous both a lot."
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "Then you shouldn\u2019t have to move any files :). You can download prism and then log in and download stoneblock 3 from curseforge. There will most likely be a popup about not being able to download some from the launcher and it will open webpages for them. Then you just have to click through the process and load up the game!"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Ok so it says some mods weren't installed so I should install them myself from forge and add them. Right?"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Ok lemme try that"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "It should prompt you to open the pages and then there will be another popup to automatically add them to your folder"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "I\u2019ll be here if you have issues! My partner is super well-versed in the ways of Minecraft modding so if you don\u2019t understand something, I can ask him :D"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Ok I installed them and now it says that It found the mod files on my PC so now I click ok and they should transfer to mod folder"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "Yes"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Ok so I need to change java version in my instance. It's 8 but it should be 17. Where do I do that"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "Are you playing on windows, Mac, or Linux? You\u2019ll need a certain version based on that"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Windows"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "[Java Download](https://adoptium.net/temurin/releases/)"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "This should get you where you need to go! :)"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Wait which one? .msi or .zip. or it doesn't matter"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "My partner prefers .msi because it is a more guided downloading process. If you use .zip you have to follow a lot of steps without it telling you what to do."
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "Ok  installed it now what"
+    },
+    {
+      "author": "Itsalifeforme",
+      "body": "You need to go to the settings in Prism and go to the Java tab. Then you just have to pick the option that says 17 somewhere in it. Then press test. If all goes well, launch your pack!"
+    },
+    {
+      "author": "Affectionate_Lie_573",
+      "body": "i have no idea where it is I sent u image in dms"
+    }
+  ],
+  "63": [
+    {
+      "author": "Gooneyttv",
+      "body": "I wrong about not being able to give the crate as a quest reward item, you won't find it if you search crate but if you search @ FTB you should see it listed."
+    },
+    {
+      "author": "Dointer25",
+      "body": "Yeah, but the problem is that i dont understand how to make a loottable/rewardtable itself... It seems hard."
+    },
+    {
+      "author": "Dointer25",
+      "body": "How do you make a loottable btw, reward table goes fine, cant find loottable..."
+    },
+    {
+      "author": "Dointer25",
+      "body": "Wait... sorry, i just found out XD, i am SO STUPID that i didnt realize it XD"
+    },
+    {
+      "author": "Gooneyttv",
+      "body": "When you say loottable do you mean items dropped by mobs or do you mean the loot pool within the loot crates themselves?"
+    },
+    {
+      "author": "Dointer25",
+      "body": "Lootpool. I know you (probably) cant make loottables from mobs"
+    }
+  ],
+  "64": [
+    {
+      "author": "AlternativeDeer288",
+      "body": "Hello, how did you install Sevtech onto the server? What Java Arguments are you using, and did you tamper with the pack? Edit, also what exactly are the resources being invested into the server? exact models for CPU, RAM, and storage are appreciated."
+    },
+    {
+      "author": "gegling",
+      "body": "I tried this, and it did not seem to help sadly. My CPU and RAM are not maxing out, so I do not know why this is happening."
+    },
+    {
+      "author": "gegling",
+      "body": "Hello. I used the server pack download on CurseForge to install this. I did not tamper with the pack, and I do not really know what Java Arguments are. I am using a i5-9500, 16 GB's of 2667MHz RAM, (12GB's are allocated) and a Micron 2200S NVMe 256GB drive."
+    },
+    {
+      "author": "AlternativeDeer288",
+      "body": "\\-XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M\n\n&#x200B;\n\nUse these Java Arguments"
+    },
+    {
+      "author": "gegling",
+      "body": "I tried using those earlier, where do I put them? Thanks for the help."
+    },
+    {
+      "author": "AlternativeDeer288",
+      "body": "\"Java options  \nJava options should be added between the java and the -jar on the command line, or in your startup script.\"  \nMC Wiki"
+    },
+    {
+      "author": "gegling",
+      "body": "I tried this, and it did not seem to help. It was very similar to the ones already in place, though not exactly the same."
+    },
+    {
+      "author": "gegling",
+      "body": "(Also, I don't know if this is helpful, but the command prompt said this: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s))"
+    },
+    {
+      "author": "AlternativeDeer288",
+      "body": "Sorry, I don't have anything else then. I wish you luck on your endeavors to fix it, though."
+    }
+  ],
+  "65": [
+    {
+      "author": "pikachuguy",
+      "body": "FTB Essentials and FTB Ranks (for Forge) have tools and permissions you can use for this. Essentials adds commands like /sethome and Ranks allows you attach permissions to use commands to a rank. So say you want Members to use /sethome, you can edits perms so that Members can use /sethome but not /give or something like that."
+    },
+    {
+      "author": "PapaMarine101",
+      "body": "Ahh ok, so I am playing/hosting E6:Expert. And I just want them to be able to do the home command thats it."
+    },
+    {
+      "author": "pikachuguy",
+      "body": "So looking at the modlist of that modpack, it has both FTB mods i mentioned. The [FTB website](https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168) has a tutorial on how to use permissions with Ranks. It should only take a bit of setup, as long as you have OP and can give your players the rank that allows for /sethome and /home."
+    },
+    {
+      "author": "PapaMarine101",
+      "body": "Its not working? Idk what I am doing wrong but its just not working."
+    }
+  ],
+  "66": [
+    {
+      "author": "blahthebiste",
+      "body": "Valkyrien Skies lets you build your own"
+    },
+    {
+      "author": "Lucal_gamer",
+      "body": "I've seen it, the only thing is that seems to be s bit hard to use"
+    },
+    {
+      "author": "blahthebiste",
+      "body": "It is"
+    },
+    {
+      "author": "Lucal_gamer",
+      "body": "Ouch"
+    }
+  ],
+  "67": [
+    {
+      "author": "Connect_Sky8294",
+      "body": "Yeah but they might not have used that as inspiration it was the only thing that i could think of"
+    },
+    {
+      "author": "DianaSt75",
+      "body": "Surely, but the general idea stands: The most obvious reference of the title is to the bible concept - if they mean anything else, they need to clarify that ASAP so folks don't get annoyed because the pack doesn't fit their expectations. Or otherwise, they need to be prepared for more strange and potentially unfriendly reactions than usual."
+    },
+    {
+      "author": "Connect_Sky8294",
+      "body": "No because not everyone is christian and wont nessasarily assosiate the two together"
+    },
+    {
+      "author": "DianaSt75",
+      "body": "Hmm.. The concept is present in all abrahamic religions, so it's not just christianity. Now this goes into unstable territory, given prior reactions to what I thought to be common knowledge, but I'd argue that Eden being a garden of paradise is indeed common knowledge. Anything beyond the first book of the old testament might be different, but especially this particular idea of a garden of peace has been pictured so many times in art and elsewhere that I do not see how even non-christians could get around not knowing there's a clear reference for large parts of the US and Europe they need to take into account."
+    },
+    {
+      "author": "Connect_Sky8294",
+      "body": "Yes but thats three religions what about norse paganism (my religion) hellenism celtic paganism hinduism sikhism"
+    },
+    {
+      "author": "Connect_Sky8294",
+      "body": "Also german paganism slavic paganism"
+    },
+    {
+      "author": "DianaSt75",
+      "body": "That's not the point - the point is, this particular concept has been used widely enough in art and culture over the centuries that I think it should be known beyond the borders of christianity. \n\nAnother example would be Mohammed, founder of Islam. I do not need to be muslim myself to acknowledge that name in various permutations is central to muslim beliefs, and as such I should expect strongly worded reactions if I use that name anywhere lightly. \n\nOr, to stay with religious concepts, use the term zen somewhere without taking into account what it usually describes. Or various gods and godesses from Hinduism. \n\nPaganism is a bit different since it's not acknowledged to be widespread nowadays, and as such I'd be hesitant to expect everyone to know major concepts of those. Though, given how central Greek and Roman history is to the development of western civilization, I would assume knowledge of the really major players in each respective pantheon."
+    },
+    {
+      "author": "Connect_Sky8294",
+      "body": "And over the last couple millenia it hasnt"
+    }
+  ],
+  "68": [
+    {
+      "author": "poyat01",
+      "body": "It doesn\u2019t actually give you an empty bucket\n\nIt gives you are forge_bucket or something like that"
+    },
+    {
+      "author": "black1781",
+      "body": "Yeah but it's useless"
+    },
+    {
+      "author": "poyat01",
+      "body": "I don\u2019t think it can even pick up fluids"
+    },
+    {
+      "author": "black1781",
+      "body": "There is lava bucket and water bucket"
+    },
+    {
+      "author": "poyat01",
+      "body": "I meant the forge bucket"
+    },
+    {
+      "author": "black1781",
+      "body": "Yeah it doesn't seem to work"
+    }
+  ],
+  "69": [
+    {
+      "author": "Seraphaestus",
+      "body": "Wouldn't this just result in a player setting up a self death loop to farm themselves for coins?"
+    },
+    {
+      "author": "Firm_Building_2445",
+      "body": "can't do that, it's not an open world server or a normal survival server, so there won't really be any way to farm them except the intended way"
+    },
+    {
+      "author": "Seraphaestus",
+      "body": "> it's not an open world server or a normal survival server\n\nWhat does that mean?"
+    },
+    {
+      "author": "Firm_Building_2445",
+      "body": "what you need to know rn because I'm too lazy to actually type the entire purpose of the server is that there is no way for people to kill themselves/keep killing each others to farm coins except in certain conditions I'll be setting up"
+    }
+  ],
+  "70": [
+    {
+      "author": "lorilith",
+      "body": "is everyone in the same area? is view distance set to 6 or lower? is the world pregenned?"
+    },
+    {
+      "author": "Throckmork1",
+      "body": "We have tried different mod packs with this same server host, and they worked just fine. It's just something with RAD 2"
+    },
+    {
+      "author": "Throckmork1",
+      "body": "No everyone is not in the same area in the world, and even when we were it would still lag. The server view distance we set down to 6 but it didnt help. The world is like any other minecraft world. Generated as we play it"
+    },
+    {
+      "author": "lorilith",
+      "body": "worldgen has known memory leaks, so pregenning is always a good idea. \n\nyou can use something like Spark to profile the heap and see where the ram is being used by if you are all in different places generating new terrain, my money would be on all of that"
+    },
+    {
+      "author": "Throckmork1",
+      "body": "Okay we will try that. Thank you!"
+    }
+  ],
+  "71": [
+    {
+      "author": "ItzSwapnil",
+      "body": "Sure just DM me"
+    },
+    {
+      "author": "Any-Chemist-9047",
+      "body": "Do you have discord?"
+    },
+    {
+      "author": "ItzSwapnil",
+      "body": "Ye \nOfc\nItzSwapnil#1600"
+    },
+    {
+      "author": "Any-Chemist-9047",
+      "body": "Thanks :)"
+    }
+  ]
+}
