@@ -1,0 +1,2546 @@
+{
+  "0": [
+    {
+      "author": "danl-uk",
+      "body": "I would suggest taking the machine offline first then disabling remote access."
+    },
+    {
+      "author": "Nikijs112",
+      "body": "I know, I know. At first I saw my windows admin username (I don't really know what it's called), then I saw my passwords, then I saw a screenshot of my laptops screen. The email got sent to three of my accounts and one of the accounts didn't have it in spam. I hope you can understand why a noob like me would get scared."
+    },
+    {
+      "author": "Nikijs112",
+      "body": "I am in Latvia. So the time difference is not that big."
+    },
+    {
+      "author": "danl-uk",
+      "body": "But then it sounds like people on Ms windows machines are far more familiar with this scam than I am - as others have said it could be any old screenshot of any old windows pc."
+    }
+  ],
+  "1": [
+    {
+      "author": "righteyeofra16",
+      "body": "Right click it in disk management and see if it will allow you to extend it."
+    },
+    {
+      "author": "Mrcheese-i-am",
+      "body": "just says help"
+    },
+    {
+      "author": "righteyeofra16",
+      "body": "Right click on the Disk Management Icon and Run as Admin. If that doesn't work does it show unused space in Disk Management? If it doesn't, might something wrong with the drive or Windows."
+    },
+    {
+      "author": "Mrcheese-i-am",
+      "body": "Where is the icon for disk management? Does not show up when looking in search bar"
+    },
+    {
+      "author": "righteyeofra16",
+      "body": "Search for Computer Management, it's in there as well."
+    },
+    {
+      "author": "Mrcheese-i-am",
+      "body": "Nah still doesn\u2019t show"
+    }
+  ],
+  "2": [
+    {
+      "author": "NolanTheIrishman",
+      "body": "1. Is your windows attached to a Microsoft account? W10 just needs an activated login to work if so.\n[info](https://www.windowscentral.com/how-re-activate-windows-10-after-hardware-change)\n2. In the second video, you need to have an enabled hard drive along with the bootable USB for it to install on.\n\nI'm guessing things went haywire on the original SSD if you did indeed turn it off in the middle of an install? It's best to never power off whenever changes are being made to a hard drive especially when it comes to installing operating systems or setting encryption etc. \nYou might need to reformat the SSD completely before trying to use it again but I'm not 100% on that."
+    },
+    {
+      "author": "nertynertt",
+      "body": "Appreciate the response, \n1. Yep it's linked with an account. Just set up windows on another machine today and on another not too long ago and it recognized it was activated both times, rather odd. \n\n2. Gotcha, with the drive in it would keep doing that same issue. I would get that happening due to turning off during installation on the new drive, but would you happen to have any guesses why it's giving the same error code with the old drive when it should be booting? \n\nAny suggestions for methods to reformat?"
+    },
+    {
+      "author": "NolanTheIrishman",
+      "body": "When you put the SSD back in the old machine, try booting it with the USB drive in and doing a fresh install. \nI'm thinking the windows got corrupted when it was powered off mid-install so it won't even boot in the old machine anymore."
+    },
+    {
+      "author": "NolanTheIrishman",
+      "body": "Also are you using the same login for multiple computers? It might be hitting a license limit or something like that, but for now I think the kmode error is saying that the SSD drivers are corrupt/not aligning with the OS anymore"
+    },
+    {
+      "author": "nertynertt",
+      "body": "will try again but it seemed as if it wouldnt get to the point it would begin a fresh install with the ssd in, cheers"
+    }
+  ],
+  "3": [
+    {
+      "author": "Drivingmecrazeh",
+      "body": "Return the PC if you can -- you're possibly facing hardware issues, like a bad drive."
+    },
+    {
+      "author": "SgtGo",
+      "body": "I did a reset and reinstalled windows and it seems fine now.  Should I return the PC?"
+    },
+    {
+      "author": "SgtGo",
+      "body": "Also,  is there a way to confirm if a drive is bad before taking it in?  It was a prebuilt from Memory Express so I should have 30 days to bring it back"
+    },
+    {
+      "author": "Drivingmecrazeh",
+      "body": "Absolutely. Download CrystalDiskINFO and run it. You'll get a \"good/bad\" alert. Next, run Windows Memory Diagnostic. Make sure that doesnt throw any errors. Finally, run FURMARK to test your video card, and see if the machine crashes."
+    }
+  ],
+  "4": [
+    {
+      "author": "righteyeofra16",
+      "body": "Uninstall LogMeIn"
+    },
+    {
+      "author": "Negative_Nudes",
+      "body": "It is not on my phone or computer but i found a crazy ass screen shot thats how o figured out this much"
+    },
+    {
+      "author": "Negative_Nudes",
+      "body": "Any other ideas I appreciate you replying im freaking out"
+    },
+    {
+      "author": "righteyeofra16",
+      "body": "How do you know someone is remoting in?"
+    }
+  ],
+  "5": [
+    {
+      "author": "Hard_Celery",
+      "body": "You can just lay them wherever. or use some mounting tape or something to hold them down. \n\nIf it's an SSD it doesn't really matter as there are no moving parts"
+    },
+    {
+      "author": "Derkainer",
+      "body": "It's spinning metal I just don't want to loose any data to drive failures"
+    },
+    {
+      "author": "Hard_Celery",
+      "body": "Can just lay them down or whatever just don't wanna move them while running. \n\nCan also buy a dock for them, they also make bays drives to fit where CD drives would go"
+    },
+    {
+      "author": "Derkainer",
+      "body": "Already have a 8bay case coming just wanted a temporary solution that would be safe for my 3 8tb hhds. If they will be fine for a week on the desk then that will work for me. Thank you"
+    },
+    {
+      "author": "Hard_Celery",
+      "body": "just try to keep them from moving or getting vibrated on the desk to much"
+    },
+    {
+      "author": "Derkainer",
+      "body": "Thanks man"
+    },
+    {
+      "author": "Hard_Celery",
+      "body": "I'd probably place some rubber between each drive to reduce vibrations and tape them all together"
+    }
+  ],
+  "6": [
+    {
+      "author": "wrath_of_grunge",
+      "body": "could be the CPU or GPU overheating. a GTX 950 is a pretty old card. have you ever had it repasted? are you monitoring temps? have you cleaned the laptop's cooling system?"
+    },
+    {
+      "author": "iiGiovanni",
+      "body": "I opened the laptop today and the fans were clean. I updated the paste three or four years ago. The fans do blow hard so I can try to do it again but will that be the problem? It seems more like a power problem to me"
+    },
+    {
+      "author": "wrath_of_grunge",
+      "body": "it's entirely possible that the AC adapter you got for it isn't working like it should. \n\ni would fire up a temp monitoring program and see if it's getting hot while running a game. \n\nthe fans and stuff being clean are good. being repasted 3 or 4 years ago is also a good thing. it *might* be time to do it again."
+    },
+    {
+      "author": "iiGiovanni",
+      "body": "I updated my post with images showing the statistics. Looks like it\u2019s not because of the temperatures. Could you see if you have an idea?"
+    },
+    {
+      "author": "wrath_of_grunge",
+      "body": "not 100% sure on this. but after disconnecting the charger you can see the clock speed is dropped. after reconnecting the charger the clock speed picks back up, but performance doesn't. that leads me to think it's possible that the CPU is getting stuck in a lower clock/power mode. \n\ni've got a older Windows tablet/laptop that does this from time to time. the fix for it is running ThrottleStop, which you've said you're already using. \n\ni think if i were you, and dealing with this, i would look into getting a proper replacement AC adapter. it can't be very much, and it would let you re-test and see if you still have issues. \n\nanother thing you can check is the Nvidia Control Panel. i'd get rid of Geforce Experience. it's garbage and has the ability to change GPU settings on the fly, which can result in odd issues that crop up out of nowhere. \n\nanyways, in NVCP go to 3D Settings > Manage 3D Settings > Global Settings > Power Management Mode. set that to Prefer Maximum Performance. see if that corrects the issue."
+    },
+    {
+      "author": "iiGiovanni",
+      "body": "I changed the settings to NVIDIA but unfortunately that didn\u2019t help. I just tried with ThrottleStop and with Intel XTU to undervolt the CPU either that didn\u2019t help.\n\nIt does indeed seem to me to be something with the the charger or battery. The CPU just doesn\u2019t get enough power\n\nEdit: I just [Googled](https://community.intel.com/t5/Processors/I7-6700HQ-stuck-at-0-78-Ghz-and-30-load/td-p/434640) and it looks like it\u2019s a common problem with this processor.\n\nEdit 2: Original charger ordered on HP website"
+    }
+  ],
+  "7": [
+    {
+      "author": "WilliamJr88",
+      "body": "When you say that every other device on your network works perfectly fine, do you mean in terms of both up and down speed being reflective of the service you\u2019re supposed to be provided? \n\nHave you tried to run the same test through WiFi to see if the same numbers are given? \n\nWhat exactly is the advertised speeds that your ISP is servicing you with? \n\nA couple of questions you should be able to answer before a further dive."
+    },
+    {
+      "author": "GrandSeikoSupremacy",
+      "body": "Every other device on my network is reflective of what is supposed to be provided, which should more or less be 800 up 800 down. I unfortunately do not have a wifi card or (I believe) any other means of testing wifi on this pc."
+    },
+    {
+      "author": "WilliamJr88",
+      "body": "That\u2019s no issue! So long as you knew for certain the other devices reflected your service that\u2019s all that matters. All apart of the troubleshooting process."
+    },
+    {
+      "author": "GrandSeikoSupremacy",
+      "body": "Alright that\u2019s what I figured, I am 100% sure every other device works perfectly fine which is why I immediately jumped to fixes local to the PC in question."
+    }
+  ],
+  "8": [
+    {
+      "author": "ViggyTheBear",
+      "body": "Is this the exact error you are getting? https://macreports.com/wp-content/uploads/2021/01/unable-to-load.png \n\nWhat app are you getting this error message on?"
+    },
+    {
+      "author": "mrdungels",
+      "body": "Yes that\u2019s it, on Photos app"
+    },
+    {
+      "author": "ViggyTheBear",
+      "body": "Is this iPhone connected to the internet when you are viewing this video? Is the iPhone updated to the latest version of iOS?"
+    },
+    {
+      "author": "mrdungels",
+      "body": "Yes and yes"
+    },
+    {
+      "author": "ViggyTheBear",
+      "body": "Does a restart to the iPhone change anything?"
+    },
+    {
+      "author": "mrdungels",
+      "body": "Unfortunately not"
+    },
+    {
+      "author": "ViggyTheBear",
+      "body": "The higher quality version of the video should be available to view on iCloud's website. What if you head to https://icloud.com and sign in to the Apple ID where the video has been stored to?"
+    },
+    {
+      "author": "mrdungels",
+      "body": "I didn\u2019t store it as I had iCloud storage turned off but it\u2019ll probably show up once the download is done"
+    }
+  ],
+  "9": [
+    {
+      "author": "ScrimpyMitten",
+      "body": "Disconnect the power to the computer, remove the Cmos battery, and press the tiny button next to it marked Cmos, cause that should clear it completely and drain any power left in the powersupply.\n\n&#x200B;\n\nAlso have you checked all the cables, i have sometimes seen damaged cables in these SFF computers, cause its to tight with space, it gets stuck when closing down the drivecage. \n\n&#x200B;\n\nI have 6 of these, 5 of the small USDT and 1 SFF, so quite used to working on them."
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "I tried with thw psu its for sure the motherboard then\nThanks for the help mate"
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "Thanks \ud83d\udc4d ill try right now"
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "After that i should put the cmos back after 5 to 10 minutes and power on the sys ?"
+    },
+    {
+      "author": "ScrimpyMitten",
+      "body": "You can put it back right away, it will reset instantly, just put the battery back and try to start the computer again."
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "Im really sorry for disturbing you i just wanted to clear out some things"
+    },
+    {
+      "author": "ScrimpyMitten",
+      "body": "No problem at all, just chilling here at the computer with my new kitten browsing reddit."
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "Tried it no change"
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "I just wanted you to know that theres a wire p2 from the power supply if you unplug it you get a red 4 beep error\nIf you plug it the pc turns on no display just the fans turn on and ram up after a while any suggestions or help ?"
+    },
+    {
+      "author": "ScrimpyMitten",
+      "body": "Then if you have checked the cables for damage.\n\nAnd everything looks fine, your motherboard might just be dead."
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "I just got it repaired like a week ago"
+    },
+    {
+      "author": "Vthru-Sucks",
+      "body": "Im just a teenager i ant got too much money"
+    }
+  ],
+  "10": [
+    {
+      "author": "Drivingmecrazeh",
+      "body": "Have you tested the PSU? Sounds like it could be dead. YT the paper clip trick to see if you can jump it.\nFor what it is worth, that brand PSU is garbage, and its not just my personal opinion either.\n\nhttps://old.reddit.com/r/buildapc/comments/j43c8q/is_my_psu_that_bad_kcas600w_80_plus_bronze/"
+    },
+    {
+      "author": "TCHSPPRTTHRWAY",
+      "body": "the pc was prebuilt so it's not like I had a say in the matter. Plus if the PSU is dead wouldn't it be just not turning on at all?"
+    },
+    {
+      "author": "Drivingmecrazeh",
+      "body": "I'm not blaming you for the PSU choice, I'm saying you're dealt a hand of cards that arent in your favor. And no, a PSU that is dead does not have to not power on at all. It can \"start\", but quickly die. Ever see a lawn mower start up, then immediately die? Or a car? Same thing."
+    },
+    {
+      "author": "TCHSPPRTTHRWAY",
+      "body": "So the only thing to do is to just swap out the PSU?"
+    },
+    {
+      "author": "TCHSPPRTTHRWAY",
+      "body": "Ok but like... why did switching the motherboard cause my PSU to go dead"
+    },
+    {
+      "author": "Drivingmecrazeh",
+      "body": "Correct."
+    },
+    {
+      "author": "TCHSPPRTTHRWAY",
+      "body": "What's a replacement you'd recommend for my setup considering I am a college student on sort of a budget (The GPU and CPU were gifts)"
+    },
+    {
+      "author": "Drivingmecrazeh",
+      "body": "Try /r/buildapc  \n\n> 5: Recommendations\n> \n> We are not a recommendation or advertisement subreddit. We do not allow posts asking for recommendations on hardware/software or recommendations comparing two or more hardware/software. Recommending a hardware/software solution as a comment to a post is acceptable.\n> \n> Recommending products not in the whitelist might result in your comment or post being removed and a ban imposed. If you want anything added please message the mods and we will consider it."
+    },
+    {
+      "author": "TCHSPPRTTHRWAY",
+      "body": "Comments are acceptable"
+    }
+  ],
+  "11": [
+    {
+      "author": "NuchieTW",
+      "body": "What does that mean? It's not supposed to use more that what I'm getting?"
+    },
+    {
+      "author": "Meadowlion14",
+      "body": "Correct. The game is only able to use 1 core at a time. So when it maxes that core thats it."
+    },
+    {
+      "author": "Meadowlion14",
+      "body": "https://youtu.be/Z0Mrz0u9Jiw you can watch this about that specific game. But its not your system."
+    },
+    {
+      "author": "NuchieTW",
+      "body": "Okay, thank you for the help!"
+    }
+  ],
+  "12": [
+    {
+      "author": "Interesting-Gas2857",
+      "body": "Yeah it worked great and it had atleast 20% before I dissembled it. But I\u2019ll try to see if I can connect it more properly to the Motherboard. If that doesn\u2019t help, could it be a short circuit maybe?"
+    },
+    {
+      "author": "Gnkey",
+      "body": "If you noticed any sparks when you opened it - then it is a possibility, but rare one. This is what I would do - remove battery, of course, make sure that power adapter is not connected either. With battery removed and power adapter unplugged - press and hold laptop power button for, at least, 30 seconds. This will discharge static electricity - thus, if any microchips may got into weird state - this will take care of it. Then, very carefully reinsert the battery ( you may want, just in case, use a Q-tip with isopropyl alcohol and wipe battery connector and motherboard connector where you will align battery with) and try to power on laptop prior to closing the cover."
+    },
+    {
+      "author": "Interesting-Gas2857",
+      "body": "Okay thank you! I\u2019ll try these thing. And just out of curiosity, why use isopropyl alcohol?"
+    },
+    {
+      "author": "Gnkey",
+      "body": "Well, the 100% alcohol would be considered as the ideal material to clean any electronic contacts as\u00a0they evaporate quickly and leave no residue behind."
+    }
+  ],
+  "13": [
+    {
+      "author": "Arup65",
+      "body": "It's probably USB stuttering issue that I suffered till new motherboard BIOS was issued, it took several BIOS to fix it for good. I also removed my wireless keyboard and mouse to wired type."
+    },
+    {
+      "author": "orochimaryou",
+      "body": "The keyboard and mouse are both wired. \nHow would I be able to determine which USB is causing the issue? All my parts inside the new pc are brand new. Leading me to believe it could be a peripheral."
+    },
+    {
+      "author": "Arup65",
+      "body": "Start with USB 2 slots and see if the issue still persists. When was the BIOS flashed last? Usually in case of AMD CPU, its combined with chipset drivers and BIOS. fTPM is notorious for causing this as well and only fixed recently."
+    },
+    {
+      "author": "orochimaryou",
+      "body": "Gotcha. \nI did some bios work earlier this week for small overlock, nothing too wild. Still baffles me that the same exact issue transferred over to the brand new PC.\n\nI\u2019ll take a look when I get home to be sure"
+    }
+  ],
+  "14": [
+    {
+      "author": "Environmental_Split6",
+      "body": "Does it happen on another browser?"
+    },
+    {
+      "author": "Resident-Hedgehog-25",
+      "body": "Yes, every other browser"
+    },
+    {
+      "author": "Environmental_Split6",
+      "body": "Can you reinstall a browser and see if it still happens?"
+    },
+    {
+      "author": "Resident-Hedgehog-25",
+      "body": "Already done that, To Chrome and Edge, it's still the same on them and on firefox now. But for Firefox it has been like a month until it started doing this."
+    }
+  ],
+  "15": [
+    {
+      "author": "pcbeg",
+      "body": "Usually problems like that after moving computer/laptop, indicates that cooler has slightly moved, and dried thermal paste has cracked under it, as a result you have air between cpu/gpu and cooler = worst cooling, fans working mode.\n\nNormal solution would be cleaning, dusting, repasting cooler, and it should be already done by computer shop. Either they didn't do it, or they did it poorly, or cooler is damaged in some way and it has to be replaced."
+    },
+    {
+      "author": "Unfilmed",
+      "body": ":( , i would do that myself but I can't do it because the screws are messed up and my small screwdriver cant do it, would you have a rough estimate on how much the repairs would cost if i were to bring in the fans and stuff.?? im in canada btw :D"
+    },
+    {
+      "author": "pcbeg",
+      "body": "Sorry, I don't have a clue...I am on the other side of the world, Serbia, and have zero information about repair prices in Canada. Try with googling services near you, contact them, explain the exact problem that you have and request estimate."
+    },
+    {
+      "author": "Unfilmed",
+      "body": "das a good idea thx :)"
+    }
+  ],
+  "16": [
+    {
+      "author": "ConsistentAssistant3",
+      "body": "The problem would best be described with pictures, but the water cooler I ha e I. The case comes with rails... to mount them the screw holes around the socket need to be closer together.  I am wondering if there's a mounting bracket adapter.. or something for it"
+    },
+    {
+      "author": "pcbeg",
+      "body": "What's the exact model of your AIO?"
+    },
+    {
+      "author": "ConsistentAssistant3",
+      "body": "Well. From what I can find... Republic of gamers computer case. Gamer storm edition. Gaming G series\n\nSN is either  DC2017060700197.  Or 170607-3. Or 002502034.   Those are the numbers on the case"
+    },
+    {
+      "author": "pcbeg",
+      "body": "Is this the [case](https://www.youtube.com/watch?v=IWX6qXodzEg)?"
+    },
+    {
+      "author": "ConsistentAssistant3",
+      "body": "Why yes.... yes it is"
+    },
+    {
+      "author": "pcbeg",
+      "body": "Cooler should be [this](https://www.gamerstorm.com/product/cpuliquidcooler/2016-04/1286_5091.shtml). On the product page there is no mention of am5, but there is am4 support. From Deepcool [page](https://www.deepcool.com/company/pressroom/newsrelease/2022/16415.shtml?id=PressRoom) they are offering free mounting upgrade, contact them to see if that will cover your cooler."
+    },
+    {
+      "author": "ConsistentAssistant3",
+      "body": "Wow thanks bud.  Appreciate the help guys"
+    },
+    {
+      "author": "pcbeg",
+      "body": "No problem, good luck with finding bracket."
+    }
+  ],
+  "17": [
+    {
+      "author": "Gnkey",
+      "body": "You should not uninstall wireless adapter - it would be always found by the system on reboot. You should just \"Disable\" it - via \"Device Manager\"."
+    },
+    {
+      "author": "Sellier123",
+      "body": "I tried that but for some reason it still interfered with the usb adapter. Like it wouldnt let me on the internet. I uninstalled it and it stayed off for the week but now it wont >.>"
+    },
+    {
+      "author": "Gnkey",
+      "body": "Again, you should not uninstall it. It must be present in \"Device Manager\" and it should not have any exclamation points (means, driver is wrong or not working). You cannot disable non working driver, because it doesn't accept commands. So, make sure built-in Wi-Fi adapter is listed, in working condition and then \"Disable\" it."
+    },
+    {
+      "author": "Sellier123",
+      "body": "Ok i will give it a shot. Thank you"
+    }
+  ],
+  "18": [
+    {
+      "author": "froztymug",
+      "body": "Maybe try booting into safe mode and uninstall the Nvidia driver and try hitting back into normal mode and reinstall the driver."
+    },
+    {
+      "author": "railpwn",
+      "body": "Also, sometimes with the GPU plugged in the computer still doesn't stall but still does the no peripherals thing."
+    },
+    {
+      "author": "railpwn",
+      "body": "Did not work , no change"
+    },
+    {
+      "author": "railpwn",
+      "body": "I can't boot into safe mode. The computer won't start at all, and since peripherals won't connect I can't press any keys to enter safe mode nor could I see the monitor while I was in it"
+    },
+    {
+      "author": "railpwn",
+      "body": "Well hold on now, rip isn't exactly true. The person who gave me this computer said they had the same issue a while back and were able to fix it, but they don't remember how they fixed it. So there is a way to fix it."
+    },
+    {
+      "author": "railpwn",
+      "body": "Why troll on a tech support forum??"
+    }
+  ],
+  "19": [
+    {
+      "author": "Technoguyfication",
+      "body": "You need to post the error message if you want anyone to help"
+    },
+    {
+      "author": "dmdmdmmm",
+      "body": "sorry about that. editing post."
+    },
+    {
+      "author": "Technoguyfication",
+      "body": "Based on the information you added it sounds like you had the firewall in nord vpn activated without being connected to the vpn. Connect to the vpn or disable the firewall in the nord vpn app and it will work"
+    },
+    {
+      "author": "dmdmdmmm",
+      "body": "It worked!! Thank you!!!!!"
+    }
+  ],
+  "20": [
+    {
+      "author": "Rahib777",
+      "body": "no because all the games on game pass are uwp apps"
+    },
+    {
+      "author": "Sage2050",
+      "body": "Can you elaborate?"
+    },
+    {
+      "author": "Rahib777",
+      "body": "uwp apps cant be installed on external drives"
+    },
+    {
+      "author": "Rahib777",
+      "body": "unless you install windows on those drives and then you will need to boot from that"
+    },
+    {
+      "author": "Rahib777",
+      "body": "its the same for other folders"
+    }
+  ],
+  "21": [
+    {
+      "author": "Ch3vr0n",
+      "body": "Windows can only extend to the right. The unallocated space is on the left. You need to use a third party partition manager to extend to the left, or move there data partition to the left so the unallocated space gets pushed to the right. And while you're at it, what do the partitions look like on your C drive. As that EFI and recovery shouldn't be on your D drive either. That's your boot record and windows recovery partition."
+    },
+    {
+      "author": "reddituser6997",
+      "body": "EaseUS partition master gives me the same message as windows and minitool partition wizard doesnt even let me resize it"
+    },
+    {
+      "author": "reddituser6997",
+      "body": "My windows used to be on the hard drive and I cloned the partition with windows onto my ssd, thats why I have unallocated space left"
+    },
+    {
+      "author": "Ch3vr0n",
+      "body": "Did you verify your system boots properly without the drive holding the D partition? If it does, you can delete that EFI and recovery partition too. It's not a whole lot of storage but it's still space being occupied that shouldn't be. If windows fails to boot with that drive disconnected, it still uses those partitions.\n\nEither way for you to expand you need to move that D partition to the left so it pushes the unallocated to the right of your want to use windows' native partition expanding function."
+    }
+  ],
+  "22": [
+    {
+      "author": "HRKing505",
+      "body": ">  1: I wanna upgrade the ram to 8GB and I wanna keep the HDD as is, but remove the CD bay and place a 128 GB SSD instead in hopes of a faster operating machine.\n\nKeep in mind MAC OS and all your files will still be installed to your HDD.\n\n\n> 2: My main concern is, will i lose the data?\n\nRemoving your CD drive and adding a SSD to your laptop will not incur data loss.\n\n\n\n>   3: **I don't have the luxury of time to backup my files**, nor i am willing to buy an external hard drive to back up my macOS.\n\n\nYou should keep a backup of your files. What would you do if your HDD died this very moment?"
+    },
+    {
+      "author": "doepual",
+      "body": "Thanks for you reply, I am currently doing a backup (I was so ignorant but this sub helped me change my attitude). Regarding your first point, can you please elaborate more on what you mean?"
+    },
+    {
+      "author": "HRKing505",
+      "body": "Your operating system is installed to the much slower HDD. To take advantage of the faster SSD, you'll want to install MAC OS it instead."
+    },
+    {
+      "author": "doepual",
+      "body": "And this requires taking a copy of everything and re-installing it right? (Excuse my naivety in my tech-related vocabulary)"
+    },
+    {
+      "author": "HRKing505",
+      "body": "> And this requires taking a copy of everything and re-installing it right?\n\n\nCorrect. This would be the easier method."
+    },
+    {
+      "author": "doepual",
+      "body": "Noted. Thank you so much :)"
+    }
+  ],
+  "23": [
+    {
+      "author": "CCHPassed",
+      "body": "Does the driver detect as a 4090, then it would be an issue to submit to Nvidia for GeForce Exp not detecting current released video cards"
+    },
+    {
+      "author": "Kasilim",
+      "body": "What do you mean by \"does the driver detect as a 4090?\""
+    },
+    {
+      "author": "CCHPassed",
+      "body": "Nvidia control panel > Help > system Information"
+    },
+    {
+      "author": "Kasilim",
+      "body": "Yes it has all the correct info for my 4090 there."
+    }
+  ],
+  "24": [
+    {
+      "author": "aestheticalss_",
+      "body": "RAM is acting as if it\u2019s overclocked\u2026 could be a ram issue?. Can you reset bios by using a screwdriver? (Check how to do this with your motherboard first as I\u2019m not experienced in it)\n\nAlso, if this doesn\u2019t help, try taking out one stick of ram, then try the other, then try different slots etc.. Could be the GPU, but RAM seems likely with this. I\u2019m just finding it very odd you\u2019re getting a memory issue with your GPU, tbh."
+    },
+    {
+      "author": "poopmannm",
+      "body": "I was inspecting the motherboard and i found this,\nhttps://imgur.com/a/fxoxnvT\n\nI cant if this is rotten or burnt can someone tell me?"
+    },
+    {
+      "author": "poopmannm",
+      "body": "I forgot to add but yeah i tried the one stick ram but the gpu still doesnt show life(keep in mind gpu works in other pc) i dont remember how much i set the ram to oc but i have been using these settings for a while now, as for the reset with screwdriver reset i dont see that in the manual mentioned"
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "ah so GPU works in other PC, sorry I read it as it working for a bit then not. Are you able to test with another set of RAM?"
+    },
+    {
+      "author": "poopmannm",
+      "body": "No but if this thread doesnt help im planning to grab the whole tower to a repair shop and let him diagnose"
+    }
+  ],
+  "25": [
+    {
+      "author": "aestheticalss_",
+      "body": "What\u2019s CrystalDiskInfo reporting on all drives?"
+    },
+    {
+      "author": "Prophet_60091_",
+      "body": "Here's a [screenshot](https://imgur.com/a/MJBUNHE)of the results in the same order that I listed the drives in my op."
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "Yeah, your speeds are fine.\n\n&#x200B;\n\nJust a heads up that was CrystalDiskMark, not CrystalDiskInfo, which can be found [here](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller)"
+    },
+    {
+      "author": "Prophet_60091_",
+      "body": "Derp, misread that. Downloaded Info and everything is \"Good\" with C drive showing \"Good, 96%\"."
+    }
+  ],
+  "26": [
+    {
+      "author": "InwardXenon",
+      "body": "Is your password incorrect? Use another device to reset it and try again."
+    },
+    {
+      "author": "Azazeleus",
+      "body": "I did, it doesnt accept it"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Do you have important personal files? If not it might be time for a clean install."
+    },
+    {
+      "author": "Azazeleus",
+      "body": "I managed to get in with a Passwort my Gmail used 5 years ago, however factory reset, returning to old Windows Versions dont Work either"
+    }
+  ],
+  "27": [
+    {
+      "author": "Spectral_Hex",
+      "body": "Check your global settings in the NVIDIA control panel. \"Background application max frame rate\"."
+    },
+    {
+      "author": "No_Firefighter_5795",
+      "body": "Thank you for the advice, I found the issue to actually be Game Mode in windows settings was on, so whenever I opened a game it just throttled down everything else."
+    },
+    {
+      "author": "Spectral_Hex",
+      "body": "Ah! Glad you found it and thanks for reporting back. It can help others find the solution to similar issues."
+    },
+    {
+      "author": "Spectral_Hex",
+      "body": "I've just been reading up on game mode and checked if its on for me. It is but I've never had an issue with it.  \nIt shouldn't be slowing your software down to such a degree that you have problems, especially on an i9.  \n\n\nThis is what it does:  \n\"Uses DXGI flip model to suspend the desktop compositor when running borderless fullscreen (you had to use exclusive fullscreen in the past for best performance/latency), suppresses desktop notification, stops UI updates for modern apps/background apps that are not visible, slightly priorities the foreground game process in cases where CPU load nears 100%.\".  \n\n\nIt really should not be causing you such problems. Is your CPU usage getting to  or near 100% when running these things?"
+    },
+    {
+      "author": "No_Firefighter_5795",
+      "body": "That also was strange to me, on my previous pc I had it on with no issues. But for this build I had heaven benchmark open on maximum settings and my cpu wouldnt pass ~20% usage nor overheating also was noticing in task mgr that when I clicked in game the resources for all other applications dropped to 0-2%"
+    }
+  ],
+  "28": [
+    {
+      "author": "InwardXenon",
+      "body": "Huh, how hard did you hit it? Seems like it's awfully finicky if it was a slight tap and caused this.\n \n \nIf I were you I'd open it up and reseat everything. Especially your RAM since you said your GPU lights are on. Double check your cables, too."
+    },
+    {
+      "author": "RevBladeZ",
+      "body": "Not particularly hard even and the computer was on the other side of the table. Though as I said, this has happened before but before it turned on normally after I pressed the power button so maybe that is why a small bump was enough."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Might be worth moving your PC if a small bump is enough to cause this. PCs are generally a little sturdier, a slight nudge shouldn't do much. But yeah, unplug and replug everything back in."
+    },
+    {
+      "author": "RevBladeZ",
+      "body": "Problem solved. The problem was RAM. One of them was stuck pretty badly and I wonder had that something to do with it. But I moved them to a different slot so now it works."
+    },
+    {
+      "author": "RevBladeZ",
+      "body": "I had it on table in case I accidentally kick it. And it was pretty deep in."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Glad it's sorted."
+    }
+  ],
+  "29": [
+    {
+      "author": "ribspreader_",
+      "body": "what is this \"archive rig\"? and what os did you had , what kind of partition did you had ? was it part of a raid setup ?\n\nright now, beside some thin air, this post doesn't have much to help you."
+    },
+    {
+      "author": "Swingonthechandelier",
+      "body": "Archive rig is my gaming rig, it also handles my archive tasks with the internal 3.5\" drives. \n\nInterface rig is just a laptop connected to the tv\n\nNo raid, windows 10 on both, and i cannot remember what partition type i had, only the one that permitted such large volumes.\n\nIs there a hidden limitation i am unaware of when it comes to usb as an interface?"
+    },
+    {
+      "author": "ribspreader_",
+      "body": "you might have a power issue if you try to plug a 3.5 hdd on a usb port. it would be best to plug the hdd on the psu & on-board sata interface."
+    },
+    {
+      "author": "Swingonthechandelier",
+      "body": "Would this be a concern if the enclosure had its own dedicated power?"
+    }
+  ],
+  "30": [
+    {
+      "author": "TheEthyr",
+      "body": "I assume you mean 25 Megabytes per second, not 25 Megabits per second. That's still only 200 Megabits per second, which should leave you with 100 Megabits per second to spare, assuming your Internet connection is actually capable of running up to 300 Megabits per second.\n\nWhat's your uplink bandwidth? Since you are on cable, it will be much less. You could be congesting the uplink. All communication with the Internet requires some uplink bandwidth, even if most of the data flow is in the downlink direction.\n\nYou may also want to check the logs in the modem and/or router. They may contain messages that may shed some light on what's going on."
+    },
+    {
+      "author": "SANGUB",
+      "body": "i just ran a speedtest 234mbps down, 32mbps up https://prnt.sc/J7y\\_D0trFhuU"
+    },
+    {
+      "author": "TheEthyr",
+      "body": "If that speed test is accurate, then you could very well be congesting your downlink. Cable Internet is a shared medium, meaning that you share bandwidth with other, nearby neighbors. If there are a lot of neighbors, then there may be not be enough bandwidth for everyone to use their Internet connection at their max subscribed bandwidth. This is due to a practice called [oversubscription](https://en.m.wikipedia.org/wiki/Overselling). It\u2019s similar to an airline selling more seats than are available on a plane. \n\nYour max speeds could also be limited by other factors. Your modem could have a weak connection to the ISP. There are guides for interpreting the signal levels available on the modem\u2019s status page. As I mentioned before, you should log into the modem and look at the logs. \n\nYou could try calling your ISP. You could say, \u201cHey, I\u2019m not getting the 300 Mbps I paid for.\u201d Set your expectations low. Many ISPs will tell you something along the lines of, \u201cWe only provide **up to 300 Mbps**\u201d.\n\nIt might be interesting to know whether your devices can still ping each other when the problem is happening. This would help determine if the Internet connection is the problem or the router itself.\n\nIf you do determine that you are simply using up all of the bandwidth that your Internet connection is capable of, you can try turning QoS on the router. QoS can help manage bandwidth usage by devices. How well QoS works depends on the router. Some routers have poor QoS implementations and can actually make things worse. There\u2019s no harm in trying it. You can always turn it off if it doesn\u2019t help. \n\nIn Steam, you can limit the bandwidth used for downloads. You might want to set it something like 150 Mbps. This should leave at least 50 Mbps for everything else."
+    },
+    {
+      "author": "SANGUB",
+      "body": "yeah its weird, i don't live right in the center of the city, so i don't really think that oversubscription might be, i don't have too many neighbors. \n\nAs for the logs, my router interface it's pretty lame, doesn't show too much information, and also don't show any kind of QoS setting.\n\nAnd when the \"crash\" happens, i think im able to ping other devices, because i've tried to login to the router to see what happens, and i can, i go to [192.186.0.1](https://192.186.0.1) and it works, but the logs don't show anything\n\nI guess i'll try calling the ISP, wich i really don't want, but i think i got no other alternative"
+    },
+    {
+      "author": "TheEthyr",
+      "body": "What\u2019s your router model?\n\nDoes the router think the Internet connection is down?\n\nCan the router ping a destination on the Internet? Try pinging 8.8.8.8. This is Google\u2019s DNS server address."
+    }
+  ],
+  "31": [
+    {
+      "author": "Aether_0101",
+      "body": "i hope there are no error in my grammar :)"
+    },
+    {
+      "author": "epicking983",
+      "body": "If you can send it off to a repair shop you should do that, but if you want to replace it manually you will probably need to find a third party supplier that sells replacement screens."
+    },
+    {
+      "author": "Aether_0101",
+      "body": "i want to replace it with myself, what i need to know/search"
+    },
+    {
+      "author": "epicking983",
+      "body": "Searching for some variation of 'Lenovo Legion Y530 replacement screen' should work. As for knowing, know that it can be a fairly difficult process for someone who's never done it before, definitely watch tutorials on YouTube."
+    }
+  ],
+  "32": [
+    {
+      "author": "epicking983",
+      "body": "Most gpus have multiple temperature sensors, the first one is the hot spot (current hottest reading from gpu)"
+    },
+    {
+      "author": "Milosovic",
+      "body": "I  have changed both settings CPU and Sys_Fan 1 (GPU). I just highlighted the wrong one. I wanted to show u that there are only these 2 fans."
+    },
+    {
+      "author": "Milosovic",
+      "body": "Seems logic. Doesn't change the fact that I can't read it through the fan speed software. Guoldwars 2 on highest settings should be very easy for this card. There is no point in going wild on the fan speed."
+    },
+    {
+      "author": "epicking983",
+      "body": "I don\u2019t know what the issue is, the easiest fix would just be to change both sys fan temp input to cpu"
+    },
+    {
+      "author": "epicking983",
+      "body": "Have you adjusted the fan curves in your BIOS?"
+    },
+    {
+      "author": "Milosovic",
+      "body": "I did. But there are only two fans: \nCPU_FAN\nSYS_FAN1\nI guess the second is from the graphics card and I actually ramped it up a bit. For testing I switched it to go 100% on 85\u00b0 Celsius. And the one sensor stays under 85\u00b0 so I have to assume it is taking the second sensor no matter what I do in the BIOS."
+    },
+    {
+      "author": "Milosovic",
+      "body": "[here is the BIOS ](https://ibb.co/Gvr2Lb7)"
+    },
+    {
+      "author": "epicking983",
+      "body": "What brand is your motherboard?"
+    },
+    {
+      "author": "epicking983",
+      "body": "It looks like you are modifying the CPU fan which says it\u2019s taking temperature readings from the CPU not GPU"
+    },
+    {
+      "author": "Milosovic",
+      "body": "Gigabyte B450M H"
+    }
+  ],
+  "33": [
+    {
+      "author": "epicking983",
+      "body": "Are you able to provide any error codes for the BSOD?"
+    },
+    {
+      "author": "ActiveLeader03",
+      "body": "The codes I got were KMODE Exception not handled, hypervisor error, kernel exception, and irql not less or equal"
+    },
+    {
+      "author": "epicking983",
+      "body": "Just to confirm are you able to boot into your OS/BIOS at all?"
+    },
+    {
+      "author": "ActiveLeader03",
+      "body": "I can boot to BIOS and OS but only in safe mode to get to windows"
+    },
+    {
+      "author": "epicking983",
+      "body": "Have you tried manually updating drivers, this may be why start up is limited to safe mode."
+    },
+    {
+      "author": "ActiveLeader03",
+      "body": "Yes, all drivers were just rolled back and manually reinstalled"
+    },
+    {
+      "author": "epicking983",
+      "body": "The error codes also suggest a memory issue, you could try running windows memory diagnostics and/or reseating memory. If that doesn\u2019t work I would suggest looking into those BSOD codes as much as you can."
+    },
+    {
+      "author": "ActiveLeader03",
+      "body": "I\u2019ve tested memory before, 0 errors with memtest 86 and memory diagnostic found no problems either. I\u2019ve been trying to google the error codes and see if I can find anything else but no luck so far"
+    },
+    {
+      "author": "epicking983",
+      "body": "I needa sleep and can\u2019t really help much from here without being being hands-on with the PC, sorry."
+    },
+    {
+      "author": "ActiveLeader03",
+      "body": "You\u2019re good, I was just able to boot into windows without safemode and got a system service exception error after a couple minutes, and I\u2019m going to look into that one for now"
+    }
+  ],
+  "34": [
+    {
+      "author": "epicking983",
+      "body": "Is your uncle aware that most laptop CPUs are soldered to the motherboard and upgrading them is incredibly difficult in most cases?"
+    },
+    {
+      "author": "ItsKixBro",
+      "body": "This one isn't"
+    },
+    {
+      "author": "epicking983",
+      "body": "Could you link the support page that you referenced?"
+    },
+    {
+      "author": "ItsKixBro",
+      "body": "https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/lenovo-b-series-laptops/lenovo-b590-notebook/downloads\nIt says it's a windows 8.1 and 7 download, however the laptop is running windows 10"
+    },
+    {
+      "author": "epicking983",
+      "body": "Given that the manufacturer specified windows 7 and 8.1 I would only undertake this if you are willing to accept the risk of bricking the laptop, the label is probably there for a reason."
+    },
+    {
+      "author": "ItsKixBro",
+      "body": "Ok"
+    }
+  ],
+  "35": [
+    {
+      "author": "Bjoolzern",
+      "body": "From the dump files, my main suspect would be that some OS file got corrupted, possibly during the upgrade. That can happen, we usually recommend clean installs, but that does require wiping the drive which most people are not willing to do without at least trying an upgrade first.\n\nYou could try [running SFC](https://rtech.support/docs/guides/dism-sfc.html) to see what that says."
+    },
+    {
+      "author": "zokuseikyouka",
+      "body": ">Windows Resource Protection did not find any integrity violations.\n\ncan't say i'm too shocked based on the usual results i get \ud83d\ude14"
+    },
+    {
+      "author": "Bjoolzern",
+      "body": "Have you tried just updating all the drivers from Gateway's website? [Their driver page sucks](https://www.gatewayusa.com/support.html), but  the top entry for the GWTN141-10 should be Windows 11 drivers.\n\nIf that fails, wipe the drive and clean install the OS. [Guide here](https://rtech.support/docs/installations). Your choice if you want to try Windows 11 again. This does require a USB stick (8+ GB) and a second PC if your machine is not stable long enough to create the USB installer."
+    },
+    {
+      "author": "zokuseikyouka",
+      "body": "i'll give the drivers a shot! thanks buddy! god i hope this works"
+    },
+    {
+      "author": "zokuseikyouka",
+      "body": "hm so i noted last night from my main acct that updating drivers made my laptop completely shit the bed and it wouldn't get past the windows logo loading screen without bluescreening but i don't see the comment here so i am shrugging loudly\n\ni let my laptop rest for the night and now i can log in and use it again, so i'll report back if i run into a pile of trouble again\n\nedit: literally the second after i posted this comment my laptop froze akin to when it bluescreens i'm starting to think this piece of shit gained sentience and just wants to ruin my day on purpose"
+    }
+  ],
+  "36": [
+    {
+      "author": "DaggerStyle",
+      "body": "Are you using any overclocking software?"
+    },
+    {
+      "author": "Unhappy-Cup-1274",
+      "body": "No, I'm using all stock configuration\nDidn't change anything"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "What are you using to monitor the performance?"
+    },
+    {
+      "author": "Unhappy-Cup-1274",
+      "body": "I was just checking through windows task manager? Is not good? Should i try something else? I don't understand much"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "Task manager won't give accurate information on GPU performance and you shouldn't pay much attention to it. Have you noticed anything wrong with the GPU? For example do the fans ramp up and slow down repeatedly?"
+    },
+    {
+      "author": "Unhappy-Cup-1274",
+      "body": "Not really, but i got the GPU recently and had the task manager open and noticed while playing it on constant peaks and downs between 15% and 45%, got me worried. But nothing noticable while gaming \n\nDo you have any recommendations of programs i can monitor my hardware?"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "MSI afterburner is the most popular option, what brand is the GPU?"
+    },
+    {
+      "author": "Unhappy-Cup-1274",
+      "body": "I will check it out.\n\nThe GPU is an EVGA RTX 3060 XC"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "EVGA have their own software called precision X1, however I have had troubles with it in the past and the GPU division has just ceased operation. If you simply want to monitor your GPU, TechPowerup GPU Z is a good program. I think it's important to remember that your GPU is most likely performing just fine. GPU manufacturers don't bother to design drivers that report accurate information to windows task manager, it's simply not properly integrated."
+    },
+    {
+      "author": "Unhappy-Cup-1274",
+      "body": "I see, i didn't know that. I will keep an eye on GPU Z, and focus more on temperature. I'm a newbie in all this, thank you so much for taking your time to help me and educated me on this :)"
+    }
+  ],
+  "37": [
+    {
+      "author": "waynefan77991",
+      "body": "I saw a small light in the back of the PC flash when I unplugged the PSU and plugged it back in. Near the USB ports."
+    },
+    {
+      "author": "TrueNinjaJosh",
+      "body": "do you know what model motherboard is in it?"
+    },
+    {
+      "author": "waynefan77991",
+      "body": "It's an Asus. I forget the exact name atm"
+    },
+    {
+      "author": "TrueNinjaJosh",
+      "body": "its hard to diagnose it without seeing it. but if i had to guess id say motherboard got damaged unfortunately. last time i had no response from a pc the motherboard was toasted. if your willing to work on it yourself im sure you could get it fixed at a decent price. i buy used parts often and save a lot of $$. you just have to figure out what processor you have so you but the right motherboard thats compatible."
+    }
+  ],
+  "38": [
+    {
+      "author": "NewsOnly123",
+      "body": "Is your gpu seated in properly? It could also be dying"
+    },
+    {
+      "author": "RHA27",
+      "body": "I think it is but I'm going to reseat it.\n\nReally hoping its not dying, I've got less than a year with it \u2639\ufe0f"
+    },
+    {
+      "author": "NewsOnly123",
+      "body": "Where'd you get the card from?"
+    },
+    {
+      "author": "RHA27",
+      "body": "I'm not american but its an an authorized seller, kinda like newegg"
+    }
+  ],
+  "39": [
+    {
+      "author": "Drackconic",
+      "body": "Could be a strong ham radio station nearby? They tend to talk about pretty mundane stuff, and I've definitely had cheap speakers pick up my neighbor's rig in one of the previous places I lived."
+    },
+    {
+      "author": "ReplayLord",
+      "body": "I know the person wasn't from my house ( I didn't recognize the voice and I definitely don't have pizza in the fridge) And my roommate is a freak when it comes to what devices are connected to the router(labeling them and purging ones that are unknown).  Do you think maybe a neighbor's phone not connected to my WIFI network could still reach me?"
+    },
+    {
+      "author": "ReplayLord",
+      "body": "I think this is it? According to haminfo I have \\~10 in my gridsquare. I also looked at Radio Reference  and see a name Joseph and I could have sworn I head the guy say \"goodnight Joey\". This would make sense but I am still skeptical that I can accidently receive a HAM call 17 miles away."
+    },
+    {
+      "author": "ReplayLord",
+      "body": "It is this! Then next morning I could still hear it.  The guy was talking about listening in to channels around here and complaining that whoever has the stronger radio goes first. Guess I need to get a new pair of headphones now."
+    },
+    {
+      "author": "ReplayLord",
+      "body": "Thank you!\n\nUsing internet stalking i found contact info for this man and will send him an email.\n\nIll get back if he responds."
+    },
+    {
+      "author": "Drackconic",
+      "body": "Cool, glad I could be of help figuring it out!"
+    }
+  ],
+  "40": [
+    {
+      "author": "hookonsonic2",
+      "body": "Contrary to what you're assuming, it might actually be the PSU.  That click sound could be one of the protection circuits kicking in due to some kind of short-circuit protection, or maybe something in the PSU is failing (12V rail to GPU, maybe?) and causing itself to power off instantly for protection.\n\nIt's hard to tell if the issue is the PSU or the GPU based on this alone.  This is probably a long shot, but you might be able to test the GPU by installing it without any power cables.  The motherboard power alone might be enough to cause a potential GPU issue to show up again and turn your computer off.  If that does end up happening, then it's the GPU.  If not, then it's hardly definitive enough to give a clear answer.  If you have a spare PSU or GPU, you could try testing those in various combinations to rule one part out."
+    },
+    {
+      "author": "I_Speak_For_the_REE",
+      "body": "I would hope not, since It's a relatively new, Antec HCG 650W psu, good ratings, good rewiews, and it's been working flawlessly for like 1.5 years now"
+    },
+    {
+      "author": "I_Speak_For_the_REE",
+      "body": "The pc still runs with the GPU in the motherboard, and Even if I connect the 6 pin PCI-E connector, it still runs. If I connect 2 out of the 8 pins from my 2-6 split 8 pin connector cable, it still runs, but when I plug in the remaining 6, it dies. But if I quickly remove it, it boots back up"
+    },
+    {
+      "author": "I_Speak_For_the_REE",
+      "body": "Nah GPU do be ded, I believe a mosfet is grilled or something. I doubble checked by putting my card into my brothers system, his system promptly behaved the same as mine. He even has a slightly more powerfull psu"
+    }
+  ],
+  "41": [
+    {
+      "author": "hookonsonic2",
+      "body": "Considering the visual nature of the bug, along with the age and assumed wear of your GPU, I'm going to assume it's a GPU problem.  It's probably not a thermal issue, thought it wouldn't be a bad idea to keep task manager open so you can monitor the GPU temps.\nAlso, is there is specific reason why you downclocked your RAM to 2400MHz?  That CPU should be able to run at least 2933MHz stock."
+    },
+    {
+      "author": "-Isnic-",
+      "body": "For some reason if I tried running it on above 2666MHz it gives me BSOD every 5~10 minutes, but that was a bit back then. I could try it again later.\n\nAlso about the GPU temps, it's pretty normal, 40~50 celsius when idling and 70~85 when used to render something."
+    },
+    {
+      "author": "hookonsonic2",
+      "body": "Looks like your GPU temps aren't the problem.  It's probably just an old, slowly dying card."
+    },
+    {
+      "author": "-Isnic-",
+      "body": "I legit never considered slowly dying card is a thing. Only thought that slowly dying is for HDD only. Thanks, I think that's the answer I'm somewhat looking for."
+    }
+  ],
+  "42": [
+    {
+      "author": "Rahib777",
+      "body": "this is normal for vizio tv's their panels lose functionality over time and start to lose colour and this is a sign of panel is dying and will die soon"
+    },
+    {
+      "author": "No_Recognition_6778",
+      "body": "Is there any way I can fix a panel ?"
+    },
+    {
+      "author": "Rahib777",
+      "body": "its cheaper to throw away the tv and to buy a new one then replacing the panel on it most likely"
+    },
+    {
+      "author": "No_Recognition_6778",
+      "body": "Thank you"
+    }
+  ],
+  "43": [
+    {
+      "author": "Rahib777",
+      "body": "you probably dont have good internet"
+    },
+    {
+      "author": "Mediocre_Spell_9028",
+      "body": "I have decent internet. Not saying its xfinity 6969420 bundle with hypergig faster than f1 speeds, but honestly dont think thats it"
+    },
+    {
+      "author": "Rahib777",
+      "body": "can you show a screenshot or a picture of your computer screen?"
+    },
+    {
+      "author": "Mediocre_Spell_9028",
+      "body": "why?"
+    },
+    {
+      "author": "Rahib777",
+      "body": "it makes it easier for me to diagnose problem"
+    },
+    {
+      "author": "Mediocre_Spell_9028",
+      "body": "do you have discord? you cant share a pic on reddit"
+    },
+    {
+      "author": "Rahib777",
+      "body": "use imgbb or anonfiles"
+    }
+  ],
+  "44": [
+    {
+      "author": "itsamemikeo",
+      "body": "Maybe the config files aren\u2019t deleted when you uninstall it? Try looking on the locations mentioned on [this](https://www.reddit.com/r/overclocking/comments/ldytkp/msi_afterburner_profiles_information_saved_where/) post and delete the config files, then try reinstalling it."
+    },
+    {
+      "author": "Psychological_Ebb674",
+      "body": "I here would I search this up"
+    },
+    {
+      "author": "Psychological_Ebb674",
+      "body": "Where*"
+    },
+    {
+      "author": "itsamemikeo",
+      "body": "File explorer?"
+    }
+  ],
+  "45": [
+    {
+      "author": "OkMany3232",
+      "body": "Did you try the malware guide?"
+    },
+    {
+      "author": "Pihxe",
+      "body": "I did try the malware guide, I fixed part of the problem, I can play some games stutter/lag free now like overwatch, however siege still does not work, I still have stutters, just not as much. I think there is still something else causing problems."
+    },
+    {
+      "author": "OkMany3232",
+      "body": "I suggest a clean reinstall"
+    },
+    {
+      "author": "Pihxe",
+      "body": "A clean reinstall of what? Do you mean reinstalling siege or factory wiping my pc? Or something else?"
+    },
+    {
+      "author": "OkMany3232",
+      "body": "Wiping with USB your PC"
+    }
+  ],
+  "46": [
+    {
+      "author": "BuildTooMuch34",
+      "body": "https://www.gigabyte.com/Motherboard/GA-AX370-Gaming-5-rev-10/support#support-dl-bios"
+    },
+    {
+      "author": "OkMany3232",
+      "body": "Does the old card work? How does it disable the PC for 2 hours ?"
+    },
+    {
+      "author": "BuildTooMuch34",
+      "body": "It worked perfectly fine."
+    },
+    {
+      "author": "BuildTooMuch34",
+      "body": "It disables from random restarting, thinking its a security issue. Also, their cpu's not gpus."
+    },
+    {
+      "author": "OkMany3232",
+      "body": "What happens during the disabled time? It was a typo what happens with the old cpu"
+    },
+    {
+      "author": "BuildTooMuch34",
+      "body": "Well the restarts happened after flash, with old cpu. I can't replicate it anymore since I already sold it, but it happens with both cpu."
+    },
+    {
+      "author": "OkMany3232",
+      "body": "Describe the disabled time"
+    },
+    {
+      "author": "BuildTooMuch34",
+      "body": "You can put in the pin, but says wait for two hours after putting it in. I decided to just reset my pin to get access again."
+    },
+    {
+      "author": "OkMany3232",
+      "body": "Oh the hello too any times error. Run sfc, dism , try this https://www.elevenforum.com/t/remove-pin-from-account-in-windows-11.3302/"
+    },
+    {
+      "author": "BuildTooMuch34",
+      "body": "This doesn't fix my restart problem."
+    },
+    {
+      "author": "OkMany3232",
+      "body": "You have corruption the restarts either caused it or are due to it. I would get hardware health monitoring software with logging enabled."
+    }
+  ],
+  "47": [
+    {
+      "author": "DaggerStyle",
+      "body": "You need to give a clearer explaination...did you try to copy your system drive to another drive?"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "nope, i literally moved the whole desk to the new drive, which i forgot had already system 64 on it"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "What do you mean the whole desk?"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "you know, the whole \"desktop\" the one with the blue square"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "So you copy pasted everything on your desktop to another drive?"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "moved\n\nnot copied"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "Assuming you can't simply Ctrl+Z undo the action I would recommend unplugging the drive and attempting a system restore using the windows recovery tool"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "wouldnt it be easier to just move system to the \"reserved for system\" storage?"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "You can't just move system files from one drive to another"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "well fuck, isnt there a way to put desktop back to its og drive?"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "or perhaps, i could just have system 64 on my desktop"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "If you cant undo the move then your best option is to go back to a restore point, I think Windows creates them automatically after updates. If this fails you could try downloading the windows installer to a drive, boot to the drive and repair the windows installation that way..."
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "just checked, as much of a update i had yesterday, there is no restore point point"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "maybe having system on the desk aint that bad"
+    },
+    {
+      "author": "DaggerStyle",
+      "body": "Are you sure you haven't just created shortcuts to your desktop on the drive?"
+    },
+    {
+      "author": "me_gusta_el_terror",
+      "body": "the 11 gb that dissapeared from c: say it isnt a shortcut"
+    }
+  ],
+  "48": [
+    {
+      "author": "bucking_horse",
+      "body": "Are you using wireless or wired for your devices? Is it fibre optic? Did your parents upgraded the ISP internet package too?"
+    },
+    {
+      "author": "Peenfart",
+      "body": "Wireless, fiber optic, parents know virtually nothing about internet other than it makes stuff load on their phones and Roku. But I also am not sure about the ISP package. Did some more testing earlier, the amount of time I can play each game differs per console oddly, on Oculus, it\u2019s roughly 5-8 minutes or 10 if I\u2019m lucky. On Xbox it\u2019s 15-45 minutes. But yeah, wireless internet, fiber optic cabling, and I doubt they did anything with the ISP"
+    },
+    {
+      "author": "bucking_horse",
+      "body": "So before your parents purchase the new router, were you using fibre optic too? Or was that after they upgraded to new router? It just seems weird for your parents to purchase a new router unless they upgraded the ISP package that comes bundle with new router.\n\nBecause generally, download speed don't just increase even with new router, unless they upgraded their ISP package, maybe from the old copper wired internet to fibre optic internet?\n\nWas there any technician came to your house and install the new router along with maybe some new wire installation?"
+    },
+    {
+      "author": "Peenfart",
+      "body": "Yeah when I got home from work (I\u2019m 17 btw), there were some guys outside setting up what looks like a satellite dish? Like I said not too tech savvy with internet stuff, but not that you say it and I\u2019m thinking about it they probably did do something with the ISP. I just know the new ones bulkier and we have an actually satellite dish installed on our house wall, and everything on the planet downloads faster now."
+    },
+    {
+      "author": "bucking_horse",
+      "body": "Then I'm pretty sure your parents upgraded the internet package, but now the problem is going to be trickier, the ppl that did the installation probably didn't do full diagnostic on the fibre optic stability hence the issue.\n\nDid you notice when you try to connect to your wifi, there's 2.4 ghz and 5 ghz? You can try connect to both of them and see the result, but depending on the distance, 2.4 ghz is better for far distance, and 5 ghz for close distance.\n\nIf both ghz still have issues, try to connect using wire from your router to your Xbox.\n\nOh, try to at least restart the router once before connecting to it."
+    },
+    {
+      "author": "Peenfart",
+      "body": "Tried restarting the router a few times, it\u2019s 5ghz so that might be the issue? Not sure. Are there any fixes you can think of I can do without destroying the actual router or?"
+    },
+    {
+      "author": "bucking_horse",
+      "body": "Did you try to use the 2.4 ghz wifi? It could be more stable than the 5 ghz."
+    },
+    {
+      "author": "Peenfart",
+      "body": "I\u2019m gonna be completely honest and say I have no clue how to do that. However, I did get into the admin page on my router, and I looked at my settings. There is no packet loss, no issues even up to 252 packets, no packet loss. I tried doing a trace route on the IPV6 but it says it\u2019s not connected at all, and I\u2019m not smart enough to figure that out. I don\u2019t see an option to switch to 2.4 ghz"
+    },
+    {
+      "author": "bucking_horse",
+      "body": "What version of Xbox you have? You only have disconnect issue with Xbox yeah?"
+    },
+    {
+      "author": "Peenfart",
+      "body": "I have an Xbox One S, and a Oculus Quest 2, both have issues. On my oculus, online games disconnect roughly 5-8 minutes after starting the game, where the Xbox allows 10-20 minutes before resetting whatever online game I\u2019m doing. I did three tests on Oculus, with Rec Room as a control group. Originally it was about 10 minutes, and is now down to 5. Every five minutes on the dot it will automatically disconnect me from the game and send me back to the main room. Vr Chat allows for about 8 minutes of game time before sending me back to the main hub area. And Pavlov allows for about the same time before sending me back to the Main Menu. OW allows roughly ten minutes before disconnecting audio, then about 5 minutes of lag heavy game time before sending me back to the login screen. I plan on recording these and doing packet tests all the while."
+    },
+    {
+      "author": "bucking_horse",
+      "body": "Ok so, when you open up your Xbox wifi settings to see the list of wifi name, do you see two of your house wifi name? One is probably normal name, and the other is same name but with 5G behind it? Or it could be one with 2.4G and the other is 5G.\n\nIf you do see both of them, try to connect with opposite whichever you're connecting."
+    },
+    {
+      "author": "Peenfart",
+      "body": "No, there is only the network that uses 5GHz. The NAT type is strict and it says UPnP is not successful. It uses IPV4. With our last internet it had a 5g option. \n\nWhen I check connection it says I\u2019m connected (obviously). \n\nWhen I check speed and statistics it says I have 0 packet loss and a wireless strength of 100% as well as a latency of 107ms. My MTU IS 1460 and my download speed is 153.30. (All significantly better than the last internet.) \n\nTesting Multiplayer Connection - \n\n- \u201cYour network is good, but there may be matchmaking issues.\u201d \u201cYour NAT type is \u2018Strict\u2019. If you\u2019re currently having trouble connecting to other players on XBOX multiplayer/matchmaking, try resetting your NAT type again. If that doesn\u2019t halo, try alternate port selection.\u201d If I\u2019m being honest I don\u2019t know how to do either of those\u2026 \n\nAdvanced Settings - (don\u2019t think I should share my IP and DNS stuff)\n\nBut it does say I\u2019m using IPv4 and I should look into IPv6. But I\u2019ve been using IPv4 regardless of my internet because I don\u2019t have a choice."
+    },
+    {
+      "author": "bucking_horse",
+      "body": "You can try to enable the NAT by accessing your router settings by using any web browser and type in [192.168.0.1](https://192.168.0.1) in the address, from there you can try to enable the NAT yourself and also try to setup the 2.4 ghz wifi.\n\nIf the router page require username and password, it can either be empty or its admin/admin, and if it isn't then you might need to check if its written on the router, if no, then you had to call up your ISP for help.\n\nBut from here on its probably difficult for me to guide you on because different router have different configuration, you gonna need to google your router model and look for guides on how to open up the NAT.\n\nOtherwise, the simplest way is to try connect your router to your Xbox using wire cable if thats possible.\n\nAnother way is to try to change your DNS in the router settings, the Primary and Secondary DNS, which is from auto to [8.8.8.8](https://8.8.8.8) and 8.8.4.4."
+    },
+    {
+      "author": "Peenfart",
+      "body": "Ok I will try those, what does changin my DNS do in regards to 8.8.8.8 / 8.8.4.4? And I will keep you updated. And the router is in the second floor of my home wherein I\u2019m on the ground floor"
+    },
+    {
+      "author": "Peenfart",
+      "body": "(The guys put the \u201cdish\u201d up high, and it\u2019s right through the wall into our upstairs guest/living room)"
+    }
+  ],
+  "49": [
+    {
+      "author": "act-of-reason",
+      "body": "Windows Live Mail is no longer supported by Microsoft, the last time I tried it wouldn't connect to my email account and I've since abandoned it for Thunderbird.\n\nYou may have luck scanning for your emails with an archiving program like [MailStore Home](https://www.mailstore.com/en/products/mailstore-home/)."
+    },
+    {
+      "author": "caspycazza",
+      "body": "I know it is no longer supported by microsoft but inhave been using it for years then wham, today, would not open. I have so many folders in the program (?) That I wish to keep, so you reckon i can get them via mailstore home? Will it show my folders? Or are they lost to me forever? Why would the live mail not work all of a sudden?"
+    },
+    {
+      "author": "act-of-reason",
+      "body": "It's possible either the program or your mail files got corrupted.  You can try to reinstall the program using the installer from [Archive.org](https://archive.org/details/live_essentials_2012) but I would use MailStore Home first to archive your mail files in case reinstalling WLM erases your mail files.\n\nEdit: [correct link](https://archive.org/download/windows-essentials-2012-disk-images/Windows_Essentials_2012.iso/WLSETUP_.EXE), the other link is German."
+    },
+    {
+      "author": "caspycazza",
+      "body": "ok,downloaded mailstore. No idea how to use it. Have gone into help...can you import emails into thunderbird?"
+    },
+    {
+      "author": "act-of-reason",
+      "body": "Yes, you can also import to Thunderbird."
+    },
+    {
+      "author": "caspycazza",
+      "body": "I tried but there is no option for windows live mail. Seeing how I cant open wlm I have resigned myself to losing everything :("
+    },
+    {
+      "author": "act-of-reason",
+      "body": "In Mailstore select Archive email, then Windows Live Mail, then Finish.\n\nDouble-click the Windows Live Mail entry to start archiving based on the default location.  If it finds any mail it will be in My Archive on the left."
+    },
+    {
+      "author": "caspycazza",
+      "body": "all good, will see how it goes"
+    }
+  ],
+  "50": [
+    {
+      "author": "TrueNinjaJosh",
+      "body": "what graphics card are you using? if you can swap where they are plugged in for example if your plugged into two display ports, unplug and plug them into the opposite plug to see if you get the same affect now on the other screen. may be a damaged port. if it is a driver issue i would recommend running DDU to fully uninstall your driver and the manually download the latest driver form whichever brand card u have (amd or nvidia)."
+    },
+    {
+      "author": "Revolutionary-Ebb457",
+      "body": "I have an MSI Ventus RTX 3060, and also I just swapped the cables around, both monitors are fine and have not shown any signs of the issue. Before I did this it would glitch out very slightly on the bottom row of the screen, which progressed to the full screen glitching. But when I swapped the cables around there was no sign of the glitch at all."
+    },
+    {
+      "author": "Revolutionary-Ebb457",
+      "body": "Since swapping the cables showed no signs of tom foolery, I\u2019m going to swap the cables back to their original monitors and try again, maybe was just a loose connection?"
+    },
+    {
+      "author": "Revolutionary-Ebb457",
+      "body": "I appreciate the help, swapped the cables back round and now it\u2019s fine. I believe it might have been a loose connection, which is weird considering I\u2019ve tried reseating the cable in both monitor and gpu side. Hopefully this has fixed it"
+    },
+    {
+      "author": "TrueNinjaJosh",
+      "body": "sometimes a wire becomes fragile in the cord. if it happens again i would try a new cable."
+    },
+    {
+      "author": "Revolutionary-Ebb457",
+      "body": "Woke up again today, monitor started doing the artifacting again, didn't have another Display port cable to replace the old one, so for the moment I'm using HDMI, I have ordered a new cable, and will see how that turns out."
+    }
+  ],
+  "51": [
+    {
+      "author": "knotre",
+      "body": "From the specs page:\n\n\n>SATA5 and SATA6 ports will be unavailable when installing a M.2 device in M.2 slot.\n\nThe [support page](https://www.msi.com/Motherboard/B450-TOMAHAWK/support) has the manual available if you need the locations and naming of the ports."
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Oh interesting, so is there a SATA4 slot I can move it to? Is that a thing"
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Like if I just moved my HDD to the fourth SATA port would all be well?"
+    },
+    {
+      "author": "knotre",
+      "body": "You have 6 sata ports total, but can only use 4 with a M.2 drive installed. If my math is correct 3 < 4 so you should be able to use your 3 sata drives and the M.2 at the same time. You just can't use sata5 and sata6."
+    },
+    {
+      "author": "knotre",
+      "body": "Should be if it was in 5 or 6 before."
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Yeah I just didn\u2019t know if sata# was defining like a kind of SATA port or an amount of SATA port, thank you dude you are the goat"
+    },
+    {
+      "author": "knotre",
+      "body": "Sounds like you sorted it out. Have a good one!"
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Haven\u2019t tested it yet but I have faith that that will work"
+    }
+  ],
+  "52": [
+    {
+      "author": "XmentalX",
+      "body": "Move the modem down next to the telecom module run a rj45 from its line out to the modem and hook the router to the modem you could then even use the former rj45 line to run from the route to hardwire up to your room run a switch off it up there and hardware multiple devices etc."
+    },
+    {
+      "author": "Goleveel",
+      "body": "Thank you! As this is Verizon fios I don't need a modem, just a router works, which is in the bedroom. Wifi from that router doesn't reach my computer in the basement. So am trying to hook it with the ethernet cable."
+    },
+    {
+      "author": "XmentalX",
+      "body": "Ah I misread your post, running 2 routers off 1 modem can get sticky you may be better off going mesh."
+    },
+    {
+      "author": "Goleveel",
+      "body": "Got it."
+    }
+  ],
+  "53": [
+    {
+      "author": "thewildbeej",
+      "body": "okay wait the new one isn't charging or the old one?"
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "Not sure if you\u2019re being serious. Yes I have"
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "The brand new one. The old one stayed at the Apple Store I guess"
+    },
+    {
+      "author": "thewildbeej",
+      "body": "I mean the 2022 model or the touchbar."
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "2022 model"
+    },
+    {
+      "author": "thewildbeej",
+      "body": "Just get it replaced. You have less than a month before your year orignal warranty is up (not sure if it starts over with the replacement or not.) Better not test that theory. Just get it replaced. and question what you're plugging it into because it sounds like you keep frying the charging someway or somehow. If it wasn't under warranty I'd suggest resetting smc but it's under warranty so let them do that and make sure you get it in writing if the say that fixed it that if you experience the same problem if they'll replace the laptop before you warranty expires. You are not responsible for running test until 13 months."
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "I have gotten it replaced, and they told me they wont do anything about it if I bring it back with the same problem"
+    },
+    {
+      "author": "thewildbeej",
+      "body": "Well...try. Whats the worst that's gonna happen. You have a warranty if they bitch ask to speak to someone in charge. Two laptops, either youre extremely unlucky or you're fucking something up. I'd encourage you to make sure to use the ground plug on your charger instead of the just two prong flip out ones."
+    },
+    {
+      "author": "thewildbeej",
+      "body": "another question can you charge it via usb-c? Is it just magsafe's issue or can usb-c work?"
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "Haven\u2019t tried this. I\u2019ll buy one tomorrow and test it out. Thank you!"
+    },
+    {
+      "author": "thewildbeej",
+      "body": "If it doesn't work...you can try resetting SMC. If that doesn't work there's a small chip that takes the charge and disperses it throughout the computer and you'd fried that just speak to someone about it. If you need to take photos on your charging set up (the outlet, how you plug it in, etc.) and if you're not doing anything insane they should hopefully understand and replace it. I don't care what they say. Also, if they give you shit say you're going to call applecare and speak with someone else. Let me know what the USB-c does and we can maybe break down the next steps from there."
+    },
+    {
+      "author": "One_Day_6391",
+      "body": "Thank you so much! I\u2019ll let you know once I have the USB-C cable."
+    },
+    {
+      "author": "thewildbeej",
+      "body": "Also in the meantime read this article. Try charging with the lid open. Also you said they replaced the charger but did they replace the magsafe cord because i read where someoen replaced that and it fixed the  issue. Not the chargers but the cables that plug into it. (which makes sense being the only common denominator not checked out replaced to this point.) [https://www.makeuseof.com/apple-macbook-pro-magsafe-charging-issues/](https://www.makeuseof.com/apple-macbook-pro-magsafe-charging-issues/)"
+    }
+  ],
+  "54": [
+    {
+      "author": "ILoveThisMadWorld",
+      "body": "Also tried windows' own thingy for this but it said I needed a supported mouse"
+    },
+    {
+      "author": "Fearless_Minute_4015",
+      "body": "Autohotkey is amazing if you're in an environment that allows 3rd party software"
+    },
+    {
+      "author": "ILoveThisMadWorld",
+      "body": "Okay, can you tell me the script for this command then cause I don't know how to use this. And apparently I need it to be the \"loop\" function"
+    },
+    {
+      "author": "ILoveThisMadWorld",
+      "body": "I just got chatgp to make me the following\n\n#IfWinActive,\n\nRisk of Rain 2\n\n{r\n\nSend Loop 50\n\n{\n\nLButton:: down}\n\nIf GetKeyState(\"LButton\", \"p\")\n\nSend {r} Sleep 50\n\n} Else\n\n{\n\n\n}\n\nbreak\n\nSend {r up} return\n\n#IfWinActive\nBut it doesn't really work, just does the thing like a couple times then stops"
+    },
+    {
+      "author": "ILoveThisMadWorld",
+      "body": "I changed it a little bit and it seems to work now, thanks for the recommendation u/Fearless_minute_4015"
+    }
+  ],
+  "55": [
+    {
+      "author": "Rahib777",
+      "body": "lhr only does that for miners... but do you have any extremely sketchy software on your pc?"
+    },
+    {
+      "author": "NoVaPugNinja",
+      "body": "Nope, only applications from very trusted sources"
+    },
+    {
+      "author": "Rahib777",
+      "body": "is your graphic card slotted in properly?"
+    },
+    {
+      "author": "NoVaPugNinja",
+      "body": "I believe so, it\u2019s in the top slot if that\u2019s what you mean, it\u2019s also screwed in the side of the case with the tab clicked down on the other side"
+    },
+    {
+      "author": "Rahib777",
+      "body": "i guess you should try a reformat and then reinstall and see if that fixes it"
+    },
+    {
+      "author": "NoVaPugNinja",
+      "body": "Ok thanks for your help"
+    }
+  ],
+  "56": [
+    {
+      "author": "xendistar",
+      "body": "Were you sharing your photo's and videos with Google photo's, if so just go online to google photo and download them from there"
+    },
+    {
+      "author": "Inevitable-Manner-25",
+      "body": "I have an I phone now haha. Good to know tho"
+    },
+    {
+      "author": "Inevitable-Manner-25",
+      "body": "Never had it saved on google acc"
+    },
+    {
+      "author": "Inevitable-Manner-25",
+      "body": "Nope :/"
+    }
+  ],
+  "57": [
+    {
+      "author": "Gnkey",
+      "body": "Well, then setup a remote access between both of your computers (for example, Team Viewer or whatever similar and allow to use free for a trial period) and keep it running until folder is transferred"
+    },
+    {
+      "author": "M3nt1l_",
+      "body": "thanks we'll try that too!"
+    },
+    {
+      "author": "M3nt1l_",
+      "body": "Alright we will try that. I'll let you know if it worked"
+    },
+    {
+      "author": "M3nt1l_",
+      "body": "Thanks for this! Works really well and we will be using it more often!"
+    }
+  ],
+  "58": [
+    {
+      "author": "Qweer_Deer",
+      "body": "Rebooting wifi didn't help\n\nI went to uninstall wireless adapter but I don't see anything with that name.\n\nI do not see a \"network and sharing center\" option to select. When I try to view available networks all it does is show the panel by the wifi icon and say \"network & internet settings change settings, such as making a connection metered\""
+    },
+    {
+      "author": "Gnkey",
+      "body": "If you don't see wireless adapter listed in \"Device Manager\" - \"Network adapters\" - then, for whatever reason, it is not detected by the computer. If this is a laptop - make sure you didn't, by mistake, turned off wireless adapter (either by pressing physical switch /push button) or via keyboard keys (functional keys at the top raw)."
+    },
+    {
+      "author": "Qweer_Deer",
+      "body": "It's not a laptop, my stepdad has tried reinstalling(idk if that's the right way to put it) the stuff for my wireless connecter thing but it didn't help. I had no issues with this on windows 7 and it works on his pc which uses windows 10"
+    },
+    {
+      "author": "Gnkey",
+      "body": "Is, by any chance, your \"wireless connector\" a device that you plug into your computer USB port? If so - and considering that you used Windows 7 for quite a while - this wireless USB adapter may has no drivers for Windows 10 (due to being so old) and you would need to buy a new wireless adapter."
+    },
+    {
+      "author": "Qweer_Deer",
+      "body": "It does connect via USB. As I said previously, my stepdad tried it on his much newer computer also using Windows 10, and it works fine. I have not tried connecting it directly to the router, but right now, I'm unable to try that out"
+    },
+    {
+      "author": "Gnkey",
+      "body": "I guess, I missed that adapter was connected and tested on a different computer with Windows 10. Then , no doubt, it should work on your computer as well. So, when adapter is plugged into USB port - you should see it listed in \"Device Manager\". If you don't see it listed - plug it into a different USB port (try a few USB ports) - it should show up in \"Device Manager\". If it shows and has no exclamation mark - you should be able to use it right away. If it shows with exclamation mark - it needs proper driver."
+    },
+    {
+      "author": "Qweer_Deer",
+      "body": "I'll give it a go and get back to you"
+    },
+    {
+      "author": "Qweer_Deer",
+      "body": "I plugged in the device to a port and it popped up, no exclamation marks. I Uninstalled it didn't check the box and restarted my pc. Now I can see the list of wifi I can connect to but it still won't let me connect. \n\n\"Can't connect to this network\" is what it tells me. Everyone else is working fine on it my pc is the only one having issues"
+    },
+    {
+      "author": "Gnkey",
+      "body": "Go to Windows 10 \"Settings\" - \"Network...\" - \"Wi-Fi\" - known networks - find your own home network on the list and click on \"Forget\". Now go to the low right corner of the screen and try connect to the network again (make sure password is correct, it is case sensitive)."
+    },
+    {
+      "author": "Qweer_Deer",
+      "body": "I do not have a wifi option or any option to forget a wifi. When I try to open up the panel to show available networks, none of them pop up. \n\n\nI checked the status of the wireless device and it now has an exclamation point. \"This device is not working properly because windows cannot load the drivers required for this device. (Code 31)\n\nObject name already exists.\" \n\nI tried to update it but it says I have the best drivers for the device"
+    },
+    {
+      "author": "Gnkey",
+      "body": "If you can look up at your wireless adapter - it should have a sticker or somewhere it should have written exact model number. What is it? I can then find proper driver for the adapter and post a link to it."
+    }
+  ],
+  "59": [
+    {
+      "author": "No-Way3489",
+      "body": "Even on your Apple iPhone?"
+    },
+    {
+      "author": "lKreed",
+      "body": "If I connect to the wifi and open Google, yes, under the search bar it says \"google offered in...\" Something in Urdu. \n\nAlso, in the left down corner, where your location is shown, it says \"Pakistan\" :)"
+    },
+    {
+      "author": "No-Way3489",
+      "body": "Where do you live? Do you use any anti-virus software? How long have you been having this issue for?\n\nAre there any ISP forums you could check up on to see if other people are experiencing this? There might be some routing issues going on.\n\nWhat does the hostname website report as your hostname after the @? Is it something you recognise? Your ISP name and country extension?"
+    },
+    {
+      "author": "lKreed",
+      "body": "I noticed this about 2 days ago, when I wasn't able to access YouTube music due to their services not being available in my country (they are), but I thought it's an issue on Google's side or something, so I just let it be. \n\nI'm sure this issue has nothing to do with the ISP, because why would I not be able to open a notification from windows defender? \nOr why was I unable to reset the pc from the settings? (Had to do it from the boot menu)"
+    }
+  ],
+  "60": [
+    {
+      "author": "404OWLS",
+      "body": "I was on the phone with Dell tech support with quite a long time until they eventually suggested I return or exchange my laptop. Luckily I just got it yesterday so I can do that, lol. But it was very kind of you to take the time out of your day to help, thank you so much! I will definitely keep this advice in mind if something similar happens in the future"
+    },
+    {
+      "author": "rekabis",
+      "body": "I just realized - OP should try an external keyboard.\n\nAny BIOS keyboard rebinding would likely only work for the built-in keyboard attached directly to the motherboard. It should _not_ affect any external USB keyboard.\n\nTheoretically, an external USB keyboard - especially a normal full-sized one - should allow him to hit SHIFT+F10 without any issues."
+    },
+    {
+      "author": "rekabis",
+      "body": "I would still take the avoid-network route even if your next laptop is working just fine and does indeed see the network. \n\nWhy? So you can use the next step, and set up a local account in order to ignore the requirement for a Microsoft account.\n\nUsing a Microsoft Account is potentially dangerous, as that depends on the security of that account. And since Microsoft limited password length to 16 characters for so long (up until a few short years ago, AFAIR), many accounts are still woefully unprotected, and ripe for cracking by bad actors. And once your Microsoft account is cracked, you really don\u2019t have an easy way back into your physical computer other than a wipe-and-reinstall.\n\nHonestly, use only a local account with a decent password. There are other tools that can back your data up to the cloud, or track your laptop if it ever gets stolen."
+    },
+    {
+      "author": "404OWLS",
+      "body": "I actually stumbled upon some forum discussions about this topic when trying to troubleshoot my laptop. Pretty scary stuff I\u2019d never heard of before. Thank you for the warning!"
+    },
+    {
+      "author": "rekabis",
+      "body": "There are two different levels of Microsoft account integration:\n\n1. Superficial, such that your Office documents are automatically saved to OneDrive and so forth\n2. Integrated, such that you log onto your computer using your Microsoft account instead of a local account\n\nThe first is annoying for privacy purists, but OK. In fact, because your Office subscription/key is connected to your Microsoft account, you kind of have no choice if you want to run Office in any way that allows you to port your license if you change computers.\n\nThe second is the scary one. If your Microsoft account is ever compromised and your password changed, you are suddenly locked out of your own computer. It gets even worse if you have Bitlocker enabled, as your stuff is then encrypted and impossible to just yoink off the drive.\n\nWhich is why you always want to be able to create a local account on system setup. You can always log into your Microsoft account through the Windows 10/11 system settings such that it is _hooked into_ your local account in that superficial method, but _you definitely want that local account._\n\nGood luck with your next laptop!"
+    }
+  ],
+  "61": [
+    {
+      "author": "pcbeg",
+      "body": "Although it is possible to use usb to transfer data directly on two computers - it require special cable called USB-to-USB bridging cable and it comes with it's own software, I suspect that you just plugged some usb cable."
+    },
+    {
+      "author": "Pablo2307",
+      "body": "Yep thats what i've done i didnt knew there was different types of usb to usb cables thanks!"
+    },
+    {
+      "author": "pcbeg",
+      "body": "If both devices are connected to the same network, create and share folder (set permissions to both write and read) on a notebook, and transfer files from pc there. It will be slower than direct transfer, but probably faster then waiting for correct usb cable."
+    },
+    {
+      "author": "Pablo2307",
+      "body": "I did it like in some tutorials but they also don't appear even when I set all permissions lol"
+    },
+    {
+      "author": "pcbeg",
+      "body": "Try typing name of the computer directly in explorer bar, preceded by \\\\ \n\nsometing like \\\\ComputerOne (see exact computer name in computer properties). It should ask you for username/password and then shared folders will be visible."
+    },
+    {
+      "author": "Pablo2307",
+      "body": "Thanks! solved!"
+    }
+  ],
+  "62": [
+    {
+      "author": "TehWildMan_",
+      "body": "Its enabled by default for all 2-person conversations where both parties have RCS enabled."
+    },
+    {
+      "author": "Leather-Jackfruit-86",
+      "body": "Ok ok Is it just me or is this new?"
+    },
+    {
+      "author": "TehWildMan_",
+      "body": "It started rolling out in late 2021, and about last month it was expanded to group conversations on a limited rollout basis"
+    },
+    {
+      "author": "Leather-Jackfruit-86",
+      "body": "I just don't get the point of it. Why do we need encrypted messages all of a sudden? It's like we're secretly under a cyber attack"
+    },
+    {
+      "author": "TehWildMan_",
+      "body": "There's not really any reason not to, and end to end encryption is a very common feature for messaging services, to the point where it's expected to be available"
+    }
+  ],
+  "63": [
+    {
+      "author": "StillLemon2",
+      "body": "This would be related to an application that you've installed that is \"stealing\" focus periodically.  This would not be directly related to \"Windows 11\".  If you notice this occurring at a consistent interval, such as every 1 hour exactly, it is most likely some sort of scheduled task a program is executing, causing something to launch a new window, which results in the new application taking focus."
+    },
+    {
+      "author": "X99MYKE",
+      "body": "Nah its 100% since installing windows 11. Ive had this PC 3 years, its never been a thing before. Now its constant. When it tabs out, nothing else appears to 'pop up' or take focus. I never have other windows/tabs/applications open whilst playing games. Im just instantly greeted by my desktop, and i can instantly tab back into the game, Its just the mild annoyance of it."
+    },
+    {
+      "author": "StillLemon2",
+      "body": "100%?  You have installed a fresh copy of windows and installed *only* the application you're experiencing issues with, and have confirmed the issue exists on a fresh-installation of Windows 11?"
+    },
+    {
+      "author": "X99MYKE",
+      "body": "Why would I reinstall windows. Why you making something so simple sound difficult lol. I've had the pc 3 years on windows 10. I've played the same games for 3 years, 100s of games on steam, league of legends for not far off 10 years as well as other BR games. Random minimzes to desktop has never been a thing or an issue unless I purposely alt tab.\n\nA week ago a message pops up saying I can upgrade to win 11 so I do. Ever since my games will randomly minimize to desktop. Evidently there's a setting or 'feature' or something windows 11 is doing to take me to desktop repeatedly without me comitting an action. I ignored it the first 10 times because think maybe weird bug, maybe I accidently caught windows key etc etc. However after a week of it evidently something else is happening. I literally have no other applications open or tabbed when I play.\n\nNot sure how many ways youd like me to cut this cloth"
+    }
+  ],
+  "64": [
+    {
+      "author": "Ouellette023",
+      "body": "Thank you for the suggestions!\n\nI\u2019ll need to research the KVM switch.\nWould i run two short HDMI from my graphics card to the KVM. Then two to my two monitors in the basement and then additional hdmi to the rooms upstairs?\n\n\nHow would I hook up my mouse and keyboard for the PC?\nAny suggestions on increasing the range for Xbox controller?\n\n\nThanks again!!"
+    },
+    {
+      "author": "Minimum_Front102",
+      "body": "Sorry I spaced that you had both pc and Xbox lol. Same idea;\n\nPc gets 2+ ethernets ran to it, one for video unless you're doing dual monitors or something, and one for dual USB 2.0. Might be able to do a single USB 3.0 too, never tried. Some combo wireless keyboard mouse combos share a receiver if you don't want to run multiple ethernets for more USBs, or you can try a USB hub to split the signal to multiple USB devices instead of running multiple ethernets. I would use a powered hub.\n\nTvs have input generally so just swap from HDMI 1 or 2 to go between pc and Xbox."
+    },
+    {
+      "author": "Ouellette023",
+      "body": "If the run is less than 100\u2019 would I be better off using an hdmi cord?\n\nHow would the connection look from my PC?\n\n\nMy current connection is one monitor through display port, one monitor through hdmi, m&k through usb, and sound through my headset.\n\n\nMy internet is hardwired.\n\n\nThanks!!"
+    },
+    {
+      "author": "Minimum_Front102",
+      "body": "Ethernet to hdmi converters plus cable is a lot cheaper than a 100ft hdmi, and you can do much smaller holes through walls and floors. \n\nBut what resolution do you want to run though? If its an 8K 3d 240hz (being silly for emphasis) then you may need a better cable than 4k120, 4k60, or 1080p. If you need higher capabilities, might be better with an hdmi cord but I haven't read the specs on cat 5E/6/7+ for hdmi conversion in a while. I do know 4k60 is fine over ethernet, higher though IDK.\n\nYou can adapt DP to hdmi too so that doesn't matter much."
+    },
+    {
+      "author": "Ouellette023",
+      "body": "Ok, so should I use a splitter? What would be the best way to make it easy to swap between my pc monitors and my two tvs upstairs?\n\nHDMI / DPI from graphics card to splitter. Two HDMI from splitter to computer monitors. Two Ethernet to upstairs TV 1. Two Ethernet to upstairs TV 2?"
+    }
+  ],
+  "65": [
+    {
+      "author": "pcbeg",
+      "body": "Simplest way is with windows power options (old), you can set minimum and maximum cpu speed in percentage."
+    },
+    {
+      "author": "Feisty-Pay-5361",
+      "body": "I did this already but looking at the frequency reports in Armory Crate they are not affected at all (I knocked the Maximum down to like 75% while it was at 100%, still boosting to 4ghz.)"
+    },
+    {
+      "author": "pcbeg",
+      "body": "Few years ago I have used throttlestop and it was good, check if it is still maintained."
+    },
+    {
+      "author": "pcbeg",
+      "body": "I have tried again, and it still works with i5 10501U, here is screenshot of parameters that were enough to slow it down https://imgur.com/a/uqhaLMQ"
+    }
+  ],
+  "66": [
+    {
+      "author": "Wackydude1234",
+      "body": "The only way they would be able to see something on your computer is if you were joining their domain and they pushed policies to your computer, or you installed something like InTune and even then it would only show work/school profile related stuff.\nI don't see anything in the college I work at on peoples personal computers when they're using their 365."
+    },
+    {
+      "author": "Stressed_Reader",
+      "body": ">If you are signed into OneDrive, the default would save your Desktop/Documents/Pictures folders to the cloud, and can be accessed by the school\n\nDo you mean onedrive for business with the school account? I'm currently only signed in to onedrive with my personal account as seen in the first image (.gmal)\n\nI don't even think that I downloaded onedrive for business."
+    },
+    {
+      "author": "Stressed_Reader",
+      "body": ">joining their domain\n\nWhat is this and how is it done?\n\n>when they're using their 365.\n\nHere's the thing. It's not my 365. I used my school acc to download it. You can check everything in the post link."
+    },
+    {
+      "author": "Wackydude1234",
+      "body": "If you're just logging in to your school account and downloading it then all you're doing is telling it that you have an active subscription. you're fine."
+    }
+  ],
+  "67": [
+    {
+      "author": "wmmra",
+      "body": "Usually a bad main board, Apple store isn't gouging you on this one, it'll only get worse."
+    },
+    {
+      "author": "rosemarythyme5",
+      "body": "what if I just continue to use as is and if it gets way worse I replace the screen? it won\u2019t get more expensive to replace right"
+    },
+    {
+      "author": "wmmra",
+      "body": "The screen isn't the issue, Macbooks have fully integrated main boards, it's not a screen issue."
+    },
+    {
+      "author": "rosemarythyme5",
+      "body": "Oh the only reason I said that is because the apple store offered the repair of the screen."
+    }
+  ],
+  "68": [
+    {
+      "author": "Bill_Smith241",
+      "body": "My best bet would be to simply reinstall windows and keep your files / documents. If you cannot physically detect the SSD, try reseating the drive as the other gentleman noted, and if possible format the drive(s)."
+    },
+    {
+      "author": "Mattgames0425",
+      "body": "I\u2019ve attempted to reinstall windows back o to that drive but it gives me a warning that the things on that partition will be removed and if possible I would want to keep those files as much as possible"
+    },
+    {
+      "author": "Bill_Smith241",
+      "body": "So currently, you are unable to boot into windows at all?"
+    },
+    {
+      "author": "Bill_Smith241",
+      "body": "Are you able to remove the other drives, remove the sata & power to the drives with no data and try and install only one the M.2?"
+    },
+    {
+      "author": "Mattgames0425",
+      "body": ">Comment as Mattgames0425\n\nCurrently if there isn't my external drive with a windows media on it i'm forced to a screen that says an operating system wasn't found press ctrl + alt + del to restart but if i go to BIOS it still lists the drive as the first BOOT Option"
+    },
+    {
+      "author": "Bill_Smith241",
+      "body": "Interesting, so your BIOS detects the drive but windows itself doesnt boot. It does sound like windows somehow got corrupted. Usually after two failed attempts to start your OS windows should give you a screen with the following: [https://imgur.com/a/tUTkMiT](https://imgur.com/a/tUTkMiT)  \n\n\nYou are able to, or unable to reach this screen?"
+    },
+    {
+      "author": "Bill_Smith241",
+      "body": "You could install windows installation media on a thumb drive, boot into that thumbdrive and in the bottom left of the installation media page you should see a \"Repair windows\" option: [https://imgur.com/XuBxDAm](https://imgur.com/XuBxDAm)"
+    },
+    {
+      "author": "Mattgames0425",
+      "body": "I was able to get to this screen yesterday through attaching my USB with a windows install medium and selecting to repair but otherwise I have not been sent here"
+    },
+    {
+      "author": "Mattgames0425",
+      "body": "Apologies I just got back from work when I do this and get to advanced settings I can\u2019t really do much from there as there is no option to launch in safe mode"
+    },
+    {
+      "author": "Bill_Smith241",
+      "body": "If you can get the the \"Choose an option\" screen, you should be able to click troubleshoot, advanced, boot options and boot into safe mode (With internet) and there try to boot into safe mode and do some investigating on formatting, updating drivers"
+    }
+  ],
+  "69": [
+    {
+      "author": "StillLemon2",
+      "body": "I would suggest downloading the bluetooth drivers from your laptop's manufacturer website."
+    },
+    {
+      "author": "TinyLetterhead1831",
+      "body": "didn't fix the issue"
+    },
+    {
+      "author": "StillLemon2",
+      "body": "In that case the system is corrupt and a reinstall of the operating system may be needed. You can alternatively contact your computer manufacturer for support."
+    },
+    {
+      "author": "TinyLetterhead1831",
+      "body": "thx for helping"
+    }
+  ],
+  "70": [
+    {
+      "author": "nuHmey",
+      "body": "If it isn't an Intel Killer network card, no."
+    },
+    {
+      "author": "NefariousnessHot7883",
+      "body": "Are you sure? The killer\u2019s is just a rebrand of the Intel\u2019s though the AX1650 is a AX200 rebranded so is there a way to install the AX1650 driver on the AX200?"
+    },
+    {
+      "author": "nuHmey",
+      "body": "You would have to go to the killer website and look up the card. If it doesn\u2019t come up then the andwer is no. If it does then the answer is yes."
+    },
+    {
+      "author": "NefariousnessHot7883",
+      "body": "The AX200 is a intel card. I\u2019m curious if I could install the killer AX1650 driver on my AX200 because it\u2019s a rebrand of the AX200"
+    }
+  ],
+  "71": [
+    {
+      "author": "nuHmey",
+      "body": "Use it to scan for it?\n\nScan with malwarebytes?"
+    },
+    {
+      "author": "Only_Cobbler_767",
+      "body": "I just did that scan with Esset no malware. Scan with malwarebytes no malware but on VirusTotal website when I scanned a 1 folder it found a virus. What should I do?"
+    },
+    {
+      "author": "Only_Cobbler_767",
+      "body": "Ok now the site is saying that the file is safe si I guess I am Alright?"
+    },
+    {
+      "author": "nuHmey",
+      "body": "sure"
+    }
+  ],
+  "72": [
+    {
+      "author": "Fun-Vanilla-4467",
+      "body": "What happened when you plugged the USB and the laptop was working?"
+    },
+    {
+      "author": "Susperry",
+      "body": "Nothing. It was visible on \"my computer\" and it just said \"Ubuntu 22.01 LTS\" or sth. Nothing out of the ordinary."
+    },
+    {
+      "author": "Fun-Vanilla-4467",
+      "body": "Alright I just wanted to rule out it was a capacitive fake USB stick meant to burn motherboards.."
+    },
+    {
+      "author": "Susperry",
+      "body": "Yeah I don't think that would find its way in a computer lab in a university, used by an IT Specialist to distribute Ubuntu. \n\nIn any case, the computer didn't smell burnt."
+    },
+    {
+      "author": "Fun-Vanilla-4467",
+      "body": "It's a terrible prank but people do these things"
+    },
+    {
+      "author": "Susperry",
+      "body": "Well, let me correct, I am in a research institute. Everyone here is 23 or older, I really doubt it."
+    },
+    {
+      "author": "Fun-Vanilla-4467",
+      "body": "I totally agree we ruled this out. The only thing I can suggest is taking it the battery for real hard reset"
+    },
+    {
+      "author": "Susperry",
+      "body": "Yeah I sent it to Dell and I guess they'll try that. I didn't want to open the laptop up since it's brand new basically."
+    },
+    {
+      "author": "Fun-Vanilla-4467",
+      "body": "Could be a factory defect if it's less than a month old. You did the right thing, let them break their heads. I know it's inconvenient but you probably saved yourself a lot of troubles down the road"
+    },
+    {
+      "author": "Susperry",
+      "body": "Yeah. The shit thing is that I really needed it \ud83d\ude04. With it, I could work both at home and the office, but now I basically have to always be at the office, even on the weekend. \n\nHopefully they either fix or replace it...but it's a shame, I even named it."
+    }
+  ],
+  "73": [
+    {
+      "author": "23523634609234357455",
+      "body": "So you are attempting to output a smart tv's picture to a 'dumb' tv?"
+    },
+    {
+      "author": "Jazzlike-Student-859",
+      "body": "Yes, temporarily until I can get another smart tv"
+    },
+    {
+      "author": "23523634609234357455",
+      "body": "I don't think it's possible two daisy chain two TV's HDMI inputs but I've admittedly never tried it myself. \n\nAn HDMI splitter would only duplicate the output of one input. For example if you had a computer and wanted to have two screens showing the same output. \n\nWhat you posted a screenshot of is an HDMI to display port adapter. This only converts one video signal to another. Devices with a display port option also don't always output audio.\n\nIf I were you I'd likely connect a computer or by a second hand device like a Chromecast or Fire Stick"
+    },
+    {
+      "author": "Jazzlike-Student-859",
+      "body": "Ok, so if I were to try what would I need? The hdmi splitter? Not the thing I ordered?"
+    },
+    {
+      "author": "23523634609234357455",
+      "body": "Both the adapter you ordered and an HDMI splitter wouldn't do anything. It sounds like you are looking for a Chromecast or similar device that you can cast content to"
+    },
+    {
+      "author": "Jazzlike-Student-859",
+      "body": "I can't see anything on the broken tvs screen so it makes it a bit difficult to connect a new device to it. With Chrome cast would I have to see the screen? I know that's probably a dumb question"
+    },
+    {
+      "author": "23523634609234357455",
+      "body": "You would be plugging your Chromecast into your small tv. You're smart tv isn't involved in any of this."
+    }
+  ],
+  "74": [
+    {
+      "author": "DIEGHOST_8",
+      "body": "It's always like this: do you want it for some particular reason? Like aesthetics? Because otherwise it's the same or close to w10"
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": "btw forgot to ask how vscode performs on it"
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": "tbh dont need it rn but im a dev so i would like to check it out see if i like it if i dont etc just wondering how smoothly it would run"
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": "ye aesthetics but will it lag will it be smooth etc? ty for your reply"
+    },
+    {
+      "author": "DIEGHOST_8",
+      "body": "I don't think it will lag. My old laptop runs smoother with w11, even if it's completely unsopported."
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": "if you dont mind me asking what specs is ur old laptop?"
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": "thank you"
+    },
+    {
+      "author": "DIEGHOST_8",
+      "body": "5200U (Intel) with igpu, 8gb DDR3, SSD 128gb"
+    },
+    {
+      "author": "CryptoBoiss",
+      "body": ">5200U (Intel) \n\ni got one more question sorry\n\n&#x200B;\n\n but do you think i would be able to run it smoothly? and watch video with no lag"
+    },
+    {
+      "author": "DIEGHOST_8",
+      "body": "If you can now, you will be able to after the update"
+    }
+  ],
+  "75": [
+    {
+      "author": "Alucard256",
+      "body": "Most wireless access points and wireless routers can theoretically have 255 devices connected at a time.\n\nThis sounds like interference more to me. Is the wifi on 2.4Ghz or 5Ghz? Remember that 2.4Ghz wifi signals can be interfered with by 1990's style \"cordless\" phones, baby monitors, and poorly shielded (aka: cheap) microwaves.\n\n*All of which* are likely to be *all around you* in an RV park."
+    },
+    {
+      "author": "MyDogActuallyFucksMe",
+      "body": "There are both frequencies available, but since all the access points are the exact same name they both show up as a single wifi point to the PC so I can't pick whoch one I want, unless maybe I remove the 2.4 antenna from the wireless card."
+    },
+    {
+      "author": "Alucard256",
+      "body": "Forcing your side to use 5Ghz might produce different results at least.\n\nJust remember that 5Ghz is *much more* susceptible to physical line-of-sight obstacles between your device and the access point. An RV passing between could interrupt the 5Ghz signal for a moment... possibly long enough to officially loose connection. Then again, if it's a tree in the way, moving your device a few feet to the side might make a huge difference."
+    },
+    {
+      "author": "MyDogActuallyFucksMe",
+      "body": "Then I guess I'll just need to get a bigger antenna. I was thinking about buying a few 15\" and sticking them on the roof."
+    }
+  ],
+  "76": [
+    {
+      "author": "XmentalX",
+      "body": "share a screenshot via imgur or a similar image host."
+    },
+    {
+      "author": "HandsomeCountG",
+      "body": "[https://imgur.com/a/Z2R6aYC](https://imgur.com/a/Z2R6aYC)\n\n&#x200B;\n\n&#x200B;\n\nI suspect it is an issue with uBlock Origin or the firefox browser. Maybe I accidently allowed a webside to do pop-ups which was actually a not secure one. Don't know how to fix that though."
+    },
+    {
+      "author": "XmentalX",
+      "body": "You allowed filecrypt.cc to show notifications, follow https://support.mozilla.org/en-US/kb/push-notifications-firefox on how to get to them and remove it and any other sites you don't recognize."
+    },
+    {
+      "author": "HandsomeCountG",
+      "body": "I think I got it. Thank you so much!!! I was half worried I would klick on one of those things accidently. But they seem to be gone now."
+    }
+  ],
+  "77": [
+    {
+      "author": "HJ_wu",
+      "body": "What are the brand and model of both shared monitors?\n\nIf those monitors are 4K144hz, then you should pick a dual-DP 1.4 KVM switch and recommend using fiber optic DP 1.4 cables for the video connections for both video connection from the PC and to the monitors. \n\nFor the M1 MBP, is it an M1 Pro?  Putting a Thunderbolt 4 dock or Thunderbolt 4 hub between your MBP and the selected dual DP 1.4 KVM switch."
+    },
+    {
+      "author": "TitzzMcGee",
+      "body": "Thank you very much for your comment.\n\nThe laptop is a M1 pro and for the monitors:  \n\\- Monitor 1 (144hz): Asus VG279Q  \n\\- Monitor 2 (low quality LCD): Acer G245H"
+    },
+    {
+      "author": "HJ_wu",
+      "body": "your monitors are not having high data rates with them, even for the 1080P@144hz monitor.  So, you don't need to use Fiber Optic DisplayPort cables, but regular DP 1.4 VESA-certified cables for your setup with DP 1.4 KVM switch."
+    },
+    {
+      "author": "TitzzMcGee",
+      "body": "So we're looking at 600$+ for this setup correct?"
+    }
+  ],
+  "78": [
+    {
+      "author": "nuHmey",
+      "body": "Did you copy all partitions?\n\nDid you do a boot record repair?"
+    },
+    {
+      "author": "djsplosion",
+      "body": "I did copy all partitions, but I didn\u2019t do a boot record repair, I\u2019ll try that thank you!"
+    },
+    {
+      "author": "djsplosion",
+      "body": "Actually - the drive that I\u2019m cloning is a GPT and not MBR, can I still do a boot record repair?"
+    },
+    {
+      "author": "nuHmey",
+      "body": "[https://pureinfotech.com/repair-master-boot-record-mbr-windows-10/](https://pureinfotech.com/repair-master-boot-record-mbr-windows-10/)\n\nYou would use Bootrec /fixBoot instead of the Bootrec /fixMBR"
+    },
+    {
+      "author": "djsplosion",
+      "body": "Thank you so much!"
+    }
+  ],
+  "79": [
+    {
+      "author": "GrandmaDrives",
+      "body": "What info you want"
+    },
+    {
+      "author": "imthe1nonlyD",
+      "body": "You basically just walked into the doctor and said, \"it hurts, is there a fix?\""
+    },
+    {
+      "author": "GrandmaDrives",
+      "body": "So what info you need?"
+    },
+    {
+      "author": "imthe1nonlyD",
+      "body": "Computer info, you provided nothing and expect help. System info, relevant information, anything that can actually help diagnose or narrow down where the issue is coming from."
+    },
+    {
+      "author": "GrandmaDrives",
+      "body": "I7 9700F rtx 3060 16gb ram ssd"
+    }
+  ],
+  "80": [
+    {
+      "author": "BRFcitizen",
+      "body": "It's already broken, you can force it a little. \n\nI was able to change mine (1080ti MSI) without breaking a sweat."
+    },
+    {
+      "author": "xKatzzz",
+      "body": "I got such a good grip on the cable that I started to slightly bend the white part of it but alas, absolutely nothing. Didn't move a millimeter... Something is clearly wrong with it but I don't know if it's the cable or connector part. And I'm not even sure if I'm gonna be able to remove it at all."
+    },
+    {
+      "author": "BRFcitizen",
+      "body": "Can you upload a pic to imgur and paste the link here?"
+    },
+    {
+      "author": "xKatzzz",
+      "body": "As you sent this my dad was able to do what dads do and magically fix it. Apparently it was the two very tiny pegs that hold the cable in place that for some reason were stuck like never before, I tried myself to loosen them before but was unable to get even close. Dads really are heroes lol."
+    },
+    {
+      "author": "BRFcitizen",
+      "body": "And now you have a story to tell: \"I pegged a 1080ti with my dad\" \ud83d\udc80"
+    },
+    {
+      "author": "xKatzzz",
+      "body": "Lmao, good one."
+    }
+  ],
+  "81": [
+    {
+      "author": "nuHmey",
+      "body": "Did you reseat the RAM again. You may not have clicked it in place."
+    },
+    {
+      "author": "MPRF12345",
+      "body": "Put it in the same slot. Pushed it as much in as it would go. Did hear a clicking noise, yes.\n\nIt's not the first time I've removed the ram. But it is the first time this happens  :\\\\"
+    },
+    {
+      "author": "nuHmey",
+      "body": "What happens when you put it in the other slot?"
+    },
+    {
+      "author": "MPRF12345",
+      "body": "The same as if I just removed it. \"Boots up\", but nothing appears on screen. Makes no sense to me, but it is what it is"
+    }
+  ],
+  "82": [
+    {
+      "author": "jamvanderloeff",
+      "body": "Have you tried plugging it in/pairing it? If it's emulating a Switch Pro Controller properly it should just work\u2122\ufe0f as a generic USB or bluetooth gamepad (aka DirectInput)."
+    },
+    {
+      "author": "prominho",
+      "body": "I did, on pc it is connected but no signs of life, same with bluetooth.\nI also tried connecting it both ways to ps3 and ps4, same thing with consoles.\nIs it maybe that it is using different input library? or a hardware thing?"
+    },
+    {
+      "author": "prominho",
+      "body": "tho on android, bluetooth is not even recognising gamepad"
+    },
+    {
+      "author": "jamvanderloeff",
+      "body": "Can't Bluetooth pair it at all?"
+    }
+  ],
+  "83": [
+    {
+      "author": "AcademicMistake",
+      "body": "Hard drives use mechanica disks to record data  \n\n\nsolid state drives use memory chips like in a USB stick\n\n&#x200B;\n\nWhat you experiencing is normal, but too much noise and very  little activity can be a bad hard drive and mean its time to replace it"
+    },
+    {
+      "author": "laptoptroubleswifi",
+      "body": "Oh thank you, I was really worried!!"
+    },
+    {
+      "author": "laptoptroubleswifi",
+      "body": "It was about $75 but I'm from a poor family so thats a lot to me!!"
+    },
+    {
+      "author": "laptoptroubleswifi",
+      "body": "Thank you!! I'm glad to know I'm just being paranoid!!"
+    }
+  ],
+  "84": [
+    {
+      "author": "aestheticalss_",
+      "body": "Red light means the battery is malfunctioning, or an error is occurring. Have you tried plugging in the laptop *without* the battery in?"
+    },
+    {
+      "author": "eeeabr",
+      "body": "How do you remove the battery?"
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "What\u2019s the exact model of your laptop please?"
+    },
+    {
+      "author": "eeeabr",
+      "body": "GWTN156-4BL"
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "https://global-download.gateway.com/GDFiles/Document/User%20Manual/User%20Manual_Gateway_1.0_A_A.zip?acerid=635415096807294718"
+    }
+  ],
+  "85": [
+    {
+      "author": "nuHmey",
+      "body": "Does your MB support RGB?"
+    },
+    {
+      "author": "digital-redux",
+      "body": "yes \n\nasus b550-a gaming\n\n1 argb header\n\n2rgb headers"
+    },
+    {
+      "author": "nuHmey",
+      "body": "Do you have them plugged into the correct spots?\n\nDid you check BIOS for controls?"
+    },
+    {
+      "author": "digital-redux",
+      "body": "yeah and like i said whats weird is the aio lights up and fans spin and water pumps, just have no access to control the rgb"
+    },
+    {
+      "author": "digital-redux",
+      "body": "only on the aio. i can control all normal fans, i can even control the speed in bios for the aio"
+    },
+    {
+      "author": "nuHmey",
+      "body": "So no controls in BIOS?\n\nDid you get a remote or anything with the AIO cooler?"
+    },
+    {
+      "author": "digital-redux",
+      "body": "i have fan control. rgb control negative. and yeah aio has a remote. literally does nothing tho, put new battery in. pressed every button 15 billion times lmfao"
+    },
+    {
+      "author": "nuHmey",
+      "body": "What AIO do you have exactly?"
+    },
+    {
+      "author": "digital-redux",
+      "body": "https://www.newegg.com/rosewill-liquid-cooling-system/p/N82E16835200129?Item=9SIA072GJ92948"
+    },
+    {
+      "author": "nuHmey",
+      "body": "Did you install the RGB HUB?\n\n[https://www.rosewill.com/download?d=PB360-RGB](https://www.rosewill.com/download?d=PB360-RGB)\n\nLast page"
+    }
+  ],
+  "86": [
+    {
+      "author": "alivestay",
+      "body": "Uhmm, do you know if i use MSI afterburner and simply reduce power limit to a percent is that going to mean card is gonna consume less power or do i also have to reduce clock speeds manually?"
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "uhhhhhhhhhhh I honestly couldn\u2019t tell ya sorry. Best to find a YouTube guide about it"
+    },
+    {
+      "author": "alivestay",
+      "body": "Thanks."
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "No worries mate, good luck!"
+    }
+  ],
+  "87": [
+    {
+      "author": "BRFcitizen",
+      "body": "That error is usually related to a missing .dll file. Does the error message only show that info, or does it show what .dll is missing? \n\nIf it doesn't, you can check Windows Event Log."
+    },
+    {
+      "author": "accidiew",
+      "body": "After that it only says: To close the app press \"OK\"."
+    },
+    {
+      "author": "accidiew",
+      "body": "Where can I see the Windows Event Log? Start menu search doesn't show that exactly. I found \"Event Viewer\" app with \"Windows Logs\" folder in the sidebar is that it? What's next?"
+    },
+    {
+      "author": "BRFcitizen",
+      "body": "Enter Event Viewer and choose \"Windows Logs\"\n\nNow try to execute the app that's not starting, it should generate a log file (with an error most likely) and it should appear right on top. \n\nSimply click on it and paste the info here."
+    },
+    {
+      "author": "accidiew",
+      "body": "I figured as much and found those error messages in the logs, but they were marked as Info and not errors and seemingly did not contain any extra information aside from what already been in the message.\n\nAnyway, since the post didn't get much replies I just bit the bullet and reinstalling the system now.\n\nThank you for your time!"
+    },
+    {
+      "author": "BRFcitizen",
+      "body": ">the post didn't get much replies\n\nYeah, I only comment on posts with little to no replies to try helping folks out. Let me know if that worked for you."
+    }
+  ],
+  "88": [
+    {
+      "author": "InwardXenon",
+      "body": "I know you've checked temps, but are you sure it's not the other way and temps are causing issues? You could try reapplying thermal paste and ensuring everything is seated correctly.\n\n \n \nUnfortunately this is one of those things that just takes trial and error. The curse of technology, eh."
+    },
+    {
+      "author": "Pliskkenn_D",
+      "body": "Sorry I should have mentioned that. I checked to make sure everything was seated properly recently. Idle temps are nice and low sitting at around 35/40 across the board. I haven't reapplied paste. The spikes are a new thing, normally it works its way up and down quite gradually. This is like someone revving a car engine, up and down, just as quick on the rpm."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "No problem! Idle temps seem fine so I don't think new paste will be necessary. Have you tried completely uninstalling Nord, or just disabling Threat Protection? If not, try the former.\n \n \nIt could be a new update, too. So it may be worth rolling back system updates and drivers."
+    },
+    {
+      "author": "Pliskkenn_D",
+      "body": "I just disabled the Threat Protection as that was flagged by some of their users as causing CPU issues, but the fix hasn't worked for me. I'll uninstall it and report back. I tried disabling it all in the services section of windows first to see if that would help but it did not."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Great! Good kicj, hope it works. But it would be annoying if Nord straight up causes issues."
+    },
+    {
+      "author": "Pliskkenn_D",
+      "body": "No Joy, still getting high revs."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Oof, I'm sorry to hear that. At least you ruled it out. You could try rolling back some updates."
+    }
+  ],
+  "89": [
+    {
+      "author": "InwardXenon",
+      "body": "Make sure that Windows and Discord both have your headset mic set as their source. These will be 2 different settings.\n\nI often find my Discord changes my mic source to my PS4 controller, annoyingly."
+    },
+    {
+      "author": "violanohana",
+      "body": "If that's the problem, then why doesn't it work with any other sites? It's not just discord."
+    },
+    {
+      "author": "InwardXenon",
+      "body": "It could be windows defaulting to something, so the other apps do the same. Did you try those options?"
+    },
+    {
+      "author": "violanohana",
+      "body": "How do I check if it's defautling?"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Control Panel > Sound > Select Device you want as default > Click Set Default at bottom.\n\nAlso in Windows settings Sound > Advanced Options, app preferences > Ensure Discord and other apps have your wanted device set."
+    }
+  ],
+  "90": [
+    {
+      "author": "human_fecess",
+      "body": "yeah the 30 second reboot thing doesn't work  \ni don't think the problem is that i have to press f2 quicker cuz when i do press it the laptop makes a sound and it recognizes that i've pressed it but it just doesn't load into bios  \nmaybe there's a problem with the bios itself"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "That's very possible. At this point I'm also kinda lost, sorry I can't help further."
+    },
+    {
+      "author": "human_fecess",
+      "body": "that's ok,thanks for trying man"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "No problem man. Good luck, hope you get it sorted."
+    }
+  ],
+  "91": [
+    {
+      "author": "nuHmey",
+      "body": "It sounds like your HDD doesn't have a boot record. Did you just install Windows on the HDD?"
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Yes"
+    },
+    {
+      "author": "nuHmey",
+      "body": "Take out your other drives and do a boot record repair on the HDD."
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "How do I do that,  and will it fuck up my drive ?"
+    },
+    {
+      "author": "Status-Lingonberry-5",
+      "body": "Also i took the m.2 back out and my HDD showed back up in the bios"
+    },
+    {
+      "author": "nuHmey",
+      "body": "Will it boot with the M2 out?"
+    }
+  ],
+  "92": [
+    {
+      "author": "aestheticalss_",
+      "body": "If the data matters take it to a specialist, if not you can try what the other user here suggested."
+    },
+    {
+      "author": "madsen03",
+      "body": "This was my backup idea in case I couldn't figure something out with what I had on hand.\n\nI resolved it by creating a bootable Linux session off a USB which allowed me to access the drive; files are all in order. Likely just going to buy a new hdd and move over stuff."
+    },
+    {
+      "author": "madsen03",
+      "body": "Nah, it's nothing major. Copying from other reply:\n\n> I resolved it by creating a bootable Linux session off a USB which allowed me to access the drive; files are all in order. Likely just going to buy a new hdd and move over stuff."
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "alright nice"
+    }
+  ],
+  "93": [
+    {
+      "author": "mcinest",
+      "body": "memory diagnostic found no errors, but i did find that origin (which runs in the background while sims is on) appears to somehow be installed on both drives, so that could explain why it is affecting the D drive  \nI also found the hard drive model, but couldn't find any reviews online"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "That could explain it. I would uninstall origin maybe on both and do a clean install."
+    },
+    {
+      "author": "mcinest",
+      "body": "They are going to retire origin at some point so I took the opportunity to download the new program. Fixed! no more noise!"
+    },
+    {
+      "author": "InwardXenon",
+      "body": "Awesome, good job on finding the issue. Always feels good when you figure it out on your own.\n\n\nAlso, there's a new program instead of origin now?"
+    }
+  ],
+  "94": [
+    {
+      "author": "aestheticalss_",
+      "body": "Does CrystalDiskInfo show up with it?"
+    },
+    {
+      "author": "fraands",
+      "body": "I'd not tried opening disc mgmt. I did open it now and I cant see the drive there. When the HDD is connected I see the message connecting to Virtual Drive in Disc MGMT, and nothing else. So I opened Disc MGMt and then connected the HDD and it does not appear there."
+    },
+    {
+      "author": "fraands",
+      "body": "Nope. Crystal DI keeps showing the circular working icon."
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "Then personally that sounds like a dead/nearly dead ext HDD that info can\u2019t be pulled from by the OS. If the data is important take it to a specialist"
+    },
+    {
+      "author": "fraands",
+      "body": "Nah. data's not important. I'm just bewildered why it's not opening on my new laptop, works fine a few others I've tried and works on my TV."
+    },
+    {
+      "author": "aestheticalss_",
+      "body": "Might work if you reformatted, then?"
+    },
+    {
+      "author": "fraands",
+      "body": "Unable to do that as it stop responding if I can right click on it."
+    },
+    {
+      "author": "fraands",
+      "body": "I've defragged and checked for errors on the other laptop, still..."
+    }
+  ],
+  "95": [
+    {
+      "author": "Sandyblanders",
+      "body": "Have you tried moving the m.2 to another slot?"
+    },
+    {
+      "author": "lain327",
+      "body": "yes. i tried the 2nd m.2 slot but it still not detected but thats expected because the 2nd m.2 slot is sata m.2 only.\n\ni also tried to put the m2 drive to another pc and it was detected with no problem."
+    },
+    {
+      "author": "Sandyblanders",
+      "body": "Ok. If you're overclocking at all, turn that off and restart. If not, I'd say try a CMOS reset. On that specific MOBO you'll have to open it for that.\n\n[https://youtu.be/PbyB-drELXE](https://youtu.be/PbyB-drELXE)"
+    },
+    {
+      "author": "lain327",
+      "body": "ok ill try it\n\nEdit:\n\ni did what you said and its now working. though i dont know how long will it stay on before it blue screen again. its on for about 1hr now so i guess its ok now. thanks for the help ill just post again if it blue screens again."
+    }
+  ],
+  "96": [
+    {
+      "author": "XmentalX",
+      "body": "You are thermal throttling your CPU, off brand ram may be contributing too. You need to get your CPU down to 80c or less, what cooler do you have?"
+    },
+    {
+      "author": "Yunixa",
+      "body": "For my CPU, I have a Enermax Liqmax III 240 Addressable RGB AIO."
+    },
+    {
+      "author": "XmentalX",
+      "body": "Your cooler is either not mounted properly or has failed a 240mm AIO should not be hitting 105C on that cpu."
+    },
+    {
+      "author": "Yunixa",
+      "body": "Okay, I will definitely check it out. Tysm"
+    }
+  ],
+  "97": [
+    {
+      "author": "BRFcitizen",
+      "body": ">One Microsoft forum answer linked it in dll-files.com\n\nThat's literally THE website to go when you need a .dll file.\n\nYou can download from there, it's 100% safe\n\n&#x200B;\n\nPS: I'm curious about what game you're talking about."
+    },
+    {
+      "author": "running_toilet_bowl",
+      "body": "It's Fear or Fact, an *extremely* obscure Finnish edutainment game. I couldn't even find a clip of it on YT."
+    },
+    {
+      "author": "BRFcitizen",
+      "body": "Haha, a game straight from the *takahuoneita.*\n\nHope that missing .dll makes the game run :)"
+    },
+    {
+      "author": "running_toilet_bowl",
+      "body": "Got it working! Downloaded it from dll-files, plopped it next to the other game files and the game runs without a hitch! My memories are flooding back."
+    }
+  ],
+  "98": [
+    {
+      "author": "JohnnyboixD",
+      "body": "Try using different headphones to make sure it's the player, not the headphones that's got the problem."
+    },
+    {
+      "author": "Electrical-Strike705",
+      "body": "i have and the head phones work fine with anything else"
+    },
+    {
+      "author": "JohnnyboixD",
+      "body": "Have you tried turning the mp3 player on and off? (probably useless question from me)"
+    },
+    {
+      "author": "Electrical-Strike705",
+      "body": "yes"
+    }
+  ],
+  "99": [
+    {
+      "author": "LesleyN00",
+      "body": "If you can't access the BIOS, you could try the following steps:\r  \n\r  \n\\- Disconnect all external devices (e.g. USB drives, printers, etc.) except for the keyboard and mouse.\r  \n\\- Reset the CMOS by removing the CMOS battery for 10-15 seconds and then re-inserting it.\r  \n\\- Try using a different keyboard or a PS/2 keyboard instead of a USB one.\r  \n\\- If you have another computer available, try booting your hard drive as a secondary drive in that computer to check if your files are still accessible.\r  \n\\- If none of the above steps work, you may need to consider seeking professional repair services or reaching out to the manufacturer for assistance."
+    },
+    {
+      "author": "metsfanapk",
+      "body": "The files are still there. \n\nWhere would the CMOS battery be? and what would that do?"
+    },
+    {
+      "author": "LesleyN00",
+      "body": ">The files are still there.  \n>  \n>Where would the CMOS battery be? and what would that do?\n\nThe CMOS battery is a small battery that provides power to the motherboard's CMOS (Complementary Metal-Oxide-Semiconductor) chip, which stores important information such as system configuration settings and the date/time.\r  \n\r  \nTo reset the CMOS, you need to locate the battery on your motherboard and remove it for 10-15 seconds, then re-insert it. This will reset the CMOS to its default settings, which may help resolve the issue you're experiencing.\r  \n\r  \nThe exact location of the CMOS battery can vary depending on the motherboard model, but it's usually a small coin-shaped battery located near the CMOS chip or the battery socket on the motherboard. You can refer to the motherboard manual or look up the motherboard model online to find its specific location."
+    },
+    {
+      "author": "metsfanapk",
+      "body": "I assume I do that with the pc unplugged?"
+    },
+    {
+      "author": "LesleyN00",
+      "body": ">I assume I do that with the pc unplugged?\n\nYes, you should turn off the PC, unplug it from the power source, and remove the battery when resetting the CMOS. This is to prevent any electrical interference or damage to the components. After you have removed the battery, wait for 10-15 seconds, and then re-insert it and plug the PC back in. Then start the PC to see if the issue has been resolved."
+    },
+    {
+      "author": "metsfanapk",
+      "body": "You are my hero!!! The CMOS battery worked at at least booting. I\u2019m having trouble still getting into the bios to fix the issues with external drives causing it to freeze but I can sleep easy tonight knowing I won\u2019t be out any money and can spend the day looking for work. Thank you soooo much!"
+    },
+    {
+      "author": "LesleyN00",
+      "body": ">You are my hero!!! The CMOS battery worked at at least booting. I\u2019m having trouble still getting into the bios to fix the issues with external drives causing it to freeze but I can sleep easy tonight knowing I won\u2019t be out any money and can spend the day looking for work. Thank you soooo much!\n\nYou're welcome! I'm glad to hear that the CMOS battery worked. If you are still having trouble accessing the BIOS, try searching for the specific model of your ThinkStation tower or the motherboard and see if there are any key combinations or instructions to access the BIOS. Good luck with your job search!"
+    }
+  ],
+  "100": [
+    {
+      "author": "LesleyN00",
+      "body": "Here are some steps that you can try to minimize the impact of other devices on your gaming experience:\r  \n\r  \n\\- Prioritize your gaming traffic: You can use Quality of Service (QoS) settings on your router to give higher priority to your gaming traffic, which can reduce lag spikes.\r  \n\r  \n\\- Separate gaming and other traffic: You can use a separate network for gaming and connect your gaming PC to it using a wired connection, which can prevent interference from other devices on the same network.\r  \n\r  \n\\- Upgrade to a better router: If your router does not have QoS features, you can consider upgrading to a better router that supports QoS and has better network management capabilities.\r  \n\r  \n\\- Use a gaming VPN: A gaming VPN can help you reduce lag by routing your traffic through a server that is closer to the gaming servers, which can lower your ping.\r  \n\r  \n\\- Monitor network usage: You can use a network monitoring tool to track your bandwidth usage and identify which devices or applications are consuming the most bandwidth.\r  \n\r  \nThese are some steps you can try to improve your gaming experience while other devices are also using the internet. It may also be helpful to reach out to your ISP to see if they have any suggestions or solutions."
+    },
+    {
+      "author": "Ungoliant0",
+      "body": "Thanks for your reply!\n\nCan you explain a bit how QOS works in relation to this problem? Will it prevent other devices from using the entire bandwidth? Is there any router that you recommend?\n\nI've been thinking of getting the deco x60 (for wireless devices + my PC that will be connected with a cable to one of the nodes). [Seems like QOS is available for it.](https://www.tp-link.com/us/support/faq/1601/) Do you know if the x60 QOS is any decent?\n\nRegarding the other suggestions. I assume that the VPN doesn't directly has to do with the issue? is that right?\nUsing a separate connection is too expensive for me sadly.\n\nDo you have any recommendation for network monitoring apps?\n\nAlso, I would like to make sure I understood. You're saying that other devices basically momentarily use the entire bandwidth, which is enough to reflect in the ping spikes?"
+    },
+    {
+      "author": "LesleyN00",
+      "body": "Yes, that's correct. When other devices on the same network consume bandwidth, it can cause lag spikes in your gaming experience.\r  \n\r  \nQuality of Service (QoS) allows you to set priorities for different types of network traffic, so that critical applications, such as gaming, receive the necessary bandwidth to function properly. This can help reduce lag spikes caused by other devices on the network.\r  \n\r  \nThe TP-Link Deco X60 does have QoS features and is a good option for your situation. However, I would recommend checking the reviews and specifications of different routers before making a decision, to make sure it meets your needs and supports the features you require.\r  \n\r  \nRegarding VPNs, they can help reduce lag by routing your gaming traffic through a server that is closer to the gaming servers, which can lower your ping. However, they won't directly solve the issue of other devices consuming bandwidth and causing lag spikes on your network.\r  \n\r  \nFor network monitoring, you can use tools such as GlassWire, NetSpeedMonitor, or Wireshark. These tools can provide you with information on which devices or applications are consuming the most bandwidth, allowing you to identify potential sources of interference.\r  \n\r  \nIn summary, QoS can help prevent other devices from consuming bandwidth that is necessary for your gaming traffic, reducing lag spikes. I recommend checking the specifications and reviews of different routers before choosing one, and using a network monitoring tool to monitor your network usage."
+    },
+    {
+      "author": "Ungoliant0",
+      "body": "Appreciate the help! Thanks! \u2665"
+    }
+  ],
+  "101": [
+    {
+      "author": "sadsealions",
+      "body": "umm ok, what about \"reinstalling the myriad of (cracked) plugins\"  \n\n\nIf you are gonna hack windows to run illegal shit, then expect it to throw up shit errors."
+    },
+    {
+      "author": "n0t0liver",
+      "body": "You must not be a windows user, it'll throw up shit errors for anything and everything"
+    },
+    {
+      "author": "n0t0liver",
+      "body": "Problem seems to be fixed anyway and wow no way it wasn't the cracked software it was the Linux subsystem published by windows"
+    },
+    {
+      "author": "sadsealions",
+      "body": "cool"
+    }
+  ]
+}
