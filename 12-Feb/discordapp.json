@@ -1,0 +1,702 @@
+{
+  "0": [
+    {
+      "author": "Nintendo_Pro_03",
+      "body": "Thank you for informing me about it!"
+    },
+    {
+      "author": "Logi_Bear1",
+      "body": "It\u2019s not there for me and I\u2019m on the latest version"
+    },
+    {
+      "author": "Logi_Bear1",
+      "body": "No matter how many times I hit it"
+    },
+    {
+      "author": "Nintendo_Pro_03",
+      "body": "Try again. It worked for me. Make sure it\u2019s the latest iOS update and you\u2019re tapping on dark mode. Tap ten times."
+    },
+    {
+      "author": "Logi_Bear1",
+      "body": "I have done that\u2026 useless the update isn\u2019t in aus idk"
+    }
+  ],
+  "1": [
+    {
+      "author": "Latte_Error",
+      "body": "i agree that there should be a bigger limit but man.. i think you need to calm down.."
+    },
+    {
+      "author": "NotErikUden",
+      "body": "It isn't their FAULT, but it is my right to demand change to that I can utilize a feature the way I have become accustomed to, whether this was GOD'S (the developer's) INTENT or NOT"
+    },
+    {
+      "author": "NotErikUden",
+      "body": "This is all ironic, I'm sorry if this came across as angry, it's entirely impossible to detect satire without a /s, I'm sorry. Didn't want to appear mean.\n\nI do not care that much, would just really appreciate a larger limit. Again, sorry for making you feel uncomfortable."
+    },
+    {
+      "author": "Latte_Error",
+      "body": "nah youre good man dw, i honestly had a good laugh at it but thanks for clarifying"
+    }
+  ],
+  "2": [
+    {
+      "author": "Extension-Two5036",
+      "body": "It's on Android too just click the darl button a bunch of times"
+    },
+    {
+      "author": "arineqq",
+      "body": "yeah but it wasn't there on iOS for a long time, they just added it so it's experimental"
+    },
+    {
+      "author": "Extension-Two5036",
+      "body": "just wanted to say in case another android user sees this ;)"
+    },
+    {
+      "author": "Extension-Two5036",
+      "body": "ps: it's experimental on Android too"
+    }
+  ],
+  "3": [
+    {
+      "author": "xXJayZoneXx",
+      "body": "It is a possibility especially if the monitoring software installed by the school has remote screen viewing capabilities. The laptops issues by the schools in my district do have that capability and the schools say it is to monitor students screens while they take tests to make sure that students aren't looking up the answers, but the software in theory could be activated at any time by a school official. If that were to happen, then message encryption doesn't matter anymore because the message would have already been decrypted on your machine so whatever you see on your screen is what they see. Like another person said it is hard to say without knowing for certain exactly what was installed on that machine at that point in time but yes it is a possibility, however not a very likely one."
+    },
+    {
+      "author": "AnhCloudB",
+      "body": "The extension it was using was blockis or something along that name, either blockis or blocksi, i can't remember in detail what they can access, but it should be a lot for a school issued laptop"
+    },
+    {
+      "author": "AnhCloudB",
+      "body": "Wait, so technically, they could have seen what I was doing? Damn, but I assume they won\u2019t do that? I mean, it is a waste of memory to look at someone\u2019s screen without a reason?"
+    },
+    {
+      "author": "xXJayZoneXx",
+      "body": "Yes, technically they could have seen something however it is unlikely. The software used in my district does not have the ability to record student's screens, just view them but it requires both the student and the school official to both be online at the same time (like during normal school hours). I have no idea what was used by your school, but I wouldn't worry about it too much. At least with this method school admin cannot go back and review what was on your screen previously so if they didn't see the chat live then they won't see it at all."
+    }
+  ],
+  "4": [
+    {
+      "author": "hyperneutrino15",
+      "body": "What issue; an error or it behaves differently than expected? What are you trying to do, do you have any code you can share, and if it's an error what is the error?"
+    },
+    {
+      "author": "Intelligent-Bee-51",
+      "body": "yes"
+    },
+    {
+      "author": "Intelligent-Bee-51",
+      "body": "This is the embed. I want to add a button below it and when clicked it should run a command but i have no idea how to get around it"
+    },
+    {
+      "author": "Intelligent-Bee-51",
+      "body": "let embed = new MessageEmbed()\n  .setTitle(\"Lower Class\")\n  .setDescription(content)\n  .setColor(\"BLURPLE\")\n  .setFooter(\"Become a Lower class by clicking the button below\")\n  return message.channel.send(embed);\n};"
+    }
+  ],
+  "5": [
+    {
+      "author": "Errora403",
+      "body": "You can still do it with Twitter through third-party services like IFTTT if those services are paying for access to the Twitter API. If they are well-known and profitable services, why would they not? It is then only in their best interest to do so. Some services would lose more money by *not* subscribing to the Twitter API, because then users stop using (parts of) the service. For the record, I am still getting notifications through the service I am using. Screenshot [here](https://media.discordapp.net/attachments/700225985798209668/1073698912973635645/Screenshot_20230210-211601.png)."
+    },
+    {
+      "author": "G01den_Gamer",
+      "body": "Not exactly Twitter but idfk how to code tho but I'll try. What I ment by bots are bots like MEE6, sorry if there's confusion from your end"
+    },
+    {
+      "author": "G01den_Gamer",
+      "body": "In the middle of coding the IFTTT and idk what it means by role id, the role name is SM ping so what would I put"
+    },
+    {
+      "author": "G01den_Gamer",
+      "body": "I figured out coding for IFTTT but thanks for your help. Might use tweetshift for twitter and configure the IFTTT for like insta or TikTok"
+    },
+    {
+      "author": "G01den_Gamer",
+      "body": "Tweetshift needs a payment to ping a custom role..."
+    }
+  ],
+  "6": [
+    {
+      "author": "Sprutnums",
+      "body": "Tried everything now. It seems to happen out of the blue. I tried having only Discord running. Tried resetting DNS ; setting DNS to that [8.8.8.8](https://8.8.8.8) thing. Setting the region to something else. it still happens"
+    },
+    {
+      "author": "deadmeme5_darealone",
+      "body": "Edit: 30 eur charge for the fix"
+    },
+    {
+      "author": "Sprutnums",
+      "body": "I did this but i happend again after 5 minuttes"
+    },
+    {
+      "author": "Sprutnums",
+      "body": "Not using a VPN.\n\nSeems to be an issue with the program"
+    },
+    {
+      "author": "Sprutnums",
+      "body": "Tried this to"
+    },
+    {
+      "author": "deadmeme5_darealone",
+      "body": "Restart your internet router."
+    },
+    {
+      "author": "Sprutnums",
+      "body": "Also tried this. It seems to have something to do with the program. Because I ran great in the browser"
+    },
+    {
+      "author": "deadmeme5_darealone",
+      "body": "Science gives up. Praise on some god to fix this then."
+    },
+    {
+      "author": "deadmeme5_darealone",
+      "body": "Or check your firewall settings."
+    },
+    {
+      "author": "Sprutnums",
+      "body": "Not a bad suggestion"
+    }
+  ],
+  "7": [
+    {
+      "author": "KryptoKiddi",
+      "body": "Mine won\u2019t even allow me to select a channel.. just goes to my most recent channel I was in and hangs for 30-90 seconds and takes me back to my home screen since late last night"
+    },
+    {
+      "author": "BeigeAndConfused",
+      "body": "I just updated now and its still doing it"
+    },
+    {
+      "author": "BeigeAndConfused",
+      "body": "Ok so im not alone"
+    },
+    {
+      "author": "KryptoKiddi",
+      "body": "Nope.. I\u2019m a beta tester and both beta and stable builds are doing the same"
+    },
+    {
+      "author": "BeigeAndConfused",
+      "body": "Yikes"
+    },
+    {
+      "author": "KryptoKiddi",
+      "body": "Mine just started working without restarting, updating, etc. I just seen I got a message on Discord so I clicked it and sent my response just to realize 5 mins later I just was able to use Discord on my phone"
+    }
+  ],
+  "8": [
+    {
+      "author": "Username912773",
+      "body": "Wym linked roles"
+    },
+    {
+      "author": "Woofer210",
+      "body": "Linked roles is a new feature that I believe every server has."
+    },
+    {
+      "author": "Username912773",
+      "body": "Yeah but what are they?"
+    },
+    {
+      "author": "Woofer210",
+      "body": "It utilizes the connections feature and if you say are a mod on Reddit you can use linked roles that an admin set up to get a role for that."
+    }
+  ],
+  "9": [
+    {
+      "author": "I_Go_BrRrRrRrRr",
+      "body": "Ah yes, a fellow BeamNG.drive player"
+    },
+    {
+      "author": "Previous-Ad-7339",
+      "body": "No one used @everyone or @here\n\nAnd i will try the other tip"
+    },
+    {
+      "author": "Previous-Ad-7339",
+      "body": "Still happening after i tried nothing on notifications"
+    },
+    {
+      "author": "Previous-Ad-7339",
+      "body": "No one pinged me"
+    }
+  ],
+  "10": [
+    {
+      "author": "SlainAlbatross",
+      "body": "Yes\n\nOn one hand, it's hard to carry tone through text, so some things can be misconstrued online.\n\nWhen I used to stream on twitch, I came across a fair bit of oddballs. I went as far as doing a background check on one of my fans that I had a bad hunch about and found out they were a sex offender, even though they were \"nice\" online\n\nHowever I'm only hearing your side of the story. I tend to be suspicious of everyone online especially if there's a consensus between a group of people that you're weird. Yeah, maybe they could be cliquey and judgmental, or maybe they're going off their gut instinct."
+    },
+    {
+      "author": "BustosMan",
+      "body": "Best comment in the world \ud83e\udd23"
+    },
+    {
+      "author": "BustosMan",
+      "body": "Nah they don\u2019t want my apology. For most servers I would but for some I really don\u2019t care at all."
+    },
+    {
+      "author": "BustosMan",
+      "body": "The world may never know. How did you even do a background check on them?"
+    },
+    {
+      "author": "SlainAlbatross",
+      "body": "I looked through his social media. I traced one of his usernames and found his Facebook account. I have a friend in law enforcement who has an account with a background check service. We searched his name and found criminal records for public masturbation and statutory rape.\n\nNever underestimate the power and sleuthing skills of women with a bad feeling."
+    }
+  ],
+  "11": [
+    {
+      "author": "ChiisanaSoraNi",
+      "body": "You might have some firewall set up which blocks discord's preview. Check if google cloud's ASNs like AS15169 or AS396982 aren't blocked in it."
+    },
+    {
+      "author": "omnidunce",
+      "body": "nothing is showing up in my firewall logs either. I do have 1 hit from discordapp in my logs now.. for the link i included in this post! Very strange, none of the other ones i've been testing in the actual app have appeared though."
+    },
+    {
+      "author": "ChiisanaSoraNi",
+      "body": "Ah sorry that one hit might've been me, I tried to see if a request made from google's ips (using their translator api) and discord useragent would block the request (it went through fine)"
+    },
+    {
+      "author": "omnidunce",
+      "body": "one option removed at least \ud83e\uddd0 I have banged my head against this for too long."
+    }
+  ],
+  "12": [
+    {
+      "author": "donotmindmenoobalert",
+      "body": "iOS or Android?"
+    },
+    {
+      "author": "rain-veil",
+      "body": "iOS, iPhone 8 if it matters.  \nDiscord app is updated to the most recent version"
+    },
+    {
+      "author": "donotmindmenoobalert",
+      "body": "Check if 1. The server is muted or 2. You have discord notifs turned off in iOS settings"
+    },
+    {
+      "author": "rain-veil",
+      "body": "The servers aren\u2019t muted and I\u2019ve triple checked that notifs are on in settings"
+    },
+    {
+      "author": "donotmindmenoobalert",
+      "body": "Have you checked your discord in app notification settings as well? If that doesn\u2019t work, make sure the server notification settings are appropriate"
+    }
+  ],
+  "13": [
+    {
+      "author": "UnacceptableUse",
+      "body": "You must have had an authenticator at some point. If your 8 digit codes don't work then you must have regenerated them at some point"
+    },
+    {
+      "author": "EINHAMMER",
+      "body": "yeah, ive regenerated the codes before. maybe i used Microsoft authenticator? i have no idea what i used lol"
+    },
+    {
+      "author": "UnacceptableUse",
+      "body": "Have you tried downloading any Authenticator you might have used to see if you can access it still?"
+    },
+    {
+      "author": "EINHAMMER",
+      "body": "i think ill try that"
+    }
+  ],
+  "14": [
+    {
+      "author": "Sounga565",
+      "body": "You asked, you got an answer"
+    },
+    {
+      "author": "Krzyniu",
+      "body": "So the reason is because you cannot configure basic features and instead want to delete it all the fuck away? Hell yeah man, let's actually uninstall discord, pigeon mail will have less nitro scams"
+    },
+    {
+      "author": "Sounga565",
+      "body": "Yes I am the single reason all music bots are going away, me! Not the basic understanding of ToS from streaming companies, but me!"
+    },
+    {
+      "author": "Krzyniu",
+      "body": "\"I support the rules because they are the rules!!!\""
+    }
+  ],
+  "15": [
+    {
+      "author": "HenballZ",
+      "body": "How can joining a discord server compromise your token?"
+    },
+    {
+      "author": "Maxxw2",
+      "body": "Most likely a bot inside is gonna ask you to verify with qr or something like that"
+    },
+    {
+      "author": "HenballZ",
+      "body": "Then it's another thing that will get your token compromised, just joining a server won't get you compromised. Next time word it better"
+    },
+    {
+      "author": "Maxxw2",
+      "body": "I said \u201cmost definitely a token scam ahead\u201d that is pretty well worded imo"
+    },
+    {
+      "author": "HenballZ",
+      "body": "Dude you literally just said that joining the server will get you're token stolen. Only joining the fucking server"
+    },
+    {
+      "author": "Maxxw2",
+      "body": "\n\u201cNever said would from the redirect to discord invite alone but uf you join there most definitely is a token scam ahead\u201d\n\nFrom the comment of mine you replied to i reworded my mistake from the beginning"
+    },
+    {
+      "author": "HenballZ",
+      "body": "It's like first saying the n word and then saying that you didn't say it"
+    }
+  ],
+  "16": [
+    {
+      "author": "PSIwind",
+      "body": "I see, but I had a question unrelated to the response sent on a previous ticket and I just wanted something clarified for me"
+    },
+    {
+      "author": "cpt-derp",
+      "body": "Do they also simply not respond and just solve tickets instead of using macros, particularly in appeals?"
+    },
+    {
+      "author": "PSIwind",
+      "body": "If its okay with you, could you just tell me if bans are generally account based and we're allowed a second chance so to speak on a new account so long as we follow the ToS better or, in my case, be more careful in what servers I'm in and either leave ones I don't use anymore or pay attention to them to make sure nothing bad is happening in there so I'm not caught in the crossfire? I read an email from someone and don't know how legit or recent it is rule wise: https://imgur.io/kpVOACB?r"
+    },
+    {
+      "author": "PSIwind",
+      "body": "I get I'm not really being patient in that case but my brain works differently than others so my emotions always go into overdrive if I can't find any help soon and stuck in an endless cycle of looking for answers on the internet"
+    }
+  ],
+  "17": [
+    {
+      "author": "Kaid3n22",
+      "body": "Not sure, mine was deleted after ~30 days after being falsely disabled for the 2nd time. I would think that either your account can still be recovered by a password reset, discord changed how long it would take for deletion, or there is some special circumstance.\n\nFor what reason was your account disabled (check emails if you don't know) and have you tried contacting support? Support may be bots most of the time but usually, you'll get automatically reenabled on the first offense for specific rules."
+    },
+    {
+      "author": "Adept_Blackberry_436",
+      "body": "I tried a password reset, it said my account was disabled and i wasn't able to reset it. And I never recieved any emails regarding why my account was disabled. In total i've sent like 15 emails, each about 3-4 days apart, and all of them got bot replies, i replied to those replies and none of them have had a reply from a real person, Likewise I tried contacting support on my other email, they said they couldn't help me as they could only solve problems on the email associated with the account, the lady told me to reply to emails from discord and i'll get a response, but in the 78 days since it's been disabled, i haven't gotten any replies back. Also no, I do not know why it was disabled. All i know is i opened discord, noticed i was logged out, tried logging back in and it said it was disabled. My account got disabled on November 20th, and it would have been deleted on december 20th, but it wasn't. So far nothing is working"
+    },
+    {
+      "author": "Kaid3n22",
+      "body": "Not sure what you can do then, when my account got disabled I was given a clear reason as to why (got caught in the spam filter), and got it reenabled after around a week after creating a support ticket. Make sure you try creating a support ticket if you haven't."
+    },
+    {
+      "author": "Adept_Blackberry_436",
+      "body": "I already did, and all I've gotten were bot replies from clyde. I even tried contacting support through other areas, such as asking a general question, and that was met with a bot response. Could my account be temporarily disabled? It would explain why it wasn't deleted"
+    }
+  ],
+  "18": [
+    {
+      "author": "Maxie_69",
+      "body": "Fair, but he didn't really need help tho lol"
+    },
+    {
+      "author": "DolphinGaming6",
+      "body": "So I'm not allowed to offer help in the first place? I was offering to be kind and support somebody- not bring them down."
+    },
+    {
+      "author": "DolphinGaming6",
+      "body": "If the user didn't know how to join a server with search/server listing websites, then that's a pretty solid piece of evidence they could be new to Discord and might need some help."
+    },
+    {
+      "author": "Maxie_69",
+      "body": "Hmm okay then"
+    }
+  ],
+  "19": [
+    {
+      "author": "yllik0",
+      "body": "User Settings > Windows Settings > turn off \"open discord\""
+    },
+    {
+      "author": "AscendedHobo",
+      "body": "Tried that, still opens regardless"
+    },
+    {
+      "author": "yllik0",
+      "body": "try task manager > startup > right click on discord and disable"
+    },
+    {
+      "author": "AscendedHobo",
+      "body": "Tried that too, worked for two startups then stopped working"
+    },
+    {
+      "author": "yllik0",
+      "body": "you can make it so that it starts but its minimized, that way it wont cover the whole screen when you start up the pc and you can close it afterwards"
+    },
+    {
+      "author": "AscendedHobo",
+      "body": "Not ideal but thanks for the suggestion I'll try that"
+    },
+    {
+      "author": "yllik0",
+      "body": "(not sure if it works) you can try win + r, type regedit, go to \"Computer\\\\HKEY\\_LOCAL\\_MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\StartupApproved\\\\Run32\" and delete discord from there, restart pc"
+    }
+  ],
+  "20": [
+    {
+      "author": "yllik0",
+      "body": "taskbar icon shows pings as well, even if all the servers where you have the pings are muted"
+    },
+    {
+      "author": "Wintma",
+      "body": "the taskbar icon works fine, the problem is that when I go to the application to check messages, I don't see the white dot next to folders and servers, even though the taskbar icon shows me that I have new messages. That's why I don't know where these messages are"
+    },
+    {
+      "author": "yllik0",
+      "body": "is it in full screen? try ctrl + r, try enabling and disabling streamer mode"
+    },
+    {
+      "author": "Wintma",
+      "body": "it is not, ive tried both of this, and it didnt work"
+    }
+  ],
+  "21": [
+    {
+      "author": "jay_studios09_",
+      "body": "Fiddling with the settings brings mixed results - sometimes certain settings off/on work, the next day they don't."
+    },
+    {
+      "author": "StonnedGunner",
+      "body": "hdr on or off in windows?"
+    },
+    {
+      "author": "jay_studios09_",
+      "body": "it's on"
+    },
+    {
+      "author": "StonnedGunner",
+      "body": "hdr makes your screen look bright on normal streaming"
+    },
+    {
+      "author": "jay_studios09_",
+      "body": "tysm, it worked!!!"
+    }
+  ],
+  "22": [
+    {
+      "author": "DarkOverLordCO",
+      "body": "The overlay isn't available on the web browser, you'll need to download the app."
+    },
+    {
+      "author": "Y799",
+      "body": "I'm using the app."
+    },
+    {
+      "author": "DarkOverLordCO",
+      "body": "Hm, that's odd. What platform are you on?"
+    },
+    {
+      "author": "Y799",
+      "body": "MacOS."
+    },
+    {
+      "author": "DarkOverLordCO",
+      "body": "Ah, it looks like the overlay isn't supported on MacOS, unfortunately."
+    },
+    {
+      "author": "Y799",
+      "body": "Ah, that's bad. Thanks for helping me though."
+    }
+  ],
+  "23": [
+    {
+      "author": "MisterCookie1234",
+      "body": "Not really. The Premium Version at max backups roughly 250 messages, which is not much. Really.\n\nThere was this bot but it's abandoned and buggy now  https://github.com/MysteryPancake/Discord-Reposter\n\nAny Reason you not just keep the messages etc on the old discord?"
+    },
+    {
+      "author": "mondocu",
+      "body": "I see, thanks"
+    },
+    {
+      "author": "mondocu",
+      "body": "Thanks, there is no activities on the old server now so we would rather have it on the new one where everyone talks, where everything happen. Might sound strange but we feel like our friend would be left behind if we can't move this channel to an active server."
+    },
+    {
+      "author": "MisterCookie1234",
+      "body": "Understandable."
+    }
+  ],
+  "24": [
+    {
+      "author": "yllik0",
+      "body": "if i understand correctly you want them to have the color of the event winner role but still have them displayed as boosters on the side?"
+    },
+    {
+      "author": "Ok-Bank4268",
+      "body": "Ah okay"
+    },
+    {
+      "author": "Ok-Bank4268",
+      "body": "If possible. Or even, additionally, have them maintain the booster role, but have it hidden. So on the side he would show as event winner"
+    },
+    {
+      "author": "yllik0",
+      "body": "Well, you can put the event winner role over the booster role, have the booster role displayed on the member list (if it already isn't) but make the event winner role not display on the member list (disable the \"display role members separately from online members\" option), put the color you want for the event winner and they'll have that color when they type in chat while being displayed as boosters on the side"
+    },
+    {
+      "author": "Ok-Bank4268",
+      "body": "perfect solution - thanks very much"
+    }
+  ],
+  "25": [
+    {
+      "author": "zeewubs",
+      "body": "Do you have HDR enabled in your windows video settings?"
+    },
+    {
+      "author": "bigbellyswag",
+      "body": "Sorry for getting to you late, yes I have hdr on. It says stream hdr videos yes, use hdr yes, use wcg apps yes."
+    },
+    {
+      "author": "zeewubs",
+      "body": "Yeah I'm not sure if the capture API or whatever just can't do HDR capture or if it's just that it's trying to display HDR captured content on a non-HDR panell but disable it in windows display options and try"
+    },
+    {
+      "author": "bigbellyswag",
+      "body": "Ok thank you will do. This sounds very familiar like I\u2019ve heard this issue from a friend before a long time ago."
+    }
+  ],
+  "26": [
+    {
+      "author": "CavCavv",
+      "body": "do you have notifications blocked in your system settings?"
+    },
+    {
+      "author": "Meatymike1",
+      "body": "I\u2019ve checked both computer and DND. Both disabled. The notifications have been a problem forever but never checked batter consumptions cause normally I\u2019m next to a charger. I was checking my battery health today and had a few messages in discord I replied to but it\u2019s not been opened but those few. I watched an hour of YouTube today off battery and it isn\u2019t on the list\n\nEdit: when I say on the list I mean on the screenshot. But I would assume video would take more battery than what should be passive push notifications"
+    },
+    {
+      "author": "Meatymike1",
+      "body": "I do not at all."
+    },
+    {
+      "author": "Meatymike1",
+      "body": "That\u2019s an issue I\u2019ve had since I\u2019ve downloaded the app. The battery thing I\u2019ve only realized today but am sure it\u2019s been an issue. Fact that it says background is abhorrent and also, it\u2019s taking more battery than freaking Chrome"
+    }
+  ],
+  "27": [
+    {
+      "author": "jetah",
+      "body": "It should be muting the phone till you're afk on the desktop."
+    },
+    {
+      "author": "prometheus5500",
+      "body": "And then just re-enable it when I'm done. I guess that's an ok workaround, at least until I can find a better solution."
+    },
+    {
+      "author": "prometheus5500",
+      "body": "Maybe I didn't explain it well enough. I do not want desktop notifications ever. Constant notifications while I'm gaming and using discord for voice chat with friends is annoying. However, I DO want notifications from a specific discord, but ONLY on my phone. That way, my gaming is never interrupted, but I'm always aware of conversations happening in that one specific discord.  \n  \nSo far, I haven't found a way to do this. I either get zero notifications (muting a server) or I get the mobile notifications I want but ALSO get desktop notifications when I'm on my PC and gaming."
+    },
+    {
+      "author": "jetah",
+      "body": "I'm saying you won't get mobile notifications while using the desktop app.\n\nBut check the options."
+    },
+    {
+      "author": "prometheus5500",
+      "body": "I still think you're missing what I'm trying to set up. I want mobile notifications. I don't care if I get mobile notifications or not while I'm on desktop, but I don't want desktop notifications when I am on desktop."
+    },
+    {
+      "author": "jetah",
+      "body": "Since you can't understand, good luck."
+    }
+  ],
+  "28": [
+    {
+      "author": "DrLeymen",
+      "body": "This happens, when you stream Remote Play but minimze it on your screen."
+    },
+    {
+      "author": "AgateChristin",
+      "body": "Minimize, or click out of?"
+    },
+    {
+      "author": "DrLeymen",
+      "body": "Minimize I think.\nNot sure what you mean with \"click out of\" exactly\n\nBasically, if you stream Remote Play it should be the app that's displayed on your screen."
+    },
+    {
+      "author": "AgateChristin",
+      "body": "Click off of. E.g. click on another window or something."
+    },
+    {
+      "author": "DrLeymen",
+      "body": "Ah yes, that's what I mean."
+    },
+    {
+      "author": "AgateChristin",
+      "body": "Oh. So basically, don't do that."
+    },
+    {
+      "author": "DrLeymen",
+      "body": "Yes.\nI have the same problem, when I stream it and do that"
+    },
+    {
+      "author": "AgateChristin",
+      "body": "I see"
+    }
+  ],
+  "29": [
+    {
+      "author": "billyhatcher312",
+      "body": "i just dont want discord turning into twitter i prefer scrolling its not annoying to me i just want the ability to turn this horrid thing off it makes them look ugly my eyes cant handle the ugliness"
+    },
+    {
+      "author": "Ok-Preference-507",
+      "body": "All social medias will copy one another at some degree, take reddit for example they kinda copied twitter and they added \"voice chat\", they also copied Instagram and they added \"discover\" they also copied discord and they added \"chatting rooms\" \n\nDiscord copied reddit and they added \"post\" where they can up vote I and ask questions, they also tried to become like you said twitter and they added \"rooms\" for pictures and now made this update\n\nList goes on and on"
+    },
+    {
+      "author": "billyhatcher312",
+      "body": "them making their version of the reddit post thing was by far the worst one it is terrible on desktop but works fine on phones it feels like they made it more for phones i wish they never added that stupid feature i prefer having channels or threads than using the so called forums nonsense which is a copy paste of reddit and the home feature was another stupid feature they added i just want to be on one specific channel i dont give a damn about the home feature i want to turn that crap off."
+    },
+    {
+      "author": "Ok-Preference-507",
+      "body": "Unfortunately you probably can't turn the features off, can I ask will you continue using discord even though they have but they also might continue with these updates like every social media does? \n\n(The copy paste one)\n\nSometimes I also don't like some updates"
+    }
+  ],
+  "30": [
+    {
+      "author": "DolphinGaming6",
+      "body": "For watching videos together, it is recommended that you create a server and use the built-in activities feature. After you're in the activities page, select \"Watch YouTube Together.\" Search for the video you'd like to watch, and watch it.\n\nMake sure both of you are in the voice channel (VC) and are both in the activity."
+    },
+    {
+      "author": "melomarshmelo7",
+      "body": "Thank you for the advice! Sadly the video is not on YouTube"
+    },
+    {
+      "author": "DolphinGaming6",
+      "body": "Alright. Discord users cross-platform are having issues with audio in streams. Either wait it out or use a microphone for stream audio.\nSorry about the inconvenience, I hope Discord fixes it soon."
+    },
+    {
+      "author": "melomarshmelo7",
+      "body": "Thank you either way for your time \ud83d\udc95 \n\nI think it was the legacy button, my wife played with it and now it works again but it was always on before so it is just weird..."
+    },
+    {
+      "author": "DolphinGaming6",
+      "body": "Yeah; no problem. Try messing around with this \"Legacy\" option more to see if it works now. Client-side, it should be fixed."
+    }
+  ],
+  "31": [
+    {
+      "author": "Yeahman70_",
+      "body": "I know, they never will"
+    },
+    {
+      "author": "Spiritual_Bank_704",
+      "body": "https://discord.com/developers/docs/game-sdk/store#application-test-mode"
+    },
+    {
+      "author": "Spiritual_Bank_704",
+      "body": "This is debug options only"
+    },
+    {
+      "author": "Spiritual_Bank_704",
+      "body": "You should now see an orange bar across the top of your screen; this means it worked! The dropdown in the orange bar will show you all the available SKUs for that application; you can select one of them to go to its store page. You can also view your Library and see all the branches of your game automagically there waiting for you!\n\nIf for some reason the \"Install\" button is greyed out, please check the following:\n\nDo you have a LIVE_BUILD_ID on that branch for this SKU? Check with dispatch branch list <application_id>.\nDo you have a price tier set for this SKU? If not, pick one!\nOnce those two conditions are met, you should be good to go!"
+    },
+    {
+      "author": "Spiritual_Bank_704",
+      "body": "As far as my reading goes there is no fix"
+    },
+    {
+      "author": "Spiritual_Bank_704",
+      "body": "However opening an image with an image viewer program like \u201cpaint\u201d and or windows built in program to view images leaving this program window open and pressing the \u201cprint screen\u201d button then going to discord app message pane and using hot key: \u201cctrl + v\u201d then submitting the message. Is the only work around!"
+    }
+  ]
+}
